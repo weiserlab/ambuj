@@ -1,6 +1,6 @@
-title: Prof. Dr. Ambuj Varshney ( ambujv@nus.edu.sg )
-url: "https://ambuj.se"
-baseurl: "/researcher"
+title: Prof. Ambuj Varshney ( ambujv@nus.edu.sg )
+url: "https://weiserlab.github.io/ambuj.github.io/"
+baseurl: "/"
 
 markdown: kramdown
 

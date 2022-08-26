@@ -14,6 +14,6 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/"
  - name: "Teaching"
    link: "cs6204"

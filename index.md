@@ -34,6 +34,16 @@ Contact details:  [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg),  Phone: +65 - 8
 In the past decade, I have primarily focused on **wireless**, **networking**, and **embedded systems** and their intersection with other domains. My research work often involves combining aspects of electronics, communications and computer science.  
 
 ### Get to know more about my research (2019 ABB Research Award Video): 
+<div class="analytis">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-83574323-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-83574323-1');
+</script>
+</div>
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hRp3xAtnIuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -17,6 +17,11 @@ I am located at the new [computer science building (COM3)](https://com3.comp.nus
 Contact details:  [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg),  Phone: +65 - 86706948  
 
 
+## Research Interest
+
+In the past decade, I have primarily focused on **wireless**, **networking**, and **embedded systems** and their intersection with other domains. My research work often involves combining aspects of electronics, communications and computer science. 
+
+
 ## Recent News
 * [Q2 2022] Organisational role and committee member for various scientific events: Jury member 2022 ABB Research Award, ACM MobiCom 2023 (Web chair), IEEE Infocom 2023 (TPC member), IEEE Infocom 2022 (Session chair), CPS-IoTBench 2022 (Session chair), ACM LP-IoT 2022 (with Mobicom)(TPC Member), [Perfail 2023 (TPC Member)](https://perfail-workshop.github.io/2023/)
 * [Q1 2022] Joint work with Wenqing Yan (Uppsala University) and Prof. Prabal Dutta (University of California, Berkeley) was accepted/presented at ACM MobiSys 2022.  
@@ -28,10 +33,7 @@ Contact details:  [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg),  Phone: +65 - 8
 * [Q4 2019] Uppsala University Innovation appreciated our battery-free sensing work with Attractive Innovation Award and selected it among Top 15 projects from the University! Find the press release here  
 * [Q4 2019] For my doctoral dissertation work, I received the prestigious ABB Research Award 2019. The award includes endowment  valued at 300,000 USD.  
 
-
-## Research Interest
-
-In the past decade, I have primarily focused on **wireless**, **networking**, and **embedded systems** and their intersection with other domains. My research work often involves combining aspects of electronics, communications and computer science.  
+ 
 
 ### Get to know more about my research (2019 ABB Research Award Video): 
 <div class="analytis">

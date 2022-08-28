@@ -32,7 +32,7 @@ Over the past decade, My research interests have centered around **wireless**, *
 * [Q4 2019] Uppsala University Innovation appreciated our battery-free sensing work with Attractive Innovation Award and selected it among Top 15 projects from the University! Find the [press release here](https://www.uuinnovation.uu.se/about/attractive-innovation-project-awards-2019/) 
 * [Q4 2019] For my doctoral dissertation work, I received the prestigious ABB Research Award 2019. The award includes endowment  valued at 300,000 USD. I received this award from CEO of ABB - Peter Voser, and CTO of ABB Bazmi Husain, and the former chair of board of directors of ABB - Hubertus von Grünberg.  
 
-### Get to know more about some of my research (2019 ABB Research Award Video): 
+### Get to know about some of my research (2019 ABB Research Award Video): 
 <div class="analytis">
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-83574323-1"></script>
 <script>

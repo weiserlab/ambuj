@@ -53,7 +53,12 @@ Over the past decade, My research interests have centered around **wireless**, *
 
 > “Applications are of course the whole point of ubiquitous computing” - Mark Weiser 
 
-I am an engineer and an experimental computer scientist. My research is application driven.  
+I am an engineer and an experimental computer scientist. Most of my research projects are application driven. They can be broadly classfied under one of the following research themes. 
+
+* **Bridging digital world with physical world:**  
+
+* **Factories of the future:**  
+
 
 ## Projects
 

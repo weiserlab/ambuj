@@ -8,18 +8,17 @@ layout: default
 
 I am an Assistant Professor at the School of Computing of the [National University of Singapore](http://nus.edu.sg). I am bootstrapping WEISER group.
 
-WEISER group consists of a curiosity driven group of students, engineers and researchers interested in **W**ireless, **E**mbedded systems and **I**ntelligence, **S**ensing and **E**me**r**ging Technologies (WEISER). We build real systems. We often work at the intersection of the area of electronics, communication and computer science.
+WEISER group consists of a curiosity driven group of students, engineers and researchers interested in **W**ireless, **E**mbedded systems and **I**ntelligence, **S**ensing and **E**me**r**ging Technologies (WEISER). We build real systems. We commonly work at the intersection of the area of electronics, communication and computer science.
 
 ### Contact details
 
-I am located at the new [computer science building (COM3)](https://com3.comp.nus.edu.sg/). My office address is: #02-25, Computing 3, School of Computing, 11 Research Link, Singapore 119391. For scheduling and other general queries, you can also email the personal assistant:  [Joy](mailto:joy@nus.edu.sg)  
+I am located at the new [computer science building Computing 3(COM3)](https://com3.comp.nus.edu.sg/). My office address is: #02-25, Computing 3, School of Computing, 11 Research Link, Singapore 119391. For scheduling and other general queries, you may email my personal assistant:  [Joy](mailto:joy@nus.edu.sg)  
 
 Contact details:  [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg),  Phone: +65 - 86706948  
 
-
 ## Research Interest
 
-Over the past decade, I have focused on **wireless**, **networking**, and **embedded systems** and their intersection with other domains. My research involves combining aspects of electronics, communications and computer science. 
+Over the past decade, My research interests have centered around **wireless**, **networking**, and **embedded systems**, and the intersection of these areas with other domains. Often my research efforts involves combining elements from electronics, communications and computer science.  My research effort also often involves working with domain expterts and researchers from Industry.  
 
 
 ## Recent News
@@ -29,13 +28,11 @@ Over the past decade, I have focused on **wireless**, **networking**, and **embe
 * [Q1 2022] Invited talk at [ACM LP-IoT Workshop (co-located with MobiCom)](https://www.witechlab.com/lpiot2021/#)  
 * [Q1 2022] Started as an Assistant Professor at School of Computing of the National University of Singapore. Bootstrapping the WEISER research group.  
 * [Q4 2021] Presented joint work with IMDEA Networks, Spain  at ACM MobiCom 2021. This research work was also covered in popular media.  
-* [Q3 2021] Became a UC Berkeley Form+Fund Fellow (Spring 2021 cohort)  
-* [Q4 2019] Uppsala University Innovation appreciated our battery-free sensing work with Attractive Innovation Award and selected it among Top 15 projects from the University! Find the press release here  
-* [Q4 2019] For my doctoral dissertation work, I received the prestigious ABB Research Award 2019. The award includes endowment  valued at 300,000 USD.  
+* [Q3 2021] Became a UC Berkeley [Form+Fund Fellow (Spring 2021 cohort)](https://www.law.berkeley.edu/experiential/startupberkeleylaw/entrepreneurs/form-fund/) 
+* [Q4 2019] Uppsala University Innovation appreciated our battery-free sensing work with Attractive Innovation Award and selected it among Top 15 projects from the University! Find the [press release here](https://www.uuinnovation.uu.se/about/attractive-innovation-project-awards-2019/) 
+* [Q4 2019] For my doctoral dissertation work, I received the prestigious ABB Research Award 2019. The award includes endowment  valued at 300,000 USD. I received this award from CEO of ABB - Peter Voser, and CTO of ABB Bazmi Husain, and the former chair of board of directors of ABB - Hubertus von Grünberg.  
 
- 
-
-### Get to know more about my research (2019 ABB Research Award Video): 
+### Get to know more about some of my research (2019 ABB Research Award Video): 
 <div class="analytis">
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-83574323-1"></script>
 <script>
@@ -55,8 +52,6 @@ Over the past decade, I have focused on **wireless**, **networking**, and **embe
 ## Research Themes
 
 > “Applications are of course the whole point of ubiquitous computing” - Mark Weiser 
-
-> “In the future, increasing proportion of computer science research will be application-driven” - Eric Brewer and Mike Franklin [CS262A]  
 
 I am an engineer and an experimental computer scientist. My research is application driven.  
 

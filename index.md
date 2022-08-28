@@ -59,9 +59,13 @@ I am an engineer and an experimental computer scientist. Most of my research pro
 
 * **Factories of the future:**  
 
-
 ## Projects
 
+* **Wireless Transmitters:**    
+
+* **Low-power Sensing:**  
+
+* **Visible Light Communication (LiFI):**  
 
 ## Teaching and Mentorship
 

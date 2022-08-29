@@ -18,7 +18,7 @@ Contact details:  [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg),  Phone: +65 - 8
 
 ## Research Interest
 
-Over the past decade; my research interests have centered around **wireless**, **networking**, and **embedded systems**, and the intersection of these areas with other domains. Often it involves combining elements from electronics, communications and computer science.  I also often work together with domain experts and colleagues from industry.ß  
+Over the past decade; my research interests have centered around **wireless**, **networking**, and **embedded systems**, and the intersection of these areas with other domains. Often it involves combining elements from electronics, communications and computer science. 
 
 
 ## Recent News

@@ -18,7 +18,10 @@ Contact details:  [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg),  Phone: +65 - 8
 
 ## Research Interest
 
-Over the past decade; my research interests have centered around **wireless**, **networking**, and **embedded systems**, and the intersection of these areas with other domains. Often it involves combining elements from electronics, communications and computer science. 
+Over the past decade; my research interests have centered around **wireless**, **networking**, and **embedded systems**, and the intersection of these areas with other domains. Often it involves combining elements from electronics, communications and computer science. My research is application driven, and often involves working together with domain experts and experts from industry.  
+
+> “Applications are of course the whole point of ubiquitous computing” - Mark Weiser 
+
 
 ## Recent News
 * [Q2 2022] Organisational role and committee member for various scientific events: Jury member 2022 ABB Research Award, ACM MobiCom 2023 (Web chair), IEEE Infocom 2023 (TPC member), IEEE Infocom 2022 (Session chair), CPS-IoTBench 2022 (Session chair), ACM LP-IoT 2022 (with Mobicom)(TPC Member), [Perfail 2023 (TPC Member)](https://perfail-workshop.github.io/2023/)
@@ -49,8 +52,6 @@ Over the past decade; my research interests have centered around **wireless**, *
 
           
 ## Research Themes
-
-> “Applications are of course the whole point of ubiquitous computing” - Mark Weiser 
 
 I am an engineer and an experimental computer scientist. Most of my research projects are application driven. They can be broadly classfied under one of the following research themes. 
 

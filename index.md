@@ -18,7 +18,7 @@ Contact details:  [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg),  Phone: +65 - 8
 
 ## Research Interest
 
-Over the past decade; my research interests have centered around **wireless**, **networking**, and **embedded systems**, and the intersection of these areas with other domains. Often it involves combining elements from electronics, communications and computer science. My research is application driven, and often involves working together with domain experts and experts from industry.  
+Over the past decade; my research interests has centered around **wireless**, **networking**, and **embedded systems**, and the intersection of these areas with other domains. It involves combining elements from electronics, communications and computer science. My research is application driven, and often involves collaborating with domain experts and experts from industry.  
 
 > “Applications are of course the whole point of ubiquitous computing” - Mark Weiser 
 

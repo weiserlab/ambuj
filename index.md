@@ -20,12 +20,12 @@ Contact details:  [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg),  Phone: +65 - 8
 > “Applications are of course the whole point of ubiquitous computing” - Mark Weiser 
 
 > “In the future, increasing proportion of computer science research will be application-driven”
-Eric Brewer and Mike Franklin [CS262A]  
+[Eric Brewer](https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)) and [Mike Franklin](https://en.wikipedia.org/wiki/Michael_J._Franklin)    
 
 Over the past decade; my research interests has centered around **wireless**, **networking**, and **embedded systems**, and the intersection of these areas with other domains. It involves combining elements from electronics, communications and computer science.  
   
 My research is application driven, and often involves collaborating with domain experts and experts from industry. As an example, some of our research projects are being done in collaboration, and funded by industry.  
-  
+
 
 
 

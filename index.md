@@ -18,12 +18,13 @@ Contact details:  [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg),  Phone: +65 - 8
 
 ## Research Interest
 
-Over the past decade; my research interests has centered around **wireless**, **networking**, and **embedded systems**, and the intersection of these areas with other domains. It involves combining elements from electronics, communications and computer science. My research is application driven, and often involves collaborating with domain experts and experts from industry.  
+Over the past decade; my research interests has centered around **wireless**, **networking**, and **embedded systems**, and the intersection of these areas with other domains. It involves combining elements from electronics, communications and computer science. My research is application driven, and often involves collaborating with domain experts and experts from industry. As an example, some of our research projects are being done together with colleagues from industry.  
 
 > “Applications are of course the whole point of ubiquitous computing” - Mark Weiser 
 
 > “In the future, increasing proportion of computer science research will be application-driven”
 Eric Brewer and Mike Franklin [CS262A]  
+
 
 ## Recent News
 * [Q2 2022] Organisational role and committee member for various scientific events: Jury member 2022 ABB Research Award, ACM MobiCom 2023 (Web chair), IEEE Infocom 2023 (TPC member), IEEE Infocom 2022 (Session chair), CPS-IoTBench 2022 (Session chair), ACM LP-IoT 2022 (with Mobicom)(TPC Member), [Perfail 2023 (TPC Member)](https://perfail-workshop.github.io/2023/)

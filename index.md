@@ -17,13 +17,14 @@ I am located at the new [computer science building Computing 3(COM3)](https://co
 Contact details:  [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg),  Phone: +65 - 86706948  
 
 ## Research Interest
-
-Over the past decade; my research interests has centered around **wireless**, **networking**, and **embedded systems**, and the intersection of these areas with other domains. It involves combining elements from electronics, communications and computer science. My research is application driven, and often involves collaborating with domain experts and experts from industry. As an example, some of our research projects are being done in collaboration, and funded by industry.  
-
 > “Applications are of course the whole point of ubiquitous computing” - Mark Weiser 
 
 > “In the future, increasing proportion of computer science research will be application-driven”
 Eric Brewer and Mike Franklin [CS262A]  
+
+Over the past decade; my research interests has centered around **wireless**, **networking**, and **embedded systems**, and the intersection of these areas with other domains. It involves combining elements from electronics, communications and computer science. My research is application driven, and often involves collaborating with domain experts and experts from industry. As an example, some of our research projects are being done in collaboration, and funded by industry.  
+
+
 
 
 ## Recent News

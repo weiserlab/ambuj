@@ -15,5 +15,7 @@ sass:
 nav:
  - name: "About"
    link: "index"
+-  name: "Background"
+   link: "index"
  - name: "Teaching"
    link: "cs6204"

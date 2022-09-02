@@ -60,9 +60,13 @@ Before I became an academic, I was a software engineer at [NXP Semiconductors](h
 
 * **Bridging digital world with physical world:**  
 
-* **Large scale data collection and analysis:**  
+* **Data collection (and analysis) from the physical world**    
 
-### Applications  
+### Applications 
+
+* **Factories of the future:**  
+
+* **Climate change:**   
 
 ## Projects
 

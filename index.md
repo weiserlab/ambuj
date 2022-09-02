@@ -24,7 +24,7 @@ Contact details:  [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg),  Phone: +65 - 8
 
 Over the past decade; my research interests has centered around **wireless**, **networking**, and **embedded systems**, and their intersection with other domains. In my research, I combine elements from electronics, communications, and computer science.  
 
-Often, my research involves collaborations with industrial and domain experts. A number of our research projects are done in collaboration with industry and are funded by them.  
+Often, my research involves collaborations with industrial and domain experts. A number of our projects are done in collaboration with industry and are funded by them.  
 
 ## Recent News
 * [Q2 2022] Organisational role and committee member for various scientific events: Jury member 2022 ABB Research Award, ACM MobiCom 2023 (Web chair), IEEE Infocom 2023 (TPC member), IEEE Infocom 2022 (Session chair), CPS-IoTBench 2022 (Session chair), ACM LP-IoT 2022 (with Mobicom)(TPC Member), [Perfail 2023 (TPC Member)](https://perfail-workshop.github.io/2023/)
@@ -56,7 +56,7 @@ Often, my research involves collaborations with industrial and domain experts. A
           
 ## Research Themes
 
-I am an engineer and an experimental computer scientist. The majority of the projects I work on are application-driven. Generally, they fall under one of these themes.  
+Before I became an academic, I was a software engineer working at [NXP Semiconductors](http://nxp.com). I am an engineer and an experimental computer scientist.  The majority of the projects I work on are application-driven. Generally, they fall under one of these themes.  
 
 * **Bridging digital world with physical world:**  
 

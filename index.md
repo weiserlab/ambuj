@@ -56,7 +56,7 @@ Often, my research involves collaborations with industrial and domain experts. A
           
 ## Research Themes
 
-I am an engineer and an experimental computer scientist. The majority of the projects I work on are application-driven. Generally, these projects fall under one of these themes.  
+I am an engineer and an experimental computer scientist. The majority of the projects I work on are application-driven. Generally, they fall under one of these themes.  
 
 * **Bridging digital world with physical world:**  
 

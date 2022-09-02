@@ -70,6 +70,8 @@ Before I became an academic, I was a software engineer at [NXP Semiconductors](h
 
 ## Individual Projects  
 
+* **Sticker form-factor computers**  
+
 * **Wireless Transmitters:**    
 
 * **Low-power Sensing:**  

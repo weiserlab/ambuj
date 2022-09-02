@@ -56,7 +56,7 @@ Often, my research involves collaborations with industrial and domain experts. A
           
 ## Research Themes
 
-Before I became an academic, I was a software engineer working at [NXP Semiconductors](http://nxp.com). I am an engineer and an experimental computer scientist.  The majority of the projects I work on are application-driven. Generally, they fall under one of these themes.  
+Before I became an academic, I was a software engineer working at [NXP Semiconductors](http://nxp.com). Thus, I am an engineer and an experimental computer scientist.  The majority of the projects I work on are application-driven. Generally, they fall under one of these themes.  
 
 * **Bridging digital world with physical world:**  
 

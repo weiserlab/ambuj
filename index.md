@@ -17,7 +17,7 @@ I am located at the new [computer science building Computing 3(COM3)](https://co
 Contact details:  [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg),  Phone: +65 - 86706948  
 
 ## Research Interest
-> “Applications are of course the whole point of ubiquitous computing” - Mark Weiser 
+> “Applications are of course the whole point of ubiquitous computing” - [Mark Weiser](https://en.wikipedia.org/wiki/Mark_Weiser)  
 
 > “In the future, increasing proportion of computer science research will be application-driven” -
 [Eric Brewer](https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)) and [Mike Franklin](https://en.wikipedia.org/wiki/Michael_J._Franklin)    

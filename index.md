@@ -24,7 +24,7 @@ Contact details:  [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg),  Phone: +65 - 8
 
 > “Your willingness to fail is what will let you succeed.” - [Vinod Khosla, Founder, Sun Microsystems](https://en.wikipedia.org/wiki/Vinod_Khosla)     
 
-Our research centers around **wireless**, **networking**, and **embedded systems**, and their intersection with other domains. In our research, we combine elements from electronics, communications, and computer science.  We are not into "bean-counting", we work on meaningful problems with complex engineering component, and potential for real-world impact.    
+We are interested in **wireless**, **networking**, and **embedded systems**, and their intersection with other domains. In our research, we combine elements from electronics, communications, and computer science.  We are not into "bean-counting", we work on meaningful problems with complex engineering component, and potential for real-world impact.    
 
 Often, our projects involves collaborations with domain experts. A number of our projects are done in collaboration with leading companies in the area.   
 

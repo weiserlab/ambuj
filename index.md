@@ -62,15 +62,7 @@ Before I became an academic, I was a software engineer at [NXP Semiconductors](h
 
 * **Data collection (and analysis) from the physical world**    
 
-## Projects  
 
-* **Sticker form-factor computers**  
-
-* **Wireless Transmitters:**    
-
-* **Low-power Sensing:**  
-
-* **Visible Light Communication (LiFI):**  
 
 ## Teaching and Mentorship
 

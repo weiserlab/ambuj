@@ -27,7 +27,7 @@ Contact details:  [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg),  Phone: +65 - 8
 
 We are interested in **wireless**, **networking**, and **embedded systems**, and their intersection with other domains.  We often combine elements from electronics, communications, and computer science.  As a group, we are not into "bean-counting". We work on meaningful problems with complex engineering component, and potential for real-world impact.    
 
-Often, our projects involves collaborations with domain experts. A number of our projects are done in collaboration with leading companies in the area.   
+Often, our projects involves collaborations with domain experts. A number of our projects are done in collaboration with leading companies in the area (ABB, NCS).   
 
 ## Recent News
 * [Q2 2022] Organisational role and committee member for various scientific events: Jury member 2022 ABB Research Award, ACM MobiCom 2023 (Web chair), IEEE Infocom 2023 (TPC member), IEEE Infocom 2022 (Session chair), CPS-IoTBench 2022 (Session chair), ACM LP-IoT 2022 (with Mobicom)(TPC Member), [Perfail 2023 (TPC Member)](https://perfail-workshop.github.io/2023/)

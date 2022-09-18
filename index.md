@@ -6,13 +6,14 @@ layout: default
 
 <img class="profile-picture" src="http://ambuj.se/ambuj_files/photo3.jpg">
 
-I am an Assistant Professor at the School of Computing of the [National University of Singapore](http://nus.edu.sg). I am bootstrapping WEISER group.
+I am an Assistant Professor at the [National University of Singapore](http://nus.edu.sg). 
 
-WEISER group consists of a curiosity driven group of students, engineers and researchers interested in **W**ireless, **E**mbedded systems and **I**ntelligence, **S**ensing and **E**me**r**ging Technologies (WEISER). We build real systems. We commonly work at the intersection of the area of electronics, communication and computer science.
+
+I am bootstrapping WEISER group. WEISER group consists of a curiosity driven group of students, engineers and researchers interested in **W**ireless, **E**mbedded systems and **I**ntelligence, **S**ensing and **E**me**r**ging Technologies (WEISER). We build real systems. We commonly work at the intersection of the area of electronics, communication and computer science.
 
 ### Contact details
 
-I am located at the new [computer science building Computing 3(COM3)](https://com3.comp.nus.edu.sg/). My office address is: #02-25, Computing 3, School of Computing, 11 Research Link, Singapore 119391. For scheduling and other general queries, you may email my personal assistant:  [Joy](mailto:joy@nus.edu.sg)  
+I am faculty member at the school of computing, and I am located at the new [computer science building Computing 3(COM3)](https://com3.comp.nus.edu.sg/). My office address is: #02-25, Computing 3, School of Computing, 11 Research Link, Singapore 119391. For scheduling and other general queries, you may email my personal assistant:  [Joy](mailto:joy@nus.edu.sg)  
 
 Contact details:  [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg),  Phone: +65 - 86706948  
 

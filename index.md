@@ -23,7 +23,7 @@ Contact details:  [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg),  Phone: +65 - 8
 
 ## Biography
 
-Ambuj Varshney is an Assistant Professor at the School of Computing of the National University of Singapore. Previously, he was a postdoctoral scholar at the [Department of EECS](https://eecs.berkeley.edu/) of the [University of California, Berkeley](https://www.berkeley.edu/).  Even before, he completed his doctoral dissertation from Uppsala University, Sweden, and was a software engineer at NXP Semiconductors.  
+Ambuj Varshney is an Assistant Professor at the  National University of Singapore. Previously, he was a postdoctoral scholar at the [Department of EECS](https://eecs.berkeley.edu/) of the [University of California, Berkeley](https://www.berkeley.edu/). Even before, he completed his doctoral studies at Uppsala University, and was a software engineer at NXP Semiconductors.  
 
 His research interests over the past decade have been focused on embedded systems, wireless and mobile computing. Notably, he has designed embedded systems that tackle the energy asymmetry between different components of the embedded platforms. In particular, through the design of novel low-power wireless transmitters that could achieve hundreds of meters of range at tens of microwatts of power consumption.  His research has led to awards, accolades and research grants; most notably, his doctoral dissertation was awarded the [2019 ABB Research Award in Honour of Hubertus von Gruenberg](https://new.abb.com/hvg-award/winner-announcement-2019). Several of his students have also received significant accolades, including winning the ACM Student Research Competition at ACM MobiCom 2017.
 

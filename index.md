@@ -11,9 +11,7 @@ I am an Assistant Professor at the [National University of Singapore](http://nus
 
 I am bootstrapping WEISER group, consisting of  curiosity driven group of students, engineers and researchers interested in **W**ireless, **E**mbedded systems and **I**ntelligence, **S**ensing and **E**me**r**ging Technologies (WEISER). We build real systems, and we commonly work at the intersection of the area of electronics, communication and computer science.
 
-### Biography
 
-Ambuj Varshney is an Assistant Professor at the School of Computing of the National University of Singapore. Previously, he was a postdoctoral scholar at the Department of Electrical Engineering and Computer Sciences of the University of California, Berkeley. His research interests over the past decade have been focused on embedded systems, wireless and mobile computing. Over the past several years, he has designed embedded systems that tackle the energy asymmetry between different components of the embedded platforms. His research has led to awards, accolades and research grants; most notably, his doctoral dissertation was awarded the 2019 ABB Research Award in Honour of Hubertus von Gruenberg.
 
 ### Contact Details
 
@@ -22,6 +20,10 @@ I am faculty member at the school of computing, and I am located at the new [com
 For scheduling and other general queries, you may email my personal assistant:  [Joy](mailto:joy@nus.edu.sg)  
 
 Contact details:  [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg),  Phone: +65 - 86706948  
+
+## Biography
+
+Ambuj Varshney is an Assistant Professor at the School of Computing of the National University of Singapore. Previously, he was a postdoctoral scholar at the Department of Electrical Engineering and Computer Sciences of the University of California, Berkeley. His research interests over the past decade have been focused on embedded systems, wireless and mobile computing. Over the past several years, he has designed embedded systems that tackle the energy asymmetry between different components of the embedded platforms. His research has led to awards, accolades and research grants; most notably, his doctoral dissertation was awarded the 2019 ABB Research Award in Honour of Hubertus von Gruenberg.
 
 ## Research Interest
 > “Applications are of course the whole point of ubiquitous computing” - [Mark Weiser](https://en.wikipedia.org/wiki/Mark_Weiser)  

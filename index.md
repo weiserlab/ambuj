@@ -93,7 +93,7 @@ Collaborated with the following students:
 * [Wenqing Yan (Uppsala University)](https://wenqingyan.github.io/)**(Ongoing)**
 * [Ander Galisteo (UC3M/IMDEA Networks)](https://andergalisteo.com/) → DoJo Five
 * Bo Wei (Unniversity of New South Wales) → Lancaster University (Lecturer)
-* [Muhammad Sarmad (IMDEA Networks)(Visiting scholar at National University of Singapore)](https://networks.imdea.org/team/imdea-networks-team/people/muhammad-sarmad-shahab-mir/)**(Ongoing)**
+* [Muhammad Sarmad (IMDEA Networks)(Visiting scholar at NUS)](https://networks.imdea.org/team/imdea-networks-team/people/muhammad-sarmad-shahab-mir/)**(Ongoing)**
 
 ## Academic Service
 

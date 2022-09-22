@@ -146,7 +146,7 @@ The Twenty Eight Annual International Conference On Mobile Computing And Network
 1. [Making Low-power and Long-range Wireless Backscatter Transmitters](https://dl.acm.org/doi/abs/10.1145/3551670.3551672)  
 Author: *Ambuj Varshney*  
 ACM GetMobile: Mobile Computing and Communications (Maker Edition) 2022  
-(Was featured in the editoral written by [Landon Cox (Microsoft Research)](microsoft.com/en-us/research/people/lacox/))  
+(Was featured in an editoral written by [Landon Cox (Microsoft Research)](microsoft.com/en-us/research/people/lacox/))  
 [Read the editorial here](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3551670)   
 
 2. [Judo: Addressing the Energy Asymmetry of Wireless Embedded Systems through Tunnel Diode based Wireless Transmitters](https://dl.acm.org/doi/abs/10.1145/3498361.3538923)  

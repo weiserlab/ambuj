@@ -174,11 +174,14 @@ Ambuj Varshney (Only inventor)
 1. [TunnelEmitter:Tunnel Diode based Low-Power Carrier Emitters for Backscatter Tags](https://dl.acm.org/doi/10.1145/3372224.3419199)  
 Authors: *Ambuj Varshney*, Lorenzo Corneo  
 The Twenty Sixth Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2020)  
+* <span style="color:blue"> Teaser video: [Youtube](https://www.youtube.com/watch?v=g9AKZVq3Axc)</span>
+* <span style="color:blue"> Presentation video: [Youtube](https://www.youtube.com/watch?v=vKtamhv4eOY)</span>
 
 2. [Two to Tango: Hybrid Light and Backscatter Networks for Next Billion Devices](https://dl.acm.org/doi/10.1145/3386901.3388918)   
 Authors: Ambuj Varshney, [Ander Galiesto](https://andergalisteo.com/), Domenico Giustiniano    
 Co-primary author that contributed equally to the work      
-The Eighteenth ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2020)      
+The Eighteenth ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2020) 
+* <span style="color:blue"> Presentation video: [Youtube](https://www.youtube.com/watch?v=yfEFFDEHNqk)</span>    
 
 ### Year 2019
 

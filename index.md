@@ -153,7 +153,7 @@ ACM GetMobile: Mobile Computing and Communications (Maker Edition) 2022
 Authors: *Ambuj Varshney* , [Wenqing Yan](https://wenqingyan.github.io/), [Prabal Dutta](https://web.eecs.umich.edu/~prabal/)   
 The Twentieth ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2022)      
 * <span style="color:blue"> Teaser video: [Youtube](https://www.youtube.com/watch?v=X1H6UIdfKWQ)</span>
-* <span style="color:blue"> Conference presentation video: [Youtube](https://www.youtube.com/watch?v=q22O8X2AEbA&t=627s)</span>
+* <span style="color:blue"> Presentation video: [Youtube](https://www.youtube.com/watch?v=q22O8X2AEbA&t=627s)</span>
 
 3. [PassiveLiFi: Rethinking LiFi for Low-Power and Long Range RF Backscatter](https://dl.acm.org/doi/10.1145/3447993.3483262)
 Authors: Muhammad Sarmad, Borja Genoves, *Ambuj Varshney*, [Domenico Giustiniano](https://networks.imdea.org/team/imdea-networks-team/people/domenico-giustiniano/)

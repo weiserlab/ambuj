@@ -38,7 +38,7 @@ We are interested in **wireless**, **networking**, and **embedded systems**, and
 Often, our projects involves collaborations with domain experts. A number of our projects are done in collaboration with some of the biggest and leading companies in the area (ABB, NCS).   
 
 ## Recent News
-* [Q2,Q3 2022] Organisational role and committee member for various scientific events: Jury member 2022 ABB Research Award in Honour of Hubertus von Gruenberg,  IEEE Infocom 2023 (TPC member), IEEE Infocom 2022 (Session chair), ACM CPS-IoTBench 2022 (Session chair) (Co-located with CPSWeek), ACM LP-IoT 2022 (with Mobicom)(TPC Member), [EmergingWireless 2022 (TPC Member)](), [Perfail 2023 (TPC Member)](https://perfail-workshop.github.io/2023/), [ACM MobiCom 2023 (Web Chair](), [ACM/IEEE IoTDI 2023 (TPC Member)](), [IEEE DCOSS-IoT 2023 (TPC Member)]()  
+* [Q2,Q3 2022] Organisational role and committee member for various scientific events: Jury member 2022 ABB Research Award in Honour of Hubertus von Gruenberg,  IEEE Infocom 2023 (TPC member), IEEE Infocom 2022 (Session chair), ACM CPS-IoTBench 2022 (Session chair) (Co-located with CPSWeek), ACM LP-IoT 2022 (with Mobicom)(TPC Member), [EmergingWireless 2022 (TPC Member)](), [Perfail 2023 (TPC Member)](https://perfail-workshop.github.io/2023/), [ACM MobiCom 2023 (Web Chair)](), [ACM/IEEE IoTDI 2023 (TPC Member)](), [IEEE DCOSS-IoT 2023 (TPC Member)]()  
 * [Q1 2022] Joint work with Wenqing Yan (Uppsala University) and Prof. Prabal Dutta (University of California, Berkeley) was accepted/presented at ACM MobiSys 2022.  
 * [Q1 2022] Served on the jury of the [ABB Research Award in Honor of Hubertus von Grünberg](https://global.abb/group/en/technology/hvg-award) in 2022. This awards research endowment (approximately 300k USD) is the highest offered by any commercial organization to support academic research.  
 * [Q1 2022] Invited talk at [ACM LP-IoT Workshop (co-located with MobiCom)](https://www.witechlab.com/lpiot2021/#)  
@@ -158,7 +158,7 @@ The Twentieth ACM International Conference on Mobile Systems, Applications, and 
 Authors: Muhammad Sarmad, Borja Genoves, *Ambuj Varshney*, [Domenico Giustiniano](https://networks.imdea.org/team/imdea-networks-team/people/domenico-giustiniano/)
 The Twenty Seventh Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2021/2022)  
 (Due to the pandemic, conference was held in 2022)  
-* Research was covered by popular media: Hackster, El Mundo (Largest newspaper in Spain), Stacey on IoT, TechXplore, AzoSensors, ElectronicsForu  
+* Research was covered by popular media: [Hackster](https://www.hackster.io/news/iot-devices-will-no-longer-need-to-rely-on-batteries-to-operate-ef02b6ed3b08), [El Mundo (Largest newspaper in Spain)](https://www.elmundo.es/madrid/2022/01/19/61e460d1fdddfff07b8b45a5.html), [Stacey on IoT](https://staceyoniot.com/can-passivelifi-make-batteries-for-iot-obsolete/), [TechXplore](), [AzoSensors](https://www.azosensors.com/news.aspx?newsID=14796), [ElectronicsForu]()  and many others
 * <span style="color:blue"> Teaser video: [Youtube](https://www.youtube.com/watch?v=rraZKUzcOMU) </span>
 
 ### Year 2021

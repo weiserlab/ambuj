@@ -174,7 +174,7 @@ Ambuj Varshney (Only inventor)
 
 ### Year 2020
 
-1. [TunnelEmitter:Tunnel Diode based Low-Power Carrier Emitters for Backscatter Tags](https://dl.acm.org/doi/10.1145/3372224.3419199) 
+1. [TunnelEmitter:Tunnel Diode based Low-Power Carrier Emitters for Backscatter Tags](https://dl.acm.org/doi/10.1145/3372224.3419199)  
 Authors: *Ambuj Varshney*, Lorenzo Corneo  
 The Twenty Sixth Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2020)  
 

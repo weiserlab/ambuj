@@ -80,18 +80,18 @@ Before I became an academic, I was an engineer, and worked as a software enginee
 Mentored the following students (formally):
 
 * [Qiao Yukai (2022 -)]() **(Ongoing)** [MComp student/Masters thesis, National University of Singapore]  
-* [Andreas Soleiman (2016-2019)](http://ansol.se/academic) [RA, Master thesis] → MIT EECS PhD (withdrew to stay in industry) → Senior Data Scientist, H&M Group, Stockholm  
+* [Andreas Soleiman (2016-2019)](http://ansol.se/academic) [RA, Master thesis] → MIT EECS PhD (withdrew to stay in industry) → Senior Data Scientist, H&M Group, Stockholm, Sweden
 * [Elena di Lascio (2015-2016)](https://www.inf.usi.ch/phd/dilascio/) [Master thesis] → USI PhD (completed) → Novartis Institutes for BioMedical Research (NIBR), Switzerland
 * [Oliver Harms (2016-2017)](https://www.chalmers.se/en/staff/Pages/harms.aspx)[Master thesis] → Chalmers PhD, Sweden
 * Gustav Eriksson (2018)[Masters Thesis] → Project Engineer
 * [Sam Hylamia (2017-2018)](https://katalog.uu.se/profile/?id=N15-1362)[Masters Thesis and Research Assistant] → Uppsala University PhD, Sweden
-* [Simon Olofsson (2015)](https://www.doc.ic.ac.uk/~so2015/)[Project assistant] → Imperial College London PhD → Facebook/Meta, UK
+* [Simon Olofsson (2015)](https://www.doc.ic.ac.uk/~so2015/)[Project assistant] → Imperial College London PhD → Facebook/Meta, London, UK
 
 Collaborated with the following students:
 
-* [Lorenzo Corneo (Uppsala University)](https://lorenzocorneo.github.io/) → Aalto University → Ericsson Research, Finland
+* [Lorenzo Corneo (Uppsala University)](https://lorenzocorneo.github.io/) → Aalto University → Ericsson Research, Helsinki, Finland
 * [Wenqing Yan (Uppsala University)](https://wenqingyan.github.io/)**(Ongoing)**
-* [Ander Galisteo (UC3M/IMDEA Networks)](https://andergalisteo.com/) → DoJo Five, Spain
+* [Ander Galisteo (UC3M/IMDEA Networks)](https://andergalisteo.com/) → DoJo Five, Madrid, Spain
 * Bo Wei (Unniversity of New South Wales) → Lancaster University (Lecturer), UK
 * [Muhammad Sarmad (IMDEA Networks)(Visiting scholar at NUS)](https://networks.imdea.org/team/imdea-networks-team/people/muhammad-sarmad-shahab-mir/)**(Ongoing)**
 

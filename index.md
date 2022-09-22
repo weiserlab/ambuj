@@ -109,7 +109,7 @@ Involved in the organizational role of the following events:
 
 * CPS-IoTBench 2022 (Part of 2022 CPS-IoT Week) (Organizing Committee and Session chair)  
 * ACM/IEEE IPSN 2019 (Posters, co-chair with [Prof. Nirupama Bulusu (Portaland State University)](http://web.cecs.pdx.edu/~nbulusu/))  
-* ACM/IEEE IPSN 2019 (PhD forum panelist with [Prof. Anthony Rowe (Carnegie Mellon University)](https://users.ece.cmu.edu/~agr/) and [Prof. Olga Saukh (TU Graz)](http://www.olgasaukh.com/))  
+* ACM/IEEE IPSN 2019 (PhD forum panelist with [Prof. Anthony Rowe (CMU)](https://users.ece.cmu.edu/~agr/) and [Prof. Olga Saukh (TU Graz)](http://www.olgasaukh.com/))  
 * IEEE SECON 2020 (Publicity chair)  
 * IEEE INFOCOM 2022: Session chair  
 * ACM MOBICOM 2023: Web Chair  

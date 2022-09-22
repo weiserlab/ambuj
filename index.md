@@ -23,7 +23,7 @@ Contact details:  [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg),  Phone: +65 - 8
 
 ## Biography
 
-Ambuj Varshney, a Swedish citizen <span style="color:blue"> &#127466; </span>, is an Assistant Professor at the  National University of Singapore. Previously, he was a postdoctoral scholar at the [Department of EECS](https://eecs.berkeley.edu/) of the [University of California, Berkeley](https://www.berkeley.edu/). He completed his doctoral studies at [Uppsala University, Sweden](https://www.uu.se/en), and was an engineer at [NXP Semiconductors](https://www.nxp.com/).  
+Ambuj Varshney, a Swedish citizen, is an Assistant Professor at the  National University of Singapore. Previously, he was a postdoctoral scholar at the [Department of EECS](https://eecs.berkeley.edu/) of the [University of California, Berkeley](https://www.berkeley.edu/). He completed his doctoral studies at [Uppsala University, Sweden](https://www.uu.se/en), and was an engineer at [NXP Semiconductors](https://www.nxp.com/).  
 
 Ambuj Varshney's research interests over the past decade has been centered around embedded systems, wireless and mobile computing. Notably, he tackled the problem of energy asymmetry among  components of the embedded systems; the most pressing problem hindering the widespread deployment of Internet of Things. Particularly, through the design of novel low-power wireless transmitters that achieves hundreds of meters of range at tens of microwatts of power consumption (100-1000X lower than commercial solutions).  His research has led to awards, accolades and research grants; most notably, his doctoral dissertation was awarded the [2019 ABB Research Award in Honour of Hubertus von Gruenberg](https://new.abb.com/hvg-award/winner-announcement-2019) (with an endowment of 300,000USD hosted at University of California, Berkeley, [received](https://resources.news.e.abb.com/images/2019/11/12/0/photo_award.jpg) from CEO of ABB and Honory Citizen of Singapore - [Peter Voser](https://en.wikipedia.org/wiki/Peter_Voser)). Several of his students have also received significant honours and accolades; including winning the ACM Student Research Competition at ACM MobiCom 2017 
 
@@ -146,7 +146,7 @@ The Twenty Eight Annual International Conference On Mobile Computing And Network
 1. [Making Low-power and Long-range Wireless Backscatter Transmitters](https://dl.acm.org/doi/abs/10.1145/3551670.3551672)  
 Author: *Ambuj Varshney*  
 ACM GetMobile: Mobile Computing and Communications (Maker Edition) 2022  
-(Was covered in the editoral [Landon Cox (Microsoft Research)](microsoft.com/en-us/research/people/lacox/))  
+(Was featured in the editoral written by [Landon Cox (Microsoft Research)](microsoft.com/en-us/research/people/lacox/))  
 [Read the editorial here](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3551670)   
 
 2. [Judo: Addressing the Energy Asymmetry of Wireless Embedded Systems through Tunnel Diode based Wireless Transmitters](https://dl.acm.org/doi/abs/10.1145/3498361.3538923)  

@@ -120,9 +120,9 @@ Involved in the organizational role of the following events:
 Part of the technical program committee (TPC) of the following scientific conferences:  
 
 * IEEE INFOCOM: 2020 (e), 2021, 2022, 2023  
-* IEEE DCOSS: 2021, 2022 (Main conference), 2022 (Posters and Demonstrations)  
+* IEEE DCOSS: 2021, 2022 (Main conference), 2022 (Posters and Demonstrations), 2023 (Main conference) 
 * IEEE ICDCS: 2019, 2021  
-* ACM/IEEE IoTDI: 2019, 2021 (Posters and demonstration)  
+* ACM/IEEE IoTDI: 2019, 2021 (Posters and demonstration), 2023 (Main conference)
 * ACM LP-IoT (MobiCom workshop): 2021, 2022  
 
 Involved in reviewing of articles for the following journals:  

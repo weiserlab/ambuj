@@ -188,6 +188,7 @@ The Eighteenth ACM International Conference on Mobile Systems, Applications, and
 1. [TunnelScatter: Low Power Communication for Sensor Tags using Tunnel Diodes](https://dl.acm.org/doi/10.1145/3300061.3345451)  
 Authors: *Ambuj Varshney*, [Andreas Soleiman](http://ansol.se/academic), Thiemo Voigt  
 The Twenty Fifth Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2019)  
+* <span style="color:blue"> Presentation video: [Youtube](https://www.youtube.com/watch?v=v2otAuiTdQY)</span>    
 
 ### Year 2018
 
@@ -245,6 +246,7 @@ ACM HotWireless (Co-located with ACM MobiCom) 2016
 1. [Directional Transmissions and Receptions for High-throughput Bulk Forwarding in Wireless Sensor Networks](https://dl.acm.org/doi/10.1145/2809695.2809720)   
 Authors: *Ambuj Varshney*, Luca Mottola, Mats Carlsson , Thiemo Voigt  
 Thirteenth ACM Conference on Embedded Networked Sensor Systems (ACM SENSYS 2015)  
+* <span style="color:blue"> Presentation video: [Youtube](https://www.youtube.com/watch?v=SIuvXrvWxAo)</span>    
 
 2. [dRTI: Directional Radio Tomographic Imaging](https://dl.acm.org/doi/10.1145/2737095.2737118)    
 Authors: Bo Wei , *Ambuj Varshney*, Wen Hu, Neal Patwari, Thiemo Voigt , Chun Tung Chou  

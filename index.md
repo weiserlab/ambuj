@@ -9,7 +9,7 @@ layout: default
 I am an Assistant Professor at the [National University of Singapore](http://nus.edu.sg). 
 
 
-I am bootstrapping WEISER group, consisting of  curiosity driven group of students, engineers and researchers interested in **W**ireless, **E**mbedded systems and **I**ntelligence, **S**ensing and **E**me**r**ging Technologies (WEISER). We build real systems, and we commonly work at the intersection of the area of electronics, communication and computer science.
+I am bootstrapping WEISER group, consisting of  curiosity driven group of students, engineers and researchers interested in **W**ireless, **E**mbedded systems and **I**ntelligence, **S**ensing and **E**me**r**ging Technologies (WEISER). We build real systems, and we commonly work at the intersection of the area of electronics, communication and computer science.   
 
 ![Weiser-logo](weiserlogo1.png) 
 
@@ -35,10 +35,11 @@ Ambuj Varshney's research interests over the past decade has been centered aroun
 
 We are interested in **wireless**, **networking**, and **embedded systems**, and their intersection with other domains. As a group, we are not into "bean-counting". We work on meaningful problems with complex engineering component, and potential for real-world impact.    
 
-Often, our projects involves collaborations with domain experts. A number of our projects are done in collaboration with leading companies in the area (ABB, NCS).   
+Often, our projects involves collaborations with domain experts. A number of our projects are done in collaboration with some of the biggest and leading companies in the area (ABB, NCS).   
 
 ## Recent News
-* [Q2 2022] Organisational role and committee member for various scientific events: Jury member 2022 ABB Research Award, ACM MobiCom 2023 (Web chair), IEEE Infocom 2023 (TPC member), IEEE Infocom 2022 (Session chair), CPS-IoTBench 2022 (Session chair), ACM LP-IoT 2022 (with Mobicom)(TPC Member), [Perfail 2023 (TPC Member)](https://perfail-workshop.github.io/2023/)
+* [Q2 2022] Organisational role and committee member for various scientific events: Jury member 2022 ABB Research Award, ACM MobiCom 2023 (Web chair), IEEE Infocom 2023 (TPC member), IEEE Infocom 2022 (Session chair), CPS-IoTBench 2022 (Session chair), ACM LP-IoT 2022 (with Mobicom)(TPC Member), [Perfail 2023 (TPC Member)](https://perfail-workshop.github.io/2023/), [IoTDI 2023 (TPC Member)](), [DCOSS 2023 (TPC Member)]()  
+
 * [Q1 2022] Joint work with Wenqing Yan (Uppsala University) and Prof. Prabal Dutta (University of California, Berkeley) was accepted/presented at ACM MobiSys 2022.  
 * [Q1 2022] Served on the jury of the [ABB Research Award in Honor of Hubertus von Grünberg](https://global.abb/group/en/technology/hvg-award) in 2022. This awards research endowment (approximately 300k USD) is the highest offered by any commercial organization to support academic research.  
 * [Q1 2022] Invited talk at [ACM LP-IoT Workshop (co-located with MobiCom)](https://www.witechlab.com/lpiot2021/#)  

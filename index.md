@@ -146,13 +146,14 @@ The Twenty Eight Annual International Conference On Mobile Computing And Network
 1. [Making Low-power and Long-range Wireless Backscatter Transmitters](https://dl.acm.org/doi/abs/10.1145/3551670.3551672)  
 Author: *Ambuj Varshney*  
 ACM GetMobile: Mobile Computing and Communications (Maker Edition) 2022  
-(Article was featured in the editoral by [Landon Cox (Microsoft Research)](microsoft.com/en-us/research/people/lacox/))  
+(Was covered in the editoral [Landon Cox (Microsoft Research)](microsoft.com/en-us/research/people/lacox/))  
 [Read the editorial here](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3551670)   
 
 2. [Judo: Addressing the Energy Asymmetry of Wireless Embedded Systems through Tunnel Diode based Wireless Transmitters](https://dl.acm.org/doi/abs/10.1145/3498361.3538923)  
 Authors: *Ambuj Varshney* , [Wenqing Yan](https://wenqingyan.github.io/), [Prabal Dutta](https://web.eecs.umich.edu/~prabal/)   
 The Twentieth ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2022)      
 * <span style="color:blue"> Teaser video: [Youtube](https://www.youtube.com/watch?v=X1H6UIdfKWQ)</span>
+* <span style="color:blue"> Conference presentation video: [Youtube](https://www.youtube.com/watch?v=q22O8X2AEbA&t=627s)</span>
 
 3. [PassiveLiFi: Rethinking LiFi for Low-Power and Long Range RF Backscatter](https://dl.acm.org/doi/10.1145/3447993.3483262)
 Authors: Muhammad Sarmad, Borja Genoves, *Ambuj Varshney*, [Domenico Giustiniano](https://networks.imdea.org/team/imdea-networks-team/people/domenico-giustiniano/)

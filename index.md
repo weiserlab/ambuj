@@ -30,9 +30,6 @@ Ambuj Varshney's research interests over the past decade has been centered aroun
 ## Research Interest
 > “Applications are of course the whole point of ubiquitous computing” - [Mark Weiser](https://en.wikipedia.org/wiki/Mark_Weiser)  
 
-> “In the future, increasing proportion of computer science research will be application-driven” -
-[Eric Brewer](https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)) and [Mike Franklin](https://en.wikipedia.org/wiki/Michael_J._Franklin)     
-
 We are interested in **wireless**, **networking**, and **embedded systems**, and their intersection with other domains. As a group, we are not into "bean-counting". We work on meaningful problems with complex engineering component, and potential for real-world impact.    
 
 Often, our projects involves collaborations with domain experts. A number of our projects are done in collaboration with some of the biggest and leading companies in the area (ABB, NCS).   

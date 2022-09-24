@@ -207,7 +207,7 @@ The Seventeenth ACM/IEEE Conference on Information Processing in Sensor Networks
 
 4. [Enabling Sustainable Networked Embedded Systems](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1190906&dswid=5386)    
 *Ambuj Varshney*, Doctoral dissertation   
-**Awarded the 2019 ABB Research Award in Honour of HvG (with grant of 300k USD)**
+**Awarded the 2019 ABB Research Award in Honour of HvG (with grant of 300k USD)**  
 [Press release from Uppsala University](https://uu.se/en/news/article/?id=13666&typ=artikel)    
 [Press release from ABB](https://new.abb.com/news/detail/46277/abb-research-award-2019-goes-to-battery-free-sensor-project)  
   

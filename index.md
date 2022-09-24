@@ -152,7 +152,7 @@ The Twentieth ACM International Conference on Mobile Systems, Applications, and 
 * <span style="color:blue"> Teaser video: [Youtube](https://www.youtube.com/watch?v=X1H6UIdfKWQ)</span>
 * <span style="color:blue"> Presentation video: [Youtube](https://www.youtube.com/watch?v=q22O8X2AEbA&t=627s)</span>
 
-3. [PassiveLiFi: Rethinking LiFi for Low-Power and Long Range RF Backscatter](https://dl.acm.org/doi/10.1145/3447993.3483262)
+3. [PassiveLiFi: Rethinking LiFi for Low-Power and Long Range RF Backscatter](https://dl.acm.org/doi/10.1145/3447993.3483262)  
 Authors: Muhammad Sarmad, Borja Genoves, *Ambuj Varshney*, [Domenico Giustiniano](https://networks.imdea.org/team/imdea-networks-team/people/domenico-giustiniano/)
 The Twenty Seventh Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2021/2022)  
 (Due to the pandemic, conference was held in 2022)  
@@ -162,7 +162,7 @@ The Twenty Seventh Annual International Conference On Mobile Computing And Netwo
 ### Year 2021
 
 1. [Securing Battery-free Backscatter Tags through Fingerprinting](https://dl.acm.org/doi/10.1145/3484266.3487388)  
-Authors: [Revathy Narayanan](https://sites.google.com/view/revathy-narayanan/home), *Ambuj Varshney*, Panos Papadimitratos 
+Authors: [Revathy Narayanan](https://sites.google.com/view/revathy-narayanan/home), *Ambuj Varshney*, et al.     
 The Twentieth ACM Workshop on Hot Topics in Networks (ACM HotNets 2021)  
 
 2. [Radio frequency communication device for low power communication](https://patents.google.com/patent/WO2021040594A1/en?inventor=Ambuj+Varshney&oq=Ambuj+Varshney)  

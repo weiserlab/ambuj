@@ -6,7 +6,7 @@ is_contact: true
 
 # Teaching  
 
-I have been involved with teaching of the following courses:  
+I have been involved in teaching of the following courses:  
 
 ## Fall Semester 2022 (National University of Singapore)
 

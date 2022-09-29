@@ -10,6 +10,6 @@ As an Instructor, I have been involved with teaching of the following courses an
 
 ## Fall Semester 2022 (National University of Singapore)
 
-[CS6204: Advanacted Topics in Networking - Special Topics in Internet of Things](https://weiserlab.github.io/ambuj/cs6204)
-CS6101: Mentoring/ Lab Rotation for newly joined PhD students  
+* [CS6204: Advanacted Topics in Networking - Special Topics in Internet of Things](https://weiserlab.github.io/ambuj/cs6204)    
+* CS6101: Mentoring/ Lab Rotation for newly joined PhD students    
 

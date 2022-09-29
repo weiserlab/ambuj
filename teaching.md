@@ -6,7 +6,7 @@ is_contact: true
 
 # Teaching  
 
-As an Instructor, I have been involved with teaching of the following courses and modules:  
+I have been involved with teaching of the following courses:  
 
 ## Fall Semester 2022 (National University of Singapore)
 

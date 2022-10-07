@@ -193,7 +193,7 @@ Authors: Domenico Giustiniano ,*Ambuj Varshney*, Thiemo Voigt
 The Eighteenth ACM Workshop on Hot Topics in Networks (ACM HotNets 2019)  
 
 2. [Demonstration: Towards Battery-free Radio Tomographic Imaging](https://dl.acm.org/doi/10.1145/3212480.3226107)  
-Authors: Abdullah Hylamia,*Ambuj Varshney*, Andreas Soleiman, Panos Papadimitratos, Christian Rohner, Thiemo Voigt  
+Authors: Abdullah Hylamia,*Ambuj Varshney*, Andreas Soleiman, et al.    
 The Eleventh ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec-2018)  
 **Best demonstration award**
 

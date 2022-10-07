@@ -89,7 +89,7 @@ Collaborated with the following students:
 * [Lorenzo Corneo (Uppsala University)](https://lorenzocorneo.github.io/) → Aalto University → Ericsson Research, Helsinki, Finland
 * [Wenqing Yan (Uppsala University)](https://wenqingyan.github.io/)**(Ongoing)**
 * [Ander Galisteo (UC3M/IMDEA Networks)](https://andergalisteo.com/) → DoJo Five, Madrid, Spain
-* Bo Wei (Unniversity of New South Wales) → Lancaster University (Lecturer), UK
+* Bo Wei (University of New South Wales) → Lancaster University (Lecturer), UK
 * [Muhammad Sarmad (IMDEA Networks)()](https://networks.imdea.org/team/imdea-networks-team/people/muhammad-sarmad-shahab-mir/)**(Ongoing)**
 * [Revathy Narayanan (Postdoc scholar, KTH, Sweden)](https://sites.google.com/view/revathy-narayanan/home)  → Ericsson Research, Stockholm, Sweden
 

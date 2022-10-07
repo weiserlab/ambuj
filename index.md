@@ -64,12 +64,7 @@ Often, our projects involves collaborations with domain experts. A number of our
           
 ## Research Themes
 
-Before I became an academic, I was an engineer, and worked as a software engineer at [NXP Semiconductors](http://nxp.com).  The majority of the projects that I work on are application-driven. Generally, they fall under one of these themes.  
-
-* **Bridging digital world with physical world:**  
-
-* **Data collection (and analysis) from the physical world**    
-
+Before I became an academic, I was an engineer, and worked as a software engineer at [NXP Semiconductors](http://nxp.com).  The majority of the projects that I work on are application-driven.  
 
 
 ## Teaching and Mentorship

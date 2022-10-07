@@ -91,7 +91,7 @@ Collaborated with the following students:
 * [Ander Galisteo (UC3M/IMDEA Networks)](https://andergalisteo.com/) → DoJo Five, Madrid, Spain
 * Bo Wei (Unniversity of New South Wales) → Lancaster University (Lecturer), UK
 * [Muhammad Sarmad (IMDEA Networks)()](https://networks.imdea.org/team/imdea-networks-team/people/muhammad-sarmad-shahab-mir/)**(Ongoing)**
-* [Revathy Narayanan (Postdoc scholar, KTH Royal Institute of Technology, Sweden)](https://sites.google.com/view/revathy-narayanan/home)  → Ericsson Research, Stockholm, Sweden
+* [Revathy Narayanan (Postdoc scholar, KTH, Sweden)](https://sites.google.com/view/revathy-narayanan/home)  → Ericsson Research, Stockholm, Sweden
 
 ## Academic Service
 

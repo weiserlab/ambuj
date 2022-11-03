@@ -17,3 +17,5 @@ nav:
    link: "index"
  - name: "Teaching"
    link: "teaching"
+ - name: "Open positions"
+   link: "position"

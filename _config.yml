@@ -15,5 +15,7 @@ sass:
 nav:
  - name: "About"
    link: "index"
+-  name: "Open Positions"
+   link: "positions"
  - name: "Teaching"
    link: "teaching"

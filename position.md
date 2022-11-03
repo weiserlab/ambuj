@@ -7,7 +7,8 @@ is_contact: true
 ----
 ****
 
-# OPEN POSITIONS (WEISER Research Group at National University of Singapore)  
+# WEISER Research Group at National University of Singapore
+# Open Positions  
 
 Our ambition is to establish a world leading research group in the area of consisting of curiosity driven group of students, engineers and researchers interested in Wireless, Embedded systems and Intelligence, Sensing and Emerging Technologies (WEISER). We build real systems, and we commonly work at the intersection of the area of electronics, communication and computer science.
 
@@ -22,8 +23,6 @@ and embedded systems, and mobile computing. We publish at leading venues of the 
 
 
 ## Doctoral Disseration (PhD Studies) (Positions open in this round: 3 NOS)
-
-
 
 
 ## About: Singapore

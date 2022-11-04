@@ -19,3 +19,7 @@ nav:
    link: "teaching"
  - name: "Open positions"
    link: "position"
+ - name: "Projects"
+   link: "projects"
+ - name: "Background"
+   link: "background"

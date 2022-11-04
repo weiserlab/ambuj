@@ -10,11 +10,7 @@ is_contact: true
 # WEISER Group at National University of Singapore
 
 ## About us
-
-Our ambition is to establish a world leading research group in the area of consisting of curiosity driven group of students, engineers and researchers interested in Wireless, Embedded systems and Intelligence, Sensing and Emerging Technologies (WEISER). We build real systems, and we commonly work at the intersection of the area of electronics, communication and computer science.
-
-
-and embedded systems, and mobile computing. We publish at leading venues of the area (such as ACM MobiSys, MobiCom, SenSys, HotNets, IPSN), and many of our research efforts have been well appreciated with research awards, grants from industry and coverage in popular media. 
+We are a curiosity driven group of students, engineers and researchers interested in Wireless, Embedded systems and Intelligence, Sensing and Emerging Technologies (WEISER). We build real systems, and we commonly work at the intersection of the area of electronics, communication and computer science.  In addition to publishing at leading venues in the area (such as ACM MobiSys, MobiCom, SenSys, HotNets, IPSN), we have received research awards, industry grants, and media coverage. It is our goal to establish a world-leading group in embedded systems, wireless communications, and mobile computing.
 
 ## Open Positions (6 NOS)  
 

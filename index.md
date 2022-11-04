@@ -26,9 +26,7 @@ Ambuj Varshney, a Swedish citizen, is an Assistant Professor at the  National Un
 Ambuj Varshney's research interests over the past decade has been centered around embedded systems, wireless and mobile computing. Notably, he tackled the problem of energy asymmetry among  components of the embedded systems; the most pressing problem hindering the widespread deployment of Internet of Things. Particularly, through the design of novel low-power wireless transmitters that achieves hundreds of meters of range at tens of microwatts of power consumption (100-1000X lower than commercial solutions).  His research has led to awards, accolades and research grants; most notably, his doctoral dissertation was awarded the [2019 ABB Research Award in Honour of Hubertus von Gruenberg](https://new.abb.com/hvg-award/winner-announcement-2019) (with an endowment of 300,000USD hosted at University of California, Berkeley, [received](https://resources.news.e.abb.com/images/2019/11/12/0/photo_award.jpg) from CEO of ABB and Honory Citizen of Singapore - [Peter Voser](https://en.wikipedia.org/wiki/Peter_Voser)). Several of his students have also received significant honours and accolades; including winning the ACM Student Research Competition at ACM MobiCom 2017. He serve(s/d) as jury member, program committee member, and organisational roles of important scientific events.
 
 ## Research Interest
-> “Applications are of course the whole point of ubiquitous computing” - [Mark Weiser](https://en.wikipedia.org/wiki/Mark_Weiser)  
-
-We are interested in **wireless**, **networking**, and **embedded systems**, and their intersection with other domains. As a group, we are not into "bean-counting". We work on meaningful problems with complex engineering component, and potential for real-world impact.    
+We are interested in **wireless**, **networking**, and **embedded systems**, and their intersection with other domains. We work on meaningful problems with complex engineering component, and potential for real-world impact.    
 
 Often, our projects involves collaborations with domain experts. A number of our projects are done in collaboration with some of the biggest and leading companies in the area (ABB, NCS).   
 
@@ -61,8 +59,6 @@ Often, our projects involves collaborations with domain experts. A number of our
 
           
 ## Research Themes
-
-Before I became an academic, I was an engineer, and worked as a software engineer at [NXP Semiconductors](http://nxp.com).  The majority of the projects that I work on are application-driven.  
 
 
 ## Teaching and Mentorship

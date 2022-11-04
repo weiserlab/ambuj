@@ -16,7 +16,7 @@ We aim to establish a world-leading group in embedded systems, wireless communic
 
 ## Open Positions (6 NOS)  
 
-## Fingerprinting Internet of Things Devices and Robots
+## Non-Intrusive Monitoring of Internet of Things Devices and Robots
 
 
 ## Low-power Vibration Monitoring

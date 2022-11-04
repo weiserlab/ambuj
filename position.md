@@ -16,18 +16,16 @@ We aim to establish a world-leading group in embedded systems, wireless communic
 
 ## Open Positions (6 NOS)  
 
-### Fingerprinting Internet of Things Devices and Robots
+## Fingerprinting Internet of Things Devices and Robots
 
 
-### Low-power Vibration Monitoring
+## Low-power Vibration Monitoring
 
 
-### Doctoral Disseration (PhD Studies) (Positions open in this round: 3 NOS)
+## Doctoral Disseration (PhD Studies) (Positions open in this round: 3 NOS)
 
 
-## About: Singapore
-
-## About: National University of Singapore
+## National University of Singapore and Singapore
 
 ## How to apply?
 

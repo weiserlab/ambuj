@@ -66,6 +66,7 @@ Often, our projects involves collaborations with domain experts. A number of our
 Mentored the following students (formally):
 
 * [Qiao Yukai (2022 -)]() **(Ongoing)** [MComp student/Masters thesis, National University of Singapore]  
+* [David Håkansson] (2022, Bachelor thesis, Uppsala University)
 * [Andreas Soleiman (2016-2019)](http://ansol.se/academic) [RA, Master thesis] → MIT EECS PhD (withdrew to stay in industry) → Senior Data Scientist, H&M Group, Stockholm, Sweden
 * [Elena di Lascio (2015-2016)](https://www.inf.usi.ch/phd/dilascio/) [Master thesis] → USI PhD (completed) → Novartis Institutes for BioMedical Research (NIBR), Switzerland
 * [Oliver Harms (2016-2017)](https://www.chalmers.se/en/staff/Pages/harms.aspx)[Master thesis] → Chalmers PhD, Sweden

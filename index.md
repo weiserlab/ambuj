@@ -66,12 +66,12 @@ Often, our projects involves collaborations with domain experts. A number of our
 Mentored the following students (formally):
 
 * [Qiao Yukai (2022 -)]() **(Ongoing)** [MComp student/Masters thesis, National University of Singapore]  
-* [David Håkansson] (2022, Bachelor thesis, Uppsala University)
-* [Andreas Soleiman (2016-2019)](http://ansol.se/academic) [RA, Master thesis] → MIT EECS PhD (withdrew to stay in industry) → Senior Data Scientist, H&M Group, Stockholm, Sweden
+* [David Håkansson] (2022, Bachelor thesis, Uppsala University) (Link)
+* [Andreas Soleiman (2016-2019)](http://ansol.se/academic) [RA, Master thesis] (Link to thesis) → MIT EECS PhD (withdrew to stay in industry) → Senior Data Scientist, H&M Group, Stockholm, Sweden
 * [Elena di Lascio (2015-2016)](https://www.inf.usi.ch/phd/dilascio/) [Master thesis] → USI PhD (completed) → Novartis Institutes for BioMedical Research (NIBR), Switzerland
-* [Oliver Harms (2016-2017)](https://www.chalmers.se/en/staff/Pages/harms.aspx)[Master thesis] → Chalmers PhD, Sweden
-* Gustav Eriksson (2018)[Masters Thesis] → Project Engineer
-* [Sam Hylamia (2017-2018)](https://katalog.uu.se/profile/?id=N15-1362)[Masters Thesis and Research Assistant] → Uppsala University PhD, Sweden
+* [Oliver Harms (2016-2017)](https://www.chalmers.se/en/staff/Pages/harms.aspx)[Master thesis] (Link to thesis) → Chalmers PhD, Sweden
+* Gustav Eriksson (2018)[Masters Thesis] (Link to thesis) → Project Engineer
+* [Sam Hylamia (2017-2018)](https://katalog.uu.se/profile/?id=N15-1362)[Masters Thesis and Research Assistant] (Link to thesis) → Uppsala University PhD, Sweden
 * [Simon Olofsson (2015)](https://www.doc.ic.ac.uk/~so2015/)[Project assistant] → Imperial College London PhD → Facebook/Meta, London, UK
 
 Collaborated with the following students:

@@ -71,7 +71,7 @@ Mentored the following students (formally):
 * [Elena di Lascio (2015-2016)](https://www.inf.usi.ch/phd/dilascio/) [Master thesis] → USI PhD (completed) → Novartis Institutes for BioMedical Research (NIBR), Switzerland
 * [Oliver Harms (2016-2017)](https://www.chalmers.se/en/staff/Pages/harms.aspx)[Master thesis] [(Link to thesis)](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1275419&dswid=-4978) → Chalmers PhD, Sweden
 * Gustav Eriksson (2018)[Masters Thesis] (Link to thesis) → Project Engineer
-* [Sam Hylamia (2017-2018)](https://katalog.uu.se/profile/?id=N15-1362)[Masters Thesis and Research Assistant] (Link to thesis) → Uppsala University PhD, Sweden
+* [Sam Hylamia (2017-2018)](https://katalog.uu.se/profile/?id=N15-1362)[Masters Thesis and Research Assistant] [(Link to thesis)](http://www.diva-portal.org/smash/get/diva2:1247160/FULLTEXT02.pdf) → Uppsala University PhD, Sweden
 * [Simon Olofsson (2015)](https://www.doc.ic.ac.uk/~so2015/)[Project assistant] → Imperial College London PhD → Facebook/Meta, London, UK
 
 Collaborated with the following students:

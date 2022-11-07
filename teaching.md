@@ -2,7 +2,6 @@
 layout: default
 is_contact: true
 ---
-![Image for the course](professor.png)  
 
 # Teaching  
 

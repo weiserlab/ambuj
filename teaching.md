@@ -6,8 +6,6 @@ is_contact: true
 
 # Teaching  
 
-I have been involved in teaching of the following courses:  
-
 ## Fall Semester 2022 (National University of Singapore)
 
 * [CS6204: Advanced Topics in Networking - Special Topics in Internet of Things](https://weiserlab.github.io/ambuj/cs6204)    

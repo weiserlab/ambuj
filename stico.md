@@ -22,7 +22,13 @@ We illustrate a proof-of-concept, sticker form factor, wireless sensor that can 
 ### Sensing
 
 
-### Communication
+### Transmission
+
+
+### Reception
+
+
+### Processing 
 
 
 

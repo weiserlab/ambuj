@@ -33,7 +33,7 @@ We illustrate a proof-of-concept, sticker form factor, wireless sensor that can 
 1. [POSTER: Enabling L3: Low Cost, Low Complexity and Low Power Radio Frequency Sensing using Tunnel Diodes]()  
 The Twenty Eight Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2022)  
 
-2. [Battery-free Visible Light Sensing](https://dl.acm.org/doi/abs/10.1145/3129881.3129890)
+2. [Battery-free Visible Light Sensing](https://dl.acm.org/doi/abs/10.1145/3129881.3129890)  
 ACM VLCS (Co-located with ACM MobiCom) 2017  
 
 3. [Demonstration: Towards Battery-free Radio Tomographic Imaging](https://dl.acm.org/doi/10.1145/3212480.3226107)  

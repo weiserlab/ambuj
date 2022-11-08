@@ -44,7 +44,11 @@ ACM VLCS (Co-located with ACM MobiCom) 2017
 
 ### Reception
 
-3. [Battery-free 802.15.4 Receiver](https://dl.acm.org/doi/10.1109/IPSN.2018.00045)  
+1. [Connecting Battery-free IoT Tags Using LED Bulbs](https://dl.acm.org/doi/10.1145/3286062.3286077)     
+The Eighteenth ACM Workshop on Hot Topics in Networks (ACM HotNets 2019)    
+
+2. [Battery-free 802.15.4 Receiver](https://dl.acm.org/doi/10.1109/IPSN.2018.00045)    
+The Seventeenth ACM/IEEE Conference on Information Processing in Sensor Networks.(ACM/IEEE IPSN 2018)    
 
 
 ### Processing 

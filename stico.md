@@ -1,5 +1,5 @@
 # Stico: Towards ubiqutious, privacy-preserving, sticker form-factor, wireless computers
-
+![Sticker form factor sensor](abbflexsensor.jpeg)  
 
 ## Vision
 

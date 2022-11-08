@@ -4,9 +4,10 @@
 ## Vision
 
 
+## Intellectual Property Policy
+
 
 ## Background
-
 
 
 ## Advisory board

@@ -6,11 +6,10 @@
 
 ## Intellectual Property Policy
 
-
 ## Background
 
 
-## Advisory board
+## Advisory Board
 
 
 ## Students

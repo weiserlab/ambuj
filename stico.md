@@ -1,4 +1,4 @@
-# Stico: Enabling ubiqutious, privacy preserving, sticker form factor, wireless computers
+# Stico: Towards ubiqutious, privacy-preserving, sticker form-factor, wireless computers
 
 
 ## Vision

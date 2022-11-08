@@ -10,6 +10,8 @@ We illustrate a proof-of-concept, sticker form factor, wireless sensor that can 
 ## Background
 
 
+## Application Scenarios
+
 ## Advisory Board
 
 

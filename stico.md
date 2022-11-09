@@ -8,6 +8,7 @@ TBD
 
 ## Policy for intellectual property
 
+We are committed to open publication and open-source release of software and hardware designs using a BSD-style license. We will not seek IP protection for research results unless there is an overwhelmingly compelling case that IP protection is essential for the results to have an impact.
 
 ## Background
 

@@ -1,4 +1,4 @@
-# STICO: Towards ubiqutious, privacy-preserving, large range, sticker form-factor, and everlasting computers
+# STICO: Towards ubiquitous, privacy-preserving, large range, sticker form-factor, and everlasting computers
 ![Sticker form factor sensor](abbflexsensor.jpeg)  
 We illustrate a proof-of-concept, sticker form factor, wireless sensor that can through reflection and absorption of ambient wireless signals achieve very significant transmission range
 

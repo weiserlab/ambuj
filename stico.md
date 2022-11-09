@@ -4,25 +4,22 @@ We illustrate a proof-of-concept, sticker form factor, wireless sensor that can 
 
 ## Vision
 
+TBD
 
-## Intellectual Property Policy
+## Policy for intellectual property
+
 
 ## Background
 
 
 ## Application Scenarios
 
+
 ## Advisory Board
 
+TBD
 
 ## Students
-
-
-### Current
-
-
-### Alumni
-
 
 
 ## Publications
@@ -55,7 +52,6 @@ The Seventeenth ACM/IEEE Conference on Information Processing in Sensor Networks
 
 
 ### Processing 
-
 
 ### Energy 
 

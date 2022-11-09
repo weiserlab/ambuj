@@ -6,14 +6,15 @@ We illustrate a proof-of-concept, sticker form factor, wireless sensor that can 
 
 TBD
 
-## Policy for intellectual property
 
-We are committed to open publication and open-source release of software and hardware designs using a BSD-style license. We will not seek IP protection for research results unless there is an overwhelmingly compelling case that IP protection is essential for the results to have an impact.
+## News
+
 
 ## Background
 
 
 ## Application Scenarios
+
 
 
 ## Advisory Board
@@ -55,6 +56,11 @@ The Seventeenth ACM/IEEE Conference on Information Processing in Sensor Networks
 ### Processing 
 
 ### Energy 
+
+
+## Policy for intellectual property
+
+We are committed to open publication and open-source release of software and hardware designs using a BSD-style license. We will not seek IP protection for research results unless there is an overwhelmingly compelling case that IP protection is essential for the results to have an impact.
 
 ## Funding
 

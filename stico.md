@@ -34,9 +34,12 @@ The Twenty Eight Annual International Conference On Mobile Computing And Network
 
 2. [Demonstration: Towards Battery-free Radio Tomographic Imaging](https://dl.acm.org/doi/10.1145/3212480.3226107)  
 The Eleventh ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec-2018)  
+**Best demonstration award**
 
 3. [Battery-free Visible Light Sensing](https://dl.acm.org/doi/abs/10.1145/3129881.3129890)  
 ACM VLCS (Co-located with ACM MobiCom) 2017  
+**Best Paper Award**  
+**ACM Student Research Competition Winner (Graduate, MobiCom)**  
 
 ### Transmission
 

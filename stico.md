@@ -12,10 +12,11 @@ TBD
 
 ## Background
 
+TBA
 
 ## Application Scenarios
 
-
+TBA
 
 ## Advisory Board
 
@@ -23,9 +24,15 @@ TBD
 
 ## Students
 
+TBA
+
+## Policy for intellectual property
+
+We are committed to open publication and open-source release of software and hardware designs using a BSD-style license. We will not seek IP protection for research results unless there is an overwhelmingly compelling case that IP protection is essential for the results to have an impact.
 
 ## Publications
 
+STICOR is an on-going research effort at the National University of Singapore. 
 
 ### Sensing
 
@@ -52,7 +59,6 @@ The Twenty Sixth Annual International Conference On Mobile Computing And Network
 3. [TunnelScatter: Low Power Communication for Sensor Tags using Tunnel Diodes](https://dl.acm.org/doi/10.1145/3300061.3345451)  
 Authors: *Ambuj Varshney*, [Andreas Soleiman](http://ansol.se/academic), Thiemo Voigt  
 The Twenty Fifth Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2019)  
-* <span style="color:blue"> Presentation video: [Youtube](https://www.youtube.com/watch?v=v2otAuiTdQY)</span> 
 
 4. [LoRea: A Backscatter Architecture that Achieves a Long Communication Range](https://dl.acm.org/doi/10.1145/3131672.3131691)  
 Fifteenth ACM Conference on Embedded Networked Sensor Systems (ACM SENSYS 2017)  
@@ -78,11 +84,6 @@ The Seventeenth ACM/IEEE Conference on Information Processing in Sensor Networks
 
 ### Energy 
 
-
-
-## Policy for intellectual property
-
-We are committed to open publication and open-source release of software and hardware designs using a BSD-style license. We will not seek IP protection for research results unless there is an overwhelmingly compelling case that IP protection is essential for the results to have an impact.
 
 ## Funding
 

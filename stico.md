@@ -11,7 +11,7 @@ TBD
 
 ## News
 
-**[Q4, 2022]** Prof. Ambuj Varshney presented the vision of STICOR at the [2022 ABB Research Award Ceremony](https://new.abb.com/news/detail/95896/2022-abb-research-award-in-honor-of-hubertus-von-grunberg).  Guests in the attendance included the CEO of ABB - [Björn Rosengren](https://global.abb/group/en/about/corporate-governance/executive-committee/bjorn-rosengren), ex-chairman of ABB Hubertus von Grünberg, senior management of the company, and other dignitaries. You can find some photos of presentation here: [1] [2] [3]
+**[Q4, 2022]** Prof. Ambuj Varshney presented the vision of STICORS at the [2022 ABB Research Award Ceremony](https://new.abb.com/news/detail/95896/2022-abb-research-award-in-honor-of-hubertus-von-grunberg).  Guests in the attendance included the CEO of ABB - [Björn Rosengren](https://global.abb/group/en/about/corporate-governance/executive-committee/bjorn-rosengren), ex-chairman of ABB Hubertus von Grünberg, senior management of the company, and other dignitaries. You can find some photos of presentation here: [1] [2] [3]
 
 **[Q1, 2022]** Project Investigator (Prof. Ambuj Varshney) has joined as a faculty member at the School of Computing of the National University of Singapore.  
 

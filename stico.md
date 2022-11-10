@@ -32,7 +32,7 @@ We are committed to open publication and open-source release of software and har
 
 ## Publications
 
-STICOR is an on-going research effort at the National University of Singapore. 
+STICOR is an ongoing research project at the National University of Singapore. Our sincere gratitude goes out to former collaborators and students of the PI (Ambuj Varshney) at many of the world's foremost institutions for their contributions to this effort. In addition, they have contributed to several peer-reviewed scientific publications appearing at leading scientific venues, as listed below.
 
 ### Sensing
 

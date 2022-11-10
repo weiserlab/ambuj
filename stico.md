@@ -33,6 +33,9 @@ TBA
 
 We are committed to open publication and open-source release of software and hardware designs using a BSD-style license. We will not seek IP protection for research results unless there is an overwhelmingly compelling case that IP protection is essential for the results to have an impact.
 
+## Press Releases
+
+
 ## Publications
 
 STICORS is an ongoing research project at the National University of Singapore. Our sincere gratitude goes out to former collaborators and students of the PI (Ambuj Varshney) at many of the world's foremost institutions for their contributions to this effort. In addition, they have contributed to peer-reviewed scientific publications that have appeared at several flagship scientific venues. We list these research efforts below:

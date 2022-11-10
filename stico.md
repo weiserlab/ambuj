@@ -9,6 +9,7 @@ TBD
 
 ## News
 
+**[Q1, 2022]** Project Investigator (Prof. Ambuj Varshney) joined as a faculty member at the School of Computing of the National University of Singapore.  
 
 ## Background
 

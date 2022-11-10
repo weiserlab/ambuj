@@ -35,6 +35,9 @@ We are committed to open publication and open-source release of software and har
 
 ## Press Releases
 
+* [Press release from ABB regarding 2019 ABB Research Award](https://new.abb.com/news/detail/46277/abb-research-award-2019-goes-to-battery-free-sensor-project)
+* [Press release from Uppsala University regarding 2019 ABB Research Award](https://www.uu.se/en/news/article/?id=13666&typ=artikel)
+* [Press release from Uppsala University regarding most innovating project from the university](https://www.uuinnovation.uu.se/about/attractive-innovation-project-awards-2019/)
 
 ## Publications
 

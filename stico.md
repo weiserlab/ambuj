@@ -1,4 +1,4 @@
-# STICORS: Framework for ubiquitous, privacy-preserving, long-range wireless, sticker-form, everlasting computers
+# STICORS: Framework for ubiquitous, privacy-preserving, sticker-form, everlasting computers that support long-range wireless capacilities
 ![Sticker form factor sensor](abbflexsensor.jpeg)  
 We illustrate a proof-of-concept, sticker form factor, wireless sensor that can through reflection and absorption of ambient wireless signals achieve very significant transmission range
 

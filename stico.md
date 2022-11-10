@@ -2,6 +2,8 @@
 ![Sticker form factor sensor](abbflexsensor.jpeg)  
 We illustrate a proof-of-concept, sticker-form, wireless computer that can through reflection and absorption of ambient wireless signals (building on LoRea (ACM SENSYS 2017)) achieve significant transmission range.
 
+## Project PI: Prof. Dr. Ambuj Varshney 
+
 ## Vision
 
 TBD

@@ -12,8 +12,8 @@ TBD
 We are targetting following parameters for STICORS computers:
 
 * **Bitrate:** Greater than 100 kbps of bitrate at PHY layer for the transmission/reception  
-* **Communication range:** Greater than 100 meters of transmission and reception range in line-of-sight environment. Range of tens of meters in non line-of-sight environment (including through the wall).  
-* **Everlasting:** Batteries can last entire lifetime of the deployment, requiring no exchange. For some applications, we may even support operation without batteries. STICORS harvest energy from the ambient environment  
+* **Communication range:** Greater than 100 meters of transmission and reception range in line-of-sight environment. Range of tens of meters in non line-of-sight environment (including through the wall)  
+* **Everlasting:** Batteries can last entire lifetime of the deployment, requiring no additional effort to replace exhausted batteries. For some applications, STICORS may even support operation without batteries. In this case, STICORS will harvest energy from the ambient environment  
 
 
 ## News

@@ -9,11 +9,10 @@ We illustrate a proof-of-concept, sticker-form, wireless computer that can throu
 TBD
 
 
-**Bitrate:** Over 100 kbps of bitrate for transmission/reception  
-
-**Range:** Over 100 meters of transmission and reception range in line-of-sight environment  
-
-**Everlasting:** Batteries can last entire lifetime of the deployment, requiring no exchange. For some applications, it may even operate without batteries operating on the energy harvested from the ambient environment  
+We are targetting following parameters for STICORS computers:
+* **Bitrate:** Greater than 100 kbps of bitrate at PHY layer for the transmission/reception  
+* **Range:** Greater than 100 meters of transmission and reception range in line-of-sight environment  
+* **Everlasting:** Batteries can last entire lifetime of the deployment, requiring no exchange. For some applications, we may even support operation without batteries. In this case, STICORS would harvest energy from the ambient environment  
 
 
 ## News

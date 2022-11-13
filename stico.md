@@ -58,7 +58,7 @@ STICORS can significantly impact multiple application domains, bringing substant
 
 ## Publications
 
-STICORS is an ongoing research project at the National University of Singapore. Our sincere gratitude goes out to former collaborators and students of the PI (Ambuj Varshney) at many of the world's foremost institutions for their contributions to this effort. In addition, they have contributed to peer-reviewed scientific publications that have appeared at several flagship scientific venues. We list these research efforts below:
+STICORS is an ongoing research project at the National University of Singapore. Our sincere gratitude goes out to former advisors, collaborators and students of the PI (Ambuj Varshney) at many of the world's foremost institutions for their contributions to this effort. In addition, they have contributed to peer-reviewed scientific publications that have appeared at several flagship scientific venues. We list these research efforts below:
 
 ### Overview
 

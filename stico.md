@@ -54,8 +54,6 @@ STICORS can significantly impact multiple application domains, bringing substant
 * [Press release from Uppsala University regarding 2019 ABB Research Award in Honour of Hubertus von Grünberg](https://www.uu.se/en/news/article/?id=13666&typ=artikel)
 * [Press release from Uppsala University regarding most innovating project from the university](https://www.uuinnovation.uu.se/about/attractive-innovation-project-awards-2019/)
 
-## Related News
-
 ## Publications
 
 STICORS is an ongoing research project at the National University of Singapore. Our sincere gratitude goes out to former advisors, collaborators and students of the PI (Ambuj Varshney) at many of the world's foremost institutions for their contributions to this effort. In addition, they have contributed to peer-reviewed scientific publications that have appeared at several flagship scientific venues. We list these research efforts below:

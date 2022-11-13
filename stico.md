@@ -58,6 +58,12 @@ STICORS can significantly impact multiple application domains, bringing substant
 
 STICORS is an ongoing research project at the National University of Singapore. Our sincere gratitude goes out to former collaborators and students of the PI (Ambuj Varshney) at many of the world's foremost institutions for their contributions to this effort. In addition, they have contributed to peer-reviewed scientific publications that have appeared at several flagship scientific venues. We list these research efforts below:
 
+### Overview
+
+1. [Making Low-power and Long-range Wireless Backscatter Transmitters](https://dl.acm.org/doi/abs/10.1145/3551670.3551672)  
+Author: *Ambuj Varshney*  
+ACM GetMobile: Mobile Computing and Communications (Maker Edition) 2022  
+
 ### Sensing
 
 1. [POSTER: Enabling L3: Low Cost, Low Complexity and Low Power Radio Frequency Sensing using Tunnel Diodes]()
@@ -80,22 +86,18 @@ ACM VLCS (Co-located with ACM MobiCom) 2017
 1. [Judo: Addressing the Energy Asymmetry of Wireless Embedded Systems through Tunnel Diode based Wireless Transmitters](https://dl.acm.org/doi/abs/10.1145/3498361.3538923)  
 The Twentieth ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2022)      
 
-2. [Making Low-power and Long-range Wireless Backscatter Transmitters](https://dl.acm.org/doi/abs/10.1145/3551670.3551672)  
-Author: *Ambuj Varshney*  
-ACM GetMobile: Mobile Computing and Communications (Maker Edition) 2022  
-
-3. [TunnelEmitter:Tunnel Diode based Low-Power Carrier Emitters for Backscatter Tags](https://dl.acm.org/doi/10.1145/3372224.3419199)  
+2. [TunnelEmitter:Tunnel Diode based Low-Power Carrier Emitters for Backscatter Tags](https://dl.acm.org/doi/10.1145/3372224.3419199)  
 The Twenty Sixth Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2020)  
 
-4. [TunnelScatter: Low Power Communication for Sensor Tags using Tunnel Diodes](https://dl.acm.org/doi/10.1145/3300061.3345451)  
+3. [TunnelScatter: Low Power Communication for Sensor Tags using Tunnel Diodes](https://dl.acm.org/doi/10.1145/3300061.3345451)  
 Authors: *Ambuj Varshney*, [Andreas Soleiman](http://ansol.se/academic), Thiemo Voigt  
 The Twenty Fifth Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2019)  
 
-5. [LoRea: A Backscatter Architecture that Achieves a Long Communication Range](https://dl.acm.org/doi/10.1145/3131672.3131691)  
+4. [LoRea: A Backscatter Architecture that Achieves a Long Communication Range](https://dl.acm.org/doi/10.1145/3131672.3131691)  
 Fifteenth ACM Conference on Embedded Networked Sensor Systems (ACM SENSYS 2017)  
 **2019 ABB Research Award Winner**  
 
-6. [Towards wide-area backscatter networks](https://dl.acm.org/doi/10.1145/3127882.3127888)  
+5. [Towards wide-area backscatter networks](https://dl.acm.org/doi/10.1145/3127882.3127888)  
 ACM HotWireless (Co-located with ACM MobiCom) 2017  
 
 ### Reception

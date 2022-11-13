@@ -45,7 +45,7 @@ TBA
 
 ## Policy for Intellectual Property
 
-STICORS can significantly impact multiple domains, bringing substantial value to society. Because of the project's potential to benefit society, we are committed to open publication and open-source release of software and hardware designs using a BSD-style license. The research results will only be protected if it is overwhelmingly clear that IP protection is crucial to their impact. Rather than protecting our backs with patents, we believe in running faster. Also, society invests significant resources into us in academia, and we have an obligation to give back to society without creating unnecessary obstacles.
+STICORS can significantly impact multiple application domains, bringing substantial value to society. We are committed to open publication and open-source release of software and hardware designs using a BSD-style license. The research results will only be protected if it is overwhelmingly clear that IP protection is crucial to their impact. Rather than protecting our backs with patents, we believe in running faster. Furthermore, society invests significant resources into us in academia, and we have an obligation to give back to the society without creating unnecessary obstacles as an example by brickwalling scientific breakthroughs and results under patents.
 
 ## Press Releases and News Coverage
 

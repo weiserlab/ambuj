@@ -43,8 +43,9 @@ TBA
 
 We are committed to open publication and open-source release of software and hardware designs using a BSD-style license. We will not seek IP protection for research results unless there is an overwhelmingly compelling case that IP protection is essential for the results to have an impact.
 
-## Press Releases
+## Press Releases and Other News
 
+* [Prestigious award for network researcher, ABB Review](https://new.abb.com/news/detail/62422/prestigious-award-for-network-researcher)
 * [Press release from ABB regarding 2019 ABB Research Award in Honour of Hubertus von Grünberg](https://new.abb.com/news/detail/46277/abb-research-award-2019-goes-to-battery-free-sensor-project)
 * [Press release from Uppsala University regarding 2019 ABB Research Award in Honour of Hubertus von Grünberg](https://www.uu.se/en/news/article/?id=13666&typ=artikel)
 * [Press release from Uppsala University regarding most innovating project from the university](https://www.uuinnovation.uu.se/about/attractive-innovation-project-awards-2019/)

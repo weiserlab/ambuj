@@ -8,7 +8,6 @@ We illustrate a proof-of-concept, sticker-form, wireless computer that can throu
 
 TBD
 
-
 We are targetting following parameters for STICORS computers:
 
 * **Bitrate:** Greater than 100 kbps of bitrate at PHY layer for the transmission/reception  
@@ -18,7 +17,7 @@ We are targetting following parameters for STICORS computers:
 
 ## News
 
-**[Q4, 2022]** Prof. Ambuj Varshney presented the vision of STICORS at the [2022 ABB Research Award Ceremony](https://new.abb.com/news/detail/95853/abb-announces-2022-awardee-for-abb-research-award-in-honor-of-hubertus-von-grunberg). Guests in the attendance included the CEO of ABB - [Björn Rosengren](https://global.abb/group/en/about/corporate-governance/executive-committee/bjorn-rosengren), ex-chairman of ABB Hubertus von Grünberg, senior management of the company, and other dignitaries. You can find some photos of presentation here: [1] [2] [3]
+**[Q4, 2022]** Prof. Ambuj Varshney presented the vision of STICORS at the [2022 ABB Research Award Ceremony](https://new.abb.com/news/detail/95853/abb-announces-2022-awardee-for-abb-research-award-in-honor-of-hubertus-von-grunberg). Guests in the attendance included the CEO of ABB - [Björn Rosengren](https://global.abb/group/en/about/corporate-governance/executive-committee/bjorn-rosengren), ex-chairman of ABB Hubertus von Grünberg, senior management of the company, and other dignitaries. You can find some photos of presentation below.
 
 **[Q1, 2022]** Project Investigator (Prof. Ambuj Varshney) has joined as a faculty member at the School of Computing of the National University of Singapore.  
 
@@ -84,9 +83,11 @@ ACM VLCS (Co-located with ACM MobiCom) 2017
 ### Transmission
 
 1. [Judo: Addressing the Energy Asymmetry of Wireless Embedded Systems through Tunnel Diode based Wireless Transmitters](https://dl.acm.org/doi/abs/10.1145/3498361.3538923)  
+Authors: *Ambuj Varshney* , [Wenqing Yan](https://wenqingyan.github.io/), [Prabal Dutta](https://web.eecs.umich.edu/~prabal/)  
 The Twentieth ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2022)      
 
 2. [TunnelEmitter:Tunnel Diode based Low-Power Carrier Emitters for Backscatter Tags](https://dl.acm.org/doi/10.1145/3372224.3419199)  
+Authors: *Ambuj Varshney*, Lorenzo Corneo    
 The Twenty Sixth Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2020)  
 
 3. [TunnelScatter: Low Power Communication for Sensor Tags using Tunnel Diodes](https://dl.acm.org/doi/10.1145/3300061.3345451)  

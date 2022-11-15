@@ -6,7 +6,7 @@ We illustrate a proof-of-concept, sticker-form, wireless computer that can throu
 
 ## Vision
 
-We aim to develop sticker form-factor computers with sensors and long-range wireless capabilities, together with a framework to support them in large numbers. The computers would be long lasting, perform complex computations, store data (such as image sensor data), and communicate over long distances. In addition to requiring the convergence of several engineering fields, STICORS requires significant scientific breakthroughs.
+The project aims to develop sticker form-factor computers that are equipped with sensors, processor(s), energy storage and long-range wireless capabilities, together with a framework to support them in large numbers. The computers would be long lasting, perform complex computations, store data (such as image sensor data), and communicate over long distances. In addition to requiring the convergence of several engineering fields, STICORS requires significant scientific breakthroughs.
 
 We are targetting following parameters for STICORS computers:
 

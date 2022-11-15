@@ -6,7 +6,7 @@ We illustrate a proof-of-concept, sticker-form, wireless computer that can throu
 
 ## Vision
 
-We are interested in designing wireless computers that are in a sticker form factor. They can perform complex computations, store data onboard, and communicate over long distances. It is an interdisciplinary project requiring the convergence of several areas of engineering as well as requires several significant scientific breakthroughs.
+We are interested in designing wireless computers that are in a sticker form factor. They would be able to perform complex computations, store data onboard (such as data captured from image sensor), and communicate information over very long distances.  Furthermore, these computers would be everlasting. STICORS is an interdisciplinary project requiring the convergence of several areas of engineering as well as it requires significant scientific breakthroughs.
 
 We are targetting following parameters for STICORS computers:
 

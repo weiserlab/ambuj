@@ -36,6 +36,8 @@ TBA
 
 ## Open-source Contributors
 
+## Industry Contributors
+
 ## Advisory Board
 
 TBD

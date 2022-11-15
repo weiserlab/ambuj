@@ -95,21 +95,26 @@ Authors: *Ambuj Varshney*, [Andreas Soleiman](http://ansol.se/academic), Thiemo 
 The Twenty Fifth Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2019)  
 
 4. [LoRea: A Backscatter Architecture that Achieves a Long Communication Range](https://dl.acm.org/doi/10.1145/3131672.3131691)  
+Authors: *Ambuj Varshney*, Oliver Harms, Carlos Penichet, Christian Rohner , Frederik Hermans, Thiemo Voigt  
 Fifteenth ACM Conference on Embedded Networked Sensor Systems (ACM SENSYS 2017)  
 **2019 ABB Research Award Winner**  
 
 5. [Towards wide-area backscatter networks](https://dl.acm.org/doi/10.1145/3127882.3127888)  
+Authors: *Ambuj Varshney*, Carlos Perez Penichet, Christian Rohner, Thiemo Voigt  
 ACM HotWireless (Co-located with ACM MobiCom) 2017  
 
 ### Reception
 
 1. [Two to Tango: Hybrid Light and Backscatter Networks for Next Billion Devices](https://dl.acm.org/doi/10.1145/3386901.3388918)   
+Authors: Ambuj Varshney, [Ander Galiesto](https://andergalisteo.com/), Domenico Giustiniano    
 The Eighteenth ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2020) 
 
-2. [Connecting Battery-free IoT Tags Using LED Bulbs](https://dl.acm.org/doi/10.1145/3286062.3286077)     
+2. [Connecting Battery-free IoT Tags Using LED Bulbs](https://dl.acm.org/doi/10.1145/3286062.3286077)   
+Authors: Domenico Giustiniano ,*Ambuj Varshney*, Thiemo Voigt    
 The Eighteenth ACM Workshop on Hot Topics in Networks (ACM HotNets 2019)    
 
 3. [Battery-free 802.15.4 Receiver](https://dl.acm.org/doi/10.1109/IPSN.2018.00045)    
+Authors: Carlos Perez Penichet, Claro Noda,*Ambuj Varshney*, Thiemo Voigt  
 The Seventeenth ACM/IEEE Conference on Information Processing in Sensor Networks.(ACM/IEEE IPSN 2018)    
 
 ### Processing 

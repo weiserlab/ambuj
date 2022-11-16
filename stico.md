@@ -1,12 +1,12 @@
-# STICORS: Framework to support large-scale, ubiquitous, privacy-preserving, sticker-form, everlasting computers with very long-range wireless capabilities 
-![Sticker form factor sensor](abbflexsensor.jpeg)  
-We illustrate a proof-of-concept, sticker-form, wireless computer that can through reflection and absorption of ambient wireless signals (building on LoRea (ACM SENSYS 2017)) achieve significant transmission range.
+# STICORS: Framework to support large-scale, ubiquitous, privacy-preserving, flexible-form, everlasting computers with very long-range wireless capabilities 
+![flexible form factor sensor](abbflexsensor.jpeg)  
+We illustrate a proof-of-concept, flexible-form, wireless computer that can through reflection and absorption of ambient wireless signals (building on LoRea (ACM SENSYS 2017)) achieve significant transmission range.
 
 ## Project PI: Prof. Dr. Ambuj Varshney 
 
 ## Vision
 
-The project aims to develop sticker form-factor computers that are equipped with sensors, processor(s), energy storage, HCI mechanisms and long-range wireless capabilities. Furthermore, the project also aims to design a framework to support STICORS in large numbers. STICORs would be everlasting, perform complex computations, store data on-board, and also communicate over long distances.   
+The project aims to develop flexible form-factor computers that are equipped with sensors, processor(s), energy storage, HCI mechanisms and long-range wireless capabilities. Furthermore, the project also aims to design a framework to support STICORS in large numbers. STICORs would be everlasting, perform complex computations, store data on-board, and also communicate over long distances.   
 
 STICORS is a research project with a complex engineering component. This project requires convergence of several engineering fields, including electronics, communication, computer science, and materials science. Currently, STICORS' vision is not feasible, and several scientific breakthroughs are necessary, and is also the focus of this project.
 

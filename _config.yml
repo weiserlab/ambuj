@@ -27,3 +27,5 @@ nav:
    link: "brf"
  - name: "Embedded ML"
    link: "brf"
+ - name: "Articles"
+   link: "articles"

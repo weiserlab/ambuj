@@ -4,6 +4,8 @@ is_contact: true
 ---
 # Teaching  
 
+![Image for the course](professor.png){: width="250" }
+
 ## Fall Semester 2022 (National University of Singapore)
 
 * [CS6204: Advanced Topics in Networking - Special Topics in Internet of Things](https://weiserlab.github.io/ambuj/cs6204)    

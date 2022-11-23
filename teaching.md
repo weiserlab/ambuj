@@ -4,9 +4,7 @@ is_contact: true
 ---
 # Teaching  
 
-<img src="professor.png" width="48">
-
-![Image for the course](professor.png){: width="250" }
+<img src="professor.png" height="300" width="300">
 
 ## Fall Semester 2022 (National University of Singapore)
 

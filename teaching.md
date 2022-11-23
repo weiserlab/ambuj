@@ -2,8 +2,6 @@
 layout: default
 is_contact: true
 ---
-![Image for the course](professor.png)  
-
 # Teaching  
 
 ## Fall Semester 2022 (National University of Singapore)

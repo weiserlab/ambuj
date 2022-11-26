@@ -11,7 +11,7 @@ is_contact: true
 
 We are a curiosity driven group of students, engineers and researchers interested in Wireless, Embedded systems and Intelligence, Sensing and Emerging Technologies (WEISER). We build real systems, and we often work at the intersection of the area of electronics, communication and computer science. Thus, we welcome students with background in computer science, electronics, communication, and related areas. We publish scientific results at leading  venues in the area (such as ACM MobiSys, MobiCom, SenSys, HotNets, IPSN). We have also received several awards, grants from industry, and extensive media coverage in leading publications across the world. 
 
-We are establishing a world-leading group in the area of embedded systems, wireless communications, and mobile computing. Our group is looking to expand, so we are looking to hire ambitious students and researchers for the following positions:
+We are establishing a world-leading group in the area of embedded systems, wireless communications, and mobile computing. We are hiring ambitious students and researchers for the following positions:
 
 ## Open Positions (6 NOS)  
 

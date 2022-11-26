@@ -23,7 +23,7 @@ We are establishing a world-leading group in the area of embedded systems, wirel
 
 Our research group is pursuing two major directions; STICORS and Beyond RF.
 
-STICORS: This is a multi-year ambitious project with an aim to develop framework for general purpose, flexible form factor, and ever lasting computers. These computers go much beyond classic sensor platforms, and are not at all restricted to sense-and-transmit regime of the past decade. These sensors would sense the physical world, actuate environment, interact with users, process, store and infer information, and can wireless transmit to very large distances. ß
+**STICORS:** We are starting a multi-year ambitious project with an aim to develop framework for general purpose, flexible form factor, and ever lasting computers. These computers go much beyond classic sensor platforms, and are not at all restricted to sense-and-transmit regime of the past decade of WSNs. These computers  sense the physical world, actuate environment, interact with users, process, store and infer information, and can also wireless transmit to very large distances. 
 
 Beyond RF:
 

@@ -21,6 +21,12 @@ We are establishing a world-leading group in the area of embedded systems, wirel
 
 ## Doctoral Disseration (PhD Studies) (Positions open in this round: 3 NOS)
 
+Our research group is pursuing two major directions; STICORS and Beyond RF.
+
+STICORS: This is a multi-year ambitious project with an aim to develop framework for general purpose, flexible form factor, and ever lasting computers. These computers go much beyond classic sensor platforms, and are not at all restricted to sense-and-transmit regime of the past decade. These sensors would sense the physical world, actuate environment, interact with users, process, store and infer information, and can wireless transmit to very large distances. ß
+
+Beyond RF:
+
 Following are examples of projects that can be pursued for doctoral studies:
 
 ### P1: Enabling Low-power communication for Internet of Things

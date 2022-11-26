@@ -15,10 +15,7 @@ We are establishing a world-leading group in the area of embedded systems, wirel
 
 ## Open Positions (6 NOS)  
 
-## Non-Intrusive Monitoring of Internet of Things Devices and Robots
-
-
-
+## Non-Intrusive Monitoring of Internet of Things Devices and Robots ([Jointly with NUS-NCS Research Lab](https://nus-ncs.nus.edu.sg/))
 
 
 ## Doctoral Disseration (PhD Studies) (Positions open in this round: 3 NOS)

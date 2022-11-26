@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-![Image for the course](teaching_banner.png)  
+![Image for the course](teaching_banner.jpg)  
 
 # Teaching  
 

@@ -24,7 +24,7 @@ Our multi-year project aims to design a framework that combines sensors, edge de
 
 **Skills required:** Embedded systems (such as programming microcontrollers, FPGAs), working with sensors and actuators, wireless communication (such as WiFi, Bluetooth, ZigBee) , previous experience with robot systems (such as ROS operating systems), embedded systems platforms (such as Raspberry Pi or Arduinos), machine learning frameworks (such as PyTorch, Tensorflow), and most importantly curiosity.
 
-**Please note:** These skills are not necessary but is highly desirable if you have one or more of these skills. Most importantly, you should be curious, with desire to conduct experiments and learn. We will train you during the course of the project.
+**Note:** These skills are not necessary but are highly desirable if you have one or more of these skills. Most importantly, you should be curious, with desire to conduct experiments and learn. We will train you during the project.
 
 **Available positions:** 1X Research Assistant (2X Years), and 1X Research Scientist (2X Years)
 

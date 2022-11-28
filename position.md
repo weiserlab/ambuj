@@ -22,7 +22,7 @@ We now have millions of internet of things (IoT) devices. Their numbers is to re
 
 Our multi-year project aims to design a framework that combines sensors, edge devices, and cloud processing algorithms to mitigate some of these risks. Using this system, users would be able to monitor IoT devices and robots in a very non-intrusive way and be notified of potential threats and deviant behaviour. Specifically, we focus on two use cases; robots in elderly care and healthcare settings and wireless security cameras. 
 
-**Skills required:** Embedded systems (such as programming microcontrollers, FPGAs), working with sensors and actuators, wireless communication (such as WiFi, Bluetooth, ZigBee) , previous experience with robot systems (such as ROS operating systems), embedded systems platforms (such as Raspberry Pi or Arduinos), and most importantly curiosity.
+**Skills required:** Embedded systems (such as programming microcontrollers, FPGAs), working with sensors and actuators, wireless communication (such as WiFi, Bluetooth, ZigBee) , previous experience with robot systems (such as ROS operating systems), embedded systems platforms (such as Raspberry Pi or Arduinos), machine learning frameworks (such as PyTorch, Tensorflow), and most importantly curiosity.
 
 **Please note:** These skills are not necessary but is highly desirable if you have one or more of these skills. Most importantly, you should be curious, with desire to conduct experiments and learn. We will train you during the course of the project.
 

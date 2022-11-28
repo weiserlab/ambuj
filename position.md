@@ -64,7 +64,7 @@ You can learn more about this project through some of our earlier publications.
 
 
 ## National University of Singapore 
-National University of Singapore is consistently ranked among the leading universities of the world. The computer science department (in particular) is exceptionally regarded among the topmost departments (in CS) of the world [US News](https://www.usnews.com/education/best-global-universities/computer-science) [QS Ranking](https://www.topuniversities.com/university-rankings/university-subject-rankings/2022/computer-science-information-systems) [CSRankings](https://csrankings.org/).  Nonetheless, please consider any ranking with high degree of skepticism, and make an overall reasonable assesment while making a decision about your career.
+National University of Singapore is consistently ranked among the leading universities of the world. The computer science department (in particular) is exceptionally regarded among the topmost departments (in CS) of the world: [US News](https://www.usnews.com/education/best-global-universities/computer-science), [QS Ranking](https://www.topuniversities.com/university-rankings/university-subject-rankings/2022/computer-science-information-systems), [CSRankings](https://csrankings.org/).  Nonetheless, please consider any ranking with a very high degree of skepticism, and make an overall reasonable assesment while making a decision about your career.
 
 
 ## How to apply?

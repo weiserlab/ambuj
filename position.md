@@ -32,10 +32,9 @@ Our multi-year project aims to design a framework that combines sensors, edge de
 
 Our research group is pursuing two major directions; STICORS and Beyond RF.
 
-**STICORS:** We are starting a multi-year ambitious project with an aim to develop framework for general purpose, flexible form factor, and ever lasting computers. These computers go much beyond classic sensor platforms, and are not at all restricted to sense-and-transmit regime of the past decade of WSNs. These computers  sense the physical world, actuate environment, interact with users, process, store and infer information, and can also wireless transmit to very large distances. 
+**STICORS:** We are starting a multi-year ambitious project with an aim to develop framework for general purpose, flexible form factor, and ever lasting computers. These computers go much beyond classic sensor platforms, and are not at all restricted to sense-and-transmit regime of the past decade of WSNs. These computers  sense the physical world, actuate environment, interact with users, process, store and infer information, and can also wireless transmit to very large distances building on our previous systems such as LoRea (SENSYS 2017) and Judo (MobiSys 2022). 
 
-Beyond RF:
-
+BEYOND RF
 Following are examples of projects that can be pursued for doctoral studies:
 
 ### P1: Enabling Low-power communication for Internet of Things
@@ -65,7 +64,7 @@ You can learn more about this project through some of our earlier publications.
 
 
 ## National University of Singapore 
-
+National University of Singapore is consistently ranked among the leading universities of the world. The computer science department (in particular) is exceptionally regarded among the topmost departments (in CS) of the world [US News](https://www.usnews.com/education/best-global-universities/computer-science) [QS Ranking](https://www.topuniversities.com/university-rankings/university-subject-rankings/2022/computer-science-information-systems) [CSRankings](https://csrankings.org/).  Nonetheless, please consider any ranking with high degree of skepticism, and make an overall reasonable assesment while making a decision about your career.
 
 
 ## How to apply?

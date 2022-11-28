@@ -62,7 +62,7 @@ You can learn more about this project through some of our earlier publications.
 ### P4: Going beyond smartdust with sticker form factor computers
 
 
-
+We are looking for ambitious students with good engineering backgrounds. Prior experience in embedded systems, programming, machine learning, wireless and computer networking, PCB and electronics design is beneficial, but not necessary. We are willing to work with anyone who is interested  and willing to learn.
 
 
 ## How to apply?

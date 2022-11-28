@@ -18,6 +18,15 @@ We are establishing a world-leading group in the area of embedded systems, wirel
 ## Non-Intrusive Monitoring of Internet of Things Devices and Robots   
 ([Jointly with NUS-NCS Research Lab](https://nus-ncs.nus.edu.sg/))
 
+We now have millions of internet of things (IoT) devices. Their number is to reach a trillion within our lifetime. The deployment of robots is also snowballing. Sensors, actuators, and wireless communication capabilities are built into them. Currently, these devices are ubiquitous in the environment, collecting private and sensitive information without monitoring. Due to their ability to move around, act on their surroundings, and collect sensitive data that may be unavailable to traditional sensors, the threat is even more heightened with robots.
+
+Our multi-year project aims to design a framework that combines sensors, edge devices, and cloud processing algorithms to mitigate some of these risks. Using this system, users would be able to monitor IoT devices and robots in a very non-intrusive way and be notified of potential threats and deviant behaviour. Specifically, we focus on two use cases; robots in elderly care and healthcare settings and wireless security cameras. 
+
+**Skills required:** Embedded systems (such as programming microcontrollers, FPGAs), working with sensors and actuators, wireless communication, previous experience with robot systems (such as ROS operating systems), embedded systems platforms such as Raspberry Pi or Arduinos etc.
+
+**Please note:** These skills are not necessary but is highly desirable if you have one or more of these skills. We will train you during the course of the project.
+
+**Available positions:** 1X Research Assistant (2X Years), and 1X Research Scientist (2X Years)
 
 ## Doctoral Disseration (PhD Studies) (Positions open in this round: 3 NOS)
 

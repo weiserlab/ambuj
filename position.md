@@ -18,7 +18,7 @@ We are establishing a world-leading group in the area of embedded systems, wirel
 ## P1: Non-Intrusive Monitoring of Internet of Things Devices and Robots   
 ([Jointly with NUS-NCS Research Lab](https://nus-ncs.nus.edu.sg/))
 
-We now have millions of internet of things (IoT) devices. Their numbers is to reach a trillion within our lifetime. The deployment of robots is also snowballing. Sensors, actuators, and wireless communication capabilities are built into them. Currently, these devices are ubiquitous in the environment, collecting private and sensitive information without monitoring. Due to their ability to move around, act on their surroundings, and collect sensitive data that may be unavailable to sensors, the threat is heightened with robots.
+We now have millions of internet of things (IoT) devices. Their numbers is to reach a trillion within our lifetime. The deployment of robots is also snowballing. Sensors, actuators, and wireless communication capabilities are built into them. Currently, these devices are ubiquitous in the environment, collecting private and sensitive information without external supervision. Due to their ability to move around, act on their surroundings, and collect sensitive data that may be unavailable to sensors, the threat is heightened with robots.
 
 Our multi-year project aims to design a framework that combines sensors, edge devices, and cloud processing algorithms to mitigate some of these risks. Using this system, users would be able to monitor IoT devices and robots in a very non-intrusive way and be notified of potential threats and deviant behaviour. Specifically, we focus on two use cases; robots in elderly care and healthcare settings and wireless security cameras. 
 

@@ -15,7 +15,7 @@ We are establishing a world-leading group in the area of embedded systems, wirel
 
 **Skills required:** Embedded systems (such as programming microcontrollers, FPGAs), working with sensors and actuators, wireless communication (such as WiFi, Bluetooth, ZigBee) , previous experience with robot systems (such as ROS operating systems), embedded systems platforms (such as Raspberry Pi or Arduinos), machine learning frameworks (such as PyTorch, Tensorflow), and most importantly curiosity.
 
-**Note:** These skills are not necessary, it is only desirable if you have one or more of these skills. Most importantly, you should be curious, with desire to conduct experiments and learn. We will train you during the project.
+**Note:** These skills are not necessary, it is only desirable if you have one or more of these skills. Most importantly, you should be curious, have desire to conduct experiments and learn. We will train you.
 
 ## Open Positions (6 NOS)  
 

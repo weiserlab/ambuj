@@ -79,7 +79,7 @@ Resarch Scientist:
 ----
 ## Singapore 
 
-Located in southeast asia, Singapore is both a financial and cultural hub. It offers a unique bled of east and west. As one of the wealthiest countries in the world, it has a high per capita income, and a very high quality of life. The city is extremely safe and has an excellent access (direct flights) to major world centres. Furthermore, the salaries offered in Singapore are among the highest in the world and with low tax-rate. Many major corporations in the world have their centers located in the city, offering rich career opportunities.
+Located in southeast asia, Singapore is both a financial and cultural hub. It offers a unique blend of east and west. Singapore is extremely safe, it has a high per capita income, and a very high quality of life. Furthermore, Singapore has progressive immigration policies, and offers excellent access (direct flights) to major world centres. Furthermore, the salaries offered in Singapore are among the highest in the world with very low tax-rate. It is a hub for startup activities. Many major corporations in the world have their centers located in the city, offering rich career opportunities.
 
 ----
 ## National University of Singapore 

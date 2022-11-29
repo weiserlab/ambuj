@@ -82,7 +82,7 @@ Resarch Scientist:
 National University of Singapore is consistently ranked among the leading universities of the world. The computer science department (in particular) is exceptionally regarded among the topmost departments of the world. Nonetheless, please consider any ranking with a very high degree of skepticism, and buckets of salt, and please make an overall reasonable assesment.
 
 
-| Ranking  | SoC/NUS Position (2022) |
+| Ranking  | SoC/NUS Position Globally (2022) |
 |-------|--------|---------|
 | [US News Rankings](https://www.usnews.com/education/best-global-universities/computer-science) | 7 |
 | [QS Ranking](https://www.topuniversities.com/university-rankings/university-subject-rankings/2022/computer-science-information-systems) | 6 |

@@ -70,12 +70,12 @@ We are looking for ambitious students with good engineering backgrounds. Prior e
 ## How to apply?
 
 
-Research Associate/Assistant: These positions are for students who have completed bachelors or masters degree. These are paid positions wit
+----
+## Regarding Positions
 
-Research Interns:
+**Research Assistant:** Student without a PhD degree can apply for these positions. These are typically students with bachelor's or master's degrees looking for experience working on research projects. These positions expose students to quality research and allow them to decide whether they want to pursue PhD studies. As a result, students are more competitive when applying to top universities for PhD studies. Typical salary/stipend: 5000 to 6000 SGD per month.
 
-Resarch Scientist:
-
+**Research Scientst:**
 
 ----
 ## National University of Singapore 
@@ -92,6 +92,6 @@ National University of Singapore is consistently ranked among the leading univer
 
 ----
 ## Singapore 
-Located in southeast asia, Singapore is both a financial and cultural hub. It offers a unique blend of east and west. Singapore is extremely safe, it has a high per capita income, and a very high quality of life. Furthermore, Singapore has progressive immigration policies, merit based multicultural society, and offers excellent access (direct flights) to major world centres. The salaries offered in Singapore are among the highest in the world (including in academia) with very low tax-rate. With a great startup ecosystem, most major corporations in the world have their centers located in the city as well. Thus, Singapore offers very rich career prospects to graduating students, and also prepares students for opportunities elsewhere in the world.
+Located in southeast asia, Singapore is both a financial and cultural hub. It offers a unique blend of east and west. Singapore is extremely safe, it has a highest per capita income, and a very high quality of life. Furthermore, Singapore has progressive immigration policies, merit based multicultural society, and offers excellent access (direct flights) to major world centres. The salaries offered in Singapore are among the highest in the world (including in academia) with very low tax-rate. With a great startup ecosystem, most major corporations in the world have their centers located in the city as well. Thus, Singapore offers very rich career prospects to graduating students, and also prepares students for opportunities elsewhere in the world.
 
 ----

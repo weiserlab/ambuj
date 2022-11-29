@@ -57,7 +57,7 @@ You can learn more about this project through some of our earlier publications.
 
 **Skills required:**
 
-
+ 
 ### P3: Enabling system support for everlasting internet of things
 
 

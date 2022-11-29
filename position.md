@@ -76,11 +76,12 @@ Research Interns:
 
 Resarch Scientist:
 
-----
-## Singapore 
-
-Located in southeast asia, Singapore is both a financial and cultural hub. It offers a unique blend of east and west. Singapore is extremely safe, it has a high per capita income, and a very high quality of life. Furthermore, Singapore has progressive immigration policies, and offers excellent access (direct flights) to major world centres. Furthermore, the salaries offered in Singapore are among the highest in the world with very low tax-rate. It is a hub for startup activities. Many major corporations in the world have their centers located in the city, offering rich career opportunities.
 
 ----
 ## National University of Singapore 
 National University of Singapore is consistently ranked among the leading universities of the world. The computer science department (in particular) is exceptionally regarded among the topmost departments (in CS) of the world: [US News Rankings](https://www.usnews.com/education/best-global-universities/computer-science), [QS Ranking](https://www.topuniversities.com/university-rankings/university-subject-rankings/2022/computer-science-information-systems), [CSRankings](https://csrankings.org/), [Shanghai Ranking](https://www.shanghairanking.com/rankings/gras/2022/RS0210), [Times Higher Education](https://www.timeshighereducation.com/world-university-rankings/2022/subject-ranking/computer-science).  Nonetheless, please consider any ranking with a very high degree of skepticism, and make an overall reasonable assesment.
+
+----
+## Singapore 
+
+Located in southeast asia, Singapore is both a financial and cultural hub. It offers a unique blend of east and west. Singapore is extremely safe, it has a high per capita income, and a very high quality of life. Furthermore, Singapore has progressive immigration policies, and offers excellent access (direct flights) to major world centres. Furthermore, the salaries offered in Singapore are among the highest in the world with very low tax-rate. It is a hub for startup activities. Many major corporations in the world have their centers located in the city, offering rich career opportunities.

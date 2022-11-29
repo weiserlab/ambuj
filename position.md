@@ -17,6 +17,9 @@ We are establishing a world-leading group in the area of embedded systems, wirel
 
 **Note:** These skills are not necessary, it is only desirable if you have one or more of these skills. Most importantly, you should be curious, have desire to conduct experiments and learn. We will train you.
 
+
+We are located at the Systems and Networking lab in the new [computer science building Computing 3(COM3)](https://com3.comp.nus.edu.sg/).
+
 ## Open Positions (6 to 8 NOS)  
 
 ## P1: Non-Intrusive Monitoring of Internet of Things Devices and Robots   
@@ -30,6 +33,8 @@ Our multi-year project aims to design a framework that combines sensors, edge de
 
 ## P2: Low-Power Wireless Sensing using Tunnel Diodes
 
+**Available positions:** 1X Research Assistant (1X Years), and 1X Research Scientist (1X Years)
+
 ## Doctoral Disseration (PhD Studies) (Positions open in this round: 3 NOS)
 
 Our research group is pursuing two major directions; STICORS and Beyond RF.
@@ -41,26 +46,26 @@ Our research group is pursuing two major directions; STICORS and Beyond RF.
 
 Following are examples of projects that can be pursued for doctoral studies:
 
-### P1: Enabling Low-power communication for Internet of Things
+### P1: Enabling Low-power communication for Internet of Things (STICORS)
 
 A challenge to  rapid growth in IoT device numbers is their energy consumption. Batteries play a crucial role in IoT devices since they are highly power-intensive. Most IoT devices today require battery replacement several times during their lifetime. This can be challenging due to IoT devices being deployed at enormous scale, often located in hard-to-reach places.  Energy-intensive wireless transceivers are the primary reason for the high power consumption of IoT devices.
 
 Using tunnel diodes and backscatter mechanisms, we have developed very low-power transmitters for tackling the energy challenge. This  project goes beyond our previous efforts. To enhance the reliability of transmissions and receptions, we would look to use various spreading and coding mechanisms. Another pertinent issue we aim to address is reception. Low-power receivers today have limited capabilities, and they must catch up with low-power transmitters. In this project, we aim to go beyond current low-power receivers (envelope detectors).  Our goal is to design transceivers that can transmit and receive hundreds of meters at a few hundred kilobits while consuming less than 100 microwatts. Comparing this to commercial transceivers, this would be an order of magnitude improvement. With this project, IoT devices are capable of lasting their entire lives without replacing batteries, or operating without batteries from energy harvested from the environment. 
 
-### P2: Hyperscale sensing via low-power, computation-less IoT platforms
+### P2: Hyperscale sensing via low-power, computation-less IoT platforms (STICORS)
 
 Millions of internet of things devices have been deployed over the past decades. A challenge to this rapid growth is IoT devices' energy consumption. Most IoT devices today are power-consuming and require battery replacement several times during their lifetime. They are often located in hard-to-reach places, making this challenging task. Therefore, it is essential to reduce the power consumption of IoT devices so that they can operate for long periods without requiring a change of batteries or even enable them to operate on energy harvested from environment (such as light through a solar cell).
 
-As part of our earlier research, we have explored alternative IoT device architectures that eliminate computational units to tackle the energy challenge of IoT devices. In this architecture, sensors are directly coupled to a low-power backscatter radio or tunnel diode transmitter (bypassing microcontrollers), thus enabling sensing and communication at microwatts of power. In this project, we build on these promising early results and aim to design sensors that perform very little or no computation. Instead, most of the processing tasks are delegated to edge devices. As part of this project, we will design a generic sensor platform. The next step is to explore how these sensors interact with edge devices and design associated infrastructure on edge devices. Finally, we would investigate scaling and supporting large numbers of these sensors and edge devices. These sensors could last a decade on a coin cell battery or only operate on harvested energy from the environment. We are looking for students with experience in embedded systems and wireless communication. 
- 
-### P3: Enabling system support for everlasting internet of things
-
+As part of our earlier research, we have explored alternative IoT device architectures that eliminate computational units to tackle the energy challenge of IoT devices. In this architecture, sensors are directly coupled to a low-power backscatter radio or tunnel diode transmitter (bypassing microcontrollers), thus enabling sensing and communication at microwatts of power. In this project, we build on these promising early results and aim to design sensors that perform very little or no computation. Instead, most of the processing tasks are delegated to edge devices. As part of this project, we will design a generic sensor platform. The next step is to explore how these sensors interact with edge devices and design associated infrastructure on edge devices. Finally, we would investigate scaling and supporting large numbers of these sensors and edge devices. These sensors could last a decade on a coin cell battery or only operate on harvested energy from the environment. 
 
 ### P4: Going beyond smartdust with sticker form factor computers
-
-
 We are looking for ambitious students with good engineering backgrounds. Prior experience in embedded systems, programming, machine learning, wireless and computer networking, PCB and electronics design is beneficial, but not necessary. We are willing to work with anyone who is interested  and willing to learn.
 
+
+### P5: Designing Hybrid LiFi and Radio Frequency Systems (Beyond RF)
+
+
+### P6:
 
 ## How to apply?
 

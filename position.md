@@ -32,7 +32,7 @@ Our multi-year project aims to design a framework that combines sensors, edge de
 
 Our research group is pursuing two major directions; STICORS and Beyond RF.
 
-**STICORS:** We are starting a multi-year ambitious project with an aim to develop framework for general purpose, flexible form factor, and ever lasting computers. These computers go much beyond classic sensor platforms, and are not at all restricted to sense-and-transmit regime of the past decade of WSNs. These computers  sense the physical world, actuate environment, interact with users, process, store and infer information, and can also wireless transmit to very large distances building on our previous systems such as LoRea (SENSYS 2017) and Judo (MobiSys 2022). 
+[**STICORS:**](https://weiserlab.github.io/ambuj/stico) We are starting a multi-year ambitious project to develop a framework for general purpose, flexible form factor, and ever-lasting computers. These computers will go beyond classic sensor platforms and are not restricted to the sense-and-transmit regime of the past decade of WSNs. Instead, these computers sense the physical world, actuate the environment, interact with users, process, store and infer information, and transmit wirelessly to considerable distances, building on our previous systems such as LoRea (ACM SENSYS 2017) and Judo (ACM MOBISYS 2022). 
 
 BEYOND RF
 Following are examples of projects that can be pursued for doctoral studies:

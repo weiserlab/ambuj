@@ -86,7 +86,7 @@ National University of Singapore is consistently ranked among the leading univer
 |-------|--------|---------|
 | [US News Rankings](https://www.usnews.com/education/best-global-universities/computer-science) | 7 |
 | [QS Ranking](https://www.topuniversities.com/university-rankings/university-subject-rankings/2022/computer-science-information-systems) | 6 |
-| [CSRankings](https://csrankings.org/) |   |
+| [CSRankings](https://csrankings.org/) |  15 |
 | [Shanghai Ranking](https://www.shanghairanking.com/rankings/gras/2022/RS0210) | 13 |
 | [Times Higher Education](https://www.timeshighereducation.com/world-university-rankings/2022/subject-ranking/computer-science) | 8 |
 

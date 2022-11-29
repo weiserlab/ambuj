@@ -73,9 +73,9 @@ We are looking for ambitious students with good engineering backgrounds. Prior e
 ----
 ## Regarding Positions
 
-**Research Assistant:** Student without a PhD degree can apply for these positions. These are typically students with bachelor's or master's degrees looking for experience working on research projects. These positions expose students to quality research and allow them to decide whether they want to pursue PhD studies. As a result, students are more competitive when applying to top universities for PhD studies. Typical salary/stipend: 5000 to 6000 SGD per month.
+**Research Assistant:** Student without a PhD degree can apply for these positions. These are typically students with bachelor's or master's degrees looking for experience working on research projects. These positions expose students to quality research and allow them to decide whether they want to pursue PhD studies. As a result, students are more competitive when applying to top universities for PhD studies. Typical salary: 5000 to 6000 SGD/month.
 
-**Research Scientst:**
+**Research Scientist:** 
 
 ----
 ## National University of Singapore 

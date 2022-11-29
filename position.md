@@ -34,7 +34,9 @@ Our research group is pursuing two major directions; STICORS and Beyond RF.
 
 **STICORS:** We are starting a multi-year ambitious project with an aim to develop framework for general purpose, flexible form factor, and ever lasting computers. These computers go much beyond classic sensor platforms, and are not at all restricted to sense-and-transmit regime of the past decade of WSNs. These computers  sense the physical world, actuate environment, interact with users, process, store and infer information, and can also wireless transmit to very large distances building on our previous systems such as LoRea (SENSYS 2017) and Judo (MobiSys 2022). 
 
-BEYOND RF
+**BEYOND RF:** This research direction looks to develop alternative to conventional and widely used methods of wireless communication for Internet of Things (IoT) devices. Motiviation of this direction is due to growing scale of IoT devices and their energy challenge due to significant power consumption of existing radio technology.
+
+
 Following are examples of projects that can be pursued for doctoral studies:
 
 ### P1: Enabling Low-power communication for Internet of Things
@@ -73,6 +75,11 @@ Research Associate/Assistant: These positions are for students who have complete
 Research Interns:
 
 Resarch Scientist:
+
+----
+## Singapore 
+
+Located in southeast Asia, Singapore is both a financial and cultural hub. It offers a unique combination at the crossroads of east and west. As one of the wealthiest countries in the world, it has a high per capita income and a very high quality of life. The city is extremely safe and has excellent access to major world centres. Furthermore, the salaries offered in Singapore are among the highest in the world and with low tax-rate.
 
 ----
 ## National University of Singapore 

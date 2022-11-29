@@ -13,6 +13,10 @@ We are a curiosity driven group of students, engineers and researchers intereste
 
 We are establishing a world-leading group in the area of embedded systems, wireless communications, and mobile computing. We are hiring ambitious students and researchers for the following positions:
 
+**Skills required:** Embedded systems (such as programming microcontrollers, FPGAs), working with sensors and actuators, wireless communication (such as WiFi, Bluetooth, ZigBee) , previous experience with robot systems (such as ROS operating systems), embedded systems platforms (such as Raspberry Pi or Arduinos), machine learning frameworks (such as PyTorch, Tensorflow), and most importantly curiosity.
+
+**Note:** These skills are not necessary, it is desirable if you have one or more of these skills. Most importantly, you should be curious, with desire to conduct experiments and learn. We will train you during the project.
+
 ## Open Positions (6 NOS)  
 
 ## P1: Non-Intrusive Monitoring of Internet of Things Devices and Robots   
@@ -21,10 +25,6 @@ We are establishing a world-leading group in the area of embedded systems, wirel
 We have millions of internet of things (IoT) devices. Their numbers is to reach a trillion within our lifetime. The deployment of robots is also snowballing. Sensors, actuators, and wireless communication capabilities are built into them. Currently, these devices are ubiquitous in the environment, collecting private and sensitive information without external supervision. Due to their ability to move around, act on their surroundings, and collect sensitive data that may be unavailable to sensors, the threat is heightened with robots.
 
 Our multi-year project aims to design a framework that combines sensors, edge devices, and cloud processing algorithms to mitigate some of these risks. Using this system, users would be able to monitor IoT devices and robots in a very non-intrusive way and be notified of potential threats and deviant behaviour. Specifically, we focus on two use cases; robots in elderly care and healthcare settings and wireless security cameras. 
-
-**Skills required:** Embedded systems (such as programming microcontrollers, FPGAs), working with sensors and actuators, wireless communication (such as WiFi, Bluetooth, ZigBee) , previous experience with robot systems (such as ROS operating systems), embedded systems platforms (such as Raspberry Pi or Arduinos), machine learning frameworks (such as PyTorch, Tensorflow), and most importantly curiosity.
-
-**Note:** These skills are not necessary, it is desirable if you have one or more of these skills. Most importantly, you should be curious, with desire to conduct experiments and learn. We will train you during the project.
 
 **Available positions:** 1X Research Assistant (2X Years), and 1X Research Scientist (2X Years)
 

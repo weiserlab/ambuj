@@ -17,7 +17,7 @@ We are establishing a world-leading group in the area of embedded systems, wirel
 
 **Note:** These skills are not necessary, it is only desirable if you have one or more of these skills. Most importantly, you should be curious, have desire to conduct experiments and learn. We will train you.
 
-## Open Positions (6 NOS)  
+## Open Positions (6 to 8 NOS)  
 
 ## P1: Non-Intrusive Monitoring of Internet of Things Devices and Robots   
 ([Jointly with NUS-NCS Research Lab](https://nus-ncs.nus.edu.sg/))

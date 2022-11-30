@@ -49,7 +49,7 @@ Authors: *Ambuj Varshney*, Lorenzo Corneo
 The Twenty Sixth Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2020)  
 
 3. [TunnelScatter: Low Power Communication for Sensor Tags using Tunnel Diodes](https://dl.acm.org/doi/10.1145/3300061.3345451)  
-Authors: *Ambuj Varshney*, [Andreas Soleiman](http://ansol.se/academic), Thiemo Voigt  
+Authors: *Ambuj Varshney*, Andreas Soleiman, Thiemo Voigt  
 The Twenty Fifth Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2019) 
 
 

@@ -32,8 +32,24 @@ Our multi-year project aims to design a framework that combines sensors, edge de
 **Available positions:** 1X Research Assistant (2X Years), and 1X Research Scientist (2X Years)
 
 ## P2: Low-Power Wireless Sensing using Tunnel Diodes
+We interact with wireless signals every day. WiFi, for example, allows us to connect our electronic devices to the internet, whereas cellular signals allow us to use our smartphones. In addition to communication, wireless signals can also be used for other purposes. Signals can be reflected or refracted by macroscopic objects in the environment. Reflected signals from our body result in reflections that provide us with additional information about our bodies. For example, we may be able to learn information about our heartbeat and respiration rate when it reflects through our chests. 
 
-Wireless signals are all around us
+Our breakthroughs over the past few years have enabled us to generate wireless signals while consuming 1000X less power than smartphones and WiFi routers. Early results show that this can be used for sensing. For example, we demonstrated that it could be used to detect gestures via hand movements [MOBICOM 2022, Poster]. As part of this project, we would like to build on our promising results, and design a very low complexity, low power, breath and heart rate sensor. Compared to existing systems, this system would consume considerably less power at very low complexity.
+
+You may find our following publication useful to learn about this research direction:
+
+1. [POSTER: Enabling L3: Low Cost, Low Complexity and Low Power Radio Frequency Sensing using Tunnel Diodes]()  
+Authors: Wenqing Yan,  *Ambuj Varshney*  
+The Twenty Eight Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2022)  
+
+2. [TunnelEmitter:Tunnel Diode based Low-Power Carrier Emitters for Backscatter Tags](https://dl.acm.org/doi/10.1145/3372224.3419199)  
+Authors: *Ambuj Varshney*, Lorenzo Corneo  
+The Twenty Sixth Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2020)  
+
+3. [TunnelScatter: Low Power Communication for Sensor Tags using Tunnel Diodes](https://dl.acm.org/doi/10.1145/3300061.3345451)  
+Authors: *Ambuj Varshney*, [Andreas Soleiman](http://ansol.se/academic), Thiemo Voigt  
+The Twenty Fifth Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2019) 
+
 **Available positions:** 1X Research Assistant (1X Years), and 1X Research Scientist (1X Years)
 
 ## Doctoral Disseration (PhD Studies) (Positions open in this round: 3 NOS)

@@ -140,7 +140,8 @@ In this research direction, we are looking at go beyond our previous effort and 
 
 You should send an email indicating which project you are interested in, your CV, and any other document that you think will make your profile stand out. Please send these documents to: [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg)
 
-**PhD admission:** PhD admission process at SoC@NUS is centralised. Thus, please apply for PhD position by following the instructions at the folowing page: [NUS PhD Admission Process](https://www.comp.nus.edu.sg/programmes/pg/phdcs/), [Application page](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/)  
+**PhD admission:** PhD admission process at SoC@NUS is centralised. Please list me as potential advisor in your application. Thus, please apply for PhD position by following the instructions at the folowing page: [NUS PhD Admission Process](https://www.comp.nus.edu.sg/programmes/pg/phdcs/), [Application page](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/)  
+
 
 
 ### Please note the deadline for PhD application: 15th December 2022

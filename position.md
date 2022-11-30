@@ -13,7 +13,7 @@ We are a curiosity driven group of students, engineers and researchers intereste
 
 We are establishing a world-leading group in the area of embedded systems, wireless communications, and mobile computing. We are hiring ambitious students and researchers for the following positions:
 
-**Skills required:** We are looking for students and scholars with a strong engineering background. With background in one or more of the following area: Embedded systems (such as programming microcontrollers, FPGAs), working with sensors and actuators, wireless communication (such as WiFi, Bluetooth, ZigBee) , previous experience with robot systems (such as ROS operating systems), embedded systems platforms (such as Raspberry Pi or Arduinos), machine learning frameworks (such as PyTorch, Tensorflow), and most importantly curiosity.
+**Skills required:** We are looking for students and scholars with a strong engineering background. With background in one or more of the following area: Embedded systems (such as programming microcontrollers, FPGAs), working with sensors and actuators, wireless communication (such as WiFi, Bluetooth, ZigBee) , previous experience with robot systems (such as ROS operating systems), embedded systems platforms (such as Raspberry Pi or Arduinos), PCB design and fabrication, 3D printing,  machine learning frameworks (such as PyTorch, Tensorflow), and most importantly curiosity.
 
 **Note:** These skills are not necessary, it is only desirable if you have one or more of these skills. Most importantly, you should be curious, have desire to conduct experiments and learn. We will train you.
 

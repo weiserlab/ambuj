@@ -61,7 +61,7 @@ Our research group is pursuing two major directions; STICORS and Beyond RF.
 
 [**BEYOND RF:**](https://weiserlab.github.io/ambuj/brf) As part of this research direction, we are developing an alternative to conventional and widely used wireless communication methods for Internet of Things (IoT) devices. The growing scale of IoT devices motivates this direction, resulting in energy and spectrum challenges. This direction includes projects such as a system that uses; 1) visible light (LiFi) for communication to avoid the RF spectrum altogether. 2) Tunnel diode and backscatter transmitters use orders of magnitude less energy than commercial transmitters. 3) Using electronically steerable directional antennas in IoT devices to maximize spectrum efficiency. 
 
-**Available positions:**  6X students fully supported for four years (3X in this admission round)
+**Available positions:**  6X students fully supported for four years (3X in this admission round) (4X Years)
 
 Following are examples of projects that can be pursued for doctoral studies:
 
@@ -86,6 +86,12 @@ The Twenty Sixth Annual International Conference On Mobile Computing And Network
 4. [Battery-free 802.15.4 Receiver](https://dl.acm.org/doi/10.1109/IPSN.2018.00045)  
 Authors: Carlos Perez Penichet, Claro Noda,*Ambuj Varshney*, Thiemo Voigt  
 The Seventeenth ACM/IEEE Conference on Information Processing in Sensor Networks.(ACM/IEEE IPSN 2018)  
+
+
+5. [LoRea: A Backscatter Architecture that Achieves a Long Communication Range](https://dl.acm.org/doi/10.1145/3131672.3131691)  
+Authors: *Ambuj Varshney*, Oliver Harms, Carlos Penichet, Christian Rohner , Frederik Hermans, Thiemo Voigt  
+Fifteenth ACM Conference on Embedded Networked Sensor Systems (ACM SENSYS 2017)  
+**2019 ABB Research Award Winner**  
 
 ### P4: Hyperscale sensing via low-power, computation-less Internet of Things platforms 
 
@@ -132,7 +138,7 @@ In this research direction, we are looking at go beyond our previous effort and 
 ----
 ## How to apply?
 
-You should send an email indicating which project you are interested in, your CV, and any other documents you think will make your profile stand out. Please send these documents to: [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg)
+You should send an email indicating which project you are interested in, your CV, and any other document that you think will make your profile stand out. Please send these documents to: [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg)
 
 **PhD admission:** PhD admission process at SoC@NUS is centralised. Thus, please apply for PhD position by following the instructions at the folowing page: [NUS PhD Admission Process](https://www.comp.nus.edu.sg/programmes/pg/phdcs/), [Application page](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/)  
 
@@ -148,7 +154,7 @@ You should send an email indicating which project you are interested in, your CV
 
 ----
 ## National University of Singapore 
-National University of Singapore is consistently ranked among the leading universities of the world. The computer science department (in particular) is exceptionally regarded among the topmost departments of the world. Nonetheless, please consider any ranking with a very high degree of skepticism, and buckets of salt, and please make an overall reasonable assesment about choices that are best for you and your career.
+National University of Singapore is consistently ranked among the leading universities of the world. The computer science department (in particular) is exceptionally regarded among the topmost departments of the world. Nonetheless, please consider any ranking with a very high degree of skepticism,  and please make an overall reasonable assesment about career choices that are best for you.
 
 
 | Ranking  | SoC/NUS Position Globally (2022) |

@@ -140,7 +140,7 @@ In this research direction, we are looking at go beyond our previous effort and 
 
 You should send an email indicating which project you are interested in, your CV, and any other document that you think will make your profile stand out. Please send these documents to: [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg)
 
-**PhD admission:** PhD admission process at SoC@NUS is centralised. Please list me as potential advisor in your application. Thus, please apply for PhD position by following the instructions at the folowing page: [NUS PhD Admission Process](https://www.comp.nus.edu.sg/programmes/pg/phdcs/), [Application page](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/)  
+**PhD admission:** PhD admission process at SoC@NUS is centralised. Thus, please apply for PhD position by following the instructions at the folowing page: [NUS PhD Admission Process](https://www.comp.nus.edu.sg/programmes/pg/phdcs/), [Application page](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/)  
 
 
 **Please note:** Even though GRE is part of the admission requirement. We may consider some applications despite not having a GRE score. Hence, pleae consider applying to the program even if you don't have a GRE score.

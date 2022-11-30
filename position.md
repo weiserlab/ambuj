@@ -69,18 +69,15 @@ A challenge to  rapid growth in IoT device numbers is their energy consumption. 
 
 Using tunnel diodes and backscatter mechanisms, we have developed very low-power transmitters for tackling the energy challenge. This  project goes beyond our previous efforts. To enhance the reliability of transmissions and receptions, we would look to use various spreading and coding mechanisms. Another pertinent issue we aim to address is reception. Low-power receivers today have limited capabilities, and they must catch up with low-power transmitters. In this project, we aim to go beyond current low-power receivers (envelope detectors).  Our goal is to design transceivers that can transmit and receive hundreds of meters at a few hundred kilobits while consuming less than 100 microwatts. Comparing this to commercial transceivers, this would be an order of magnitude improvement. With this project, IoT devices would be capable of lasting their entire lives without replacing batteries, or operating without batteries from energy harvested from the environment. 
 
-### P2: Hyperscale sensing via low-power, computation-less IoT platforms 
+### P4: Hyperscale sensing via low-power, computation-less Internet of Things platforms 
 
 As part of our earlier research, we have explored alternative IoT device architectures that eliminate computational units to tackle the energy challenge of IoT devices. In this architecture, sensors are directly coupled to a low-power backscatter radio or tunnel diode transmitter (bypassing microcontrollers), thus enabling sensing and communication at microwatts of power. In this project, we build on these promising early results and aim to design sensors that perform very little or no computation. Instead, most of the processing tasks are delegated to edge devices. As part of this project, we will design a generic sensor platform. The next step is to explore how these sensors interact with edge devices and design associated infrastructure on edge devices. Finally, we would investigate scaling and supporting large numbers of these sensors and edge devices. These sensors could last a decade on a coin cell battery or only operate on harvested energy from the environment. 
 
-### P4: Going beyond smartdust with sticker form factor computers
-We are looking for ambitious students with good engineering backgrounds. Prior experience in embedded systems, programming, machine learning, wireless and computer networking, PCB and electronics design is beneficial, but not necessary. We are willing to work with anyone who is interested  and willing to learn.
+### P5: Designing sticker form factor internet of things platformrn
 
+### P6: Designing Hybrid LiFi and Radio Frequency Systems (Beyond RF)
 
-### P5: Designing Hybrid LiFi and Radio Frequency Systems (Beyond RF)
-
-
-### P6:
+### P7: System support for networks of backscatter platfomrs
 
 ----
 ## How to apply?

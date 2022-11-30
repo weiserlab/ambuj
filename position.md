@@ -87,13 +87,11 @@ We are looking for ambitious students with good engineering backgrounds. Prior e
 ----
 ## How to apply?
 
-Please send an email indicating the project you are interested in, a copy of your CV, and any other document that you consider would make your profile stand out. Send these documents to the following address: [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg)
+You should send an email indicating which project you are interested in, your CV, and any other documents you think will make your profile stand out. Please send these documents to: [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg)
 
-Admission process at SoC@NUS is centralised. Thus, please apply for PhD position by following the instructions at the following page:
+**PhD admission:** PhD admission process at SoC@NUS is centralised. Thus, please apply for PhD position by following the instructions at the folowing page: [NUS PhD Admission Process](https://www.comp.nus.edu.sg/programmes/pg/phdcs/)
 
-[NUS PhD Admission Process](https://www.comp.nus.edu.sg/programmes/pg/phdcs/)
-
-### Please note deadline for PhD application: 15th December 2022
+### Please note the deadline for PhD application: 15th December 2022
 
 ----
 ## Regarding Positions

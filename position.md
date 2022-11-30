@@ -61,6 +61,8 @@ Our research group is pursuing two major directions; STICORS and Beyond RF.
 
 [**BEYOND RF:**](https://weiserlab.github.io/ambuj/brf) As part of this research direction, we are developing an alternative to conventional and widely used wireless communication methods for Internet of Things (IoT) devices. The growing scale of IoT devices motivates this direction, resulting in energy and spectrum challenges. This direction includes projects such as a system that uses; 1) visible light (LiFi) for communication to avoid the RF spectrum altogether. 2) Tunnel diode and backscatter transmitters use orders of magnitude less energy than commercial transmitters. 3) Using electronically steerable directional antennas in IoT devices to maximize spectrum efficiency. 
 
+**Available positions:**  6X students fully supported for four years (3X in this admission round)
+
 Following are examples of projects that can be pursued for doctoral studies:
 
 ### P3: Enabling Low-power communication for Internet of Things 
@@ -140,9 +142,9 @@ You should send an email indicating which project you are interested in, your CV
 ----
 ## Regarding Positions
 
-**Research Assistant:** Scholars without a PhD degree may apply for this position. Typically, this means having bachelor's/master's degrees. This position enables scholars to conduct quality research, and decide if they would want to pursue PhD studies. This experience allows students to be more competitive for applications for PhD studies at leading universities. Typical salary: 5000 to 6000 SGD/month
+**Research Assistant:** Scholars without a PhD degree may apply for these positions. Typically, this means having bachelor's/master's degrees. This position enables scholars to conduct quality research, and decide if they would want to pursue PhD studies. This research experience allows scholars to be more competitive for applications for PhD studies at leading universities. Typical salary: 5000 to 6000 SGD/month
 
-**Research Scientist:** This position is for scholars who have recently graduated with a PhD degree in areas such as electronics, communication and computer science. It is fully funded position that is equivalent to being a postdoctoral scholar. Typical salary: above 7000 SGD/month based on qualification and merit.
+**Research Scientist:** These positions are for scholars who have recently graduated with a PhD degree in areas such as electronics, communication and computer science. They are fully funded position that are equivalent to being a postdoctoral scholar. Typical salary: above 7000 SGD/month based on qualification and merit.
 
 ----
 ## National University of Singapore 

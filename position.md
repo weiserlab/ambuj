@@ -94,7 +94,7 @@ You should send an email indicating which project you are interested in, your CV
 
 **Research Assistant:** Scholars without a PhD degree may apply for this position. Typically, this means having bachelor's/master's degrees. This position enables scholars to conduct quality research, and decide if they would want to pursue PhD studies. This experience allows students to be more competitive for applications for PhD studies at leading universities. Typical salary: 5000 to 6000 SGD/month
 
-**Research Scientist:** This position is for scholars who have recently graduated with a PhD degree in areas such as electronics, communication and computer science. It is fully funded position that is equivalent to being a postdoctoral scholar. Typical salary: above 7000 SGD/month
+**Research Scientist:** This position is for scholars who have recently graduated with a PhD degree in areas such as electronics, communication and computer science. It is fully funded position that is equivalent to being a postdoctoral scholar. Typical salary: above 7000 SGD/month based on qualification and merit.
 
 ----
 ## National University of Singapore 

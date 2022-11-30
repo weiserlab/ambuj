@@ -9,7 +9,7 @@ is_contact: true
 
 # WEISER Group at National University of Singapore
 
-We are a curiosity driven group of students, engineers and researchers interested in Wireless, Embedded systems and Intelligence, Sensing and Emerging Technologies (WEISER). We build real systems, and we often work at the intersection of the area of electronics, communication and computer science. Thus, we welcome students with background in computer science, electronics, communication, and related areas. We publish scientific results at leading  venues in the area (such as ACM MobiSys, ACM MobiCom, ACM SenSys, ACM HotNets, ACM/IEEE IPSN). We are well funded, connected to other leading groups at major universities and companies across the world. We have received several awards, grants from industry, and extensive media coverage across the world. 
+We are a curiosity driven group of students, engineers and researchers interested in Wireless, Embedded systems and Intelligence, Sensing and Emerging Technologies (WEISER). We build real systems, and we often work at the intersection of the areas of electronics, communication and computer science. Thus, we welcome students with background in computer science, electronics, communication, and related areas. We publish scientific results at leading  venues in the area (such as ACM MobiSys, ACM MobiCom, ACM SenSys, ACM HotNets, ACM/IEEE IPSN). We are well funded, connected to other leading groups at major universities and companies across the world. We have received several awards, grants from industry, and extensive media coverage across the world. 
 
 We are establishing a world-leading group in the area of embedded systems, wireless communications, and mobile computing. We are hiring ambitious students and researchers for the following positions:
 
@@ -59,8 +59,7 @@ Our research group is pursuing two major directions; STICORS and Beyond RF.
 
 [**STICORS:**](https://weiserlab.github.io/ambuj/stico): We are starting a multi-year ambitious project to develop a framework for general purpose, flexible form factor, and ever-lasting computers. Unlike classic sensor platforms, these computers go beyond the sense-and-transmit regime of the past decade. They sense the physical world, actuate the environment, interact with users, process, store, infer information, and transmit wirelessly. Based on our previous systems, such as LoRea (ACM SENSYS 2017) and Judo (ACM MOBISYS 2022), they can communicate over considerable distances. 
 
-**BEYOND RF:** This research direction looks to develop alternative to conventional and widely used methods of wireless communication for Internet of Things (IoT) devices. Motiviation of this direction is due to growing scale of IoT devices and their energy challenge due to significant power consumption of existing radio technology.
-
+**BEYOND RF:** As part of this research direction, we are developing an alternative to conventional and widely used wireless communication methods for Internet of Things (IoT) devices. The growing scale of IoT devices motivates this direction, resulting in energy and spectrum challenges. This direction includes projects such as a system that uses; 1) visible light (LiFi) for communication to avoid the RF spectrum altogether. 2) Tunnel diode and backscatter transmitters use orders of magnitude less energy than commercial transmitters. 3) Using electronically steerable directional antennas in IoT devices to maximize spectrum efficiency. 
 
 Following are examples of projects that can be pursued for doctoral studies:
 

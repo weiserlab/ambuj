@@ -90,7 +90,7 @@ We are looking for ambitious students with good engineering backgrounds. Prior e
 ----
 ## Regarding Positions
 
-**Research Assistant:** Scholars without a PhD degree can apply for this position. Typically, this means having bachelor's/master's degrees, and scholars looking for experience of working on research projects. This position enables students to conduct quality research, and decide if they would want to pursue PhD studies. This experience may allow students to be more competitive for PhD studies at leading universities. Typical salary: 5000 to 6000 SGD/month.
+**Research Assistant:** Scholars without a PhD degree may apply for this position. Typically, this means having bachelor's/master's degrees. This position enables scholars to conduct quality research, and decide if they would want to pursue PhD studies. This experience allows students to be more competitive for applications for PhD studies at leading universities. Typical salary: 5000 to 6000 SGD/month
 
 **Research Scientist:** 
 

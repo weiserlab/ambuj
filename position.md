@@ -33,20 +33,21 @@ Our multi-year project aims to design a framework that combines sensors, edge de
 
 ## P2: Low-Power Wireless Sensing using Tunnel Diodes
 
+Wireless signals are all around us
 **Available positions:** 1X Research Assistant (1X Years), and 1X Research Scientist (1X Years)
 
 ## Doctoral Disseration (PhD Studies) (Positions open in this round: 3 NOS)
 
 Our research group is pursuing two major directions; STICORS and Beyond RF.
 
-[**STICORS:**](https://weiserlab.github.io/ambuj/stico) We are starting a multi-year ambitious project to develop a framework for general purpose, flexible form factor, and ever-lasting computers. These computers will go beyond classic sensor platforms and are not restricted to the sense-and-transmit regime of the past decade of WSNs. Instead, these computers sense the physical world, actuate the environment, interact with users, process, store and infer information, and transmit wirelessly to considerable distances, building on our previous systems such as LoRea (ACM SENSYS 2017) and Judo (ACM MOBISYS 2022). 
+[**STICORS:**](https://weiserlab.github.io/ambuj/stico): We are starting a multi-year ambitious project to develop a framework for general purpose, flexible form factor, and ever-lasting computers. Unlike classic sensor platforms, these computers go beyond the sense-and-transmit regime of the past decade. They sense the physical world, actuate the environment, interact with users, process, store, infer information, and transmit wirelessly. Based on our previous systems, such as LoRea (ACM SENSYS 2017) and Judo (ACM MOBISYS 2022), they can communicate over considerable distances. 
 
 **BEYOND RF:** This research direction looks to develop alternative to conventional and widely used methods of wireless communication for Internet of Things (IoT) devices. Motiviation of this direction is due to growing scale of IoT devices and their energy challenge due to significant power consumption of existing radio technology.
 
 
 Following are examples of projects that can be pursued for doctoral studies:
 
-### P1: Enabling Low-power communication for Internet of Things (STICORS)
+### P3: Enabling Low-power communication for Internet of Things (STICORS)
 
 A challenge to  rapid growth in IoT device numbers is their energy consumption. Batteries play a crucial role in IoT devices since they are highly power-intensive. Most IoT devices today require battery replacement several times during their lifetime. This can be challenging due to IoT devices being deployed at enormous scale, often located in hard-to-reach places.  Energy-intensive wireless transceivers are the primary reason for the high power consumption of IoT devices.
 

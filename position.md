@@ -20,6 +20,8 @@ We are establishing a world-leading group in the area of embedded systems, wirel
 
 We are located at the Systems and Networking lab in the new [computer science building Computing 3(COM3)](https://com3.comp.nus.edu.sg/).
 
+**We are also open to students who are currently enrolled in bachelors, masters, and other programs for internships!**
+
 ## Open Positions (6 to 8 NOS)  
 
 ## P1: Non-Intrusive Monitoring of Internet of Things Devices and Robots   

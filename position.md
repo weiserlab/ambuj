@@ -20,6 +20,7 @@ We are establishing a world-leading group in the areas of embedded systems, wire
 * Robot systems (such as ROS operating systems)
 * Embedded systems platforms (such as Raspberry Pi or Arduino)
 * Machine learning frameworks (such as PyTorch and Tensorflow)
+* 3D Printing, PCB Design and assembly
 
 **Note:** While having experience in one or more of the aforementioned areas is desirable, it is not necessary. We value curiosity, hard work,  and a desire to conduct experiments and learn above all else. We are willing to train individuals who are eager to learn and contribute to our research efforts.
 

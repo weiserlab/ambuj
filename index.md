@@ -30,6 +30,13 @@ We are interested in **wireless**, **networking**, and **embedded systems**, and
 
 Often, our projects involves collaborations with domain experts. A number of our projects are done in collaboration and funded by partners in the Industry, such as, ABB and NCS.  
 
+Our research group is pursuing two major directions; STICORS and Beyond RF.
+
+[**STICORS:**](https://weiserlab.github.io/ambuj/stico): This project aims to develop a framework for general purpose, flexible form factor, and long-lasting computers. Unlike traditional sensor platforms, these computers will not just sense and transmit information. They will be able to sense the physical world, actuate the environment, interact with users, process, store, and infer information, and transmit wirelessly. Based on our previous systems, such as LoRea (ACM SENSYS 2017) and Judo (ACM MOBISYS 2022), these computers will be able to communicate over long distances.
+
+[**BEYOND RF:**](https://weiserlab.github.io/ambuj/brf) As part of this research direction, we are developing alternative wireless communication methods for Internet of Things (IoT) devices. The increasing number of IoT devices has led to challenges with energy and spectrum usage. To address these challenges, our projects focus on using; 1) visible light (LiFi) for communication to avoid using the RF spectrum altogether. 2) Tunnel diode and backscatter transmitters that use orders of magnitude less energy than commercial transmitters. 3) Electronically steerable directional antennas in IoT devices to maximize spectrum efficiency.
+
+
 ## Recent News
 * [Q2,Q3 2022] Organisational role and committee member for scientific events: Jury member 2022 ABB Research Award in Honour of Hubertus von Gruenberg,  IEEE Infocom 2023 (TPC member), IEEE Infocom 2022 (Session chair), ACM CPS-IoTBench 2022 (Session chair) (Co-located with CPSWeek), ACM LP-IoT 2022 (with Mobicom)(TPC Member), [EmergingWireless 2022 (TPC Member)](), [Perfail 2023 (TPC Member)](https://perfail-workshop.github.io/2023/), [ACM MobiCom 2023 (Web Chair)](), [ACM/IEEE IoTDI 2023 (TPC Member)](), [IEEE DCOSS-IoT 2023 (TPC Member)]()  
 * [Q1 2022] Joint work with Wenqing Yan (Uppsala University) and Prof. Prabal Dutta (University of California, Berkeley) was accepted/presented at ACM MobiSys 2022.  

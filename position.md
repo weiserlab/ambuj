@@ -9,14 +9,21 @@ is_contact: true
 
 # WEISER Group at National University of Singapore
 
-We are a curiosity driven group of students, engineers and researchers interested in Wireless, Embedded systems and Intelligence, Sensing and Emerging Technologies (WEISER). We build real systems, and we often work at the intersection of the areas of electronics, communication and computer science. Thus, we welcome students with background in computer science, electronics, communication, and related areas. We publish scientific results at leading  venues in the area (such as ACM MobiSys, ACM MobiCom, ACM SenSys, ACM HotNets, ACM/IEEE IPSN). We are well funded, connected to other leading groups at major universities and companies across the world. We have received several awards, grants from industry, and extensive media coverage across the world. 
+We are a group of curious students, engineers, and researchers interested in wireless, embedded systems, intelligence, sensing, and emerging technologies (WEISER). We build real systems and often work at the intersection of electronics, communication, and computer science. Therefore, we welcome students with backgrounds in computer science, electronics, communication, and related fields. We publish our scientific results at leading venues in our area, such as ACM MobiSys, ACM MobiCom, ACM SenSys, ACM HotNets, and ACM/IEEE IPSN. In addition, we are well-funded, connected to other leading groups at top universities and companies worldwide, and have received several awards and grants from the industry and extensive media coverage.
 
-We are establishing a world-leading group in the area of embedded systems, wireless communications, and mobile computing. We are hiring ambitious students and researchers for the following positions:
+We are establishing a world-leading group in the areas of embedded systems, wireless communications, and mobile computing. We are seeking ambitious students and researchers for the following positions:
 
-**Skills required:** We are looking for students and scholars with a strong engineering background. With background in one or more of the following area: Embedded systems (such as programming microcontrollers, FPGAs), working with sensors and actuators, wireless communication (such as WiFi, Bluetooth, ZigBee) , previous experience with robot systems (such as ROS operating systems), embedded systems platforms (such as Raspberry Pi or Arduinos), machine learning frameworks (such as PyTorch, Tensorflow), and most importantly curiosity.
+**Skills required:** We are looking for students and scholars with a strong engineering background, ideally with experience in one or more of the following areas:  
+* Embedded systems (such as programming microcontrollers and FPGAs)
+* Working with sensors and actuators
+* Wireless communication (such as WiFi, Bluetooth, ZigBee)
+* Robot systems (such as ROS operating systems)
+* Embedded systems platforms (such as Raspberry Pi or Arduino)
+* Machine learning frameworks (such as PyTorch and Tensorflow)
 
-**Note:** These skills are not necessary, it is only desirable if you have one or more of these skills. Most importantly, you should be curious, have desire to conduct experiments and learn. We will train you.
+Most importantly, we value curiosity and a passion for learning, having great engineering and hands-on experience, curisoty for exploring new technologies.
 
+**Note:** While having experience in one or more of the aforementioned areas is desirable, it is not necessary. We value curiosity, hard work,  and a desire to conduct experiments and learn above all else. We are willing to train individuals who are eager to learn and contribute to our research efforts.
 
 We are located at the Systems and Networking lab in the new [computer science building Computing 3(COM3)](https://com3.comp.nus.edu.sg/).
 
@@ -94,7 +101,7 @@ You should send an email indicating which project you are interested in, your CV
 
 **Research Assistant:** Scholars without a PhD degree may apply for this position. Typically, this means having bachelor's/master's degrees. This position enables scholars to conduct quality research, and decide if they would want to pursue PhD studies. This experience allows students to be more competitive for applications for PhD studies at leading universities. Typical salary: 5000 to 6000 SGD/month
 
-**Research Scientist:** This position is for scholars who have recently graduated with a PhD degree in areas such as electronics, communication and computer science. It is fully funded position that is equivalent to being a postdoctoral scholar. Typical salary: above 7000 SGD/month based on qualification and merit.
+**Research Scientist:** This position is for scholars who have recently graduated with a PhD degree in areas such as electronics, communication and computer science. It is fully funded position that is equivalent to being a postdoctoral scholar. Typical salary: above 7000 SGD/month based on qualification and merit.t
 
 ----
 ## National University of Singapore 

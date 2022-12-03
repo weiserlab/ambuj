@@ -13,7 +13,6 @@ We are a group of curious students, engineers, and researchers interested in wir
 
 We are establishing a world-leading group in the areas of embedded systems, wireless communications, and mobile computing. We are seeking ambitious students and researchers for the following positions:
 
-<<<<<<< HEAD
 **Skills required:** We are looking for students and scholars with a strong engineering background, ideally with experience in one or more of the following areas:  
 * Embedded systems (such as programming microcontrollers and FPGAs)
 * Working with sensors and actuators
@@ -21,9 +20,9 @@ We are establishing a world-leading group in the areas of embedded systems, wire
 * Robot systems (such as ROS operating systems)
 * Embedded systems platforms (such as Raspberry Pi or Arduino)
 * Machine learning frameworks (such as PyTorch and Tensorflow)
-=======
+
+
 **Skills required:** We are looking for students and scholars with a strong engineering background. With background in one or more of the following area: Embedded systems (such as programming microcontrollers, FPGAs), working with sensors and actuators, wireless communication (such as WiFi, Bluetooth, ZigBee) , previous experience with robot systems (such as ROS operating systems), embedded systems platforms (such as Raspberry Pi or Arduinos), PCB design and fabrication, 3D printing,  machine learning frameworks (such as PyTorch, Tensorflow), and most importantly curiosity.
->>>>>>> 34e8bef5e7477caa5fd9481e428a3395d6fbcb9a
 
 Most importantly, we value curiosity and a passion for learning, having great engineering and hands-on experience, curisoty for exploring new technologies.
 
@@ -163,24 +162,13 @@ You should send an email indicating which project you are interested in, your CV
 ----
 ## Regarding Positions
 
-<<<<<<< HEAD
-**Research Assistant:** Individuals without a PhD degree may apply for this position. This typically means having a bachelor's or master's degree. This position allows scholars to conduct high-quality research and decide if they want to pursue a PhD. This experience can make them more competitive for PhD programs at top universities. The typical salary for this position is 5000-6000 SGD per month.
-
-**Research Scientist:** This position is for scholars who have recently graduated with a PhD in areas such as electronics, communication, and computer science. It is a fully-funded position that is equivalent to a postdoctoral scholar position. The typical salary for this position is above 7000 SGD per month, based on qualifications and merit.
-
-----
-## National University of Singapore 
-The National University of Singapore is consistently ranked among the top universities in the world, with its computer science department being particularly well-regarded. However, it is important to approach rankings with a high degree of skepticism and to make a reasoned assessment of the best choice for your career. It is important to consider factors beyond just rankings when making decisions about your education and career.
-=======
 **Research Assistant:** Scholars without a PhD degree may apply for these positions. Typically, this means having bachelor's/master's degrees. This position enables scholars to conduct quality research, and decide if they would want to pursue PhD studies. This research experience allows scholars to be more competitive for applications for PhD studies at leading universities. Typical salary: 5000 to 6000 SGD/month
 
 **Research Scientist:** These positions are for scholars who have recently graduated with a PhD degree in areas such as electronics, communication and computer science. They are fully funded position that are equivalent to being a postdoctoral scholar. Typical salary: above 7000 SGD/month based on qualification and merit.
 
 ----
 ## National University of Singapore 
-National University of Singapore is consistently ranked among the leading universities of the world. The computer science department (in particular) is exceptionally regarded among the topmost departments of the world. Nonetheless, please consider any ranking with a very high degree of skepticism,  and please make an overall reasonable assesment about career choices that are best for you.
->>>>>>> 34e8bef5e7477caa5fd9481e428a3395d6fbcb9a
-
+The National University of Singapore is consistently ranked among the top universities in the world, with its computer science department being particularly well-regarded. However, it is important to approach rankings with a high degree of skepticism and to make a reasoned assessment of the best choice for your career. It is important to consider factors beyond just rankings when making decisions about your education and career.
 
 | Ranking  | SoC/NUS Position Globally (2022) |
 |-------|--------|---------|

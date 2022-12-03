@@ -46,7 +46,7 @@ Our research group is pursuing two major directions; STICORS and Beyond RF.
 * [Q4 2021] Presented joint work with IMDEA Networks, Spain  at ACM MobiCom 2021. This research work was also covered in popular media.  
 * [Q3 2021] Became a UC Berkeley [Form+Fund Fellow (Spring 2021 cohort)](https://www.law.berkeley.edu/experiential/startupberkeleylaw/entrepreneurs/form-fund/) 
 * [Q4 2019] Uppsala University appreciated our battery-free sensing work and awarded us the Attractive Innovation Award. It was selected among the top 15 projects from the university. [Press release here](https://www.uuinnovation.uu.se/about/attractive-innovation-project-awards-2019/) 
-* [Q4 2019] For my doctoral dissertation, I was awarded the prestigious 2019 ABB Research Award in Honour of Hubertus von Grünberg. The award included an endowment of 300,000 USD, which I received from the CEO of ABB, Peter Voser (Board member of IBM, Temasek), the CTO of ABB, Bazmi Husain, and the former chairman of the board of directors of ABB, Hubertus von Grünberg
+* [Q4 2019] For my doctoral dissertation, I was awarded the prestigious 2019 ABB Research Award in Honour of Hubertus von Grünberg. The award included an endowment of 300,000 USD, which I received from the CEO of ABB, Peter Voser (Board member of IBM, Temasek), the CTO of ABB, Bazmi Husain, and the former chairman of the board of directors of ABB, Hubertus von Grünberg. You can find [press release from ABB](https://new.abb.com/news/detail/46277/abb-research-award-2019-goes-to-battery-free-sensor-project), and an [image with the award](https://resources.news.e.abb.com/images/2019/11/12/0/photo_award.jpg)
 
 ### Get to know about some of my research (2019 ABB Research Award Video): 
 <div class="analytis">

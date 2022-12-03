@@ -45,7 +45,7 @@ Our research group is pursuing two major directions; STICORS and Beyond RF.
 * [Q1 2022] Started as an Assistant Professor at School of Computing of the National University of Singapore. Bootstrapping the WEISER research group.  
 * [Q4 2021] Presented joint work with IMDEA Networks, Spain  at ACM MobiCom 2021. This research work was also covered in popular media.  
 * [Q3 2021] Became a UC Berkeley [Form+Fund Fellow (Spring 2021 cohort)](https://www.law.berkeley.edu/experiential/startupberkeleylaw/entrepreneurs/form-fund/) 
-* [Q4 2019] Uppsala University Innovation appreciated our battery-free sensing work and awarded us the Attractive Innovation Award. Our project was also selected among the top 15 projects from the university. [Press release here](https://www.uuinnovation.uu.se/about/attractive-innovation-project-awards-2019/) 
+* [Q4 2019] Uppsala University appreciated our battery-free sensing work and awarded us the Attractive Innovation Award. It was selected among the top 15 projects from the university. [Press release here](https://www.uuinnovation.uu.se/about/attractive-innovation-project-awards-2019/) 
 * [Q4 2019] For my doctoral dissertation, I was awarded the prestigious 2019 ABB Research Award in Honour of Hubertus von Grünberg. The award included an endowment of 300,000 USD, which I received from the CEO of ABB, Peter Voser (Board member of IBM, Temasek), the CTO of ABB, Bazmi Husain, and the former chairman of the board of directors of ABB, Hubertus von Grünberg
 
 ### Get to know about some of my research (2019 ABB Research Award Video): 

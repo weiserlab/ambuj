@@ -28,7 +28,7 @@ We are located at the Systems and Networking lab in the new [computer science bu
 
 **We are also open to students currently enrolled in bachelor's, master's, and other programs for internships!**
 
-## Open Positions (6 to 8 NOS)  
+## Open Positions (6 NOS)  
 
 ## P1: Non-Intrusive Monitoring of Internet of Things Devices and Robots   
 ([Jointly with NUS-NCS Research Lab](https://nus-ncs.nus.edu.sg/))

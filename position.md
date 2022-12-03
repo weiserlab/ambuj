@@ -21,11 +21,6 @@ We are establishing a world-leading group in the areas of embedded systems, wire
 * Embedded systems platforms (such as Raspberry Pi or Arduino)
 * Machine learning frameworks (such as PyTorch and Tensorflow)
 
-
-**Skills required:** We are looking for students and scholars with a strong engineering background. With background in one or more of the following area: Embedded systems (such as programming microcontrollers, FPGAs), working with sensors and actuators, wireless communication (such as WiFi, Bluetooth, ZigBee) , previous experience with robot systems (such as ROS operating systems), embedded systems platforms (such as Raspberry Pi or Arduinos), PCB design and fabrication, 3D printing,  machine learning frameworks (such as PyTorch, Tensorflow), and most importantly curiosity.
-
-Most importantly, we value curiosity and a passion for learning, having great engineering and hands-on experience, curisoty for exploring new technologies.
-
 **Note:** While having experience in one or more of the aforementioned areas is desirable, it is not necessary. We value curiosity, hard work,  and a desire to conduct experiments and learn above all else. We are willing to train individuals who are eager to learn and contribute to our research efforts.
 
 We are located at the Systems and Networking lab in the new [computer science building Computing 3(COM3)](https://com3.comp.nus.edu.sg/).

@@ -99,13 +99,13 @@ You should send an email indicating which project you are interested in, your CV
 ----
 ## Regarding Positions
 
-**Research Assistant:** Scholars without a PhD degree may apply for this position. Typically, this means having bachelor's/master's degrees. This position enables scholars to conduct quality research, and decide if they would want to pursue PhD studies. This experience allows students to be more competitive for applications for PhD studies at leading universities. Typical salary: 5000 to 6000 SGD/month
+**Research Assistant:** Individuals without a PhD degree may apply for this position. This typically means having a bachelor's or master's degree. This position allows scholars to conduct high-quality research and decide if they want to pursue a PhD. This experience can make them more competitive for PhD programs at top universities. The typical salary for this position is 5000-6000 SGD per month.
 
-**Research Scientist:** This position is for scholars who have recently graduated with a PhD degree in areas such as electronics, communication and computer science. It is fully funded position that is equivalent to being a postdoctoral scholar. Typical salary: above 7000 SGD/month based on qualification and merit.t
+**Research Scientist:** This position is for scholars who have recently graduated with a PhD in areas such as electronics, communication, and computer science. It is a fully-funded position that is equivalent to a postdoctoral scholar position. The typical salary for this position is above 7000 SGD per month, based on qualifications and merit.
 
 ----
 ## National University of Singapore 
-National University of Singapore is consistently ranked among the leading universities of the world. The computer science department (in particular) is exceptionally regarded among the topmost departments of the world. Nonetheless, please consider any ranking with a very high degree of skepticism, and buckets of salt, and please make an overall reasonable assesment about choices that are best for you and your career.
+The National University of Singapore is consistently ranked among the top universities in the world, with its computer science department being particularly well-regarded. However, it is important to approach rankings with a high degree of skepticism and to make a reasoned assessment of the best choice for your career. It is important to consider factors beyond just rankings when making decisions about your education and career.
 
 
 | Ranking  | SoC/NUS Position Globally (2022) |
@@ -118,6 +118,7 @@ National University of Singapore is consistently ranked among the leading univer
 
 ----
 ## Singapore 
-Located in southeast asia, Singapore is both a financial and cultural hub. It offers a unique blend of east and west. Singapore is extremely safe, it has a highest per capita income, and a very high quality of life. Furthermore, Singapore has progressive immigration policies, merit based multicultural society, and offers excellent access (direct flights) to major world centres. The salaries offered in Singapore are among the highest in the world (including in academia) with very low tax-rate. With a great startup ecosystem, most major corporations in the world have their centers located in the city as well. Thus, Singapore offers very rich career prospects to graduating students, and also prepares students for opportunities elsewhere in the world.
+Singapore is a financial and cultural hub in Southeast Asia, offering a unique blend of East and West. It is known for its high per capita income, excellent quality of life, and progressive immigration policies. It is also a multicultural, merit-based society with excellent access to major world centres via direct flights. Salaries in Singapore, including in academia, are among the highest in the world, and the tax rate is low. With a thriving startup ecosystem and many major corporations based in the city, Singapore offers rich career prospects for graduating students and prepares them for opportunities worldwide.
+
 
 ----

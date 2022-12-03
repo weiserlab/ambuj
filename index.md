@@ -243,5 +243,5 @@ Authors: Bo Wei , *Ambuj Varshney*, Wen Hu, Neal Patwari, Thiemo Voigt , Chun Tu
 The Fourteenth ACM/IEEE Conference on Information Processing in Sensor Networks(ACM/IEEE IPSN 2015)  
 
 ----
-Back in 1992, I had an IBM PC XT as my first computer. Since 1998, I have supported and followed the FOSS movement and Linux. In 2000-2001, I contributed to the IndLinux project and translated many applications into Hindi. Since 2006, I have maintained a blog called Linux on Desktop, discussing using GNU/Linux on desktops. I used the revenue from Google Advertisements (Adsense) on the blog posts to fund my undegraduate education.
+Back in 1992, my first computer was an IBM PC XT. Since 1998, I have supported and followed the FOSS movement and Linux. In 2000-2001, I contributed to the IndLinux project and translated many applications into Hindi. Since 2006, I have maintained a blog called Linux on Desktop, where I discuss using GNU/Linux on desktops. I used the revenue from Google Advertisements on my blog posts to fund my undergraduate education.
 ****

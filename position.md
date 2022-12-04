@@ -17,7 +17,7 @@ We are establishing a world-leading group in the areas of embedded systems, wire
 * Embedded systems (such as programming microcontrollers and FPGAs)
 * Working with sensors and actuators
 * Wireless communication (such as WiFi, Bluetooth, ZigBee)
-* Robot systems (such as ROS operating systems)
+* Robot systems, drones, and associated system such as ROS operating systems
 * Embedded systems platforms (such as Raspberry Pi or Arduino)
 * Machine learning frameworks (such as PyTorch and Tensorflow)
 * 3D Printing, PCB Design and assembly

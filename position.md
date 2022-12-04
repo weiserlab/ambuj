@@ -15,15 +15,16 @@ We are establishing a world-leading group in the areas of embedded systems, wire
 
 **Skills required:** We are looking for students and scholars with a strong engineering background, ideally with experience in one or more of the following areas:  
 * Embedded systems (such as programming microcontrollers and FPGAs)
-* Working with sensors and actuators
+* Previous experience with interfacing sensors and actuators
 * Wireless communication (such as WiFi, Bluetooth, ZigBee)
 * Robot systems, drones, and associated system such as ROS operating systems
 * Embedded systems platforms (such as Raspberry Pi or Arduino)
 * Machine learning frameworks (such as PyTorch and Tensorflow)
 * 3D Printing, PCB Design and assembly
 * IC Design, fabrication of chips
+* Wireless tesbeds, software defined radios
 
-**Note:** While having experience in one or more of the aforementioned areas is desirable, it is not necessary. We value curiosity, creativity, hard work,  and a desire to conduct experiments and learn above all else. We are willing to train individuals who are eager to learn and contribute to our research efforts.
+**Please note:** While having experience in one or more of the aforementioned areas is desirable, it is not necessary. We value curiosity, creativity, hard work,  and a desire to conduct experiments and learn above all else. We are willing to train individuals who are eager to learn and contribute to our research efforts.
 
 We are located at the Systems and Networking lab in the new [computer science building Computing 3(COM3)](https://com3.comp.nus.edu.sg/).
 

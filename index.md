@@ -28,7 +28,7 @@ Ambuj Varshney's research interests over the past decade have centered around em
 ## Research Interest
 We are interested in **wireless communication**, **mobile computing**, and **embedded systems**, and intersection of these research areas with other domains. We work on meaningful problems with complex engineering component, and significant potential of their real-world impact.    
 
-Our vision is to seamlessly integrate the digital and physical worlds, providing us with new tools for exploring and understanding our world. In pursuit of our vision, we are currently focused on two initiatives: STICORS and Beyond RF.
+Our vision is to seamlessly integrate the digital and physical worlds, providing us with tools for exploring and understanding our world. In pursuit of our vision, we are focused on two initiatives: STICORS and Beyond RF.
 
 [**STICORS:**](https://weiserlab.github.io/ambuj/stico): This project aims to develop a framework for general purpose, flexible form factor, and long-lasting computers. Unlike traditional sensor platforms, these computers will not just sense and transmit information. They will be able to sense the physical world, actuate the environment, interact with users, process, store, and infer information, and transmit wirelessly. Based on our previous systems, such as LoRea [(ACM SENSYS 2017)]() and Judo [(ACM MOBISYS 2022)](), these computers will be able to communicate over long distances.
 

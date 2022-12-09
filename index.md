@@ -9,7 +9,7 @@ layout: default
 I am an Assistant Professor at the [National University of Singapore](http://nus.edu.sg). 
 
 
-I am bootstrapping WEISER group, consisting of  curiosity driven group of students, engineers and researchers interested in **W**ireless, **E**mbedded systems and **I**ntelligence, **S**ensing and **E**me**r**ging Technologies (WEISER). We build real systems, and we commonly work at the intersection of the area of electronics, communication and computer science.   
+I am bootstrapping WEISER group, consisting of  curiosity driven group of students, engineers and researchers interested in **W**ireless, **E**mbedded systems and **I**ntelligence, **S**ensing and **E**me**r**ging Technologies (WEISER). We build REAL systems, and commonly work at intersection of the area of electronics, communication and computer science.   
 
 ### Contact Details
 
@@ -27,8 +27,6 @@ Ambuj Varshney's research interests over the past decade have centered around em
 
 ## Research Interest
 We are interested in **wireless communication**, **mobile computing**, and **embedded systems**, and their intersection with other domains. We work on meaningful problems with complex engineering, and potential for real-world impact.    
-
-Often, our projects involves collaborations with domain experts. A number of our projects are done in collaboration and funded by partners in the Industry, such as, ABB and NCS.  
 
 Our research group is pursuing two major directions; STICORS and Beyond RF.
 

@@ -13,7 +13,7 @@ I am bootstrapping WEISER group, consisting of  curiosity driven group of studen
 
 ### Contact Details
 
-I am located at[Computing 3(COM3)](https://com3.comp.nus.edu.sg/). My address is: #02-25, Computing 3, School of Computing, 11 Research Link, Singapore 119391.  
+I am located at new CS building; [Computing 3(COM3)](https://com3.comp.nus.edu.sg/). My address is: #02-25, Computing 3, School of Computing, 11 Research Link, Singapore 119391.  
 
 For scheduling and other general queries, you may email my personal assistant:  [Joy](mailto:joy@nus.edu.sg)  
 

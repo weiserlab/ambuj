@@ -252,5 +252,5 @@ Authors: Bo Wei , *Ambuj Varshney*, Wen Hu, Neal Patwari, Thiemo Voigt , Chun Tu
 The Fourteenth ACM/IEEE Conference on Information Processing in Sensor Networks(ACM/IEEE IPSN 2015)  
 
 ----
-
+My first computer was an IBM PC XT back in 1992. Since 1998, I have been a supporter of the free and open-source software movement and Linux. In 2000-2001, I contributed to the IndLinux project and translated many applications to Hindi. After finishing high school, I created and maintained a popular Linux blog that was ranked in the top 10 in its genre. I used the revenue from advertisements (Google Adsense) on the blog to fund my undergraduate education.
 ****

@@ -11,6 +11,8 @@ I am an Assistant Professor at the [National University of Singapore](http://nus
 
 I am bootstrapping WEISER group, consisting of  curiosity driven group of students, engineers and researchers interested in **W**ireless, **E**mbedded systems and **I**ntelligence, **S**ensing and **E**me**r**ging Technologies (WEISER). We build REAL systems, and commonly work at intersection of the area of electronics, communication and computer science.   
 
+We are interested in **wireless communication**, **mobile computing**, and **embedded systems**, and intersection of these research areas with other domains. We work on meaningful problems often with complex engineering component.    
+
 ### Contact Details
 
 I am located at new CS building; [Computing 3(COM3)](https://com3.comp.nus.edu.sg/). My address is: #02-25, Computing 3, School of Computing, 11 Research Link, Singapore 119391.  
@@ -26,8 +28,6 @@ Ambuj Varshney, a Swedish citizen, is an Assistant Professor at the  National Un
 Ambuj Varshney's research interests over the past decade have centered around embedded systems, wireless, and mobile computing. He has tackled the problem of energy asymmetry among components of embedded systems, which is a pressing problem hindering the widespread deployment of the Internet of Things. Varshney has designed novel low-power wireless transmitters that achieve hundreds of meters of range at tens of microwatts of power consumption, which is orders of magnitude lower than widely used commercial transmitters. His research has led to awards, accolades, and research grants, and his doctoral dissertation was awarded the 2019 ABB Research Award in Honour of Hubertus von Gruenberg (with an endowment of 300,000 USD hosted at the University of California, Berkeley). Several of Varshney's students have also received significant honors and accolades, including winning the ACM Student Research Competition at ACM MobiCom 2017. Varshney has served as a jury member, program committee member, and in organizational roles for important scientific events.
 
 ## Research Interest
-We are interested in **wireless communication**, **mobile computing**, and **embedded systems**, and intersection of these research areas with other domains. We work on meaningful problems often with complex engineering component.    
-
 Our vision is to seamlessly integrate digital and physical worlds, providing us with tools for exploring, better understanding our world. In pursuit of our vision, we are focused on two directions: STICORS and BeyondRF.
 
 [**STICORS:**](https://weiserlab.github.io/ambuj/stico): This project aims to develop a framework for general purpose, flexible form factor, and long-lasting computers. Unlike traditional sensor platforms, these computers will not just sense and transmit information. They will be able to sense the physical world, actuate the environment, interact with users, process, store, and infer information, and transmit wirelessly. Based on our previous systems, such as LoRea [(ACM SENSYS 2017)]() and Judo [(ACM MOBISYS 2022)](), these computers will be able to communicate over long distances.
@@ -126,6 +126,14 @@ Involved in reviewing of articles for the following journals:
 ## Publications  
 
 > Publication numbers are for reference only and not for the purpose of bean counting.  
+
+### Year 2023
+
+
+1. [TunnelLiFi: Bringing LiFi to Commodity Devices]()
+Authors: M. Mir, W. Yan, P. Dutta, D. Giustiniano, *A. Varshney*
+The Twenty-fourth International Workshop on Mobile Computing Systems and Applications (ACM HotMobile 2023)  (To appear)
+
 
 ### Year 2022
 1. [POSTER: Enabling L3: Low Cost, Low Complexity and Low Power Radio Frequency Sensing using Tunnel Diodes]()  

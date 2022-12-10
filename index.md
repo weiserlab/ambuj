@@ -9,7 +9,7 @@ layout: default
 I am an Assistant Professor at the [National University of Singapore](http://nus.edu.sg). 
 
 
-I am bootstrapping WEISER group, consisting of  curiosity driven group of students, engineers and researchers interested in **W**ireless, **E**mbedded systems, **I**ntelligence, **S**ensing and **E**me**r**ging Technologies in **R**eal World **(WEISER)**. We are systems researcher, and work commonly at intersection of areas of electronics, communication and computer science. We work on meaningful problems with a complex engineering component, and potential for real-world impact.    
+I am bootstrapping WEISER group, consisting of  curiosity driven group of students, engineers and researchers interested in **W**ireless, **E**mbedded systems, **I**ntelligence, **S**ensing and **E**me**r**ging Technologies in **R**eal World **(WEISER)**. We are systems researcher, and work commonly at intersection of areas of electronics, communication and computer science. We work on problems with a strong engineering component, and potential for real-world impact.    
 
 ### Contact Details
 

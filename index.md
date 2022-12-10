@@ -129,7 +129,7 @@ Involved in reviewing of articles for the following journals:
 
 
 1. [TunnelLiFi: Bringing LiFi to Commodity Devices]()  
-Authors: M. Mir, W. Yan, P. Dutta, D. Giustiniano, *A. Varshney*  
+Authors: M. Mir, Wenqing Yan, Prabal Dutta, Domenico Giustiniano, *Ambuj Varshney*  
 The Twenty-fourth International Workshop on Mobile Computing Systems and Applications (ACM HotMobile 2023)  
 (To appear)  
 

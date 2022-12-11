@@ -146,7 +146,7 @@ ACM GetMobile: Mobile Computing and Communications (Maker Edition) 2022
 [Read the editorial here](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3551670)   
 
 2. [Judo: Addressing the Energy Asymmetry of Wireless Embedded Systems through Tunnel Diode based Wireless Transmitters](https://dl.acm.org/doi/abs/10.1145/3498361.3538923)  
-Authors: *Ambuj Varshney* , [Wenqing Yan](https://wenqingyan.github.io/), [Prabal Dutta](https://web.eecs.umich.edu/~prabal/)   
+Authors: *Ambuj Varshney*, [Wenqing Yan](https://wenqingyan.github.io/), [Prabal Dutta](https://web.eecs.umich.edu/~prabal/)   
 The Twentieth ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2022)      
 * <span style="color:blue"> Teaser video: [Youtube](https://www.youtube.com/watch?v=X1H6UIdfKWQ)</span>
 * <span style="color:blue"> Presentation video: [Youtube](https://www.youtube.com/watch?v=q22O8X2AEbA&t=627s)</span>
@@ -192,16 +192,16 @@ The Twenty Fifth Annual International Conference On Mobile Computing And Network
 ### Year 2018
 
 1. [Connecting Battery-free IoT Tags Using LED Bulbs](https://dl.acm.org/doi/10.1145/3286062.3286077)   
-Authors: Domenico Giustiniano ,*Ambuj Varshney*, Thiemo Voigt  
+Authors: Domenico Giustiniano, *Ambuj Varshney*, Thiemo Voigt  
 The Eighteenth ACM Workshop on Hot Topics in Networks (ACM HotNets 2019)  
 
 2. [Demonstration: Towards Battery-free Radio Tomographic Imaging](https://dl.acm.org/doi/10.1145/3212480.3226107)  
-Authors: Abdullah Hylamia,*Ambuj Varshney*, Andreas Soleiman, et al.    
+Authors: Abdullah Hylamia, *Ambuj Varshney*, Andreas Soleiman, et al.    
 The Eleventh ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec-2018)  
 **Best demonstration award**
 
 3. [Battery-free 802.15.4 Receiver](https://dl.acm.org/doi/10.1109/IPSN.2018.00045)  
-Authors: Carlos Perez Penichet, Claro Noda,*Ambuj Varshney*, Thiemo Voigt  
+Authors: Carlos Perez Penichet, Claro Noda, *Ambuj Varshney*, Thiemo Voigt  
 The Seventeenth ACM/IEEE Conference on Information Processing in Sensor Networks.(ACM/IEEE IPSN 2018)  
 
 4. [Enabling Sustainable Networked Embedded Systems](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1190906&dswid=5386)    
@@ -243,12 +243,12 @@ ACM HotWireless (Co-located with ACM MobiCom) 2016
 ### Year 2015
 
 1. [Directional Transmissions and Receptions for High-throughput Bulk Forwarding in Wireless Sensor Networks](https://dl.acm.org/doi/10.1145/2809695.2809720)   
-Authors: *Ambuj Varshney*, Luca Mottola, Mats Carlsson , Thiemo Voigt  
+Authors: *Ambuj Varshney*, Luca Mottola, Mats Carlsson, Thiemo Voigt  
 Thirteenth ACM Conference on Embedded Networked Sensor Systems (ACM SENSYS 2015)  
 * <span style="color:blue"> Presentation video: [Youtube](https://www.youtube.com/watch?v=SIuvXrvWxAo)</span>    
 
 2. [dRTI: Directional Radio Tomographic Imaging](https://dl.acm.org/doi/10.1145/2737095.2737118)    
-Authors: Bo Wei , *Ambuj Varshney*, Wen Hu, Neal Patwari, Thiemo Voigt , Chun Tung Chou  
+Authors: Bo Wei, *Ambuj Varshney*, Wen Hu, Neal Patwari, Thiemo Voigt, Chun Tung Chou  
 The Fourteenth ACM/IEEE Conference on Information Processing in Sensor Networks(ACM/IEEE IPSN 2015)  
 
 ----

@@ -225,7 +225,6 @@ Authors: *Ambuj Varshney*, Andreas Soleiman, Luca Mottola, Thiemo Voigt
 ACM VLCS (Co-located with ACM MobiCom) 2017  
 **Best Paper Award**  
 **ACM Student Research Competition Winner (Graduate, MobiCom) (Mentored student)**  
-**Google Faculty Research Award 2018 (PhD advisor)**  
 
 3. [Towards wide-area backscatter networks](https://dl.acm.org/doi/10.1145/3127882.3127888)  
 Authors: *Ambuj Varshney*, Carlos Perez Penichet, Christian Rohner, Thiemo Voigt  

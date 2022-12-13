@@ -25,7 +25,7 @@ Ambuj Varshney, a Swedish citizen, is an Assistant Professor at the  National Un
 
 Ambuj Varshney's interests over the past decade have centered around embedded systems, wireless, and mobile computing. He has tackled the problem of energy asymmetry among components of embedded systems, which is a pressing problem hindering their widespread deployment. Varshney has designed novel low-power wireless transmitters that achieve hundreds of meters of range at tens of microwatts of power consumption, which is orders of magnitude lower than widely used commercial transmitters. His research has led to awards, accolades, and research grants, and his doctoral dissertation was awarded the 2019 ABB Research Award in Honour of Hubertus von Gruenberg (with an endowment of 300,000 USD hosted at the University of California, Berkeley). Several of Varshney's students have also received significant honors and accolades, including winning the ACM Student Research Competition at ACM MobiCom 2017. Varshney has served as a jury member, program committee member, and in organizational roles for several important scientific events.
 
-You can also read more about me here: (ABB Featured artice)[(English)], ()[(Swedish)]()
+You can also read more about me here: (ABB Featured artice)[(English)](), [(Swedish)]()
 
 ## Research Interest
 Our vision is to seamlessly integrate digital and physical worlds, thus providing tools for exploring and better understanding our world and reality. In pursuit of our vision, we are focused on two directions: STICORS and BeyondRF.

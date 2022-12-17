@@ -1,4 +1,4 @@
-# STICORS: Framework to support large-scale, ubiquitous, privacy-preserving, flexible-form, everlasting computers with very long-range wireless capabilities 
+# STICORS: Framework for Large-Scale, Ubiquitous, Privacy-Preserving, Flexible-Form, Everlasting Computers with a Very Long-Range Wireless Capability
 ![flexible form factor sensor](abbflexsensor.jpeg)  
 We illustrate a proof-of-concept, flexible-form, wireless computer that can through reflection and absorption of ambient wireless signals (building on LoRea (ACM SENSYS 2017)) achieve significant transmission range.
 
@@ -30,7 +30,12 @@ TBA
 
 ## Application Scenarios
 
-TBA
+We are targetting two application scenarios:
+
+* [Industrial environments that enables the factories of the future]()
+* 
+
+
 
 ## Collaborators
 

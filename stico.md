@@ -6,7 +6,7 @@ We illustrate a proof-of-concept, flexible-form, wireless computer that can thro
 
 ## Vision
 
-The goal of our project is to design and build flexible computers (STICORS) that are packed with sensors, processors, energy storage, and human-computer interaction mechanisms, and that can connect wirelessly over long distances. These computers will be able to handle a range of advanced computing and communication tasks. Additionally, we are developing a framework for the deployment and management of large numbers of STICORS.   
+The goal of our project is to design and build flexible computers (STICORS) that are packed with sensors, processors, energy storage, and human-computer interaction mechanisms, and that can connect wirelessly over long distances. These computers will be able to handle a range of advanced computing and communication tasks. Additionally, we are developing a framework for the deployment and management of large numbers of STICORS. 
 
 STICORS is a research project that requires expertise in multiple engineering fields, including electronics, communication, computer science, and materials science. At present, the goals of the STICORS project are not yet attainable and will require significant scientific advances, which are the focus of the project.
 
@@ -141,8 +141,10 @@ The Seventeenth ACM/IEEE Conference on Information Processing in Sensor Networks
 ### Energy 
 
 
+----
 ## Funding
 We are generously supported (or have been previously supported) through grants from following agencies:  
 * Sweden Innovation Agence (VINNOVA) hosted at Uppsala University, Sweden
 * 2019 ABB Research Award in Honour of Hubertus von Grünberg hosted at University of California, Berkeley
 * National University of Singapore (Startup grant)
+----

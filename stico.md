@@ -6,9 +6,9 @@ We illustrate a proof-of-concept, flexible-form, wireless computer that can thro
 
 ## Vision
 
-The project aims to develop flexible form-factor computers that are equipped with sensors, processor(s), energy storage, HCI mechanisms and long-range wireless capabilities. Furthermore, the project also aims to design a framework to support STICORS in large numbers. STICORs would be everlasting, perform complex computations, store data on-board, and also communicate over long distances.   
+The goal of our project is to design and build flexible computers **(STICORS)** that are packed with sensors, processors, energy storage, and human-computer interaction mechanisms, and that can connect wirelessly over long distances. These computers will be able to handle a range of advanced computing and communication tasks. Additionally, we are developing a framework for the deployment and management of large numbers of **STICORS**.   
 
-STICORS is a research project with a complex engineering component. This project requires convergence of several engineering fields, including electronics, communication, computer science, and materials science. Currently, STICORS' vision is not feasible, and several scientific breakthroughs are necessary, and is also the focus of this project.
+STICORS is a research project that requires expertise in multiple engineering fields, including electronics, communication, computer science, and materials science. At present, the goals of the STICORS project are not yet attainable and will require significant scientific advances, which are the focus of the project.
 
 We are targetting following parameters for STICORS computers:
 

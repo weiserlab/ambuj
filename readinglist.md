@@ -1,6 +1,7 @@
-# Reading List (Internet of Things, Wireless, Mobile Computing and TinyML)
+# Reading List 
+## Internet of Things, Wireless, Mobile Computing and TinyML)
 
-## Prof. Dr. Ambuj Varshney 
+### Prof. Dr. Ambuj Varshney 
 
 
 ### Overview Articles

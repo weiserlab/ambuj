@@ -12,9 +12,9 @@
 ### Backscatter Communication
 
 1. [Ambient Backscatter: Wireless Communication Out of Thin Air](https://modernmobile.cs.washington.edu/docs/abc.pdf), ACM SIGCOMM 2013
-1.
-1.
-1.
+1. [Design of an RFID-Based Battery-Free Programmable Sensing Platform](https://ieeexplore.ieee.org/document/4539485), IEEE Transactions on Instrumentation and Measurement, 2008 
+1. [Passive Wi-Fi: Bringing Low Power to Wi-Fi Transmissions](https://passivewifi.cs.washington.edu/files/passive_wifi.pdf), USENIX NSDI 2016
+1. [LoRea: A Backscatter Architecture that Achieves a Long Communication Range](http://www.diva-portal.org/smash/get/diva2:1170384/FULLTEXT01.pdf), ACM SENSYS 2017
 
 ### Low-power Receiver
 

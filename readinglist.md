@@ -10,6 +10,10 @@
 
 ### Backscatter Communication
 
+1. [Ambient Backscatter: Wireless Communication Out of Thin Air](https://modernmobile.cs.washington.edu/docs/abc.pdf), ACM SIGCOMM 2013
+1.
+1.
+1.
 
 ### Low-power Receiver
 

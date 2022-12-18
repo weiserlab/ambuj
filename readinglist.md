@@ -1,5 +1,5 @@
 # Reading List 
-## Internet of Things, Wireless, Mobile Computing and TinyML)
+## Internet of Things, Low-Power Wireless, Mobile Computing and TinyML
 
 ### Prof. Dr. Ambuj Varshney 
 

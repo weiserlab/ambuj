@@ -28,9 +28,12 @@ IEEE Transactions on Instrumentation and Measurement, 2008
 
 ### Human Computer Interaction/Ubicomp
 
-
+1.
+1.
+1.
+1.
 
 ### Machine Learning on Embedded Platforms
 
-
+1. [TensorFlow Lite Micro: Embedded Machine Learning on TinyML Systems](https://arxiv.org/pdf/2010.08678.pdf), Arxiv
 

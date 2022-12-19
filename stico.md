@@ -17,7 +17,7 @@ We are targetting following parameters for STICORS computers:
 * **Everlasting:** STICORS is designed for low power consumption through hardware and software optimizations, allowing the batteries to last for the entire deployment without replacement. In certain cases, STICORS may be able to function without batteries by utilizing ambient energy.
 * **Storage:** With support for hundreds of kilobytes of non-volatile memory, STICORS is able to store a vast amount of sensor and other information
 * **Processing:** Ability to support complex computational and algorithmic tasks
-* **Human Computer Interaction:** Interacting with users through novel low-power HCI mechanisms
+* **Human Computer Interaction (HCI):** Interacting with users through novel low-power HCI mechanisms
 
 ## News
 
@@ -149,6 +149,7 @@ We are generously supported (or have been previously supported) through grants f
 * Sweden Innovation Agence (VINNOVA) hosted at Uppsala University, Sweden
 * 2019 ABB Research Award in Honour of Hubertus von Grünberg hosted at University of California, Berkeley
 * National University of Singapore (Startup grant)  
+
 
 ----
 ----

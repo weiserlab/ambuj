@@ -15,7 +15,7 @@ We are targetting following parameters for STICORS computers:
 * **Bitrate:** Wireless link has a datarate of over 100 kbps (reception and transmission)
 * **Range:** Communication range of over 100 meters in a line-of-sight environment, but the range is limited to tens of meters in environments with obstructions (non line-of-sight)
 * **Everlasting:** STICORS is designed for low power consumption through hardware and software optimizations, allowing the batteries to last for the entire deployment without replacement. In certain cases, STICORS may be able to function without batteries by utilizing ambient energy
-* **Storage:** With support for hundreds of kilobytes of non-volatile memory, STICORS is able to store a vast amount of sensor and other information
+* **Storage:** With support for hundreds of kilobytes of non-volatile memory, STICORS is able to store a vast amount of sensor and other information collected and inferred from the physical world
 * **Processing:** Ability to support complex computational and algorithmic tasks
 
 ## News

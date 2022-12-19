@@ -12,9 +12,10 @@ STICORS is a research project that requires expertise in multiple engineering fi
 
 We are targetting following parameters for STICORS computers:
 
-* **Bitrate:** 
-* **Range:** Greater than 100 meters of transmission and reception range in line-of-sight environment. Range of tens of meters in non line-of-sight environment (including through the wall)  
-* **Everlasting:** Batteries can last entire lifetime of the deployment, requiring no additional effort to replace exhausted batteries. For some applications, STICORS may even support operation without batteries. In this case, STICORS will harvest energy from the ambient environment  
+* **Bitrate:** Datarate of over 100 kbps
+* **Range:** Communication range of over 100 meters in a line-of-sight environment, but the range is limited to tens of meters in environments with obstructions
+* **Everlasting:** STICORS is designed for low power consumption through hardware and software optimizations, allowing the batteries to last for the entire deployment without replacement. In certain cases, STICORS may be able to function without batteries by utilizing ambient energy.
+* **Storage:** With support for hundreds of kilobytes of non-volatile memory, STICORS is able to store a vast amount of sensor and other information
 
 
 ## News

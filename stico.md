@@ -12,16 +12,19 @@ STICORS is a research project that requires expertise in multiple engineering fi
 
 We are targetting following parameters for STICORS computers:
 
-* **Bitrate:** Wireless link has a datarate of over 100 kbps (reception and transmission)
+* **Bitrate:** Wireless communication link with bitrate of over 100 kbps (uplink and downlink)
 * **Range:** Communication range of over 100 meters in a line-of-sight environment, but the range is limited to tens of meters in environments with obstructions (non line-of-sight)
-* **Everlasting:** STICORS is designed for low power consumption through hardware and software optimizations, allowing the batteries to last for the entire deployment without replacement. In certain cases, STICORS may be able to function without batteries by utilizing ambient energy
-* **Storage:** With support for hundreds of kilobytes of non-volatile memory, STICORS is able to store a vast amount of sensor and other information collected and inferred from the physical world
+* **Everlasting:** STICORS is designed for low power consumption through hardware and software optimizations, allowing the batteries to last for the entire deployment without replacement. In certain cases, STICORS may be able to function without batteries by utilizing ambient energy.
+* **Storage:** With support for hundreds of kilobytes of non-volatile memory, STICORS is able to store a vast amount of sensor and other information
 * **Processing:** Ability to support complex computational and algorithmic tasks
 
 ## News
 
 **[Q4, 2022]** Prof. Ambuj Varshney presented the vision of STICORS at ceremony of [2022 ABB Research Award in Honour of Hubertus von Grünberg](https://new.abb.com/news/detail/95853/abb-announces-2022-awardee-for-abb-research-award-in-honor-of-hubertus-von-grunberg), held at Baden, Switzerland. Guests in the attendance included the CEO of ABB - [Björn Rosengren](https://global.abb/group/en/about/corporate-governance/executive-committee/bjorn-rosengren), ex-chairman of ABB Hubertus von Grünberg, senior management of the company, and other dignitaries 
+
 |![Presentation at ABB Award](pres1.jpg)|![Presentation at ABB Award](pres2.jpg) |
+
+
 
 **[Q1, 2022]** Project Investigator (Prof. Ambuj Varshney) has joined as a faculty member at the School of Computing of the National University of Singapore.  
 

@@ -149,7 +149,8 @@ The Seventeenth ACM/IEEE Conference on Information Processing in Sensor Networks
 
 ----
 ## Funding
-We are generously supported (or have been previously supported) through grants from following agencies:  
+STICORS is generously supported (or have been previously supported) through grants from following agencies:  
+
 * Sweden Innovation Agence (VINNOVA) hosted at Uppsala University, Sweden
 * 2019 ABB Research Award in Honour of Hubertus von Grünberg hosted at University of California, Berkeley
 * National University of Singapore (Startup grant)  

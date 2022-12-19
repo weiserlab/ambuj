@@ -47,6 +47,10 @@ We are targetting two application scenarios:
 
 ## Open-source Contributors
 
+### Undergraduate Students
+
+### Other Contributors
+
 ## Industry Contributors
 
 ## Advisory Board

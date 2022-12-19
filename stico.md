@@ -25,7 +25,7 @@ We are targetting following parameters for STICORS computers:
 
 |![Presentation at ABB Award](pres1.jpg)|![Presentation at ABB Award](pres2.jpg) |
 
-
+**[Q2, 2022]**  GRANT: STICORS received first grant at National University of Singapore from ODPRT (Startup Grant)
 
 **[Q1, 2022]** Project Investigator (Prof. Ambuj Varshney) has joined as a faculty member at the School of Computing of the National University of Singapore.  
 

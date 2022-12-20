@@ -66,7 +66,7 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 ## Teaching and Mentorship
 
 Mentored the following students (formally):
-* [Lim Soon Lee(2023 -)]() **(Ongoing)** [Masters program, National University of Singapore]  
+* [Lim Soon Lee (2023 -)]() **(Ongoing)** [Masters program, National University of Singapore]  
 * [Qiao Yukai (2022 -)]() **(Ongoing)** [Masters program, National University of Singapore]  
 * [David Håkansson]() (2022, Bachelor thesis, Uppsala University) [(Link to thesis)](https://uu.diva-portal.org/smash/get/diva2:1705040/FULLTEXT01.pdf)
 * [Andreas Soleiman (2016-2019)](http://ansol.se) [RA, Master thesis] [(Link to thesis)](http://uu.diva-portal.org/smash/get/diva2:1303148/FULLTEXT01.pdf) → MIT EECS PhD (withdrew to stay in industry) → Senior Data Scientist, H&M Group, Stockholm, Sweden

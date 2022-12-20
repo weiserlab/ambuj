@@ -68,13 +68,13 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 Mentored the following students (formally):
 * [Lim Soon Lee (2023 -)]() **(Ongoing)** [Masters program, National University of Singapore]  
 * [Qiao Yukai (2022 -)]() **(Ongoing)** [Masters program, National University of Singapore]  
-* [David Håkansson]() (2022, Bachelor thesis, Uppsala University) [(Link to thesis)](https://uu.diva-portal.org/smash/get/diva2:1705040/FULLTEXT01.pdf)
-* [Andreas Soleiman (2016-2019)](http://ansol.se) [RA, Master thesis] [(Link to thesis)](http://uu.diva-portal.org/smash/get/diva2:1303148/FULLTEXT01.pdf) → MIT EECS PhD (withdrew to stay in industry) → Senior Data Scientist, H&M Group, Stockholm, Sweden
-* [Elena di Lascio (2015-2016)](https://www.inf.usi.ch/phd/dilascio/) [Master thesis] → USI PhD (completed) → Novartis Institutes for BioMedical Research (NIBR), Switzerland
-* [Oliver Harms (2016-2017)](https://www.chalmers.se/en/staff/Pages/harms.aspx)[Master thesis] [(Link to thesis)](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1275419&dswid=-4978) → Chalmers PhD, Sweden
-* [Gustav Eriksson/Fredholm (2018)]()[Masters Thesis] [(Link to thesis)](http://www.diva-portal.org/smash/get/diva2:1223106/FULLTEXT01.pdf) → Teamleader Intertek Semko, Stockholm
-* [Sam Hylamia (2017-2018)](https://katalog.uu.se/profile/?id=N15-1362)[Masters Thesis and Research Assistant] [(Link to thesis)](http://www.diva-portal.org/smash/get/diva2:1247160/FULLTEXT02.pdf) → Uppsala University PhD, Sweden
-* [Simon Olofsson (2015)](https://www.doc.ic.ac.uk/~so2015/)[Project assistant] → Imperial College London PhD → Facebook/Meta, London, UK
+* [David Håkansson]() (2022, Bachelors program, Uppsala University) [(Link to thesis)](https://uu.diva-portal.org/smash/get/diva2:1705040/FULLTEXT01.pdf)
+* [Andreas Soleiman (2016-2019)](http://ansol.se) [Research Assistant and Bachelors+Masters Program] [(Link to thesis)](http://uu.diva-portal.org/smash/get/diva2:1303148/FULLTEXT01.pdf) → MIT EECS PhD (withdrew to stay in industry) → Senior Data Scientist, H&M Group, Stockholm, Sweden
+* [Elena di Lascio (2015-2016)](https://www.inf.usi.ch/phd/dilascio/) [Master program] → USI PhD (completed) → Novartis Institutes for BioMedical Research (NIBR), Switzerland
+* [Oliver Harms (2016-2017)](https://www.chalmers.se/en/staff/Pages/harms.aspx)[Master program] [(Link to thesis)](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1275419&dswid=-4978) → Chalmers PhD, Sweden
+* [Gustav Eriksson/Fredholm (2018)]()[Masters program] [(Link to thesis)](http://www.diva-portal.org/smash/get/diva2:1223106/FULLTEXT01.pdf) → Teamleader Intertek Semko, Stockholm
+* [Sam Hylamia (2017-2018)](https://katalog.uu.se/profile/?id=N15-1362)[Masters program and Research Assistant] [(Link to thesis)](http://www.diva-portal.org/smash/get/diva2:1247160/FULLTEXT02.pdf) → Uppsala University PhD, Sweden
+* [Simon Olofsson (2015)](https://www.doc.ic.ac.uk/~so2015/)[Research assistant] → Imperial College London PhD → Facebook/Meta, London, UK
 
 Collaborated with the following students:
 

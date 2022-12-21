@@ -78,7 +78,7 @@ Mentored the following students (formally):
 1. [Oliver Harms (2016-2017)](https://www.chalmers.se/en/staff/Pages/harms.aspx)[Master program] → Chalmers PhD, Sweden
   * Project/Thesis Title: [Modulation Schemes in Ambient Backscatter Communication](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1275419&dswid=-4978)
 1. [Sam Hylamia (2017-2018)](https://katalog.uu.se/profile/?id=N15-1362)[Masters program and Research Assistant] → Uppsala University PhD
-  * [Towards Battery-free Radio Tomographic Imaging](http://www.diva-portal.org/smash/get/diva2:1247160/FULLTEXT02.pdf)
+  * Project/Thesis Title: [Towards Battery-free Radio Tomographic Imaging](http://www.diva-portal.org/smash/get/diva2:1247160/FULLTEXT02.pdf)
 1. [Elena di Lascio (2015-2016)](https://www.inf.usi.ch/phd/dilascio/) [Masters program] → USI PhD (completed) → Novartis Institutes for BioMedical Research (NIBR), Switzerland
   * Project/Thesis Title: [A Battery-free Indoor Localization System]()
 1. [Simon Olofsson (2015)](https://www.doc.ic.ac.uk/~so2015/)[Research assistant] → Imperial College London PhD → Facebook/Meta, London, UK

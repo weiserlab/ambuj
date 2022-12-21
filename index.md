@@ -66,8 +66,9 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 
 Mentored the following students (formally):
 1. [Lim Soon Lee (2023 -)]() **(Ongoing)** [Masters program, National University of Singapore]  
-  * Project Title: Fabricating Stickers Form-Factor Sensors
+  * Project/Thesis Title: Fabricating Sticker Form-Factor Sensors
 1. [Qiao Yukai (2022 -)]() **(Ongoing)** [Masters program, National University of Singapore]  
+  * Project/Thesis Title: Collecting and Analyzing Data from Battery-free Internet of Things
 1. [David Håkansson]() (2022, Bachelors program, Uppsala University) [(Link to thesis)](https://uu.diva-portal.org/smash/get/diva2:1705040/FULLTEXT01.pdf)
 1. [Andreas Soleiman (2016-2019)](http://ansol.se) [Research Assistant and Bachelors+Masters Program] [(Link to thesis)](http://uu.diva-portal.org/smash/get/diva2:1303148/FULLTEXT01.pdf) → MIT EECS PhD (withdrew to stay in industry) → Senior Data Scientist, H&M Group, Stockholm, Sweden
 1. [Elena di Lascio (2015-2016)](https://www.inf.usi.ch/phd/dilascio/) [Master program] → USI PhD (completed) → Novartis Institutes for BioMedical Research (NIBR), Switzerland

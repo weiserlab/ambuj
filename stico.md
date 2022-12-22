@@ -161,7 +161,7 @@ STICORS is generously supported (or have been previously supported) through gran
 * National University of Singapore (Startup grant) [2022-2026]
 * Grant from ARTIC at National University of Singapore (for sensing using tunnel diodes) [2022-2024]
 * Sweden Innovation Agency (VINNOVA) hosted at Uppsala University, Sweden [2018-2019]
-* 2019 ABB Research Award in Honour of Hubertus von Grünberg hosted at University of California, Berkeley [2020 onwards]
+* 2019 ABB Research Award in Honour of Hubertus von Grünberg hosted at UC Berkeley [Endowment hosted from 2021]
 
 ----
 ----

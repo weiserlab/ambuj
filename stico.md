@@ -100,11 +100,11 @@ ACM VLCS (Co-located with ACM MobiCom) 2017
 Authors: Muhammad Sarmad Mir, Wenqing Yan, Prabal Dutta, Domenico Giustiniano, and *Ambuj Varshney*  
 The Twenty-fourth International Workshop on Mobile Computing Systems and Applications (ACM HotMobile 2023)  
 
-2. [POSTER: Enabling L3: Low Cost, Low Complexity and Low Power Radio Frequency Sensing using Tunnel Diodes]()
+1. [POSTER: Enabling L3: Low Cost, Low Complexity and Low Power Radio Frequency Sensing using Tunnel Diodes]()
 Authors: Wenqing Yan,  *Ambuj Varshney*  
 The Twenty Eight Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2022)  
 
-3. [Demonstration: Towards Battery-free Radio Tomographic Imaging](https://dl.acm.org/doi/10.1145/3212480.3226107)  
+1. [Demonstration: Towards Battery-free Radio Tomographic Imaging](https://dl.acm.org/doi/10.1145/3212480.3226107)  
 Authors: Abdullah Hylamia,*Ambuj Varshney*, Andreas Soleiman, et al.    
 The Eleventh ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec-2018)  
 **Best demonstration award**
@@ -116,20 +116,20 @@ The Eleventh ACM Conference on Security and Privacy in Wireless and Mobile Netwo
 Authors: *Ambuj Varshney* , [Wenqing Yan](https://wenqingyan.github.io/), [Prabal Dutta](https://web.eecs.umich.edu/~prabal/)  
 The Twentieth ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2022)      
 
-2. [TunnelEmitter:Tunnel Diode based Low-Power Carrier Emitters for Backscatter Tags](https://dl.acm.org/doi/10.1145/3372224.3419199)  
+1. [TunnelEmitter:Tunnel Diode based Low-Power Carrier Emitters for Backscatter Tags](https://dl.acm.org/doi/10.1145/3372224.3419199)  
 Authors: *Ambuj Varshney*, Lorenzo Corneo    
 The Twenty Sixth Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2020)  
 
-3. [TunnelScatter: Low Power Communication for Sensor Tags using Tunnel Diodes](https://dl.acm.org/doi/10.1145/3300061.3345451)  
+1. [TunnelScatter: Low Power Communication for Sensor Tags using Tunnel Diodes](https://dl.acm.org/doi/10.1145/3300061.3345451)  
 Authors: *Ambuj Varshney*, [Andreas Soleiman](http://ansol.se/academic), Thiemo Voigt  
 The Twenty Fifth Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2019)  
 
-4. [LoRea: A Backscatter Architecture that Achieves a Long Communication Range](https://dl.acm.org/doi/10.1145/3131672.3131691)  
+1. [LoRea: A Backscatter Architecture that Achieves a Long Communication Range](https://dl.acm.org/doi/10.1145/3131672.3131691)  
 Authors: *Ambuj Varshney*, Oliver Harms, Carlos Penichet, Christian Rohner , Frederik Hermans, Thiemo Voigt  
 Fifteenth ACM Conference on Embedded Networked Sensor Systems (ACM SENSYS 2017)  
 **2019 ABB Research Award Winner**  
 
-5. [Towards wide-area backscatter networks](https://dl.acm.org/doi/10.1145/3127882.3127888)  
+1. [Towards wide-area backscatter networks](https://dl.acm.org/doi/10.1145/3127882.3127888)  
 Authors: *Ambuj Varshney*, Carlos Perez Penichet, Christian Rohner, Thiemo Voigt  
 ACM HotWireless (Co-located with ACM MobiCom) 2017  
 
@@ -139,20 +139,24 @@ ACM HotWireless (Co-located with ACM MobiCom) 2017
 Authors: Ambuj Varshney, [Ander Galiesto](https://andergalisteo.com/), Domenico Giustiniano    
 The Eighteenth ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2020) 
 
-2. [Connecting Battery-free IoT Tags Using LED Bulbs](https://dl.acm.org/doi/10.1145/3286062.3286077)   
+1. [Connecting Battery-free IoT Tags Using LED Bulbs](https://dl.acm.org/doi/10.1145/3286062.3286077)   
 Authors: Domenico Giustiniano ,*Ambuj Varshney*, Thiemo Voigt    
 The Eighteenth ACM Workshop on Hot Topics in Networks (ACM HotNets 2019)    
 
-3. [Battery-free 802.15.4 Receiver](https://dl.acm.org/doi/10.1109/IPSN.2018.00045)    
+1. [Battery-free 802.15.4 Receiver](https://dl.acm.org/doi/10.1109/IPSN.2018.00045)    
 Authors: Carlos Perez Penichet, Claro Noda,*Ambuj Varshney*, Thiemo Voigt  
 The Seventeenth ACM/IEEE Conference on Information Processing in Sensor Networks.(ACM/IEEE IPSN 2018)    
 
+### Storage
+TBA
+
 ### Processing 
+TBA
 
 ### Security
 
 ### Energy 
-
+TBA
 
 ----
 ## Funding

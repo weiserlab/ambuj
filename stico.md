@@ -19,6 +19,9 @@ We are targetting following parameters for STICORS computers:
 * **Processing:** Ability to support complex computational and algorithmic tasks
 * **Human Computer Interaction (HCI):** Interacting with users through novel low-power HCI mechanisms
 
+On the network side, we are interested in the following:
+
+
 ## News
 
 **[Q4, 2022]** Prof. Ambuj Varshney presented the vision of STICORS at ceremony of [2022 ABB Research Award in Honour of Hubertus von Grünberg](https://new.abb.com/news/detail/95853/abb-announces-2022-awardee-for-abb-research-award-in-honor-of-hubertus-von-grunberg), held at Baden, Switzerland. Guests in the attendance included the CEO of ABB - [Björn Rosengren](https://global.abb/group/en/about/corporate-governance/executive-committee/bjorn-rosengren), ex-chairman of ABB Hubertus von Grünberg, senior management of the company, and other dignitaries 

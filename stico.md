@@ -52,9 +52,18 @@ We are targetting two application scenarios:
 |![Presentation at ABB Award](dutta.jpg)| Professor. Prabal Dutta (Associate Professor, University of California, Berkeley) |
 
 
-## Open-source Contributors
+## Students
 
-### Undergraduate Students
+TBA
+
+## Graduate Research Associates
+
+|![Presentation at ABB Award](wenqing.jpg)| Wenqing Yan (Ph.D. Student, Uppsala University, Sweden) |
+
+
+## Undergraduate Research Associates
+
+## Open-source Contributors
 
 ### Other Contributors
 
@@ -64,9 +73,6 @@ We are targetting two application scenarios:
 
 TBD
 
-## Students
-
-TBA
 
 ## Policy for Intellectual Property
 

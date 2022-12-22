@@ -25,7 +25,7 @@ We are targetting following parameters for STICORS computers:
 
 |![Presentation at ABB Award](pres1.jpg)|![Presentation at ABB Award](pres2.jpg) |
 
-**[Q4, 2022]**  GRANT: STICORS received second grant at National University of Singapore from ARTIC for sensing using tunnel diodes
+**[Q4, 2022]**  GRANT: STICORS received second grant at National University of Singapore from ARTIC for sensing using tunnel diodes. We are going to focus on sensing breathing and heartbeats using flexible form factor sensors.
 
 **[Q2, 2022]**  GRANT: STICORS received first grant at National University of Singapore from ODPRT (Startup Grant)
 

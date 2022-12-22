@@ -25,6 +25,8 @@ We are targetting following parameters for STICORS computers:
 
 |![Presentation at ABB Award](pres1.jpg)|![Presentation at ABB Award](pres2.jpg) |
 
+**[Q4, 2022]**  GRANT: STICORS received second grant at National University of Singapore from ARTIC for sensing using tunnel diodes
+
 **[Q2, 2022]**  GRANT: STICORS received first grant at National University of Singapore from ODPRT (Startup Grant)
 
 **[Q1, 2022]** Project Investigator (Prof. Ambuj Varshney) has joined as a faculty member at the School of Computing of the National University of Singapore.  
@@ -44,6 +46,9 @@ We are targetting two application scenarios:
 
 
 ## Collaborators
+
+|![Presentation at ABB Award](dutta.jpg)| Professor. Prabal Dutta (Associate Professor, University of California, Berkeley) |
+
 
 ## Open-source Contributors
 
@@ -82,6 +87,14 @@ STICORS is an ongoing research project at the National University of Singapore. 
 Author: *Ambuj Varshney*  
 ACM GetMobile: Mobile Computing and Communications (Maker Edition) 2022  
 
+### Human Computer Interaction
+
+1. [Battery-free Visible Light Sensing](https://dl.acm.org/doi/abs/10.1145/3129881.3129890)  
+Authors: *Ambuj Varshney*, Andreas Soleiman, Luca Mottola, Thiemo Voigt  
+ACM VLCS (Co-located with ACM MobiCom) 2017  
+**Best Paper Award**  
+**ACM Student Research Competition Winner (Graduate, MobiCom)**  
+
 ### Sensing
 
 1. [TunnelLiFi: Bringing LiFi to Commodity Devices]()  
@@ -97,11 +110,6 @@ Authors: Abdullah Hylamia,*Ambuj Varshney*, Andreas Soleiman, et al.
 The Eleventh ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec-2018)  
 **Best demonstration award**
 
-4. [Battery-free Visible Light Sensing](https://dl.acm.org/doi/abs/10.1145/3129881.3129890)  
-Authors: *Ambuj Varshney*, Andreas Soleiman, Luca Mottola, Thiemo Voigt  
-ACM VLCS (Co-located with ACM MobiCom) 2017  
-**Best Paper Award**  
-**ACM Student Research Competition Winner (Graduate, MobiCom)**  
 
 ### Transmission
 
@@ -151,7 +159,7 @@ The Seventeenth ACM/IEEE Conference on Information Processing in Sensor Networks
 ## Funding
 STICORS is generously supported (or have been previously supported) through grants from following agencies:  
 
-* Sweden Innovation Agence (VINNOVA) hosted at Uppsala University, Sweden
+* Sweden Innovation Agency (VINNOVA) hosted at Uppsala University, Sweden
 * 2019 ABB Research Award in Honour of Hubertus von Grünberg hosted at University of California, Berkeley
 * National University of Singapore (Startup grant)  
 

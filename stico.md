@@ -44,10 +44,9 @@ We are targetting two application scenarios:
 * 
 
 
-
 ## Collaborators
 
-|![Presentation at ABB Award](dutta.jpg)| Professor. Prabal Dutta (Associate Professor, University of California, Berkeley) |
+|![Presentation at ABB Award](dutta.jpg)| Professor. Prabal Dutta (Associate Professor, University of California, Berkeley)  Prabal Dutta is an Associate Professor of Electrical Engineering and Computer Sciences at the University of California at Berkeley, with a focus on mobile, wireless, embedded, networked, and sensing systems with applications to health, energy, and the environment. His work has been commercialized by several companies, has been utilized by thousands of researchers and practitioners worldwide, and has received several awards and nominations, including a Sloan Fellowship and a CAREER Award. He has served as chair or co-chair of several conferences and on the DARPA ISAT Study Group, and holds a Ph.D. in Computer Science from UC Berkeley. |
 
 
 ## Open-source Contributors

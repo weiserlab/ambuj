@@ -154,6 +154,9 @@ TBA
 TBA
 
 ### Security
+1. [Securing Battery-free Backscatter Tags through Fingerprinting](https://dl.acm.org/doi/10.1145/3484266.3487388)  
+Authors: [Revathy Narayanan](https://sites.google.com/view/revathy-narayanan/home), *Ambuj Varshney*, et al.     
+The Twentieth ACM Workshop on Hot Topics in Networks (ACM HotNets 2021)  
 
 ### Energy 
 TBA

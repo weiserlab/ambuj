@@ -161,6 +161,9 @@ The Twentieth ACM Workshop on Hot Topics in Networks (ACM HotNets 2021)
 ### Energy 
 TBA
 
+### Analytics
+
+
 ----
 ## Funding
 STICORS is generously supported (or have been previously supported) through grants from following agencies:  

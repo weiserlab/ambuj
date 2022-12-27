@@ -54,7 +54,7 @@ We are targetting two application scenarios:
 
 ## Students
 
-TBA
+* Qian Yukai [Masters student]
 
 ## Graduate Research Associates
 

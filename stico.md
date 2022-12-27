@@ -30,6 +30,8 @@ On the network side, we are interested in the following:
 
 **[Q4, 2022]**  GRANT: STICORS received second grant at National University of Singapore from ARTIC for sensing using tunnel diodes. We are going to focus on sensing breathing and heartbeats using flexible form factor sensors.
 
+**[Q2, 2022]** New project member: Qiao Yukai is working on masters thesis on collecting and analysing data from STICORS
+
 **[Q2, 2022]**  GRANT: STICORS received first grant at National University of Singapore from ODPRT (Startup Grant)
 
 **[Q1, 2022]** Project Investigator (Prof. Ambuj Varshney) has joined as a faculty member at the School of Computing of the National University of Singapore.  

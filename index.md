@@ -39,12 +39,13 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 * [Q1 2022] Joint work with Wenqing Yan (Uppsala University) and Prof. Prabal Dutta (University of California, Berkeley) was accepted/presented at ACM MobiSys 2022.  
 * [Q1 2022] Served on the jury of the [ABB Research Award in Honor of Hubertus von Grünberg](https://global.abb/group/en/technology/hvg-award) in 2022. This awards research endowment (approximately 300k USD) is the highest offered by any commercial organization to support academic research.  
 * [Q1 2022] Invited talk at [ACM LP-IoT Workshop (co-located with MobiCom)](https://www.witechlab.com/lpiot2021/#)  
-* [Q1 2022] Started as an Assistant Professor at School of Computing of the National University of Singapore. Bootstrapping the WEISER research group.  
+* [Q1 2022] Started as an Assistant Professor at School of Computing of the National University of Singapore. Bootstrapping the Wireless, Embedded Intelligence, Sensing, Emerging Technologies in Real World (WEISER) group 
 * [Q4 2021] Presented joint work with IMDEA Networks, Spain  at ACM MobiCom 2021. This research work was also covered in popular media.  
 * [Q3 2021] Became a UC Berkeley [Form+Fund Fellow (Spring 2021 cohort)](https://www.law.berkeley.edu/experiential/startupberkeleylaw/entrepreneurs/form-fund/) 
 * [Q1 2020] Joined the [University of California, Berkeley (EECS)](https://eecs.berkeley.edu/) as a postdoctoral scholar. 
 * [Q4 2019] Uppsala University appreciated our battery-free sensing work and awarded us the Attractive Innovation Award. It was selected among the top 15 projects from the university. [Press release here](https://www.uuinnovation.uu.se/about/attractive-innovation-project-awards-2019/) 
 * [Q4 2019] I was awarded 2019 ABB Research Award in Honour of Hubertus von Grünberg with an endowment of 300,000 USD, which I [received](https://resources.news.e.abb.com/images/2019/11/12/0/photo_award.jpg) from the CEO of ABB, [Peter Voser (Board member of IBM, Temasek)](https://en.wikipedia.org/wiki/Peter_Voser), the CTO of ABB, Bazmi Husain, and the former chairman of the board of directors of ABB, [Hubertus von Grünberg](https://resources.news.e.abb.com/attachments/published/13235/en-US/BFFBBA58C8EF/CV-ABB-HvG.pdf). [ABB Press Release](https://new.abb.com/news/detail/46277/abb-research-award-2019-goes-to-battery-free-sensor-project)
+
 
 ### Get to know about some of my research (2019 ABB Research Award Video): 
 <div class="analytis">

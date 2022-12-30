@@ -57,6 +57,7 @@ We are targetting two application scenarios:
 ## Students
 
 * Qian Yukai [Masters student]
+* Lim Soon Lee [Masters student]
 
 ## Graduate Research Associates
 

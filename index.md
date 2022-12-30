@@ -44,7 +44,7 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 * [Q1 2022] Invited talk at [ACM LP-IoT Workshop (co-located with MobiCom)](https://www.witechlab.com/lpiot2021/#)  
 * [Q1 2022] Started as an Assistant Professor at School of Computing of the National University of Singapore. Bootstrapping the Wireless, Embedded Intelligence, Sensing, Emerging Technologies in Real World (WEISER) group  
 * [Q3 2021] Became a UC Berkeley [Form+Fund Fellow (Spring 2021 cohort)](https://www.law.berkeley.edu/experiential/startupberkeleylaw/entrepreneurs/form-fund/)
-* [Q1 2021] Invited talk at several universities including: ETH Zurich, Imperial College London, Aalto University, NUS and others 
+* [Q1 2021] Invited talk at several universities: ETH Zurich, Imperial College London, Aalto, NUS and others 
 * [Q1 2020] Joined the [University of California, Berkeley (EECS)](https://eecs.berkeley.edu/) as a postdoctoral scholar. 
 * [Q4 2019] Uppsala University appreciated our battery-free sensing work and awarded us the Attractive Innovation Award. It was selected among the top 15 projects from the university [Press release here](https://www.uuinnovation.uu.se/about/attractive-innovation-project-awards-2019/) 
 * [Q4 2019] GRANT: Breakthrough Ideas from Sweden Innovation Agency (VINNOVA) to enable factories of future

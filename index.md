@@ -35,7 +35,7 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 
 
 ## Recent News
-* [Q4 2022] GRANT: Received grant from ARTIC to enable low-power sensing of biometric parameters using tunnel diodes
+* [Q4 2022] GRANT: Received grant from ARTIC to enable low-power sensing of biometric using tunnel diodes
 * [Q3 2022] Presented the vision of [STICORS]() at 2022 ABB Research Award in Honour of Hubertus von Grünberg Ceremony in Baden, Switzerland. Attendes included CEO of ABB - [Björn Rosengren](https://global.abb/group/en/about/corporate-governance/executive-committee/bjorn-rosengren), ex-chairman of ABB Hubertus von Grünberg. 
 * [Q3 2022] Short academic visit to EPFL, visiting [Haitham Al Hassanieh](https://people.epfl.ch/haitham.alhassanieh/?lang=en0) group
 * [Q1 2022] Served on the jury of the [ABB Research Award in Honor of Hubertus von Grünberg](https://global.abb/group/en/technology/hvg-award) in 2022. This awards  endowment (300,000 USD) is highest offered by any commercial organization for academic research

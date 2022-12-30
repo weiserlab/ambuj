@@ -38,6 +38,7 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 * [Q4 2022] GRANT: Received grant from ARTIC to enable low-power sensing of biometric using tunnel diodes
 * [Q3 2022] Presented the vision of [STICORS]() at 2022 ABB Research Award in Honour of Hubertus von Grünberg Ceremony in Baden, Switzerland. Attendes included CEO of ABB - [Björn Rosengren](https://global.abb/group/en/about/corporate-governance/executive-committee/bjorn-rosengren), ex-chairman of ABB Hubertus von Grünberg. 
 * [Q3 2022] Short academic visit to beautiful lausanne and EPFL, visiting [Haitham Al Hassanieh](https://people.epfl.ch/haitham.alhassanieh/?lang=en0) group
+* [Q2 2022] GRANT: Received grant from NUS-NCS Research Lab for Non-Intrusive Monitoring of IoT devices and robots 
 * [Q1 2022] Served on the jury of the [ABB Research Award in Honor of Hubertus von Grünberg](https://global.abb/group/en/technology/hvg-award) in 2022. This awards  endowment (300,000 USD) is highest offered by any commercial organization for academic research
 * [Q1 2022] Invited talk at [ACM LP-IoT Workshop (co-located with MobiCom)](https://www.witechlab.com/lpiot2021/#)  
 * [Q1 2022] Started as an Assistant Professor at School of Computing of the National University of Singapore. Bootstrapping the Wireless, Embedded Intelligence, Sensing, Emerging Technologies in Real World (WEISER) group  

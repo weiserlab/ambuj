@@ -35,7 +35,7 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 
 
 ## Recent News
-* [Q1 2022] Served on the jury of the [ABB Research Award in Honor of Hubertus von Grünberg](https://global.abb/group/en/technology/hvg-award) in 2022. This awards  endowment (300k USD) is highest offered by any commercial organization for academic research
+* [Q1 2022] Served on the jury of the [ABB Research Award in Honor of Hubertus von Grünberg](https://global.abb/group/en/technology/hvg-award) in 2022. This awards  endowment (300,000 USD) is highest offered by any commercial organization for academic research
 * [Q1 2022] Invited talk at [ACM LP-IoT Workshop (co-located with MobiCom)](https://www.witechlab.com/lpiot2021/#)  
 * [Q1 2022] Started as an Assistant Professor at School of Computing of the National University of Singapore. Bootstrapping the Wireless, Embedded Intelligence, Sensing, Emerging Technologies in Real World (WEISER) group  
 * [Q3 2021] Became a UC Berkeley [Form+Fund Fellow (Spring 2021 cohort)](https://www.law.berkeley.edu/experiential/startupberkeleylaw/entrepreneurs/form-fund/) 

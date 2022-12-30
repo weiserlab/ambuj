@@ -35,12 +35,9 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 
 
 ## Recent News
-* [Q2,Q3 2022] Organisational role and committee member for scientific events: Jury member 2022 ABB Research Award in Honour of Hubertus von Gruenberg,  IEEE Infocom 2023 (TPC member), IEEE Infocom 2022 (Session chair), ACM CPS-IoTBench 2022 (Session chair) (Co-located with CPSWeek), ACM LP-IoT 2022 (with Mobicom)(TPC Member), [EmergingWireless 2022 (TPC Member)](), [Perfail 2023 (TPC Member)](https://perfail-workshop.github.io/2023/), [ACM MobiCom 2023 (Web Chair)](), [ACM/IEEE IoTDI 2023 (TPC Member)](), [IEEE DCOSS-IoT 2023 (TPC Member)]()  
-* [Q1 2022] Joint work with Wenqing Yan (Uppsala University) and Prof. Prabal Dutta (University of California, Berkeley) was accepted/presented at ACM MobiSys 2022.  
 * [Q1 2022] Served on the jury of the [ABB Research Award in Honor of Hubertus von Grünberg](https://global.abb/group/en/technology/hvg-award) in 2022. This awards research endowment (approximately 300k USD) is the highest offered by any commercial organization to support academic research.  
 * [Q1 2022] Invited talk at [ACM LP-IoT Workshop (co-located with MobiCom)](https://www.witechlab.com/lpiot2021/#)  
-* [Q1 2022] Started as an Assistant Professor at School of Computing of the National University of Singapore. Bootstrapping the Wireless, Embedded Intelligence, Sensing, Emerging Technologies in Real World (WEISER) group 
-* [Q4 2021] Presented joint work with IMDEA Networks, Spain  at ACM MobiCom 2021. This research work was also covered in popular media.  
+* [Q1 2022] Started as an Assistant Professor at School of Computing of the National University of Singapore. Bootstrapping the Wireless, Embedded Intelligence, Sensing, Emerging Technologies in Real World (WEISER) group  
 * [Q3 2021] Became a UC Berkeley [Form+Fund Fellow (Spring 2021 cohort)](https://www.law.berkeley.edu/experiential/startupberkeleylaw/entrepreneurs/form-fund/) 
 * [Q1 2020] Joined the [University of California, Berkeley (EECS)](https://eecs.berkeley.edu/) as a postdoctoral scholar. 
 * [Q4 2019] Uppsala University appreciated our battery-free sensing work and awarded us the Attractive Innovation Award. It was selected among the top 15 projects from the university [Press release here](https://www.uuinnovation.uu.se/about/attractive-innovation-project-awards-2019/) 

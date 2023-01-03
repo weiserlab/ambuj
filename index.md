@@ -38,7 +38,7 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 * [Q4 2022] GRANT: Received grant from ARTIC to enable low-power sensing of biometric using tunnel diodes
 * [Q3 2022] Presented the vision of [STICORS]() at 2022 ABB Research Award in Honour of Hubertus von Grünberg Ceremony in Baden, Switzerland. Attendes included CEO of ABB - [Björn Rosengren](https://global.abb/group/en/about/corporate-governance/executive-committee/bjorn-rosengren), ex-chairman of ABB Hubertus von Grünberg
 * [Q3 2022] Invited talk at ABB Corporate Research Center, Zurich, Switzerland
-* [Q3 2022] Short academic visit to EPFL, visiting [Haitham Al Hassanieh](https://people.epfl.ch/haitham.alhassanieh/?lang=en0) group
+* [Q3 2022] Short academic visit to EPFL. Visiting [Haitham Al Hassanieh](https://people.epfl.ch/haitham.alhassanieh/?lang=en0) group
 * [Q2 2022] GRANT: Received grant from NUS-NCS Research Lab for Non-Intrusive Monitoring of IoT devices and robots 
 * [Q2 2022] GRANT: Received startup-grant from ODPRT for Sustainable, Low-Power Sensing
 * [Q1 2022] Served on the jury of the [ABB Research Award in Honor of Hubertus von Grünberg](https://global.abb/group/en/technology/hvg-award) in 2022. This awards  endowment (300,000 USD) is highest offered by any commercial organization for academic research
@@ -73,6 +73,10 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 ## Teaching and Mentorship
 
 Mentored the following students (formally):
+1. [Yusril Izza (2023 -)]() **(Ongoing)** [Masters program, National University of Singapore]
+  * Project/Thesis Title: Data Storage on IoT Devices 
+1. [Goh Sheen An (2023 -)]() **(Ongoing)** [Masters program, National University of Singapore]
+  * Project/Thesis Title: Integration of Embedded Wireless Microphones with Open AI Whisper (Voice to Text) System  
 1. [Lim Soon Lee (2023 -)]() **(Ongoing)** [Masters program, National University of Singapore]  
   * Project/Thesis Title: Fabricating Sticker Form-Factor Sensors
 1. [Qiao Yukai (2022 -)]() **(Ongoing)** [Masters program, National University of Singapore]  

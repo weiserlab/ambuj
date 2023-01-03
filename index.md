@@ -76,7 +76,7 @@ Mentored the following students (formally):
 1. [Yusril Izza (2023 -)]() **(Ongoing)** [Masters program, National University of Singapore]
   * Project/Thesis Title: Data Storage on IoT Devices 
 1. [Goh Sheen An (2023 -)]() **(Ongoing)** [Masters program, National University of Singapore]
-  * Project/Thesis Title: Integration of Embedded Wireless Microphones with Open AI Whisper (Voice to Text) System  
+  * Project/Thesis Title: Integration of Embedded Wireless Microphones with Open AI Whisper System  
 1. [Lim Soon Lee (2023 -)]() **(Ongoing)** [Masters program, National University of Singapore]  
   * Project/Thesis Title: Fabricating Sticker Form-Factor Sensors
 1. [Qiao Yukai (2022 -)]() **(Ongoing)** [Masters program, National University of Singapore]  

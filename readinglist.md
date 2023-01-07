@@ -13,15 +13,27 @@
 
 ### Backscatter Communication
 
-1. [Ambient Backscatter: Wireless Communication Out of Thin Air](https://modernmobile.cs.washington.edu/docs/abc.pdf), ACM SIGCOMM 2013
+#### Platform
+
 1. [Design of an RFID-Based Battery-Free Programmable Sensing Platform](https://ieeexplore.ieee.org/document/4539485)  
 IEEE Transactions on Instrumentation and Measurement, 2008 
+
+#### Ambient Backscatter
+These works do not require dedicated carrier emitting devices. Instead, they use ambient signals that are already present in the environment to communicate, by reflecting or absorbing them.
+
+1. [Ambient Backscatter: Wireless Communication Out of Thin Air](https://modernmobile.cs.washington.edu/docs/abc.pdf), Proceedings of the ACM SIGCOMM 2013 conference on SIGCOMM (SIGCOMM '13)
+
+#### Backscattering Commodity Protocols
+These works look into synthesizing transmissions compaitable to commodity wireless standards at a very low-power consumption using backscatter mechanism.
+
 1. [Passive Wi-Fi: Bringing Low Power to Wi-Fi Transmissions](https://passivewifi.cs.washington.edu/files/passive_wifi.pdf), USENIX NSDI 2016
 1. [LoRea: A Backscatter Architecture that Achieves a Long Communication Range](http://www.diva-portal.org/smash/get/diva2:1170384/FULLTEXT01.pdf), ACM SENSYS 2017
 1. [LoRa Backscatter: Enabling The Vision of Ubiquitous Connectivity](https://longrange.cs.washington.edu/files/loRaBackscatter.pdf), ACM IMWUT/UBICOMP 2017
 1. [NetScatter: Enabling Large-Scale Backscatter Networks](https://www.usenix.org/system/files/nsdi19-hessar.pdf), USENIX NSDI 2019
 
-### Low-power Receiver
+#### Backscatter Networks and Scaling
+
+### Low-power Receiverweis
 
 
 ### Energy Harvesting

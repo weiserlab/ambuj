@@ -20,7 +20,7 @@ For scheduling and other general queries, you may email my personal assistant:  
 
 ## Biography
 
-Ambuj Varshney, a Swedish citizen, is an Assistant Professor at the  National University of Singapore. Previously, he was a postdoctoral scholar at the [Department of EECS](https://eecs.berkeley.edu/) of the [University of California, Berkeley](https://www.berkeley.edu/). He was also a visiting researcher (three months) at the [Royal Institute of Technology (KTH)](https://kth.se). He completed his doctoral studies at [Uppsala University, Sweden](https://www.uu.se/en), and even before, he was a software engineer (firmware) at [NXP Semiconductors](https://www.nxp.com/). 
+Ambuj Varshney, a Swedish citizen, is an Assistant Professor at the  National University of Singapore. Previously, he was a postdoctoral scholar at the [Department of EECS](https://eecs.berkeley.edu/) of the [University of California, Berkeley](https://www.berkeley.edu/). He was also a visiting researcher (three months) at the [Royal Institute of Technology (KTH)](https://kth.se). He completed his doctoral studies at [Uppsala University, Sweden](https://www.uu.se/en). As a PhD student, he was also closely associated with Swedish Institute of Computer Sciences (SICS) (Now called [RISE](http://ri.se)). And even before, he was a software engineer (firmware) at [NXP Semiconductors](https://www.nxp.com/). 
 
 Ambuj Varshney's interests over the past decade have centered around embedded systems, wireless, and mobile computing. He has tackled the problem of energy asymmetry among components of embedded systems, which is a pressing problem hindering their widespread deployment. Varshney has designed novel low-power wireless transmitters that achieve hundreds of meters of range at tens of microwatts of power consumption, which is orders of magnitude lower than widely used commercial transmitters. His research has led to awards, accolades, and research grants, and his doctoral dissertation was awarded the 2019 ABB Research Award in Honour of Hubertus von Gruenberg (with an endowment of 300,000 USD hosted at the University of California, Berkeley). Several of Varshney's students have also received significant honors and accolades, including winning the ACM Student Research Competition at ACM MobiCom 2017. Varshney has served as a jury member, program committee member, and in organizational roles for several important scientific events.
 
@@ -35,16 +35,24 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 
 
 ## Recent News
-* [Q2,Q3 2022] Organisational role and committee member for scientific events: Jury member 2022 ABB Research Award in Honour of Hubertus von Gruenberg,  IEEE Infocom 2023 (TPC member), IEEE Infocom 2022 (Session chair), ACM CPS-IoTBench 2022 (Session chair) (Co-located with CPSWeek), ACM LP-IoT 2022 (with Mobicom)(TPC Member), [EmergingWireless 2022 (TPC Member)](), [Perfail 2023 (TPC Member)](https://perfail-workshop.github.io/2023/), [ACM MobiCom 2023 (Web Chair)](), [ACM/IEEE IoTDI 2023 (TPC Member)](), [IEEE DCOSS-IoT 2023 (TPC Member)]()  
-* [Q1 2022] Joint work with Wenqing Yan (Uppsala University) and Prof. Prabal Dutta (University of California, Berkeley) was accepted/presented at ACM MobiSys 2022.  
-* [Q1 2022] Served on the jury of the [ABB Research Award in Honor of Hubertus von Grünberg](https://global.abb/group/en/technology/hvg-award) in 2022. This awards research endowment (approximately 300k USD) is the highest offered by any commercial organization to support academic research.  
+* [Q4 2022] GRANT: Received grant from ARTIC to enable low-power sensing of biometric using tunnel diodes
+* [Q3 2022] Presented the vision of [STICORS]() at 2022 ABB Research Award in Honour of Hubertus von Grünberg Ceremony in Baden, Switzerland. Attendes included CEO of ABB - [Björn Rosengren](https://global.abb/group/en/about/corporate-governance/executive-committee/bjorn-rosengren), ex-chairman of ABB Hubertus von Grünberg
+* [Q3 2022] Invited talk at ABB Corporate Research Center, Zurich, Switzerland
+* [Q3 2022] Short academic visit to EPFL. Visiting [Haitham Al Hassanieh](https://people.epfl.ch/haitham.alhassanieh/?lang=en0) group
+* [Q2 2022] GRANT: Received grant from NUS-NCS Research Lab for Non-Intrusive Monitoring of IoT devices and robots 
+* [Q2 2022] GRANT: Received startup-grant from ODPRT for Sustainable, Low-Power Sensing
+* [Q1 2022] Served on the jury of the [ABB Research Award in Honor of Hubertus von Grünberg](https://global.abb/group/en/technology/hvg-award) in 2022. This awards  endowment (300,000 USD) is highest offered by any commercial organization for academic research
 * [Q1 2022] Invited talk at [ACM LP-IoT Workshop (co-located with MobiCom)](https://www.witechlab.com/lpiot2021/#)  
-* [Q1 2022] Started as an Assistant Professor at School of Computing of the National University of Singapore. Bootstrapping the WEISER research group.  
-* [Q4 2021] Presented joint work with IMDEA Networks, Spain  at ACM MobiCom 2021. This research work was also covered in popular media.  
-* [Q3 2021] Became a UC Berkeley [Form+Fund Fellow (Spring 2021 cohort)](https://www.law.berkeley.edu/experiential/startupberkeleylaw/entrepreneurs/form-fund/) 
-* [Q1 2020] Joined the [University of California, Berkeley (EECS)](https://eecs.berkeley.edu/) as a postdoctoral scholar. 
-* [Q4 2019] Uppsala University appreciated our battery-free sensing work and awarded us the Attractive Innovation Award. It was selected among the top 15 projects from the university. [Press release here](https://www.uuinnovation.uu.se/about/attractive-innovation-project-awards-2019/) 
-* [Q4 2019] I was awarded 2019 ABB Research Award in Honour of Hubertus von Grünberg with an endowment of 300,000 USD, which I [received](https://resources.news.e.abb.com/images/2019/11/12/0/photo_award.jpg) from the CEO of ABB, [Peter Voser (Board member of IBM, Temasek)](https://en.wikipedia.org/wiki/Peter_Voser), the CTO of ABB, Bazmi Husain, and the former chairman of the board of directors of ABB, [Hubertus von Grünberg](https://resources.news.e.abb.com/attachments/published/13235/en-US/BFFBBA58C8EF/CV-ABB-HvG.pdf). [ABB Press Release](https://new.abb.com/news/detail/46277/abb-research-award-2019-goes-to-battery-free-sensor-project)
+* [Q1 2022] Started as an Assistant Professor at School of Computing of the National University of Singapore. Bootstrapping the Wireless, Embedded Intelligence, Sensing, Emerging Technologies in Real World (WEISER) group  
+* [Q3 2021] Became a UC Berkeley [Form+Fund Fellow (Spring 2021 cohort)](https://www.law.berkeley.edu/experiential/startupberkeleylaw/entrepreneurs/form-fund/)
+* [Q1 2021] Invited talk at several universities: ETH Zurich, Imperial College London, Aalto, NUS and others 
+* [Q3 2020] Joined the [University of California, Berkeley (EECS)](https://eecs.berkeley.edu/) as a postdoctoral scholar. 
+* [Q4 2019] Uppsala University appreciated our battery-free sensing work and awarded us the Attractive Innovation Award. It was selected among the top 15 projects from the university [Press release here](https://www.uuinnovation.uu.se/about/attractive-innovation-project-awards-2019/) 
+* [Q4 2019] GRANT: Breakthrough Ideas from Sweden Innovation Agency (VINNOVA) to enable factories of future
+* [Q4 2019] Awarded 2019 ABB Research Award in Honour of Hubertus von Grünberg with an endowment of 300,000 USD. [Received](https://resources.news.e.abb.com/images/2019/11/12/0/photo_award.jpg) from the CEO of ABB, [Peter Voser (Board member of IBM, Temasek)](https://en.wikipedia.org/wiki/Peter_Voser), the CTO of ABB, Bazmi Husain, and former chairman of the board of directors of ABB, [Hubertus von Grünberg](https://resources.news.e.abb.com/attachments/published/13235/en-US/BFFBBA58C8EF/CV-ABB-HvG.pdf). [ABB Press Release](https://new.abb.com/news/detail/46277/abb-research-award-2019-goes-to-battery-free-sensor-project)
+* [Q2 2018] Invited [talk](https://networks.imdea.org/whatsnew/events-agenda/back-to-the-future-enabling-sustainable-and-ubiquitous-sensing-systems) at IMDEA Network Institute, Madrid, Spain
+* [Q2 2018] My mentored students (Andreas and Sam) received Best Demonstration Award at ACM WISEC 2018
+* [Q2 2018] Successfully defended doctoral dissertation titled: [Enabling Sustainable Networked Emebdded Systems](https://www.diva-portal.org/smash/get/diva2:1190906/FULLTEXT01.pdf)
 
 ### Get to know about some of my research (2019 ABB Research Award Video): 
 <div class="analytis">
@@ -65,6 +73,10 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 ## Teaching and Mentorship
 
 Mentored the following students (formally):
+1. [Yusril Izza (2023 -)]() **(Ongoing)** [Masters program, National University of Singapore]
+  * Project/Thesis Title: Data Storage on IoT Devices 
+1. [Goh Sheen An (2023 -)]() **(Ongoing)** [Masters program, National University of Singapore]
+  * Project/Thesis Title: Integration of Embedded Wireless Microphones with Open AI Whisper System  
 1. [Lim Soon Lee (2023 -)]() **(Ongoing)** [Masters program, National University of Singapore]  
   * Project/Thesis Title: Fabricating Sticker Form-Factor Sensors
 1. [Qiao Yukai (2022 -)]() **(Ongoing)** [Masters program, National University of Singapore]  

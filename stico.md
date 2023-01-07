@@ -28,9 +28,11 @@ On the network side, we are interested in the following:
 
 |![Presentation at ABB Award](pres1.jpg)|![Presentation at ABB Award](pres2.jpg) |
 
-**[Q4, 2022]**  GRANT: STICORS received second grant at National University of Singapore from ARTIC for sensing using tunnel diodes. We are going to focus on sensing breathing and heartbeats using flexible form factor sensors.
+**[Q4, 2022]**  **GRANT:** STICORS received second grant at National University of Singapore from ARTIC for sensing using tunnel diodes. We are going to focus on sensing breathing and heartbeats using flexible form factor sensors.
 
-**[Q2, 2022]**  GRANT: STICORS received first grant at National University of Singapore from ODPRT (Startup Grant)
+**[Q2, 2022]** **NEW MEMBER:** Qiao Yukai starts to work on his masters thesis on collecting and analysing data from STICORS
+
+**[Q2, 2022]**  **GRANT:** STICORS received first grant at National University of Singapore from ODPRT (Startup Grant)
 
 **[Q1, 2022]** Project Investigator (Prof. Ambuj Varshney) has joined as a faculty member at the School of Computing of the National University of Singapore.  
 
@@ -54,7 +56,8 @@ We are targetting two application scenarios:
 
 ## Students
 
-TBA
+* Qian Yukai [Masters student]
+* Lim Soon Lee [Masters student]
 
 ## Graduate Research Associates
 
@@ -175,8 +178,9 @@ TBA
 
 ----
 ## Funding
-STICORS is generously supported (or have been previously supported) through grants from following agencies:  
-
+STICORS is generously supported (or have been previously supported) through grants from following agencies: 
+ 
+* National University of Singapore (Funding to support master’s student) [2022-2023]
 * National University of Singapore (Startup grant) [2022-2026]
 * Grant from ARTIC at National University of Singapore (for sensing using tunnel diodes) [2022-2024]
 * Sweden Innovation Agency (VINNOVA) hosted at Uppsala University, Sweden [2018-2019]

@@ -18,7 +18,9 @@ is_contact: true
 ## OVERVIEW
 Large language models (LLMs) like [ChatGPT](https://chat.openai.com/chat) are trained on vast amounts of data, making them proficient in conversation and providing feedback. Despite a somewhat unsuccessful history, chatbots are finally reaching a point where they can be highly beneficial for learning. ChatGPT, for example, can be used to gain knowledge about wireless technology. We encourage the use of this tool for educational purposes in our course.
 
-We encourage you to interact with ChatGPT by providing it with prompts related to wireless networking and technologies, and to engage in conversation with the bot in order to expand your knowledge on the subject. Below, you will find a list of sample prompts.
+We encourage you to interact with ChatGPT by providing it with prompts related to wireless networking and technologies, and to engage in conversation with the bot in order to expand your knowledge on the subject.   
+
+Below, you will find a list of sample prompts.
 
 
 ## Lecture 1

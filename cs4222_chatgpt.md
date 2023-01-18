@@ -22,7 +22,6 @@ We encourage you to interact with ChatGPT by providing it with prompts related t
 
 Below, you will find a list of sample prompts.
 
-
 ## Lecture 1
 
 * Can you describe the early history of wireless communication?
@@ -33,7 +32,26 @@ Below, you will find a list of sample prompts.
 * What is smartdust?
 * Can you give examples of different sensors used in IoT devices?
 
-###
+## Lecture 2
+
+* What is Friis equation in wireless communication ?
+* What is antenna gain? How is it related to Friis equation?
+* What are typical antenna gain values for commonly used antenna?
+* Does antenna gain value varies with frequency?
+* Does radio propagation  has a circular disk model?
+* How does wireless interference impact signal propogation?
+* What is path loss exponent?
+* How do atmosphere absorb radio signals and at what frequencies?
+* what are commonly used wireless standards and can you classify them basis of throughput, range, frequency and datarate?
+* Can you describe shannon capacity and the parameters that it depends upon?
+* What is a microcontroller and how does it differ from microprocessor?
+* What is a system on chip?
+* How does system on chip differ from microcontroller?
+* What is early history of microprocessor?
+* what is early history of microcontroller?
+* what is early history of system-on-chip?
+* Why do we need seperate operating system for small IoT and embedded devices?
+* What are examples of IoT operating system?
 
 
 

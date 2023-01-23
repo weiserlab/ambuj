@@ -36,3 +36,10 @@ is_contact: true
 
 Possible frequencies for wireless communication: 30Hz – 40Hz, (ii) 30KHz – 40KHz, or (iii) 400MHz – 500MHz? (iv) 50GHz – 60GHz.
 
+* Question 4: A communication channel using a 20MHz spectrum in the range between 2.40GHz to 2.42GHz, has a signal to noise ratio of 63.
+
+1. What is the Shannon capacity of the channel? 
+
+
+* Question 5: TBA
+

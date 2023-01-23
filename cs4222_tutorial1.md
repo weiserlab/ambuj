@@ -18,9 +18,9 @@ is_contact: true
 
 ## All the students should come prepared with ideas, solutions, and suggestions to participate in the group discussion.
 
-* Question 1: What are the ISM  bands used for wireless communication? In residential and NUS campus settings, which frequency bands support WiFi communication? Finally, do TV and FM radio transmissions occur on ISMß bands?
+1. Question 1: What are the ISM  bands used for wireless communication? In residential and NUS campus settings, which frequency bands support WiFi communication? Finally, do TV and FM radio transmissions occur on ISMß bands?
 
-* Question 2: Please elaborate on the relationship between power consumption, data rate, and range in various wireless standards. If tasked with designing the following applications, what range and frequency of operation would you target? How would these choices impact the data rate ?
+1. Question 2: Please elaborate on the relationship between power consumption, data rate, and range in various wireless standards. If tasked with designing the following applications, what range and frequency of operation would you target? How would these choices impact the data rate ?
 
 | Application | Description|
 |-------|--------|
@@ -29,17 +29,18 @@ is_contact: true
 | IoT camera | Deployed in urban areas, this system captures images and short videos for surveillance purposes. The gathered information is wirelessly transmitted to the cloud for anomaly detection and processing | 
 
 
-* Question 3: When designing a beacon device, such as an Apple AirTag or a Wiliot sticker, that is powered by small batteries or harvested energy from the ambient environment, what wireless communication frequencies would you choose for the device to send small periodic messages?  
+1. Question 3: When designing a beacon device, such as an Apple AirTag or a Wiliot sticker, that is powered by small batteries or harvested energy from the ambient environment, what wireless communication frequencies would you choose for the device to send small periodic messages?  
 
-1. When the device transmits to short distances (few meters)
-1. When the device transmit to large distances (hundreds of meters)
+* When the device transmits to short distances (few meters)
+* When the device transmit to large distances (hundreds of meters)
 
 Possible frequencies for wireless communication: 30Hz – 40Hz, (ii) 30KHz – 40KHz, or (iii) 400MHz – 500MHz? (iv) 50GHz – 60GHz.
 
-* Question 4: A communication channel using a 20MHz spectrum in the range between 2.40GHz to 2.42GHz, has a signal to noise ratio of 63.
+1. Question 4: A communication channel using a 20MHz spectrum in the range between 2.40GHz to 2.42GHz, has a signal to noise ratio of 63.
 
-1. What is the Shannon capacity of the channel? 
-
+* What is the Shannon capacity of the channel?
+ 
+* If the transmission is varied to use a 80MHz spectrum in the range between 5.00GHz to 5.08GHz (instead of 2.40GHz to 2.42GHz), explain why the throughput can drop even though the wireless frequency band used has increased from 20MHz to 80MHz (for the same distance between transmitter and receiver). The transmit power also remains the same as when 20 MHz of spectrum was used.
 
 * Question 5: TBA
 

@@ -18,5 +18,12 @@ is_contact: true
 
 ## All the students should come prepared with ideas, solutions, and suggestions to participate in the group discussion.
 
-### Q1: What are the ISM frequency bands used for wireless communication? In residential and NUS campus settings, which frequency bands support WiFi communication? Also, do TV and FM radio transmissions occur on ISM frequency bands?
+* Q1: What are the ISM frequency bands used for wireless communication? In residential and NUS campus settings, which frequency bands support WiFi communication? Also, do TV and FM radio transmissions occur on ISM frequency bands?
+
+* Q2: Please elaborate on the relationship between power consumption, data rate, and range in various wireless standards. If tasked with designing the following applications, what range and frequency of operation would you target? How would these choices impact the data rate ?
+
+| Application | Description|
+|-------|--------|
+| Temperature sensor| This sensor allows measuring temperature inside the house and obtain these temperature readings on a smartphone| 
+
 

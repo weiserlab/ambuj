@@ -18,9 +18,9 @@ is_contact: true
 
 ## All the students should come prepared with ideas, solutions, and suggestions to participate in the group discussion.
 
-[1] **Question 1:** What are the ISM frequency bands used for wireless communication? In residential and campus settings, such as National University of Singapore, which frequency bands support WiFi communication? Lastly, do TV, and FM radio transmissions occur on ISM frequency bands?
+[1] **Question 1:** What are the ISM frequency bands used for wireless communication? In residential and campus settings, such as National University of Singapore, which frequency bands support Wi-Fi communication? Lastly, do TV, and FM radio transmissions occur on ISM frequency bands? 
 
-[2] **Question 2:** Please elaborate on the relationship between power consumption, data rate, and range in various wireless standards. If tasked with designing the following applications, what range and frequency of operation would you target? How would these choices impact the data rate ?
+[2] **Question 2:**  Can you elaborate on the relationship between power consumption, data rate, and range in various wireless standards? If tasked with designing the following applications, what range and frequency of operation would you target for them? How would these choices impact the data rate?
 
 | Application | Description|
 |-------|--------|

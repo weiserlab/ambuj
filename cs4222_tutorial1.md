@@ -44,7 +44,9 @@ Possible frequencies for wireless communication: 30Hz – 40Hz, (ii) 30KHz – 4
 
 [5] **Question 5:**  Recently, there has been a growing interest in connecting Internet of Things (IoT) devices through a network of small satellites. One example of this is the service offered by [Space X's Swarm](https://swarm.space/). Lets put you in the role of a designer building these satellites, if the goal is to transmit small amounts of information from the satellite swarm to IoT devices on the ground. 
 
-Given a distance of 300 km between the satellite and IoT devices, your role is to determine the rest of the parameters for wireless communication. What should be the antenna on the IoT device and satellite? What would be the ideal gain and type of the transmit and receive antenna? What should be the maximum transmit power of the radio on the satellite to support a sufficient link budget? Please note that energy conservation on the satellite should also be considered. Finally, what frequency would you want to use for communication? Can you estimate maximum communication range?
+* What should be the antenna on the IoT device and satellite? What would be the ideal gain and type of the transmit and receive antenna? 
+* What should be the maximum transmit power of the radio on the satellite to support a sufficient link budget? Please note that energy conservation on the satellite should also be considered. 
+* Finally, what frequency would you want to use for communication? Can you estimate path loss (Gt, Gr = 6 dBi)? Minimum sensitivity of a receiver for transmit power of 30 dBm?
 
 
 

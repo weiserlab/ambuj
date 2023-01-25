@@ -29,7 +29,7 @@ is_contact: true
 | IoT camera | Deployed in urban areas, this device captures images and short videos for surveillance purposes. The gathered information is wirelessly transmitted to the cloud for anomaly detection and processing | 
 
 
-[3] **Question 3:** When designing a beacon device, such as an [Apple AirTag](https://www.apple.com/sg/airtag/) or a [WilIoT Pixel](https://www.wiliot.com/product/iot-pixel) sticker, that is powered by small batteries or harvested energy from the ambient environment, what wireless communication frequencies would you choose for the device to send small periodic messages?  
+[3] **Question 3:** : When designing a beacon device, such as an Apple AirTag or a Wiliot sticker, that is powered by small batteries or harvested energy from the environment, what wireless frequencies and data rate would you choose for the device to transmit small periodic information?  
 
 * When the device transmits to short distances (few meters)
 * When the device transmit to large distances (hundreds of meters)

@@ -40,7 +40,23 @@ Possible frequencies for wireless communication: 30Hz – 40Hz, (ii) 30KHz – 4
 
 * What is the Shannon capacity of the channel?
 
-* If the transmission is varied to use a 80MHz spectrum in the range between 5.00GHz to 5.08GHz (instead of 2.40GHz to 2.42GHz), explain why the throughput can drop even though the wireless frequency band used has increased from 20MHz to 80MHz (for the same distance between transmitter and receiver). The transmit power also remains the same as when 20 MHz of spectrum was used.
+* If the transmission is varied to use a 80MHz spectrum in the range between 5.00GHz to 5.08GHz (instead of 2.40GHz to 2.42GHz), explain why the throughput can drop even though the bandwidth used has increased from 20MHz to 80MHz (for the same distance between transmitter and receiver). Please note that the transmit power also remains the same as when 20 MHz of spectrum was used.
 
-[5] **Question 5:** TBA
+[5] **Question 5:**  Recently, there has been a growing interest in connecting Internet of Things (IoT) devices through a network of small satellites. One example of this is the service offered by [Space X's Swarm](https://swarm.space/). Lets put you in the role of a designer building these satellites, if the goal is to transmit small amounts of information from the satellite swarm to IoT devices on the ground. 
+
+Given a distance of 200-300 kilometers between the satellite and IoT devices, your role is to determine the rest of the parameters for wireless communication. What should be the antenna on the IoT device and satellite? What would be the ideal gain and type of the transmit and receive antenna? What should be the maximum transmit power of the radio on the satellite to support a sufficient link budget? Please note that energy conservation on the satellite should also be considered. Finally, what frequency would you want to use for communication? Can you estimate maximum communication range?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

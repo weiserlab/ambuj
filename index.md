@@ -73,7 +73,7 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 ## Teaching and Mentorship
 
 Mentored the following students (formally):
-1. [Li Kunjun (2023 -)] **(Ongoing)** [Undergraduate researcher, National University of Singapore]
+1. [Li Kunjun (2023 -)]() **(Ongoing)** [Undergraduate researcher, National University of Singapore]
 * Project/Thesis Title: Non-Intrusive Monitoring of Robots and IoT Devices (Jointly with NCS-NUS Lab)
 1. [Steven Antya Orvala Waskito (2023 -)]() **(Ongoing)** [Undergraduate researcher, National University of Singapore]
 * Project/Thesis Title: Non-Intrusive Monitoring of Robots and IoT Devices (Jointly with NCS-NUS Lab)

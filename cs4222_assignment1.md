@@ -29,11 +29,7 @@ This is an **INDIVIDUAL** assignment.
 
 ### Overview
 
-In  this  hands-on  assignment,  you  will  learn  how  to  setup  your  computer  system  to  be  able  to  compile and run program on your TI SensorTag CC2650. The latter is a programmable device with  10 sensors, including light, digital  microphone,  accelerometer,  gyroscope,  magnetometer,  object  temperature, and ambient temperature. Wireless networking support is provided with both ZigBee and BLE for Internet of Things applications. 
-
-The OS to be used is [Contiki](https://github.com/contiki-ng/contiki-ng). Contiki is an open source  operating  system, initially developed by [Adam  Dunkels](http://dunkels.com/adam/). Now, Contiki is  supported  by  a  large  community  of  developers.  Apart  from  for  supporting  both  IPv4 
-and IPv6, it also includes multiple low-power wireless standards. Moreover, it runs on multiple  low-power devices, where the SensorTag is one of them.
-
+This hands-on assignment introduces you to TI SensorTag CC2650, a programmable device with ten sensors, such as light, digital microphone, accelerometer, gyroscope, magnetometer, and temperature. In addition, wireless networking is supported through Zigbee and BLE standards. The operating system used is [Contiki](https://github.com/contiki-ng/contiki-ng), an open-source system created by [Adam  Dunkels](http://dunkels.com/adam/) and now supported by a large developer community. Contiki supports multiple low-power wireless standards on various low-power platforms, including the SensorTag.
 
 
 

@@ -14,10 +14,7 @@ is_contact: true
 ----
 ****
 
-# ASSIGNMENT 1/ TUTORIAL for WEEK4 (Starting 30th of January 2023)
-
-
-### Questions for tutorial
+# ASSIGNMENT 1 (Due, Tutorial #3, Week 5)
 
 
 ## Assignment (Getting started with ContikiOS and SensorTag)
@@ -33,13 +30,25 @@ This hands-on assignment introduces you to TI SensorTag CC2650, a programmable d
 
 ### Setting up environment
 
-* Installing Contiki OS
+Please read the following guides, written for these operating systems:
 
-git clone https://github.com/contiki-ng/contiki-ng.git --recursive  
+* [Windows]()
+* [Mac OS X]()
+* [Linux]()
 
-sudo apt-get install gcc-arm-none-eabi  
+### Assignment
 
-* 
+During the tutorial periods in Week 4 (Jan 30th) or Week 5 (Feb 6th), you need to demonstrate to the  Lecturer, or one of the TAs that you have successfully installed the CC2650 development tool on your personal laptop (or LattePanda) by running the “Hello-World” program. 
+ 
+**Important:** In your demonstration, you should change the output to print your “Name” instead of  the string “Hello World”. Furthermore, you should also blink one of the onboard LED (actuator) on the sensor tag platform.
+
+If you are unable to complete the demonstration during the tutorials, you can email the Lecturer, or one of the TAs for an appointment. 
+ 
+Grading/demonstrate should be completed by Feb 10, 2023.  
+ 
+Late penalty is 10% per day after Feb 10, 2023.
+
+
 
 
 

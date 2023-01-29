@@ -14,7 +14,7 @@ is_contact: true
 ----
 ****
 
-# TUTORIAL 1 for WEEK4 (Starting 30th of January 2023)
+# TUTORIAL 2 for WEEK4 (Starting 30th of January 2023)
 
 ## All the students should come prepared with ideas, solutions, and suggestions to participate in the group discussion.
 

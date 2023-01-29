@@ -18,7 +18,7 @@ is_contact: true
 
 ## All the students should come prepared with ideas, solutions, and suggestions to participate in the group discussion.
 
-## In this tutorial, we will assist students in getting started with SensorTag. Additionally, for those who missed the tutorial in week 3 (due to a public holiday), we will be available to address any questions or concerns they may have. There are also two specific questions that will be covered in this tutorial.
+## In this tutorial, we will assist students in getting started with SensorTag. Additionally, for those who missed the tutorial in week 3 (due to a public holiday), we will be available to address any questions or concerns they may have. There are also two specific questions that will be covered.
 
 [1] **Question 1:** A wireless receiver with an effective radius of 100cm is receiving signals at 2 GHz from a transmitter that transmits at a power of 100W and a gain of 40dB (or 10,000). Assume path loss exponent is 2.
 (a) What is the gain of the receiver antenna?
@@ -29,7 +29,7 @@ is_contact: true
 
 [CC2650 Wireless MCU Datasheet](ti.com/lit/ds/symlink/cc2650.pdf)
 
-We would help students get started with Assignment #1. The deadline for showing working assignment #1, is Tutorial Week5.
+[3] *** Question3: ** We would spend the rest of the tutoral getting student started with Assignment #1. The deadline for showing working assignment #1, is Tutorial Week5.
 
 
 

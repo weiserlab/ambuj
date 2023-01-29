@@ -29,7 +29,7 @@ is_contact: true
 
 [CC2650 Wireless MCU Datasheet](ti.com/lit/ds/symlink/cc2650.pdf)
 
-[3] *** Question3: ** We would spend the rest of the tutoral getting student started with Assignment #1. The deadline for showing working assignment #1, is Tutorial Week5.
+[3] **Question 3:** We would spend the rest of the tutoral getting student started with Assignment #1. The deadline for showing working assignment #1, is Tutorial Week5.
 
 
 

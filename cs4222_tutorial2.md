@@ -26,9 +26,9 @@ is_contact: true
 
 [2] **Question 2:** Can you explain the difference between a microcontroller, system-on-chip, and microprocessor? Furthermore, what processor does Texas Instruments CC2650 (used for projects) use and the reasoning behind this choice? Can you also provide an estimate for the maximum communication range (BLE) for CC2650, taking into consideration Gt and Gr equal to 2 dBi, as well as identifying other relevant parameters from the datasheet?
 
-[CC2650 Wireless MCU Datasheet](ti.com/lit/ds/symlink/cc2650.pdf)
+[CC2650 Wireless MCU Datasheet](http://ti.com/lit/ds/symlink/cc2650.pdf)
 
-[3] **Question 3:** We would spend the rest of the tutoral getting students get started with Assignment #1. The deadline for showing working Assignment #1, is Tutorial #3,  Week 5.
+[3] **Question 3:** We would spend the rest of the tutoral getting students started with Assignment #1. The deadline for showing working Assignment #1, is Tutorial #3,  Week 5.
 
 
 

@@ -20,7 +20,7 @@ Large language models (LLMs) like [ChatGPT](https://chat.openai.com/chat) are tr
 
 We encourage you to interact with ChatGPT by providing it with prompts related to wireless networking and technologies, and to engage in conversation with the bot in order to expand your knowledge on the subject.   
 
-Below, you will find a list of sample prompts.
+Below, you will find a list of sample prompts. If you have suggestions for good prompt, please email them to the instructor. We may consider this for bonus marks/points.
 
 ## Lecture 1
 

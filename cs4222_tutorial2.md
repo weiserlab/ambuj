@@ -24,7 +24,9 @@ is_contact: true
 * What is the received power if the receiver is 1km away from the transmitter?
 * If the receiver is receiving signals at 900 MHz frequency (instead of 2GHz), please calculate (a) and (b) again? What do you notice and why?
 
-[2] **Question 2:** Can you explain the difference between a microcontroller, system-on-chip, and microprocessor? Furthermore, what processor does Texas Instruments CC2650 (used for projects) use and the reasoning behind this choice? Can you also provide an estimate for the maximum communication range (BLE) for CC2650, taking into consideration Gt and Gr equal to 2 dBi, as well as identifying other relevant parameters from the datasheet? Do you think CC2650 can achieve your calculated range in indoor environments?
+[2] **Question 2:** Can you explain the difference between a microcontroller, system-on-chip, and microprocessor? Furthermore, what processor does Texas Instruments CC2650 (used for projects) use and the reasoning behind this choice? 
+
+* Can you also provide an estimate for the maximum communication range (BLE) for CC2650, taking into consideration Gt and Gr equal to 2 dBi, as well as identifying other relevant parameters from the datasheet? Do you think CC2650 can achieve your calculated range in indoor environments?
 
 [CC2650 Wireless MCU Datasheet](http://ti.com/lit/ds/symlink/cc2650.pdf)
 

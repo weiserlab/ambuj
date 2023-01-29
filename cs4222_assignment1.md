@@ -32,9 +32,9 @@ This hands-on assignment introduces you to TI SensorTag CC2650, a programmable d
 
 Please read the following guides, written for these operating systems:
 
-* [Windows]()
-* [Mac OS X]()
-* [Linux]()
+* [Windows](https://ambuj.se/instructions_cc2650.pdf)
+* [Mac OS/Linux](https://ambuj.se/linux_mac.pdf) [Please ignore dates mentioned in the PDF]
+
 
 ### Assignment
 

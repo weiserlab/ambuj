@@ -53,6 +53,15 @@ Below, you will find a list of sample prompts. If you have suggestions for good 
 * Why do we need seperate operating system for small IoT and embedded devices?
 * What are examples of IoT operating system?
 
+## Lecture 3
+
+* What are attenuation and gain? What are common units to represent them for wireless signals?
+* How do you calculate attenuation in dB?
+* Why is loss of 3 dB strength in wireless signals important?
+* Can you add two decibel terms together?
+* How do you represent signal strength in milliwatts (in logarithmic scale)?
+* What are actuators? and can you list ten commonly used actuators on IoT devices?
+* How does LED work? how are RGB leds different from normal LEDs?
 
 
 ## POLICY REGARDING USING AI TOOLS

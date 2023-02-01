@@ -62,6 +62,14 @@ Below, you will find a list of sample prompts. If you have suggestions for good 
 * How do you represent signal strength in milliwatts (in logarithmic scale)?
 * What are actuators? and can you list ten commonly used actuators on IoT devices?
 * How does LED work? how are RGB leds different from normal LEDs?
+* Are actuators more power consuming when compared to sensors?
+* What are sensors? give example of 25 sensors used on IoT devices?
+* How many sensors are part of modern car? can you list all sensors used in modern cars?
+* What is difference between active and passive sensing? which one is most likely to be used on IoT devices? How does power consumption compare for the two?
+* What is ultrasound sensor? typical power consumption? and applications where this sensor is used?
+* How is LIDAR different from ultrasound sensor? and in what ways is it similar?
+* How does LIDAR sensor work? can we use them on IoT devices?
+* How is LIDAR used in automobiles and vaccum cleaners?
 
 
 ## POLICY REGARDING USING AI TOOLS

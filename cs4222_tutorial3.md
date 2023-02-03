@@ -26,10 +26,10 @@ is_contact: true
 
 | Application scenario |
 |-------|
-| How can metallic objects be detected if they are buried in the soil? | 
-| What is the sensor to detect blood oxygen levels on a wearable device?| 
-| Determine the water level in a tank situated on top of a building? | 
-| Generate a 3D mapping of historical structures? | 
+| Detecting metallic objects that are buried in the soil | 
+| Detecting blood oxygen levels on a wearable device| 
+| Determining water level in a tank situated on top of a building| 
+| Generate a 3D mapping of historical structures | 
 
 [3] **Question 3:** Molex is a producer of [thin-film/flexible batteries](https://www.molex.com/molex/products/family/thinfilm_battery). These batteries are [rated](https://www.molex.com/webdocs/datasheets/pdf/en-us/0132990001_ACCESSORIES.pdf) with a capacity of 10 mAH/voltage of 3V. 
 

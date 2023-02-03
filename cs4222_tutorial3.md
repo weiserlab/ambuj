@@ -42,7 +42,6 @@ a. Can you calculate the battery life when powering the following components of 
 
 b. How can you extend the battery life to a much longer duration than what was calculated in Part 3(a)? How do the characteristics of the application assist in making this decision?
 
-[4] **Question 4:** TBA 
 
 
 

@@ -31,7 +31,7 @@ is_contact: true
 | Determining water level in a tank situated on top of a building| 
 | Generate a 3D mapping of historical structures | 
 
-[3] **Question 3:** Molex is a producer of [thin-film/flexible batteries](https://www.molex.com/molex/products/family/thinfilm_battery). These batteries are [rated](https://www.molex.com/webdocs/datasheets/pdf/en-us/0132990001_ACCESSORIES.pdf) with a capacity of 10 mAH/voltage of 3V. 
+[3] **Question 3:** Molex produces [thin-film/flexible batteries](https://www.molex.com/molex/products/family/thinfilm_battery) [rated](https://www.molex.com/webdocs/datasheets/pdf/en-us/0132990001_ACCESSORIES.pdf) capacity of 10 mAH and voltage 3V. 
 
 a. Can you calculate the battery life when powering the following components of IoT devices exclusively (no other components are being powered)?
 

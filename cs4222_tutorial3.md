@@ -22,7 +22,7 @@ is_contact: true
 * A.R. Jimenez, etal, “A comparison of pedestrian Dead-Reckoning Algorithms using a Low-Cost MEMS IMU,” WISP 2009. (Sections II and III)
 
 
-[2] **Question 2:** Please list the sensor(s) you plan to use to support the following application scenarios. You may use multiple sensors.
+[2] **Question 2:** Please list the sensor(s) you plan to use to support the following application scenarios. 
 
 | Application scenario |
 |-------|
@@ -31,7 +31,7 @@ is_contact: true
 | Determine the water level in a tank situated on top of a building? | 
 | Generate a 3D mapping of historical structures? | 
 
-[3] **Question 3:** Molex is a producer of thin-film/flexible batteries (https://www.molex.com/molex/products/family/thinfilm_battery). These batteries are rated (https://www.molex.com/webdocs/datasheets/pdf/en-us/0132990001_ACCESSORIES.pdf) with a capacity of 10 mAH/voltage of 3V. 
+[3] **Question 3:** Molex is a producer of [thin-film/flexible batteries](https://www.molex.com/molex/products/family/thinfilm_battery). These batteries are [rated](https://www.molex.com/webdocs/datasheets/pdf/en-us/0132990001_ACCESSORIES.pdf) with a capacity of 10 mAH/voltage of 3V. 
 
 a. Please compute the battery lifespan when powering the following componenets of IoT devices solely (no other component is powered):
 

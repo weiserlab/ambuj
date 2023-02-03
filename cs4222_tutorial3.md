@@ -33,14 +33,14 @@ is_contact: true
 
 [3] **Question 3:** Molex is a producer of [thin-film/flexible batteries](https://www.molex.com/molex/products/family/thinfilm_battery). These batteries are [rated](https://www.molex.com/webdocs/datasheets/pdf/en-us/0132990001_ACCESSORIES.pdf) with a capacity of 10 mAH/voltage of 3V. 
 
-a. Please compute the battery lifespan when powering the following componenets of IoT devices solely (no other component is powered):
+a. Can you calculate the battery life when powering the following components of IoT devices exclusively (no other components are being powered)?
 
 * [BME 280: Pressure, Humidity, Temperature Sensor](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/#technical) (Sampling at 1Hz), current 3.6 microamperes
 * [ADXL 337: Accelerometer](https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL337.pdf), supply current 300 microamperes
 * [OPT 101: Light sensor](https://www.ti.com/lit/ds/symlink/opt101.pdf), current 120 microamperes
 * [HM01B01: Camera](https://www.sparkfun.com/products/15570), current approx. 1500 microamperes
 
-b. How would extend battery life to much longer duation that what you had calculated in Part 3(a). How does the characteristics of application help you make this decision?
+b. How can you extend the battery life to a much longer duration than what was calculated in Part 3(a)? How do the characteristics of the application assist in making this decision?
 
 [4] **Question 4:** TBA 
 

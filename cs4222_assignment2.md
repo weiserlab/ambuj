@@ -1,0 +1,81 @@
+---
+layout: default
+is_contact: true
+---
+
+![Banner Immage for Course](cs4222_banner.png)  
+
+# Wireless Networking aka "Wireless for IoT Class"
+## Course code: CS4222/CS5422  
+### Semester 2, 2022/2023
+### Instructor: Professor Ambuj Varshney
+### Contact: [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg), COM3: #02-25     
+
+----
+****
+
+# ASSIGNMENT 2 (Due, Tutorial #3, Week 5)
+
+
+## Assignment 2 (Due: TBA)
+
+**Total Marks: 70 (7% weightage for CS4222/CS5422)**
+ 
+This is an **INDIVIDUAL** assignment. 
+
+
+### Overview
+
+In this assignment, you will learn how to use sensors,  actuators and schedule events using timers in the Contiki Operating System. In addition, this assignment will familiarize you with using sensors and actuators on ContikiOS. Essentially, you will sense different physical phenomena, conduct processing on the sensortag, and correspondingly activate actuators.
+
+### Timers
+
+Executions in Contiki is event-driven and use of timers are common. The Contiki system provides a set of timer libraries. In this assignment, you will look at using the etimer and rtimer. A timer uses the data structure struct timer. Three function calls are used to control a timer.
+
+* timer_set()is used to initialize and starts the expiration time.
+* timer_reset() is used to restart the timer from previous expire time.
+* timer_restart() is used to restart the timer from current time.
+
+One difference between etimer and rtimer is the time resolution. etimer’s clock resolution depends on the number of clock ticks per second (CLOCK_SECOND), while rtimer uses RTIMER_SECOND.
+
+Another difference is that programming style. Etimer uses a more “sequential” model while rtimer uses callback.
+
+Sample code for etimer:
+
+{% highlight C %}
+PROCESS_THREAD(example_process, ev, data)
+{
+PROCESS_BEGIN();
+etimer_set(&timer_etimer, CLOCK_SECOND); /* Delay 1 second
+*/
+while(1) {
+PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&timer_etimer));
+etimer_reset(&timer_etimer);
+}
+PROCESS_END();
+}
+{% endhighlight %}
+
+Sample code for rtimer:
+
+
+
+### Assignment
+
+During the tutorial periods in Week 4 (Jan 30th) or Week 5 (Feb 6th), you need to demonstrate to the  Lecturer, or one of the TAs that you have successfully installed the CC2650 development tool on your personal laptop (or LattePanda) by running the “Hello-World” program. 
+ 
+**Important:** In your demonstration, you should change the output to print your “Name” instead of  the string “Hello World”. Furthermore, you should also blink one of the onboard LED (actuator) on the sensor tag platform.
+
+If you are unable to complete the demonstration during the tutorials, you can email the Lecturer, or one of the TAs for an appointment. 
+ 
+Grading/demonstrate should be completed by Feb 10, 2023.  
+ 
+Late penalty is 10% per day after Feb 10, 2023.
+
+
+
+
+
+
+
+

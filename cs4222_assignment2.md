@@ -112,6 +112,17 @@ Thus, state transitioning from BUZZ! to WAIT or vice versa occurs every 3 second
 ACTIVE mode (system can be in either BUZZ! or WAIT state), the system moves to the IDLE state
 when it detects a significant change in light reading.
 
+* You need to sample the appropriate sensor (IMU sensor in the IDLE mode and light sensor in the
+ACTIVE mode) to detect changes.
+* Significant change of light reading is defined by a change of more than 300 lux in the light
+intensity.
+* Do not sample the light sensor at a rate higher than 4 Hertz as the driver does not work well at
+higher sampling rate.
+* Significant motion is defined as picking up or moving of your arm while holding the sensorTag in
+your hand. You need to determine how to detect significant motion using the IMU sensors.
+* Do not sample the IMU sensor at a sampling rate higher than 50 Hertz as higher sampling rate
+may result in unstable behaviour.
+
 
 
 If you are unable to complete the demonstration during the tutorials, you can email the Lecturer, or one of the TAs for an appointment. 

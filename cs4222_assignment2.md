@@ -14,8 +14,7 @@ is_contact: true
 ----
 ****
 
-# ASSIGNMENT 2 (Due, Tutorial #3, Week 5)
-
+# ASSIGNMENT 2 (Due, TBA)
 
 ## Assignment 2 (Due: TBA)
 
@@ -74,7 +73,6 @@ PROCESS_END();
 
 You can read more about timers on the [following link](https://docs.contiki-ng.org/en/develop/doc/programming/Timers.html).
 
-
 ### Sample Programs
 
 We are providing you three sample programs that can provide you with hints to conduct this assignment.
@@ -92,15 +90,19 @@ CONTIKI_PROJECT = etimer-buzzer rtimer-lightSensor rtimer-IMUSensor
 
 ### Assignment
 
-During the tutorial periods in Week 4 (Jan 30th) or Week 5 (Feb 6th), you need to demonstrate to the  Lecturer, or one of the TAs that you have successfully installed the CC2650 development tool on your personal laptop (or LattePanda) by running the “Hello-World” program. 
- 
-**Important:** In your demonstration, you should change the output to print your “Name” instead of  the string “Hello World”. Furthermore, you should also blink one of the onboard LED (actuator) on the sensor tag platform.
+
+### TASKS:  Clock Resolution
+
+From the output of etimer-buzzer.c, note down the value of CLOCK_SECOND. Find out how many clock ticks corresponds to 1s in real time.
+From the output of rtimer-lightSensor.c. note down the value of RTIMER_SECOND. Find out how many clock ticks corresponds to 1s in real time.
+
+### TASKS: 
 
 If you are unable to complete the demonstration during the tutorials, you can email the Lecturer, or one of the TAs for an appointment. 
  
-Grading/demonstrate should be completed by Feb 10, 2023.  
+Grading/demonstrate should be completed by XXXX.  
  
-Late penalty is 10% per day after Feb 10, 2023.
+Late penalty is 10% per day after XXXX.
 
 
 

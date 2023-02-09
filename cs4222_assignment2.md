@@ -119,12 +119,13 @@ your hand. You need to determine how to detect significant motion using the IMU 
 may result in unstable behaviour.
 
 
+### Evalution
 
-If you are unable to complete the demonstration during the tutorials, you can email the Lecturer, or one of the TAs for an appointment. 
- 
-Grading/demonstrate should be completed by XXXX.  
- 
-Late penalty is 10% per day after XXXX.
+We will announce details regarding submission and evaluation. 
+
+Grading/demonstrate should be completed by TBA.  
+
+Late penalty is 10% per day after TBA.
 
 
 

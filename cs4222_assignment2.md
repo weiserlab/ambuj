@@ -20,8 +20,8 @@ is_contact: true
 
 **Total Marks: 70 (7% weightage for CS4222/CS5422)**
  
-This is an **INDIVIDUAL** assignment. 
-**Important: We will check for code similarity and potential cases of plagiarism**
+This is an **INDIVIDUAL** assignment.   
+**Important: We will check for code similarity and potential cases of plagiarism, including if ChatGPT has been used to write code**
 
 ### Overview
 

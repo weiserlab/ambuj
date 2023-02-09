@@ -26,7 +26,7 @@ This is an **INDIVIDUAL** assignment.
 
 ### Overview
 
-In this assignment, you will learn how to use sensors,  actuators and schedule events using timers in the Contiki Operating System. In addition, this assignment will familiarize you with using sensors and actuators on ContikiOS. Essentially, you will sense different physical phenomena, conduct processing on the sensortag, and correspondingly activate actuators.
+In this assignment, you will learn how to use sensors,  actuators and schedule events using timers in the Contiki OS. In addition, this assignment will familiarize you with using sensors and actuators. Essentially, you will sense different physical phenomena, conduct some processing, and correspondingly activate actuators.
 
 ### Timers
 

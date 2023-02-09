@@ -102,15 +102,8 @@ Write the program to implement the state transition diagram given below.
 
 ![Banner Immage for Course](statetrans.png)  
 
-The program starts in the IDLE mode. On detecting “significant motion”, it moves into the ACTIVE
-mode. There are two states in the ACTIVE mode, namely BUZZ! and WAIT. In the BUZZ! state, the
-sensorTag uses the buzzer to generate a buzzing sound. In the WAIT state, the sensorTag does not
-generate any sound. When entering the ACTIVE mode from the IDLE mode, the system goes into
-the BUZZ! state and generate the buzz sound for 3 seconds. After 3 seconds, it goes into the WAIT
-state (buzzer off) and remains in the WAIT state for 3 seconds before going back to the BUZZ! state.
-Thus, state transitioning from BUZZ! to WAIT or vice versa occurs every 3 seconds. While in the
-ACTIVE mode (system can be in either BUZZ! or WAIT state), the system moves to the IDLE state
-when it detects a significant change in light reading.
+The program starts in the IDLE mode. On detecting “significant motion”, it moves into the ACTIVE mode. There are two states in the ACTIVE mode,  BUZZ! and WAIT. In the BUZZ! state, the sensorTag uses the buzzer to generate a sound. In the WAIT state, the sensorTag does not
+generate any sound. When entering the ACTIVE mode from the IDLE mode, the system goes into the BUZZ! state and generate the sound for 3 seconds. After 3 seconds, it goes into the WAIT state (buzzer off) and remains in the WAIT state for 3 seconds before going back to the BUZZ! state. Thus, state transitioning from BUZZ! to WAIT or vice versa occurs every 3 seconds. While in the ACTIVE mode (system can be in either BUZZ! or WAIT state), the system moves to the IDLE state when it detects a significant change in light reading.
 
 * You need to sample the appropriate sensor (IMU sensor in the IDLE mode and light sensor in the
 ACTIVE mode) to detect changes.

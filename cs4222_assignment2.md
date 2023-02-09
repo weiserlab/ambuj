@@ -22,7 +22,7 @@ is_contact: true
  
 This is an **INDIVIDUAL** assignment.   
 **Important: We will check for code similarity and potential cases of plagiarism**  
-**Important: Please dont use ChatGPT to write code for this assignment. We will check for ChatGPT plagarism.**
+**Important: Please do not use ChatGPT to write code for this assignment. We will particularly check for ChatGPT plagarism.**
 
 
 ### Overview
@@ -33,9 +33,9 @@ In this assignment, you will learn how to use sensors,  actuators and schedule e
 
 Executions in Contiki is event-driven and use of timers are common. The Contiki system provides a set of timer libraries. In this assignment, you will look at using the etimer and rtimer. A timer uses the data structure struct timer. Three function calls are used to control a timer.
 
-* timer_set()is used to initialize and starts the expiration time.
-* timer_reset() is used to restart the timer from previous expire time.
-* timer_restart() is used to restart the timer from current time.
+* timer_set(): used to initialize and starts the expiration time.
+* timer_reset(): used to restart the timer from previous expire time.
+* timer_restart(): used to restart the timer from current time.
 
 One difference between etimer and rtimer is the time resolution. etimer’s clock resolution depends on the number of clock ticks per second (CLOCK_SECOND), while rtimer uses RTIMER_SECOND.
 
@@ -90,8 +90,6 @@ should include names of all the new programs.
 CONTIKI_PROJECT = etimer-buzzer rtimer-lightSensor rtimer-IMUSensor
 {% endhighlight %}
 
-### Assignment
-
 ### TASKS:  Clock Resolution
 
 From the output of etimer-buzzer.c, note down the value of CLOCK_SECOND. Find out how many clock ticks corresponds to 1s in real time.
@@ -106,16 +104,11 @@ Write the program to implement the state transition diagram given below.
 The program starts in the IDLE mode. On detecting “significant motion”, it moves into the ACTIVE mode. There are two states in the ACTIVE mode,  BUZZ! and WAIT. In the BUZZ! state, the sensorTag uses the buzzer to generate a sound. In the WAIT state, the sensorTag does not
 generate any sound. When entering the ACTIVE mode from the IDLE mode, the system goes into the BUZZ! state and generate the sound for 3 seconds. After 3 seconds, it goes into the WAIT state (buzzer off) and remains in the WAIT state for 3 seconds before going back to the BUZZ! state. Thus, state transitioning from BUZZ! to WAIT or vice versa occurs every 3 seconds. While in the ACTIVE mode (system can be in either BUZZ! or WAIT state), the system moves to the IDLE state when it detects a significant change in light reading.
 
-* You need to sample the appropriate sensor (IMU sensor in the IDLE mode and light sensor in the
-ACTIVE mode) to detect changes.
-* Significant change of light reading is defined by a change of more than 300 lux in the light
-intensity.
-* Do not sample the light sensor at a rate higher than 4 Hertz as the driver does not work well at
-higher sampling rate.
-* Significant motion is defined as picking up or moving of your arm while holding the sensorTag in
-your hand. You need to determine how to detect significant motion using the IMU sensors.
-* Do not sample the IMU sensor at a sampling rate higher than 50 Hertz as higher sampling rate
-may result in unstable behaviour.
+* You need to sample sensor (IMU sensor in the IDLE mode, light sensor in the ACTIVE mode) to detect changes
+* Significant change of light reading is defined by a change of more than 300 lux in the light intensity
+* Do not sample the light sensor at a rate higher than 4 Hertz as the driver does not work well 
+* Significant motion is defined as picking up or moving of your arm while holding the sensorTag in your hand. You need to determine how to detect significant motion using the IMU sensors
+* Do not sample the IMU sensor at a sampling rate higher than 50 Hertz as it may result in unstable behaviour
 
 
 ### Evalution

@@ -96,7 +96,23 @@ CONTIKI_PROJECT = etimer-buzzer rtimer-lightSensor rtimer-IMUSensor
 From the output of etimer-buzzer.c, note down the value of CLOCK_SECOND. Find out how many clock ticks corresponds to 1s in real time.
 From the output of rtimer-lightSensor.c. note down the value of RTIMER_SECOND. Find out how many clock ticks corresponds to 1s in real time.
 
-### TASKS: 
+### TASKS: Implementing States
+
+Write the program to implement the state transition diagram given below.
+
+![Banner Immage for Course](statetrans.png)  
+
+The program starts in the IDLE mode. On detecting “significant motion”, it moves into the ACTIVE
+mode. There are two states in the ACTIVE mode, namely BUZZ! and WAIT. In the BUZZ! state, the
+sensorTag uses the buzzer to generate a buzzing sound. In the WAIT state, the sensorTag does not
+generate any sound. When entering the ACTIVE mode from the IDLE mode, the system goes into
+the BUZZ! state and generate the buzz sound for 3 seconds. After 3 seconds, it goes into the WAIT
+state (buzzer off) and remains in the WAIT state for 3 seconds before going back to the BUZZ! state.
+Thus, state transitioning from BUZZ! to WAIT or vice versa occurs every 3 seconds. While in the
+ACTIVE mode (system can be in either BUZZ! or WAIT state), the system moves to the IDLE state
+when it detects a significant change in light reading.
+
+
 
 If you are unable to complete the demonstration during the tutorials, you can email the Lecturer, or one of the TAs for an appointment. 
  

@@ -14,9 +14,9 @@ is_contact: true
 ----
 ****
 
-# ASSIGNMENT 2 (Due, TBA)
+# ASSIGNMENT 2 (Due, 3rd March 2023)
 
-## Assignment 2 (Due: TBA)
+## Assignment 2 (Due: 3rd March 2023)
 
 **Total Marks: 70 (7% weightage for CS4222/CS5422)**
  
@@ -123,9 +123,9 @@ may result in unstable behaviour.
 
 We will announce details regarding submission and evaluation. 
 
-Grading/demonstrate should be completed by TBA.  
+Grading/demonstrate should be completed by 3rd March 2023.  
 
-Late penalty is 10% per day after TBA.
+Late penalty is 10% per day after 3rd March 2023.
 
 
 

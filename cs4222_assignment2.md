@@ -58,6 +58,19 @@ PROCESS_END();
 
 Sample code for rtimer:
 
+{% highlight C %}
+PROCESS_THREAD(process_rtimer, ev, data)
+{
+PROCESS_BEGIN();
+init_opt_reading();
+while(1) {
+rtimer_set(&timer_rtimer, RTIMER_NOW() + RTIMER_SECOND, 0,
+do_rtimer_timeout, NULL);
+PROCESS_YIELD();
+}
+PROCESS_END();
+}
+{% endhighlight %}
 
 
 ### Assignment

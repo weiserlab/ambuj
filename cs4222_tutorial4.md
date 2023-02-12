@@ -24,8 +24,20 @@ is_contact: true
 
 * For the chipset chosen in the question above, assume that the devices are designed to operate at a very low duty-cycle (<0.01%) and you are allowed to reduce the current drawn from only one of the states (idle, receive (RX) or transmit (TX)). Which state would you reduce the current from?    
 
-
 ![Question2, Tutorial](tutorial4_question2.png)  
+
+[3] **Question 3:**  Please find specification of following technologies:
+
+
+| Specification | Bluetooth| ZigBee | WiFi | LoRea (Backscatter) | 
+|-------|--------|---------|---------|---------|
+| VDD(V) | 1.8 | 3.0 | 3.3 | 2|
+| Transmit (mA)| 60 | 30 |220| 0.035|
+| Receive (mA)| 50 | 25 | 210| N.A |
+| Bitrate (Mb/s)| 1.2| 0.25 | 54| 0.1|
+
+
+
 
 
 

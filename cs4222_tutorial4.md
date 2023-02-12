@@ -20,7 +20,7 @@ is_contact: true
 [1] **Question 1:** What is the typical battery capacity of common devices that you use in your daily life such as wearables (Apple Watch/Fitbit), earphones, laptops, and mobile phones?
 
 [2] **Question 2:**
-* In the figure represting state transition diagtam, which chipset is more suitable for used in Internet of Things applications? Explain your reasoning.
+* In the figure represnting state transition diagram, which chipset is more suitable for used in Internet of Things applications? Explain your reasoning.
 
 * For the chipset chosen in the question above, assume that the devices are designed to operate at a very low duty-cycle (<0.01%) and you are allowed to reduce the current drawn from only one of the states (idle, receive (RX) or transmit (TX)). Which state would you reduce the current from?    
 
@@ -38,10 +38,10 @@ is_contact: true
 * Calculate the energy (in Joule) require to transmit 1 bit for different technologies listed above.  
 * For low power IoT devices, should you always select the network technology with the lower transmission energy per bit? Explain your answer
 * In addition to energy needed to transmit/receive a bit, what other criteria(s) should you take into account when selecting a network technology for use in a low power Internet of Things? 
-* What kind of applications would choose to use above technologies? 
+* What kind of applications would choose to use Bluetooth technologies? 
+* What kind of application would choose to use LoRa technology?
+* What kind of application would choose to use Backscatter technology?
 
-
-[4] TBA
 
 
 

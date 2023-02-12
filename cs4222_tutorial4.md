@@ -42,7 +42,6 @@ is_contact: true
 * What kind of application would choose to use LoRa technology?
 * What kind of application would choose to use Backscatter technology?
 
-Q4: TBA
 
 
 

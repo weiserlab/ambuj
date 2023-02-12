@@ -28,12 +28,17 @@ is_contact: true
 
 [3] **Question 3:**  Please find specification of following technologies:
 
-| Specification | Bluetooth| ZigBee | WiFi | LoRa | [LoRea (Backscatter)](https://www.diva-portal.org/smash/get/diva2:1163386/FULLTEXT01.pdf) | [Judo (Backscatter Like)](https://www.diva-portal.org/smash/get/diva2:1713259/FULLTEXT02) | 
+| Specification | Bluetooth| ZigBee | WiFi | [LoRa](https://cdn-shop.adafruit.com/product-files/3179/sx1276_77_78_79.pdf) | [LoRea (Backscatter)](https://www.diva-portal.org/smash/get/diva2:1163386/FULLTEXT01.pdf) | [Judo (Backscatter)](https://www.diva-portal.org/smash/get/diva2:1713259/FULLTEXT02) | 
 |-------|--------|---------|---------|---------|
-| VDD(V) | 1.8 | 3.0 | 3.3 | | 2| 0.1|
-| Transmit (mA)| 60 | 30 |220| | 0.035| 0.7 |
-| Receive (mA)| 50 | 25 | 210| | N.A | N.A|
-| Bitrate (Mb/s)| 1.2| 0.25 | | 54| 0.03| 0.1|
+| VDD(V) | 1.8 | 3.0 | 3.3 | 3.3 | 2| 0.12|
+| Transmit (mA)| 60 | 30 |220| 28 | 0.035| 1 |
+| Receive (mA)| 50 | 25 | 210| 13.8 | N.A | N.A|
+| Bitrate (Mb/s)| 1.2| 0.25 | 54 | 0.027 | 0.003| 0.1|
+
+* Calculate the energy (in Joule) require to transmit 1 bit for different technologies listed above.  
+* For low power IoT devices, should you always select the network technology with the lower transmission energy per bit? Explain your answer
+* In addition to energy needed to transmit/receive a bit, what other criteria(s) should you take into account when selecting a network technology for use in a low power Internet of Things? 
+* What kind of applications would choose to use above technologies? 
 
 
 

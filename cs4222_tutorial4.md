@@ -31,7 +31,7 @@ is_contact: true
 | Specification | Bluetooth| ZigBee | WiFi | [LoRa](https://cdn-shop.adafruit.com/product-files/3179/sx1276_77_78_79.pdf) | [LoRea (Backscatter)](https://www.diva-portal.org/smash/get/diva2:1163386/FULLTEXT01.pdf) | [Judo (Backscatter)](https://www.diva-portal.org/smash/get/diva2:1713259/FULLTEXT02) | 
 |-------|--------|---------|---------|---------|
 | VDD(V) | 1.8 | 3.0 | 3.3 | 3.3 | 2| 0.12|
-| Transmit (mA)| 60 | 30 |220| 28 | 0.035| 1 |
+| Transmit (mA)| 60 | 30 |220| 28 | 0.035| 0.7 |
 | Receive (mA)| 50 | 25 | 210| 13.8 | N.A | N.A|
 | Bitrate (Mb/s)| 1.2| 0.25 | 54 | 0.027 | 0.003| 0.1|
 

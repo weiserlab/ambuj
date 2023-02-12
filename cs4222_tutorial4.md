@@ -29,7 +29,7 @@ is_contact: true
 [3] **Question 3:**  Please find specification of following technologies:
 
 
-| Specification | Bluetooth| ZigBee | WiFi | [LoRea (Backscatter)]() | [Judo (Backscatter Like)]() | 
+| Specification | Bluetooth| ZigBee | WiFi | [LoRea (Backscatter)](https://www.diva-portal.org/smash/get/diva2:1163386/FULLTEXT01.pdf) | [Judo (Backscatter Like)](https://www.diva-portal.org/smash/get/diva2:1713259/FULLTEXT02) | 
 |-------|--------|---------|---------|---------|
 | VDD(V) | 1.8 | 3.0 | 3.3 | 2| 0.1|
 | Transmit (mA)| 60 | 30 |220| 0.035| 0.7 |

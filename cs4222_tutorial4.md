@@ -35,7 +35,7 @@ is_contact: true
 | Receive (mA)| 50 | 25 | 210| 13.8 | N.A | N.A|
 | Bitrate (Mb/s)| 1.2| 0.25 | 54 | 0.027 | 0.003| 0.1|
 
-* Calculate the energy (in Joule) require to transmit 1 bit for different technologies listed above.  
+* Calculate the energy (in milli-joules (mJ)) require to transmit 1 bit for different technologies listed above.  
 * For low power IoT devices, should you always select the network technology with the lower transmission energy per bit? Explain your answer
 * In addition to energy needed to transmit/receive a bit, what other criteria(s) should you take into account when selecting a network technology for use in a low power Internet of Things? 
 * What kind of applications would choose to use Bluetooth technology? 

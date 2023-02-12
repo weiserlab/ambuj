@@ -38,9 +38,12 @@ is_contact: true
 * Calculate the energy (in Joule) require to transmit 1 bit for different technologies listed above.  
 * For low power IoT devices, should you always select the network technology with the lower transmission energy per bit? Explain your answer
 * In addition to energy needed to transmit/receive a bit, what other criteria(s) should you take into account when selecting a network technology for use in a low power Internet of Things? 
-* What kind of applications would choose to use Bluetooth technologies? 
+* What kind of applications would choose to use Bluetooth technology? 
 * What kind of application would choose to use LoRa technology?
 * What kind of application would choose to use Backscatter technology?
+
+Q4: TBA
+
 
 
 

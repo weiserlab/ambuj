@@ -14,7 +14,7 @@ is_contact: true
 ----
 ****
 
-# TUTORIAL 4 (Starting 6th of February 2023)
+# TUTORIAL 4 for WEEK 6 (Starting 13th of February 2023)
 
 
 [1] **Question 1:** What is the typical battery capacity of common devices that you use in your daily life such as wearables (Apple Watch/Fitbit), earphones, laptops, and mobile phones?

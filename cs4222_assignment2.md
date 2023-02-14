@@ -22,7 +22,7 @@ is_contact: true
  
 This is an **INDIVIDUAL** assignment.   
 **Important: We will check for code similarity and potential cases of plagiarism**  
-**Important: Please do not use ChatGPT to write code for this assignment. We will particularly check for ChatGPT plagarism.**
+**Important: Please do not use ChatGPT to write code for this assignment. We will particularly check for ChatGPT plagiarism.**
 
 
 ### Overview

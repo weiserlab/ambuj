@@ -20,7 +20,7 @@ Large language models (LLMs) like [ChatGPT](https://chat.openai.com/chat) are tr
 
 We encourage you to interact with ChatGPT by providing it with prompts related to wireless networking and technologies, and to engage in conversation with the bot in order to expand your knowledge on the subject.   
 
-Below, you will find a list of sample prompts. If you have suggestions for good prompt, please email them to the instructor. We may consider this for bonus marks/points.
+Below, you will find a list of sample prompts. **If you have suggestions for good prompt, please email them to the instructor. We may consider this for bonus marks/points.**
 
 ## Lecture 1
 
@@ -70,6 +70,34 @@ Below, you will find a list of sample prompts. If you have suggestions for good 
 * How is LIDAR different from ultrasound sensor? and in what ways is it similar?
 * How does LIDAR sensor work? can we use them on IoT devices?
 * How is LIDAR used in automobiles and vaccum cleaners?
+
+
+## Lecture 4
+
+* How do you measure battery capacity?
+* What is commonly used unit for batteries used in IoT devices?
+* What are typical size of batteries used in commonly used electronic devices?
+* What is battery capacity for flexible batteries
+* How do you estimate lifespan of battery based on battery capacity and current usage of IoT device?
+* What are typical current draw for various wireless technologies used on IoT devices?
+* What is difference between OLED, LCD and Epaper displays?
+* What is history of epaper technology?
+* Does a wireless radio have similar power consumption for transmit, receive and ideal state? if not, what is relationship between them?
+* What are radio duty cycling algorithms of wireless radios?
+* What is backscatter communication and history of this technology?
+* What is good analogy to understand backscatter communication?
+* Can you describe design of backscatter radio?
+* What was great seal bug?
+* what are RFIDs and good application of this technology?
+* What are different RFID standards and operating frequency?
+* What are challenges with RFID systems?
+* What are different ambient energy sources that can power IoT devices?
+* What is near field communication? what are good examples of this technology?
+* What is LiFi? how does it work?
+* what are advantages of using LiFi over radio waves?
+
+## Lecture 5
+
 
 
 ## POLICY REGARDING USING AI TOOLS

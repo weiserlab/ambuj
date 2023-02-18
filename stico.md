@@ -51,7 +51,9 @@ We are targetting two application scenarios:
 
 ## Collaborators
 
-|![Presentation at ABB Award](dutta.jpg)| Professor. Prabal Dutta (Associate Professor, University of California, Berkeley) |
+|![Prabal Dutta](dutta.jpg)| Prabal Dutta (Associate Professor, University of California, Berkeley) |
+|![Christian Rohner]()| Christian Rohner (Professor, Uppsala University, Sweden) |
+|![Prateek Saxena]()| Prateek Saxena (Associate Professor, National University of Singapore) |
 
 
 ## Students

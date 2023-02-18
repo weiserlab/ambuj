@@ -14,4 +14,4 @@ is_contact: true
 
 ## Spring Semester 2023 (National University of Singapore)
 
-* [CS 4222/5222: Wireless Networking](https://weiserlab.github.io/ambuj/cs4222)    
+* [CS 4222/5422: Wireless Networking](https://weiserlab.github.io/ambuj/cs4222)    

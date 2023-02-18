@@ -51,9 +51,9 @@ We are targetting two application scenarios:
 
 ## Collaborators
 
-|![Prabal Dutta](dutta.jpg)| Prabal Dutta (Associate Professor, University of California, Berkeley) |
-|![Christian Rohner](christian.jpeg)| Christian Rohner (Professor, Uppsala University, Sweden) |
-|![Prateek Saxena](prateek.jpeg)| Prateek Saxena (Associate Professor, National University of Singapore) |
+|Prabal Dutta (Associate Professor, University of California, Berkeley) |
+|Christian Rohner (Professor, Uppsala University, Sweden) |
+|Prateek Saxena (Associate Professor, National University of Singapore) |
 
 
 ## Students

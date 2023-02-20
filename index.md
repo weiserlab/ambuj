@@ -35,6 +35,7 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 
 
 ## Recent News
+* [Q1 2023] Was great to give invited talk for [NUS Hackers (Student community)](https://www.nushackers.org/) at Friday Hacks about designing everlasting IoT devices. You can watch [talk here](https://youtu.be/PuDEhHPyTuM?t=2541)
 * [Q4 2022] GRANT: Received grant from ARTIC to enable low-power sensing of biometric using tunnel diodes
 * [Q3 2022] Presented the vision of [STICORS]() at 2022 ABB Research Award in Honour of Hubertus von Grünberg Ceremony in Baden, Switzerland. Attendes included CEO of ABB - [Björn Rosengren](https://global.abb/group/en/about/corporate-governance/executive-committee/bjorn-rosengren), ex-chairman of ABB Hubertus von Grünberg
 * [Q3 2022] Invited talk at ABB Corporate Research Center, Zurich, Switzerland

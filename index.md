@@ -73,6 +73,8 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 ## Teaching and Mentorship
 
 Mentored the following students (formally):
+1. [Leow Kai Jie (2023 - )]() **(Ongoing)** [Undergruadtae researcher, National University of Singapore]
+* Project/Thesis Title: Non-Intrusive Monitoring of Robots and IoT Devices (Jointly with NCS-NUS Lab)
 1. [Li Kunjun (2023 -)]() **(Ongoing)** [Undergraduate researcher, National University of Singapore]
 * Project/Thesis Title: Non-Intrusive Monitoring of Robots and IoT Devices (Jointly with NCS-NUS Lab)
 1. [Steven Antya Orvala Waskito (2023 -)]() **(Ongoing)** [Undergraduate researcher, National University of Singapore]
@@ -154,7 +156,15 @@ Involved in reviewing of articles for the following journals:
 ### Year 2023
 
 
-1. [TunnelLiFi: Bringing LiFi to Commodity Internet of Things Devices](https://ambuj.se/hotmobile2023.pdf)  
+1. [TunnelLiFi: Bringing LiFi to Commodity Internet of Things My Journey Towards Creating Sustainable, Sticker-Sized Wireless Computers
+Over the past decade, IoT devices have become integral to our daily lives. It is predicted that trillions of IoT devices will be deployed within our lifetime. However, several challenges still need to be addressed, which may hinder or even stop this growth. Among them, the most important is the energy challenge, which has been the focus of my research. Almost all of the IoT devices used today are energy-hungry and require frequent battery replacement because wireless communication consumes significantly more power than other tasks performed by IoT devices. 
+
+Over the past several  years, I have developed low-power wireless transmitters and receivers to particularly address this pressing issue. They can transmit wirelessly at orders of magnitude lower power (tens of microwatts) than current transmitters by reflecting or absorbing ambient wireless signals that are all around us. These wireless  transmitters enable IoT devices with novel form factors, some of which don't even need batteries. I will describe my journey and my project STICORS, which aims to build on these transmitters to design sticker-form-factor wireless computers.
+
+Biography:
+Ambuj Varshney is an Assistant Professor at School of Computing of National University of Singapore. Previously, he was a Postdoctoral scholar at University of California, Berkeley.  
+Ambuj Varshney’s interests over the past decade have centered around embedded systems, wireless, and mobile computing. He has tackled the problem of energy asymmetry among components of embedded systems, which is a pressing problem hindering their widespread deployment. Varshney has designed novel low-power wireless transmitters that achieve hundreds of meters of range at tens of microwatts of power consumption, which is orders of magnitude lower than widely used commercial transmitters. His research has led to awards, accolades, and research grants, and his doctoral dissertation was awarded the 2019 ABB Research Award in Honour of Hubertus von Gruenberg (with an endowment of 300,000 USD hosted at the University of California, Berkeley). Several of Varshney’s students have also received significant honors and accolades, including winning the ACM Student Research Competition at ACM MobiCom 2017. Varshney has served as a jury member, program committee member, and in organizational roles for several important scientific events.
+Devices](https://ambuj.se/hotmobile2023.pdf)  
 Authors: Muhammad Sarmad Mir, Wenqing Yan, Prabal Dutta, Domenico Giustiniano, and *Ambuj Varshney*  
 The Twenty-fourth International Workshop on Mobile Computing Systems and Applications (ACM HotMobile 2023)  
 (To appear)  

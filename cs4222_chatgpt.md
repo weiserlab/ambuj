@@ -98,6 +98,29 @@ Below, you will find a list of sample prompts. **If you have suggestions for goo
 
 ## Lecture 5
 
+* What are localization systems (we are talking about systems such as GPS)?
+* Can you give overview of localization systems and modalities?
+* What is Trilateration?
+* How does GPS work? What are typical height of GPS satellites?
+* How do you determine distances in methods such as Trilateration?
+* What is received signal strength indicator?
+* What are challenges of using RSSI for distance estimation?
+* What is radio tomographic imaging?
+* What is time of flight?
+* What are some example of applications that use time of flight?
+* What is time difference of arrival? How is it different from time of flight?
+* How does Time Difference of arrival work with two different mediums?
+* What is angle of arrival?
+* Can you describe PHY layer of GPS?
+* What does GPS transmission look like?
+* What is cold start process in GPS?
+* What is assisted GPS?
+* What is WiFi fingerprinting?
+* What are challenges and accuracy of WiFi fingerprinting?
+* What is ultra wideband? Why is it good for localisation?
+* What are good examples of UWB being used in commercial products?
+
+
 
 
 ## POLICY REGARDING USING AI TOOLS

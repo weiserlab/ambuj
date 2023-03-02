@@ -111,13 +111,25 @@ generate any sound. When entering the ACTIVE mode from the IDLE mode, the system
 * Do not sample the IMU sensor at a sampling rate higher than 50 Hertz as it may result in unstable behaviour
 
 
-### Evalution
+### Evaluation
 
-We will announce details regarding submission and evaluation. 
+**Submission instructions:** Please submit a single zip file (“CS4222-Assignment2 - YourStudentNumber.zip” or
+“CS5422-Assignment2 - YourStudentNumber.zip”) to folder “Assignment2 Submission” on Canvas by the due date. If you submit multiple times, only the latest submission will be evaluated.
 
-Grading/demonstrate should be completed by 3rd March 2023.  
+Your submission should include the following:
 
-Late penalty is 10% per day after 3rd March 2023.
+1. A text file (readme.txt) that contains the following:
+* Value of CLOCK_SECOND
+* Number of clock ticks per second in 1s (real time) using etimer.
+* Value of RTIMER_SECOND
+* Number of clock ticks per second in 1s (real time) using rtimer.
+* Any instruction on how to run your program (buzz.c) if needed.
+
+2. A program called buzz.c that implements the state transition diagram described above. Grading will take into account the robustness and ease of using the sensor controlled buzzer.
+
+Grading/demonstrate should be completed by 10th March 2023.  
+
+Late penalty is 10% per day after 10th March 2023.
 
 
 

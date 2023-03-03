@@ -37,6 +37,7 @@ Consider a 2-D plane with two beacons. Beacon 1 is located at (0,0) and beacon 2
 [3] **Question 3:** You are tasked to design an app that tracks the user’s location using GPS. The GPS sensor consumes 400mW of energy, while the accelerometer sensor consumes only 5mW. You know that the user is mostly stationary when using the app. How can you design an energy-efficient and accurate app that can track the user’s outdoor location? Explain your approach and its advantages.
 
 
+[4] **Question 4:** The ALOHA and slotted ALOHA protocols have a maximum channel utilization of 18% and 36%, respectively. However, the CSMA/CA protocol can achieve much higher utilization. How does CSMA/CA do this? Explain the main difference between CSMA/CA and ALOHA protocols and how it affects the channel efficiency.
 
 
 

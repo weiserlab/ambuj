@@ -17,7 +17,7 @@ is_contact: true
 # TUTORIAL 5 for WEEK 8 (Starting 6th March 2023)
 
 
-[1] **Question 1:** In the figure below, 3 cricket nodes are placed in a 2D square of 10m by 10m.  The wall clock time for the radio and audio signals, emitted by the node to be localized, to reach the 3 cricket nodes are shown in the table below.  You can assume that speed of light is 2x10^8 m/s and speed of sound is 300m/s. Also processing time is negligible. Your task is to estimate the location of the node to be localized giving the (x,y) coordinates in meters, using the position of cricket 1 as (0,0).
+[1] **Question 1:** {% highlight markdown %} The figure below shows a 2D square of 10m by 10m with three cricket nodes placed at different locations. The table below shows the wall clock time for the radio and audio signals from the node to be localized to reach each of the three cricket nodes. You can assume that the speed of light is 2x10^8 m/s and the speed of sound is 300m/s. You can also ignore the processing time. Your task is to estimate the (x,y) coordinates of the node to be localized in meters, using cricket 1 as the origin (0,0). {% endhighlight %}
 
 ![Question2, Tutorial](ques1.jpg)  
 

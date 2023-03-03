@@ -28,7 +28,11 @@ is_contact: true
 | Radio |1.028s | 1.020s| 1.020s|
 
 
+[2] **Question 2:** Localization can also be done by measuring the angle of (signal) arrival. In the left figure below, the signal angle of arrival is theta degree. The right figure below provides reference for some basic trigonometric relationships.
 
+![Question2, Tutorial](ques2.jpg)  
+
+Consider a 2-D plane with two beacons. Beacon 1 is located at (0,0) and beacon 2 at (10,0). Let the (unknown) position of the object to be localized be (X,Y). The angle of signal arrival from the object to Beacon 1 is 40 degree and the signal angle of arrival from object to Beacon 2 is 300 degree. Write down 2 equations that determines the unknown location (X,Y) and find the values of X and Y.
 
 
 

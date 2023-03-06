@@ -9,11 +9,27 @@
     src: url("../assets/soehnne.woff2");
 }
 
+@font-face {
+    font-family: "sohne-bold";
+    src: url("../assets/test-soehne-halbfett.woff2");
+}
+
+@font-face {
+    font-family: "sohne-italic";
+    src: url("../assets/test-soehne-buch-kursiv.woff2");
+}
+
+@font-face {
+    font-family: "sohne-light";
+    src: url("../assets/test-soehne-leicht.woff2");
+}
+
 html {
     height: 100%;
     margin: 0;
     padding: 0;
 }
+
 body {
     margin: 0;
     font-family: "inconsolata";

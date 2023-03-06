@@ -21,7 +21,7 @@
 
 @font-face {
     font-family: "sohne-light";
-    src: url("../assets/test-soehne-leicht.woff2") format('woff2');
+    src: url("../assets/test-soehne-leicht.woff2");
 }
 
 html {
@@ -32,7 +32,8 @@ html {
 
 body {
     margin: 0;
-    font-family: "sohne-light";
+
+    font-family: "inconsolata";
     height: 100%;
 }
 a {

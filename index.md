@@ -74,12 +74,24 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 ## Teaching and Mentorship
 
 Mentored the following students (formally):
+
+**Postdoctoral Scholars**
+TBA
+
+**Predoctoral Students**
+
+TBA
+
+**Undergraduates**
+
 1. [Leow Kai Jie (2023 - )]() **(Ongoing)** [Undergraduate researcher, National University of Singapore]
 * Project/Thesis Title: Non-Intrusive Monitoring of Robots and IoT Devices (Jointly with NCS-NUS Lab)
 1. [Li Kunjun (2023 -)]() **(Ongoing)** [Undergraduate researcher, National University of Singapore]
 * Project/Thesis Title: Non-Intrusive Monitoring of Robots and IoT Devices (Jointly with NCS-NUS Lab)
 1. [Steven Antya Orvala Waskito (2023 -)]() **(Ongoing)** [Undergraduate researcher, National University of Singapore]
 * Project/Thesis Title: Non-Intrusive Monitoring of Robots and IoT Devices (Jointly with NCS-NUS Lab)
+
+**Master Students**
 1. [Yusril Izza (2023 -)]() **(Ongoing)** [Masters program, National University of Singapore]
   * Project/Thesis Title: Data Storage on IoT Devices 
 1. [Goh Sheen An (2023 -)]() **(Ongoing)** [Masters program, National University of Singapore]
@@ -88,6 +100,9 @@ Mentored the following students (formally):
   * Project/Thesis Title: Fabricating Sticker Form-Factor Sensors
 1. [Qiao Yukai (2022 -)]() **(Ongoing)** [Masters program, National University of Singapore]  
   * Project/Thesis Title: Collecting and Analyzing Data from Battery-free Internet of Things
+
+**Previous Students**
+
 1. [David Håkansson]() (2022, Bachelors program, Uppsala University) 
   * Project/Thesis Title: [Controlling Latency for Batteryless Sensors through Environment Control](https://uu.diva-portal.org/smash/get/diva2:1705040/FULLTEXT01.pdf)  
 1. [Andreas Soleiman (2016-2019)](http://ansol.se) [Research Assistant and Bachelors+Masters Program] → MIT EECS PhD (withdrew to stay in industry) → Senior Data Scientist, H&M Group, Stockholm, Sweden

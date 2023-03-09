@@ -25,7 +25,7 @@ is_contact: true
 | |Cricker 1 | Cricket 2| Cricket 3| 
 |-------|--------|---------|---------|
 | Radio |1s |1s|1s|
-| Radio |1.028s | 1.020s| 1.020s|
+| Audio |1.028s | 1.020s| 1.020s|
 
 
 [2] **Question 2:** Localization can also be done by measuring the angle of (signal) arrival. In the figure below, the signal angle of arrival is theta degree. The right figure provides reference for some basic trigonometric relationships.

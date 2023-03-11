@@ -83,7 +83,7 @@ TBA
 
 **Visiting Students**
 
-1. [Muhammad Sarmad (UC3M/IMDEA Networks)(Visiting Scholar at NUS)](https://networks.imdea.org/team/imdea-networks-team/people/muhammad-sarmad-shahab-mir/)
+1. [Muhammad Sarmad (From: UC3M/IMDEA Networks)(Visiting doctoral student - September 2022)](https://networks.imdea.org/team/imdea-networks-team/people/muhammad-sarmad-shahab-mir/)
 
 **Undergraduates**
 

@@ -81,6 +81,10 @@ TBA
 
 TBA
 
+**Visiting Students**
+
+1. [Muhammad Sarmad (UC3M/IMDEA Networks)(Visiting Scholar at NUS)](https://networks.imdea.org/team/imdea-networks-team/people/muhammad-sarmad-shahab-mir/)
+
 **Undergraduates**
 
 1. [Leow Kai Jie (2023 - )]() **(Ongoing)** [Undergraduate researcher, National University of Singapore]
@@ -122,7 +126,6 @@ Collaborated with the following students:
 * [Lorenzo Corneo (Uppsala University)](https://lorenzocorneo.github.io/) → Aalto University → Ericsson Research, Helsinki, Finland
 * [Wenqing Yan (Uppsala University)](https://wenqingyan.github.io/)**(Ongoing)**
 * [Ander Galisteo (UC3M/IMDEA Networks)](https://andergalisteo.com/) → DoJo Five, Madrid, Spain
-* [Muhammad Sarmad (UC3M/IMDEA Networks)(Visiting Scholar at NUS)](https://networks.imdea.org/team/imdea-networks-team/people/muhammad-sarmad-shahab-mir/)
 * [Revathy Narayanan (Postdoc scholar, KTH, Sweden)](https://sites.google.com/view/revathy-narayanan/home)  → Ericsson Research, Stockholm, Sweden
 
 ## Academic Service

@@ -177,8 +177,6 @@ Involved in reviewing of articles for the following journals:
 1. [TunnelLiFi: Bringing LiFi to Commodity Internet of Things Devices](https://ambuj.se/hotmobile2023.pdf)  
 Authors: Muhammad Sarmad Mir, Wenqing Yan, Prabal Dutta, Domenico Giustiniano, and *Ambuj Varshney*  
 The Twenty-fourth International Workshop on Mobile Computing Systems and Applications (ACM HotMobile 2023)  
-(To appear)  
-
 
 ### Year 2022
 1. [POSTER: Enabling L3: Low Cost, Low Complexity and Low Power Radio Frequency Sensing using Tunnel Diodes]()  

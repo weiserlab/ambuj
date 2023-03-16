@@ -35,7 +35,7 @@ For the figure, find the shortest path from node 5 to node 0 using two different
 * Expected number of transmission (ETX). Show your working.
 * Let the minimum useable link quality be set to 0.6. If the shortest hop count path is X, how long (in hop) can the path chosen by ETX be in terms of X? 
 
-![Question2, Tutorial](tut7.jpeg)  
+![Question2, Tutorial](tut7.jpg)  
 
 [4] **Question 4:** What are (1) wireless mesh network, (2) mobile ad hoc network and (3) delay/disruption tolerant network? What are the differences in the design of the respective routing protocols for each of these 3 different type of networks?
 

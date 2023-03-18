@@ -14,7 +14,7 @@ is_contact: true
 ----
 ****
 
-# ASSIGNMENT 3(a) (Due, 31st of March 2023)
+# ASSIGNMENT 3(a) (Due, 2nd April 2023)
  
 This is a **GROUP** assignment.
 
@@ -28,28 +28,41 @@ Assignment weightage towards final grade: 13% of Course Grade
 
 ### Overview
 
-In this assignment, you will learn about the concept of RSSI (Received Signal Strength Indicator) and how it relates to wireless communication. You will conduct experiments to observe (1) how RSSI varies with the distance between the sender and the receiver, (2) how RSSI is affected by obstacles that block the line-of-sight between the sender and the receiver, and (3) how accurate RSSI is as a measure of the distance between the sender and the receiver.
+In this assignment, you will learn about the concept of RSSI (Received Signal Strength Indicator) and how it relates to wireless communication. You will conduct experiments to observe:
 
-### Configuration and Setting for Link Measurement
+1. How RSSI varies with the distance between the sender and the receiver
+1. How RSSI is affected by obstacles that block the line-of-sight between the sender and the receiver
+1. How accurate RSSI is as a measure of the distance between the sender and the receiver.
 
-![Link Measurement](assign3a_img3.jpg)  
 
-To use the programs you are given for this assignment, you need to specific the hardware address (Node ID) in the transmit_assignment3.c program. 
+### Programs
 
-Pick a node to be the receiver. When the node starts and prints out its device and configuration information to the (USB) serial port, you can see its unique “Node ID” as below:
+You can download [makefile and unicast_communication.c from here](https://ambuj.se/unicast.zip)
 
-In the example shown, the Node ID is 52738 (in decimal) or 0xCE02 (in hexadecimal). Enter this hex number in addr.u8 (e.g., addr.u8[0] = 0xCE, addr.u8[1] = 0x02). The Sender node is going to send packets to this Receiver using this “Node ID.  The receiver node captures these unicasted packets and prints out the delivered message and RSSI.
+### Setting up Contiki
 
-In the transmit_assignment3.c code, make sure you have a counter/identifier in the message sent. On the receiver side, use this counter/identifier to keep track of how many packets have been received successfully.
+1. Create a folder named unicast in the contiki-ng/examples directory
+1. Copy unicast_communication.c and Makefile in the above created folder
+1. The same file unicast_communication.c is responsible for both conducting transmissions and receptions. It has been modified appropriately with comments to explain its functioning
 
-Set timer to send 4 packets every second for at least 10 seconds.
 
-Put the programs in $CONTIKI_ROOT/examples/rime and add “receive” and “transmit” in Makefile in the directory.
+### Hardware
 
-### Sample Programs
+You would need two nodes for this assignment. Please pick one as a transmitter and another as a receiver.
 
-* [transmit_assignment3.c](https://ambuj.se/transmit_assignment3.c)
-* [receive_assignment3.c](https://ambuj.se/receive_assignment3.c)
+### Address Configuration
+
+Please make and compile the unicast_communication program. Next, flash the compiled code using uniflash onto sensortag (receiver).
+
+Once, the node starts, it would print the receiver's link-layer address among other device cofiguration information. Please refer to the screenshot below.
+
+![Link Measurement](assign3a_img4.jpg)  
+
+Next, replace the variable called static linkaddr_t dest_addr, given in unicast_communication.c with the link-layer address you have found above. Also, modify the program to send 4 packets every second for at least 10 seconds.
+
+Finally, compile and flash unicast_communication to the transmitter sensor tag.
+
+Now, the transmitter will start transmitting packets desitned to receiver (with link-layer address found above), and the receiver will print the received data with the RSSI value.
 
 
 ### TASKS:  RSSI vs Distance
@@ -89,7 +102,9 @@ Try out different type of obstacles between sender and receiver (at least 5 type
 
 Late penalty is 10% per day after 31st March 2023.
 
+### Special Thanks
 
+Very grateful to the teaching assistant Malaika who helped port this to Contiki-NG platform.
 
 
 

@@ -79,7 +79,7 @@ TBA
 
 **Predoctoral Students**
 
-TBA
+1. Pramuka Sooriyapatabandige [Joining April 2023]
 
 **Visiting Students**
 

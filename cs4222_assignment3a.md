@@ -39,6 +39,8 @@ In this assignment, you will learn about the concept of RSSI (Received Signal St
 
 You can download [makefile and unicast_communication.c from here](https://ambuj.se/unicast.zip)
 
+**IMPORTANT:** When sending at fast rates, you might encounter errors. The solution is to replace log_info with printf. Please make these changes in the program before doing the following tasks.
+
 ### Setting up Contiki
 
 1. Create a folder named unicast in the contiki-ng/examples directory

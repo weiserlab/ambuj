@@ -75,7 +75,7 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 
 **Postdoctoral Scholars**
 
-1. Manoj Gulati [Joinging soon] 
+1. Manoj Gulati [Joining soon] 
 
 **Predoctoral Students**
 

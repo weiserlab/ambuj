@@ -69,6 +69,29 @@ Gr is the receiver antenna gain
 λ is the wavelength of the transmitted signal
 d is the distance between the transmitter and receiver antennas
 
+Q: What is antenna gain and how is it related to the Friis transmission equation?
+
+A: Antenna gain is a measure of how effectively an antenna converts input power into radio waves in a specific direction compared to an ideal isotropic radiator (a theoretical antenna that radiates uniformly in all directions). It is usually expressed in decibels (dB). Higher gain indicates better performance and more focused radiation pattern.
+
+In the Friis transmission equation, the antenna gain (Gt for the transmitter and Gr for the receiver) is a crucial factor determining the received power (Pr). The equation shows that the received power increases with higher antenna gains, assuming all other factors remain constant.
+
+Q: What are the typical antenna gain values for some commonly used antennas?
+
+A: Typical antenna gain values for commonly used antennas are as follows:
+
+Dipole antenna: 2-3 dB
+Yagi-Uda antenna: 7-20 dB
+Parabolic dish antenna: 30-40 dB
+Patch or microstrip antenna: 6-9 dB
+Monopole antenna: 0-5 dB
+Please note that these values are approximate and can vary depending on the specific antenna design and implementation.
+
+Q: Does the antenna gain value vary with frequency?
+
+A: Yes, the antenna gain value can vary with frequency. An antenna's gain is dependent on its design, size, and shape, which are often optimized for specific frequency ranges. As the frequency changes, the antenna's performance characteristics, including its gain, may also change. However, this relationship is not linear and depends on the antenna's construction and design parameters.
+
+
+
 ## POLICY REGARDING USING AI TOOLS
 
 We are experiencing a major shift in the computing landscape with the emergence of advanced tools such as Language Language Models (LLMs) such as [OpenAI ChatGPT](https://chat.openai.com/chat). These tools are poised to have a significant impact on the field, and we are embracing this change by incorporating them into our course curriculum. The CS4222/5222 course will be one of the first (if not the first) course in the world at a major univeristy to actively use OpenAI's ChatGPT in teaching wireless technology. Students will be provided with "prompts" to work with the model and we may also propose projects for more ambitious students to utilize ChatGPT. However, we will not be using ChatGPT for tutorials in this iteration of the course. It is important for students who utilize ChatGPT to clearly indicate that they have employed the tool.

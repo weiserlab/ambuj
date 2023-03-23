@@ -120,8 +120,44 @@ Below, you will find a list of sample prompts. **If you have suggestions for goo
 * What is ultra wideband? Why is it good for localisation?
 * What are good examples of UWB being used in commercial products?
 
+## Lecture 6
 
+ TBA
 
+## Lecture 7
+
+TBA
+
+## Lecture 8
+
+* Why is local discovery useful for wireless networks?
+* What is synchronus and asynchronus neighbour discovery? What is the difference between the two?
+* What is power save mode in wireless communication in mobile devices?
+* What is birthday paradox? How can it be used to design efficient neighbour discovery protocol?
+* What is routing in computer networking?
+* What makes routing challenging in wirless networks when compared to wired networks?
+* What are the advantages of sending information over multiple wireless hops compared to a single hop? what are the disadvantages?
+* From energy consumption and reliability perspective is it better to send over one hop or multiple hop?
+* What are some simple routing solutions?
+* What is reactive routing?
+* What is AODV protocol? Where is it commonly used?
+* What are various messages sent in AODV protocol?
+* What is dynamic source routing protcol?
+* What is reactive and proactive routing? What is the tradeoff between these two schemes?
+* What are some possible routing metric in a mesh IoT network?
+* What is ETX as routing metric? How do you estimate it?
+* Can you add ETX together?
+* Is a wireless link with lowest hop count always has lower ETX? Give example
+* What is mobile adhoc network?
+* What is a delay tolerant network?
+* How is routing in sensor (IoT) networks different from other wireless networks?
+* Is Apple Airtags and find my network example of delay tolerant network?
+* What are link measurements that can be made in a routing protocol for IoT networks?
+* Are low-power wireless links in IoT networks symmetric?
+* What is flooding?
+* What is synchronus transmissions in IoT networks? What are advantages?
+* What is glossy protocol?
+* What is RPL protocol
 
 ## POLICY REGARDING USING AI TOOLS
 

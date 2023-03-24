@@ -184,6 +184,58 @@ In this example, Route B has a higher hop count but a lower ETX value, indicatin
 
 As a result, routing in IoT networks often focuses on minimizing energy consumption, maximizing network lifetime, and supporting data aggregation and in-network processing.
 
+### Is Apple AirTags and Find My network an example of a delay-tolerant network?
+**Answer:** Apple AirTags and the Find My network can be considered an example of a delay-tolerant network to some extent. The Find My network relies on a crowd-sourced approach, where nearby Apple devices with an active Find My network connection can detect and report the location of lost AirTags. This process may involve intermittent connectivity, as the lost AirTag's location is only updated when a participating device comes within range. While it shares some characteristics with DTNs, such as tolerating delays and leveraging opportunistic communication, the Find My network primarily operates within the context of an existing infrastructure-based network (cellular or Wi-Fi) and may not exhibit all the properties of a traditional DTN.
+
+### What are link measurements that can be made in a routing protocol for IoT networks?
+**Answer:** Various link measurements can be made in a routing protocol for IoT networks to estimate the quality and reliability of wireless links:
+
+* Received Signal Strength Indicator (RSSI): Measures the power of the received signal, which can indicate link quality and potential interference.
+* Signal-to-Noise Ratio (SNR): Compares the power of the received signal to the background noise, providing an indication of link quality and potential interference.
+* Packet loss rate: The percentage of packets lost or dropped during transmission, which can be affected by factors such as interference, congestion, and link quality.
+* Latency: The time it takes for a packet to travel from the source to the destination, which can be impacted by factors like link quality, interference, and network congestion.
+Link throughput: The rate at which data can be successfully transmitted over the link, which can be affected by factors such as link quality, interference, and network congestion.
+
+### Are low-power wireless links in IoT networks symmetric?
+**Answer:** Low-power wireless links in IoT networks are not always symmetric. In an ideal scenario, the link quality between two nodes should be the same in both directions. However, due to factors such as interference, multi-path propagation, and differences in hardware (e.g., antennas, transceivers), the link quality may differ between the forward and reverse directions. As a result, routing protocols for IoT networks should consider the possibility of asymmetric links and adapt accordingly to ensure reliable and efficient communication.
+
+### What is flooding?
+**Answer:** Flooding is a simple and robust communication technique used in networks, including IoT networks, where a node broadcasts a message to all its neighbors, and each neighbor, in turn, rebroadcasts the message to its neighbors. This process continues until the message has reached all nodes in the network or a predefined number of hops.
+
+Flooding has several advantages, such as high reliability, simplicity, and no need for routing tables. However, it can also lead to significant overhead, as each node may receive and rebroadcast multiple copies of the same message, causing the so-called "broadcast storm" problem. To mitigate this issue, techniques like selective forwarding or controlled flooding can be employed.
+
+### What are synchronous transmissions in IoT networks? What are their advantages?
+Answer: Synchronous transmissions in IoT networks refer to the simultaneous transmission of data by multiple nodes at the same time, often using a common clock or time synchronization mechanism. By transmitting data in a coordinated manner, synchronous transmissions can exploit the constructive interference phenomenon, where multiple signals combine to form a stronger signal at the receiver.
+
+The advantages of synchronous transmissions in IoT networks include:
+
+* Increased reliability: Constructive interference can improve the chances of successful packet reception, even in the presence of noise or interference.
+* Energy efficiency: Nodes can transmit at lower power levels, as the combined signals from multiple nodes provide sufficient signal strength at the receiver.
+* Collision avoidance: Synchronous transmissions can reduce the likelihood of collisions, as nodes transmit simultaneously rather than competing for the same transmission slots.
+
+### What is the Glossy protocol?
+**Answer:** Glossy is a communication protocol designed for wireless sensor networks, specifically targeting low-power and lossy networks (LLNs) that are common in IoT applications. Glossy leverages synchronous transmissions and constructive interference to achieve efficient and reliable network flooding.
+
+Key features of the Glossy protocol include:
+
+* Fast network flooding: Glossy rapidly disseminates packets to all nodes in the network by exploiting synchronous transmissions and constructive interference.
+* Robustness: The protocol is resilient to packet loss and link failures, thanks to the use of flooding and constructive interference.
+* Time synchronization: Glossy inherently provides time synchronization among nodes as a byproduct of the flooding process, with sub-microsecond accuracy.
+
+Glossy has been successfully used in various IoT applications, including low-latency and reliable control systems, data collection, and network monitoring.
+
+### What is the RPL protocol?
+**Answer:** The Routing Protocol for Low-power and Lossy Networks (RPL) is a distance-vector routing protocol specifically designed for low-power and lossy networks, such as IoT and wireless sensor networks. RPL is an IPv6-based protocol and is defined in the IETF RFC 6550.
+
+RPL operates by constructing a Directed Acyclic Graph (DAG) rooted at a central node, called the root or sink, with the following characteristics:
+
+* Loop-free routing: RPL ensures loop-free routing by organizing nodes in the network based on their "rank," which represents the node's position relative to the root.
+* Scalability: RPL can support large-scale networks with numerous nodes and can adapt to dynamic network conditions.
+* Multiple routing metrics: RPL allows the use of various routing metrics, such as hop count, energy consumption, or latency, to optimize routing decisions according to specific application requirements.
+Support for both point-to-point and point-to-multipoint traffic: RPL can handle both unicast and multicast traffic within the network.
+
+RPL is widely used in IoT applications, smart grids, and industrial automation, providing an efficient and scalable routing solution for resource-constrained networks.
+
 ## POLICY REGARDING USING AI TOOLS
 
 

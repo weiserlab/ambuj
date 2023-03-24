@@ -107,6 +107,29 @@ Disadvantages of multi-hop communication:
 
 Reactive routing protocols can be more efficient in terms of bandwidth and energy consumption compared to proactive protocols, especially in dynamic networks with changing topologies and sporadic communication patterns. However, they may introduce higher latency due to the route discovery process. Some examples of reactive routing protocols include Ad hoc On-Demand Distance Vector (AODV) and Dynamic Source Routing (DSR).
 
+### What is AODV protocol? Where is it commonly used?
+**Answer:** The Ad hoc On-Demand Distance Vector (AODV) protocol is a reactive routing protocol used in mobile ad hoc networks (MANETs) and wireless sensor networks (WSNs). AODV discovers routes only when needed, minimizing overhead and conserving resources in dynamic networks where nodes frequently join, leave, or move within the network. AODV is commonly used in situations where establishing a fixed network infrastructure is impractical or unnecessary, such as military communications, emergency response, or temporary event setups.
+
+### What are various messages sent in AODV protocol?
+**Answer:** There are three main types of messages used in the AODV protocol:
+
+* Route Request (RREQ): When a source node needs to send data to a destination node and does not have a valid route, it broadcasts an RREQ message to its neighbors. The RREQ contains the source and destination addresses, as well as sequence numbers to ensure fresh routing information.
+
+* Route Reply (RREP): When the RREQ reaches the destination node or an intermediate node with a valid route to the destination, an RREP message is sent back to the source node, either unicast or piggybacked on the data packet. The RREP contains the route information, such as hop count and sequence numbers.
+
+* Route Error (RERR): When a link in an active route breaks, the node detecting the failure sends an RERR message to its upstream neighbors, informing them of the broken link. Upon receiving the RERR, nodes remove the invalid route from their routing tables and may initiate a new route discovery if necessary.
+
+### What is dynamic source routing protocol?
+**Answer:** Dynamic Source Routing (DSR) is a reactive routing protocol designed for use in mobile ad hoc networks (MANETs) and wireless sensor networks (WSNs). It discovers routes on-demand and utilizes source routing, which means that the entire route is included in the data packet's header. The main components of DSR include:
+
+* Route discovery: When a source node needs to send data to a destination node and lacks a valid route, it initiates a route discovery process by broadcasting a route request. The request contains the source and destination addresses and a route record, which accumulates the traversed nodes.
+
+* Route reply: When the destination node or an intermediate node with a valid route receives the request, it sends a route reply back to the source node. The reply contains the complete route, which is then used for data transmission.
+
+* Route maintenance: If a link in the active route fails, route maintenance is performed by sending a route error message to the source node, which can then initiate a new route discovery if needed.
+
+DSR is well-suited for networks with low to moderate mobility and traffic, but its reliance on source routing can lead to large packet headers and increased overhead in larger or more dynamic networks.
+
 ## POLICY REGARDING USING AI TOOLS
 
 We are experiencing a major shift in the computing landscape with the emergence of advanced tools such as Language Language Models (LLMs) such as [OpenAI ChatGPT](https://chat.openai.com/chat). These tools are poised to have a significant impact on the field, and we are embracing this change by incorporating them into our course curriculum. The CS4222/5222 course will be one of the first (if not the first) course in the world at a major univeristy to actively use OpenAI's ChatGPT in teaching wireless technology. Students will be provided with "prompts" to work with the model and we may also propose projects for more ambitious students to utilize ChatGPT. However, we will not be using ChatGPT for tutorials in this iteration of the course. It is important for students who utilize ChatGPT to clearly indicate that they have employed the tool.

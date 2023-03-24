@@ -1,4 +1,4 @@
----
+u---
 layout: default
 is_contact: true
 ---
@@ -18,9 +18,7 @@ is_contact: true
 ## OVERVIEW
 Large language models (LLMs) like [ChatGPT](https://chat.openai.com/chat) are trained on vast amounts of data, making them proficient in conversation and providing feedback. Despite a somewhat unsuccessful history, chatbots are finally reaching a point where they can be highly beneficial for learning. ChatGPT, for example, can be used to gain knowledge about wireless technology. We encourage the use of this tool for educational purposes in our course.
 
-We encourage you to interact with ChatGPT by providing it with prompts related to wireless networking and technologies, and to engage in conversation with the bot in order to expand your knowledge on the subject.   
-
-Below, you will find a list of sample prompts. **If you have suggestions for good prompt, please email them to the instructor. We may consider this for bonus marks/points.**
+Below are answers obtained from ChatGPT based on GPT4. We have vetted these responses, but please not they may still have in-accuracies. 
 
 ## Lecture 8:
 
@@ -130,8 +128,63 @@ Reactive routing protocols can be more efficient in terms of bandwidth and energ
 
 DSR is well-suited for networks with low to moderate mobility and traffic, but its reliance on source routing can lead to large packet headers and increased overhead in larger or more dynamic networks.
 
+### What is reactive and proactive routing? What is the tradeoff between these two schemes?
+**Answer:** Reactive and proactive routing are two distinct approaches to routing in wireless networks, particularly in mobile ad hoc networks (MANETs) and wireless sensor networks (WSNs):
+
+* Reactive routing: Reactive routing protocols, also known as on-demand routing protocols, discover and establish routes only when needed. This reduces routing overhead and conserves resources in networks with dynamic topologies and sporadic communication patterns. However, reactive routing can introduce higher latency due to the route discovery process. Examples include AODV and DSR.
+
+* Proactive routing: Proactive routing protocols continuously maintain up-to-date routing information, even when no communication is taking place. This ensures lower latency when initiating data transmission but can lead to higher overhead and resource consumption due to constant route updates. Examples include Optimized Link State Routing (OLSR) and Destination-Sequenced Distance Vector (DSDV) routing.
+
+The tradeoff between reactive and proactive routing lies in balancing overhead, latency, and resource consumption. Reactive routing is generally more suitable for dynamic networks with infrequent communication, while proactive routing is better suited for more stable networks with consistent communication patterns.
+
+### What are some possible routing metrics in a mesh IoT network?
+**Answer:** Various routing metrics can be used to determine the best route in a mesh IoT network:
+
+* Hop count: The number of intermediate nodes between the source and destination. Lower hop count routes are generally preferred.
+* Link quality: The quality of individual links in the route, which can be influenced by factors like signal strength, interference, and packet loss.
+* Latency: The time it takes for a data packet to travel from the source to the destination.
+* Bandwidth: The available capacity on the links in the route, which can impact the overall throughput.
+* Energy consumption: The amount of energy required to transmit data along the route, which is particularly important in battery-powered IoT networks.
+* Reliability: The probability of successful data delivery along the route, considering factors like link quality, interference, and node failures.
+
+
+### What is ETX as a routing metric? How do you estimate it?
+**Answer:** Expected Transmission Count (ETX) is a routing metric that estimates the number of transmissions required to successfully send a data packet over a wireless link. The lower the ETX value, the better the link quality. ETX considers factors such as packet loss rates and retransmissions, making it a more accurate representation of link quality than just considering hop count or signal strength.
+
+ETX is typically estimated by exchanging probe packets between neighboring nodes. Nodes periodically send probe packets to their neighbors, which in turn, acknowledge the successful reception of these packets. By measuring the packet loss rates in both directions, nodes can calculate the ETX value for each link. The formula for ETX is:
+
+ETX = 1 / (delivery rate in forward direction * delivery rate in reverse direction)
+
+### Can you add ETX together?
+**Answer:** Yes, ETX values can be added together to compute the cumulative ETX for a multi-hop route. By summing the ETX values of all individual links in the route, you can obtain an overall estimate of the route's quality. Lower cumulative ETX values indicate better routes with fewer expected transmissions and higher reliability. This approach allows routing algorithms to choose more efficient and reliable paths in wireless networks, especially in mesh IoT networks where link quality can vary significantly.
+
+### Is a wireless link with the lowest hop count always the one with lower ETX? Give an example.
+
+**Answer:** No, a wireless link with the lowest hop count does not always have a lower ETX value. ETX considers factors like packet loss rates and retransmissions, while hop count only considers the number of intermediate nodes. A route with fewer hops may have worse link quality or higher packet loss, leading to a higher ETX value.
+
+Example: Consider two routes between a source and destination node:
+
+Route A: 2 hops, with link qualities of 90% and 80% (ETX = 1 / (0.9 * 0.8) = 1.389)
+Route B: 3 hops, with link qualities of 95%, 95%, and 95% (ETX = 1 / (0.95 * 0.95 * 0.95) = 1.106)
+In this example, Route B has a higher hop count but a lower ETX value, indicating better overall link quality and fewer expected transmissions.
+
+### What is a mobile ad hoc network?
+**Answer:** A mobile ad hoc network (MANET) is a self-configuring, decentralized network of mobile devices connected wirelessly without the need for fixed infrastructure or centralized administration. Nodes in a MANET can communicate directly with each other or through intermediate nodes, using multi-hop communication when necessary. MANETs are highly dynamic, as nodes can join, leave, or move within the network, causing frequent topology changes. They are typically used in scenarios where establishing a fixed network infrastructure is impractical, such as military communications, disaster relief, and temporary event setups.
+
+### What is a delay-tolerant network?
+**Answer:** A delay-tolerant network (DTN) is a network designed to operate under challenging conditions, where connectivity may be intermittent, and end-to-end paths may not always exist. DTNs use a "store-and-forward" approach, in which data is stored at intermediate nodes and forwarded when a suitable next-hop becomes available. This allows DTNs to tolerate long delays, high packet loss rates, and frequent network partitions. DTNs are used in scenarios where traditional networking protocols may fail, such as deep-space communication, remote sensing, and disaster response.
+
+### How is routing in sensor (IoT) networks different from other wireless networks?
+**Answer:** Routing in sensor or IoT networks differs from other wireless networks due to several factors:
+
+* Resource constraints: IoT devices often have limited processing power, memory, and battery life, necessitating energy-efficient and lightweight routing protocols.
+* Scalability: IoT networks can have a large number of nodes, requiring scalable routing solutions that can handle high node density.
+* Data-centric communication: In IoT networks, communication is often data-centric rather than node-centric, with data aggregation and in-network processing playing crucial roles.
+* Network topology: IoT networks may have a hierarchical or flat topology, affecting the choice of routing protocols and algorithms.
+
+As a result, routing in IoT networks often focuses on minimizing energy consumption, maximizing network lifetime, and supporting data aggregation and in-network processing.
+
 ## POLICY REGARDING USING AI TOOLS
 
-We are experiencing a major shift in the computing landscape with the emergence of advanced tools such as Language Language Models (LLMs) such as [OpenAI ChatGPT](https://chat.openai.com/chat). These tools are poised to have a significant impact on the field, and we are embracing this change by incorporating them into our course curriculum. The CS4222/5222 course will be one of the first (if not the first) course in the world at a major univeristy to actively use OpenAI's ChatGPT in teaching wireless technology. Students will be provided with "prompts" to work with the model and we may also propose projects for more ambitious students to utilize ChatGPT. However, we will not be using ChatGPT for tutorials in this iteration of the course. It is important for students who utilize ChatGPT to clearly indicate that they have employed the tool.
 
 **IMPORTANT:** It is important to note that Large Language Models (LLMs) are still in the early stages of development and may not always produce accurate results. Therefore, these tools should only be used as a supplement, not as the primary source of information, and one should use them with caution.

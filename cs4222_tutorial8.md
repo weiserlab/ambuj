@@ -53,6 +53,11 @@ Note: For the sake of calculation, time division multiplexing is not considered 
 | LoRa| 27 Kilobits/second | 87 mA (at 17 dBm TX Strength)|
 
 
+For the following applications, which technology would you use:
+
+* Sensor in agriculture setting (basetsation located 300 meters from soil sensor)
+* Smoke alarms in home talking to each other and aHub 
+* Security camera
 
 
 

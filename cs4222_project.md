@@ -134,6 +134,8 @@ You would need atleast two nodes for this assignment. Please pick one as a light
 
 ## Evaluation
 
+### Grading Criteria
+
 We will evaluate your system using different scenarios based on metric such as those listed below:
 
 * Detection accuracy. Accuracy includes detection of new node moving near, existing node moving away, and the times it take to detect these events.
@@ -142,7 +144,9 @@ We will evaluate your system using different scenarios based on metric such as t
 * Logic for tranferring light sensor readings
 * Creativity of solution
 
-**Submission instructions:**  Submit a single zip file named group-number-project.zip to CANVAS with following files:
+### Submission Instructions
+
+Submit a single zip file named group-number-project.zip to CANVAS with following files:
 
 1. A single pdf file (report.pdf)
 

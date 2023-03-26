@@ -61,7 +61,6 @@ The duty cycle is calculated using the formula: WAKE_TIME / (WAKE_TIME + SLEEP_C
 
 You need to run the program on at least 2 devices to perform the experiment. Consider two devices A and B.
 
-
 ### TASK 1
 
 1. Using the default settings, observe and record how long the devices take to discover each other. Pick one of the devices as A and plot the cumulative distribution of the intervals between packet receptions on device A hearing from device B.
@@ -77,6 +76,28 @@ In your submission, you must include the following:
 - the maximum two-way latency observed - the radio duty cycle achieved
 
 ### Delay-tolerant Sensing and Communication
+
+Delay-tolerant networks (DTNs) can handle long or variable delays, limited or intermittent connectivity, and often have limited bandwidth. They are useful in situations where there is no direct end-to-end communication path, such as in remote sensor networks or disaster scenarios. Apple's AirTag and Find-my network is an example of a DTN, where nearby Apple devices act as relays to track the AirTag's location using Bluetooth and ultra-wideband technology. This allows AirTag to be located even when out of range of its paired device. 
+
+In this project, you will design a very basic variant of such a network. One node would be sensing light readings. Next, one or more sensor tags would discover this light sensing nodes is nearby, and then receieve the accumalated light sensor readings. We describe these task in much greater detail next.
+
+![Project](project.png)  
+
+
+### TASK 2
+
+Assign one SensorTag the task of sampling the light sensors. These light readings can be collected at an interval greater than 30 seconds. Please store last 10 collected light sensor readings in an array. You can refer to the code in the Second assignment on how to sample light sensors. In the next step, the other sensortags should discover sensor tag with light sensor, and should transfer the collected light sensor readings to the nearby SensorTag. However, this transfer process should only start when the sensor tags are "in-proximity". You can think of proximity as a distance within 3m.
+
+
+* Choose one SensorTag to be responsible for sampling the light sensors.
+* Use the code from the Second assignment to sample the light sensors. Set the sampling interval to be greater than 30 seconds.
+* Store the last 10 collected light sensor readings in an array.
+* In order for the other SensorTags to discover the SensorTag with the light sensor, you can use code written for Task 1. Please also have the additional constraint (Detect that devices are in contact for 15 seconds or more, and secondly discover that a node in proximity has moved away for 30s or more with high probability)
+* Once a SensorTag detects that it is in close proximity to the SensorTag with the light sensor (within 3 meters), it has to start the transfer process.
+* The transfer process should involve requesting the array of the 10 most recent light sensor readings from the SensorTag with the light sensor readings.
+* The SensorTag with the light sensor should respond by sending the requested array to the requesting SensorTag.
+
+
 
 
 

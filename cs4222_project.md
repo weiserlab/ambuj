@@ -68,7 +68,7 @@ You need to run the program on at least 2 devices to perform the experiment. Con
 1. Try out different settings and discuss your observations.
 
 
-Next, please modify the program (nbr_discovery.c) so that two-way discovery (A hears from B AND B hears from A) can be completed in a deterministic manner within 10 seconds. You should choose settings so that the radio power consumption is “minimized”.
+Next, please modify the program (nbr.c) so that two-way discovery (A hears from B AND B hears from A) can be completed in a deterministic manner within 10 seconds. You should choose settings so that the radio power consumption is “minimized”.
 
 ### Delay-tolerant Sensing and Communication
 

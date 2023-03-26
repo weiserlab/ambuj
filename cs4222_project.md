@@ -127,7 +127,7 @@ We provide implementation of basic neighbour discovery program here: [nbr.c](htt
 
 ### Hardware
 
-You would need two nodes for this assignment. Please pick one as a transmitter and another as a receiver.
+You would need atleast two nodes for this assignment. Please pick one as a light-sensor and another as a receiver (data mule).
 
 
 ### Evaluation

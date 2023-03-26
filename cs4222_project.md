@@ -35,11 +35,11 @@ You have been given a program that implements a fundamental "birthday protocol."
 
 ![Neighbour discovery course](nbrimg.png)  
 
-The identical code is executed on all nodes. Each node wakes up for a duration of Twake, during which it sends two packets: one at the beginning of the wake-up period and another at the end, just before returning to sleep. Following the initial transmission, the node keeps its radio on to listen for potential incoming messages.
+The identical code is executed on all nodes. Each node wakes up for a duration of **Twake**, during which it sends two packets: one at the beginning of the wake-up period and another at the end, just before returning to sleep. Following the initial transmission, the node keeps its radio on to listen for potential incoming messages.
 
-In the illustration above, Node 1 and Node 2 operate based on their individual timers. The intervals between two consecutive wake-up slots (Tsleep1 and Tsleep2 in the figure) are randomly selected from a uniform distribution, sharing the same mean Tsleep value.
+In the illustration above, Node 1 and Node 2 operate based on their individual timers. The intervals between two consecutive wake-up slots (**Tsleep1**and **Tsleep2** in the figure) are randomly selected from a uniform distribution, sharing the same mean **Tsleep** value.
 
-Adjusting Twake and Tsleep will influence the latency experienced by nodes when discovering neighboring devices and the radio energy consumption. The radio's duty cycle can be calculated using the formula: Twake / (Twake + Tsleep).
+Adjusting **Twake** and **Tsleep** will influence the latency experienced by nodes when discovering neighboring devices and the radio energy consumption. The radio's duty cycle can be calculated using the formula: **Twake / (Twake + Tsleep)**
 
 You are provided with a C program, "nbr.c," which implements the fundamental logic outlined above. The modifiable parameters in the program are as follows:
 
@@ -68,7 +68,9 @@ You need to run the program on at least 2 devices to perform the experiment. Con
 1. Try out different settings and discuss your observations.
 
 
-Next, please modify the program (nbr.c) so that two-way discovery (A hears from B AND B hears from A) can be completed in a deterministic manner within 10 seconds. You should choose settings so that the radio power consumption is “minimized”.
+Next, please modify the program (nbr.c) so that two-way discovery (A hears from B AND B hears from A) can be completed in a deterministic manner within 10 seconds. You should choose settings so that the radio power consumption is “minimized”. 
+
+You must include the following in the report (details instruction below in the document): a) the algorithm you have implemented b) the parameters chosen c) the maximum two-way latency observed - the radio duty cycle achieved
 
 ### Delay-tolerant Sensing and Communication
 
@@ -143,11 +145,7 @@ We will evaluate your system using different scenarios based on metric such as t
 
 1. A single pdf file (report.pdf)
 
-* The neighbor discovery protocol you have implemented to “duty-cycle” your radio in order to reduce power consumption. IYou must include the following:
-
-- the algorithm you have implemented
-- the parameters chosen
-- the maximum two-way latency observed - the radio duty cycle achieved
+* The neighbor discovery protocol you have implemented to “duty-cycle” your radio in order to reduce power consumption. 
 
 * The logic that you have implemented for proximity detection
 
@@ -157,8 +155,8 @@ We will evaluate your system using different scenarios based on metric such as t
 
 2. Your code in a single directory named source-code
 
-a. Your code must be able to compile to run SensorTag 
-b. A README file to compile and execute your program(s).
+* Your code must be able to compile to run SensorTag 
+* A README file to compile and execute your program(s).
 
 Late penalty is 10% of marks after 21st April 2023 (Submission would not be accepted after 28th of April 2023).
 

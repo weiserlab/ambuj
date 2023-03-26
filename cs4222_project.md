@@ -23,13 +23,13 @@ You can conduct this experiment in a group of 2-4 group. It should be completed 
 **Important: We will check for code similarity and potential cases of plagiarism**  
 **Important: Please do not use ChatGPT to write code for this assignment, in-particular for ChatGPT plagiarism.**
 
-### Overview
+## Overview
 
 In this project, you will integrate and apply various concepts acquired throughout the course, such as sensor interfacing, proximity detection using received signal strength, neighbor discovery, programming contiki operating system and delay-tolerant networking. You will develop a comprehensive project encompassing all these elements.
 
 The project is structured into two  parts. In the first part, you will implement a neighbor discovery mechanism based on the "birthday protocol." Subsequently, in the second part of the project, you will enhance this neighbor discovery mechanism to establish a delay-tolerant sensing application. The following sections provide a detailed description of these components.
 
-### Neighbour Discovery
+## Neighbour Discovery
 
 You have been given a program that implements a fundamental "birthday protocol." In this protocol, each node wakes up at random intervals to transmit data and listen for transmissions from nearby devices. The following illustration demonstrates the steps involved in the protocol's operations.
 
@@ -51,7 +51,7 @@ The maximum duration of a single sleep interval is constrained by the RTIMER cou
 * SLEEP_CYCLE: This represents the average number of sleep cycles, with a default value of 9.
 The duty cycle is calculated using the formula: WAKE_TIME / (WAKE_TIME + SLEEP_CYCLE * SLEEP_SLOT).
 
-### Setting up Contiki
+## Setting up Contiki
 
 1. Create a folder named "nbr_discovery" in the contiki-ng/examples directory
 1. Copy nbr.c and Makefile in the above created folder
@@ -61,7 +61,7 @@ The duty cycle is calculated using the formula: WAKE_TIME / (WAKE_TIME + SLEEP_C
 
 You need to run the program on at least 2 devices to perform the experiment. Consider two devices A and B.
 
-### TASK 1
+## TASK 1
 
 1. Using the default settings, observe and record how long the devices take to discover each other. Pick one of the devices as A and plot the cumulative distribution of the intervals between packet receptions on device A hearing from device B.
 1. Reset device B and observe how long it takes for device A to hear from device B after device B reboots. You may need to modify the given code to observe this duration. Perform the experiments at least 10 times and plot the cumulative distribution.
@@ -72,7 +72,7 @@ Next, please modify the program (nbr.c) so that two-way discovery (A hears from 
 
 You must include the following in the report (details instruction below in the document): a) the algorithm you have implemented b) the parameters chosen c) the maximum two-way latency observed - the radio duty cycle achieved
 
-### Delay-tolerant Sensing and Communication
+## Delay-tolerant Sensing and Communication
 
 Delay-tolerant networks (DTNs) can handle long or variable delays, limited or intermittent connectivity, and often have limited bandwidth. They are useful in situations where there is no direct end-to-end communication path, such as in remote sensor networks or disaster scenarios. Apple's AirTag and Find-my network is an example of a DTN, where nearby Apple devices act as relays to track the AirTag's location using Bluetooth and ultra-wideband technology. This allows AirTag to be located even when out of range of its paired device. 
 
@@ -80,7 +80,7 @@ In this project, you will design a  basic implementation of such a network. One 
 
 ![Project](project.png)  
 
-### TASK 2
+## TASK 2
 
 Assign one of the SensorTag the task of sampling the light sensors. These light readings should be collected at an interval greater than 30 seconds. Please store last 10 collected light sensor readings in an array. You can refer to the code in the Second assignment on how to sample light sensors. 
 
@@ -123,16 +123,16 @@ Finally, after the node has been successfully detected, also print the light sen
 
 "Light: Reading 1, Reading 2, .... , Reading 10"
 
-### PROGRAM
+## PROGRAM
 
 We provide implementation of basic neighbour discovery program here: [nbr.c](https://ambuj.se/nbr.c)
 
-### Hardware
+## Hardware
 
 You would need atleast two nodes for this assignment. Please pick one as a light-sensor and another as a receiver (data mule).
 
 
-### Evaluation
+## Evaluation
 
 We will evaluate your system using different scenarios based on metric such as those listed below:
 

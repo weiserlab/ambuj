@@ -41,7 +41,7 @@ In the illustration above, Node 1 and Node 2 operate based on their individual t
 
 Adjusting Twake and Tsleep will influence the latency experienced by nodes when discovering neighboring devices and the radio energy consumption. The radio's duty cycle can be calculated using the formula: Twake / (Twake + Tsleep).
 
-You are provided with a C program, "nbr_discovery.c," which implements the fundamental logic outlined above. The modifiable parameters in the program are as follows:
+You are provided with a C program, "nbr.c," which implements the fundamental logic outlined above. The modifiable parameters in the program are as follows:
 
 WAKE_TIME (Twake): The default value is set to (RTIMER_SECOND / 10) or 100ms.
 
@@ -54,8 +54,8 @@ The duty cycle is calculated using the formula: WAKE_TIME / (WAKE_TIME + SLEEP_C
 ### Setting up Contiki
 
 1. Create a folder named "nbr_discovery" in the contiki-ng/examples directory
-1. Copy nbr_discovery.c and Makefile in the above created folder
-1. Compile the nbr_discovery program using command “make TARGET=srf06-cc26xx BOARD=sensortag/cc2650 CPU_FAMILY=cc26xx” in the directory “contiki-ng/examples/nbr_discovery”.
+1. Copy nbr.c and Makefile in the above created folder
+1. Compile the nbr program using command “make TARGET=srf06-cc26xx BOARD=sensortag/cc2650 CPU_FAMILY=cc26xx” in the directory “contiki-ng/examples/nbr_discovery”.
 1. Use uniflash program to burn the binary file to the SensorTag.
 1. Observe the output of the program through the USB serial port.
 

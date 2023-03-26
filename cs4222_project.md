@@ -43,13 +43,13 @@ Adjusting **Twake** and **Tsleep** will influence the latency experienced by nod
 
 You are provided with a C program, "nbr.c," which implements the fundamental logic outlined above. The modifiable parameters in the program are as follows:
 
-WAKE_TIME (Twake): The default value is set to (RTIMER_SECOND / 10) or 100ms.
+WAKE_TIME (Twake): The default value is set to **(RTIMER_SECOND / 10)** or 100ms.
 
-The maximum duration of a single sleep interval is constrained by the RTIMER count wraparound. Therefore, the total sleep interval between two wake-up periods is calculated as the product of the duration of a single sleep (SLEEP_SLOT) and the number of sleep cycles (SLEEP_CYCLE).
+The maximum duration of a single sleep interval is constrained by the **RTIMER** count wraparound. Therefore, the total sleep interval between two wake-up periods is calculated as the product of the duration of a single sleep **(SLEEP_SLOT)** and the number of sleep cycles **(SLEEP_CYCLE)**.
 
-* SLEEP_SLOT: The default value is the same as WAKE_TIME.
-* SLEEP_CYCLE: This represents the average number of sleep cycles, with a default value of 9.
-The duty cycle is calculated using the formula: WAKE_TIME / (WAKE_TIME + SLEEP_CYCLE * SLEEP_SLOT).
+* **SLEEP_SLOT:** The default value is the same as **WAKE_TIME**.
+* **SLEEP_CYCLE:** This represents the average number of sleep cycles, with a default value of 9.
+The duty cycle is calculated using the formula: **WAKE_TIME / (WAKE_TIME + SLEEP_CYCLE * SLEEP_SLOT)**.
 
 ## Setting up Contiki
 
@@ -70,7 +70,7 @@ You need to run the program on at least 2 devices to perform the experiment. Con
 
 Next, please modify the program (nbr.c) so that two-way discovery (A hears from B AND B hears from A) can be completed in a deterministic manner within 10 seconds. You should choose settings so that the radio power consumption is “minimized”. 
 
-You must include the following in the report (details instruction below in the document): a) the algorithm you have implemented b) the parameters chosen c) the maximum two-way latency observed - the radio duty cycle achieved
+You must include the following in the report (details instruction below in the document): a) the algorithm you have implemented b) the parameters chosen c) the maximum two-way latency observed
 
 ## Delay-tolerant Sensing and Communication
 

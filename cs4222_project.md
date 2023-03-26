@@ -21,7 +21,7 @@ This is a **GROUP** assignment.
 You can conduct this experiment in a group of 2-4 group. It should be completed with each project group.
 
 **Important: We will check for code similarity and potential cases of plagiarism**  
-**Important: Please do not use ChatGPT to write code for this assignment. We will particularly check for ChatGPT plagiarism.**
+**Important: Please do not use ChatGPT to write code for this assignment, in-particular for ChatGPT plagiarism.**
 
 ### Overview
 

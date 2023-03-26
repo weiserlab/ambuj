@@ -79,58 +79,83 @@ In your submission, you must include the following:
 
 Delay-tolerant networks (DTNs) can handle long or variable delays, limited or intermittent connectivity, and often have limited bandwidth. They are useful in situations where there is no direct end-to-end communication path, such as in remote sensor networks or disaster scenarios. Apple's AirTag and Find-my network is an example of a DTN, where nearby Apple devices act as relays to track the AirTag's location using Bluetooth and ultra-wideband technology. This allows AirTag to be located even when out of range of its paired device. 
 
-In this project, you will design a very basic variant of such a network. One node would be sensing light readings. Next, one or more sensor tags would discover this light sensing nodes is nearby, and then receieve the accumalated light sensor readings. We describe these task in much greater detail next.
+In this project, you will design a  basic implementation of such a network. One node would be sensing light readings. Next, one or more sensor tags would discover this light sensing nodes is nearby, and then receieve the accumalated light sensor readings. We describe these task in much greater detail next.
 
 ![Project](project.png)  
 
-
 ### TASK 2
 
-Assign one SensorTag the task of sampling the light sensors. These light readings can be collected at an interval greater than 30 seconds. Please store last 10 collected light sensor readings in an array. You can refer to the code in the Second assignment on how to sample light sensors. In the next step, the other sensortags should discover sensor tag with light sensor, and should transfer the collected light sensor readings to the nearby SensorTag. However, this transfer process should only start when the sensor tags are "in-proximity". You can think of proximity as a distance within 3m.
+Assign one of the SensorTag the task of sampling the light sensors. These light readings should be collected at an interval greater than 30 seconds. Please store last 10 collected light sensor readings in an array. You can refer to the code in the Second assignment on how to sample light sensors. 
 
+In the next step, the other sensortag should discover sensor tag with light sensor, and should transfer the collected light sensor readings. However, this transfer process should only start when the sensor tags are "in-proximity". You can think of proximity as a distance within 3m. More specifically, the transfer should only start when the sensor tags have been in proximity for at-least 15 seconds. Furthermore, the sensor tag should also detect  the condition that the sensor tag has moved away (> 3 meters) for 30 seconds or more.
 
-* Choose one SensorTag to be responsible for sampling the light sensors.
-* Use the code from the Second assignment to sample the light sensors. Set the sampling interval to be greater than 30 seconds.
-* Store the last 10 collected light sensor readings in an array.
-* In order for the other SensorTags to discover the SensorTag with the light sensor, you can use code written for Task 1. Please also have the additional constraint (Detect that devices are in contact for 15 seconds or more, and secondly discover that a node in proximity has moved away for 30s or more with high probability)
-* Once a SensorTag detects that it is in close proximity to the SensorTag with the light sensor (within 3 meters), it has to start the transfer process.
-* The transfer process should involve requesting the array of the 10 most recent light sensor readings from the SensorTag with the light sensor readings.
-* The SensorTag with the light sensor should respond by sending the requested array to the requesting SensorTag.
+![State Diagram](statediagram.png)  
 
+More specifically, you have to perform the following tasks:
 
+1. Choose one SensorTag to be responsible for sampling the light sensors.
+1. Use the code from the Second assignment to sample the light sensors. Set the sampling interval to be greater than 30 seconds.
+1. Store the last 10 collected light sensor readings in an array.
+1. In order for the other SensorTags to discover the SensorTag with the light sensor, you can use code written for Task 1. Please also have the additional constraint (Detect that devices are in contact for 15 seconds or more, and secondly discover that a node in proximity has moved away for 30s or more with high probability)
+1. Once a SensorTag detects that it is in close proximity to the SensorTag with the light sensor (within 3 meters) for a time period > 15 seconds, it has to start the transfer process for light readings.
+1. The SensorTag with the light sensor should respond by sending the requested array to the requesting SensorTag.
 
+Your code should output (write to stdout using printf) the time a device first detects another device in the following format:
 
+Timestamp (in seconds) DETECT nodeID
+
+DETECT is a keyword for detection of a NEW node. The fields are separated by a single whitespace. For example:
+
+* 123 DETECT 34567
+means that at the 123 seconds, node with ID 34567 is detected and at time 138 (123 + 15) seconds, the device 34567 is still in proximity.
+
+When a node is determined to have moved away, print the information using the following format:
+
+* 345 ABSENT 34567
+
+Therefore, at the 345 seconds, node with ID 34567 moves away and until 375 (345 + 30) seconds, the device 34567 is still NOT in proximity.
+  
+Notes:
+
+- The timestamp is a time when another node starts moving near (within ~3m) or starts moving away.
+- DETECT is only printed when another node stays close for at least 15 seconds
+- ABSENT is only printed when another node has moved away at least 30 seconds
+- Please keep the energy consumption for performing the neighbour discovery and other task as low as possible
+
+Finally, after the node has been successfully detected, also print the light sensor readings that were transferred. Please print them as follows:
+
+"Light: Reading 1, Reading 2, .... , Reading 10"
 
 ### PROGRAM
 
-You can download [makefile and unicast_communication.c from here](https://ambuj.se/unicast.zip)
-
-**IMPORTANT:** When sending at fast rates, you might encounter errors. The solution is to replace log_info with printf. Please make these changes in the program before doing the following tasks.
-
-
+We provide implementation of basic neighbour discovery program here: [neighbour_discovery.c]()
 
 ### Hardware
 
 You would need two nodes for this assignment. Please pick one as a transmitter and another as a receiver.
 
-### Address Configuration
-
 
 ### Evaluation
 
-**Submission instructions:** Submit a single zip file (“Assignment3a - YourGroupNumber.zip”) to folder “Assignment3 Submission” on Canvas by the due date. If you submit multiple times, only the latest submission will be evaluated. Your submission should include the following:
+We will evaluate your system using different scenarios based on metric such as those listed below:
 
-1. Code used in your measurements.
-1. A report in PDF format that contains the answers to above task questions
+* Detection accuracy. Accuracy includes detection of new node moving near, existing node moving away, and the times it take to detect these events.
+* Robustness. A node should be able to perform well with obstacle and potential collision (existence of additional node(s))
+* Steps taken to reduce energy consumption
 
-Late penalty is 10% of marks after 21st April 2023 (Submission would not be accepted after 30th April 2023).
+**Submission instructions:**  Submit a single zip file named group-number-project.zip to CANVAS with following files:
 
-### Special Thanks
+1. A single pdf file (report.pdf)
 
-Very grateful to the teaching assistant Malaika who helped port this to Contiki-NG platform.
+* The neighbor discovery protocol you have implemented to “duty-cycle” your radio in order to reduce power consumption.
+* The logic that you have implemented for proximity detection
+* Results showing evaluation of your system
+* Logic to sense light readings and transfer to another sensor tag
 
+2. Your code in a single directory named source-code
 
+a. Your code must be able to compile to run SensorTag 
+b. A README file to compile and execute your program(s).
 
-
-
+Late penalty is 10% of marks after 21st April 2023 (Submission would not be accepted after 28th of April 2023).
 

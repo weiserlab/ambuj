@@ -20,8 +20,6 @@ This is a **GROUP** assignment.
 
 You can conduct this experiment in a group of 2-4 group. It should be completed with each project group.
 
-Assignment weightage towards final grade: 13% of Course Grade   
-
 **Important: We will check for code similarity and potential cases of plagiarism**  
 **Important: Please do not use ChatGPT to write code for this assignment. We will particularly check for ChatGPT plagiarism.**
 
@@ -70,8 +68,15 @@ You need to run the program on at least 2 devices to perform the experiment. Con
 1. Reset device B and observe how long it takes for device A to hear from device B after device B reboots. You may need to modify the given code to observe this duration. Perform the experiments at least 10 times and plot the cumulative distribution.
 1. Try out different settings and discuss your observations.
 
-### Delay-tolerant Sensing and Communication
 
+Next, please modify the program (nbr_discovery.c) so that two-way discovery (A hears from B AND B hears from A) can be completed in a deterministic manner within 10 seconds. You should choose settings so that the radio power consumption is “minimized”.
+In your submission, you must include the following:
+
+- the algorithm you have implemented
+- the parameters chosen
+- the maximum two-way latency observed - the radio duty cycle achieved
+
+### Delay-tolerant Sensing and Communication
 
 
 

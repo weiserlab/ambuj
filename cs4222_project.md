@@ -69,11 +69,6 @@ You need to run the program on at least 2 devices to perform the experiment. Con
 
 
 Next, please modify the program (nbr_discovery.c) so that two-way discovery (A hears from B AND B hears from A) can be completed in a deterministic manner within 10 seconds. You should choose settings so that the radio power consumption is “minimized”.
-In your submission, you must include the following:
-
-- the algorithm you have implemented
-- the parameters chosen
-- the maximum two-way latency observed - the radio duty cycle achieved
 
 ### Delay-tolerant Sensing and Communication
 
@@ -128,7 +123,7 @@ Finally, after the node has been successfully detected, also print the light sen
 
 ### PROGRAM
 
-We provide implementation of basic neighbour discovery program here: [neighbour_discovery.c]()
+We provide implementation of basic neighbour discovery program here: [nbr.c](https://ambuj.se/nbr.c)
 
 ### Hardware
 
@@ -142,14 +137,22 @@ We will evaluate your system using different scenarios based on metric such as t
 * Detection accuracy. Accuracy includes detection of new node moving near, existing node moving away, and the times it take to detect these events.
 * Robustness. A node should be able to perform well with obstacle and potential collision (existence of additional node(s))
 * Steps taken to reduce energy consumption
+* Logic for tranferring light sensor readings
 
 **Submission instructions:**  Submit a single zip file named group-number-project.zip to CANVAS with following files:
 
 1. A single pdf file (report.pdf)
 
-* The neighbor discovery protocol you have implemented to “duty-cycle” your radio in order to reduce power consumption.
+* The neighbor discovery protocol you have implemented to “duty-cycle” your radio in order to reduce power consumption. IYou must include the following:
+
+- the algorithm you have implemented
+- the parameters chosen
+- the maximum two-way latency observed - the radio duty cycle achieved
+
 * The logic that you have implemented for proximity detection
+
 * Results showing evaluation of your system
+
 * Logic to sense light readings and transfer to another sensor tag
 
 2. Your code in a single directory named source-code

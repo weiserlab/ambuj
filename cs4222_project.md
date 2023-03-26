@@ -140,6 +140,7 @@ We will evaluate your system using different scenarios based on metric such as t
 * Robustness. A node should be able to perform well with obstacle and potential collision (existence of additional node(s))
 * Steps taken to reduce energy consumption
 * Logic for tranferring light sensor readings
+* Creativity of solution
 
 **Submission instructions:**  Submit a single zip file named group-number-project.zip to CANVAS with following files:
 

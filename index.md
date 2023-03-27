@@ -75,11 +75,11 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 
 **Postdoctoral Scholars**
 
-1. [](https://www.countryflags.io/US/flat/64.png) [Manoj Gulati](https://lab-14.github.io/) [Joining soon] 
+1. [Manoj Gulati](https://lab-14.github.io/) 
 
 **Predoctoral Students**
 
-1. Pramuka Sooriyapatabandige [Joining April 2023]
+1. Pramuka Sooriyapatabandige 
 
 **Visiting Students**
 

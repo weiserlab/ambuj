@@ -71,7 +71,7 @@ Now, the transmitter will start transmitting packets desitned to receiver (with 
 
 ![Link Measurement](assign3a_img2.jpg)  
 
-Put the receiver and the sender at line-of-sight (no obstacle) and observe how RSSI and packet reception ratio changes (# of packet received in 10 sec. / # of transmitted in 10 sec.) when you change the distance between them from 1m to 30m. Report your results using two graphs similar to the graphs shown below (RSSI vs distance and loss ratio vs distance).
+Put the receiver and the sender at line-of-sight (no obstacle) and observe how RSSI and packet reception ratio changes (# of packet received in 10 sec. / # of transmitted in 10 sec.) when you change the distance between them from 1m to 30m. Report your results using two graphs similar to the graphs shown below (RSSI vs distance and packet loss ratio vs distance).
 
 Repeat the experiments in other environments and different placement of receiver but keeping line-of-sight and no obstacle between transmitter and receiver. Discuss your measurements in your report.
 
@@ -82,11 +82,11 @@ Repeat the experiments in other environments and different placement of receiver
 Let’s see how different obstacles between the sender and the receiver affect RSSI & packet loss ratio. Let’s measure RSSI at the same distance (use a distance of between 1m to 5m). You should keep the distance the same but you need to specify the distance used in the measurements.
 Try out different type of obstacles between sender and receiver (at least 5 types). Discuss your measurements in your report.
 
-| Obstacles (some examples)|  RSSI | 
+| Obstacles (some examples)|  RSSI | Packet Receive Ratio | 
 |-------|--------|
-| Door|  | 
-| Wall | | 
-| Thick Wall | | 
+| Door|  | |
+| Wall | | |
+| Thick Wall | | |
 
 
 ### TASKS: Discussion

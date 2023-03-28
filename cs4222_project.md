@@ -53,9 +53,8 @@ The duty cycle is calculated using the formula: **WAKE_TIME / (WAKE_TIME + SLEEP
 
 ## Setting up Contiki
 
-1. Create a folder named "nbr_discovery" in the contiki-ng/examples directory
-1. Copy nbr.c and Makefile in the above created folder
-1. Compile the nbr program using command “make TARGET=srf06-cc26xx BOARD=sensortag/cc2650 CPU_FAMILY=cc26xx” in the directory “contiki-ng/examples/nbr_discovery”.
+1. Extract provided [neighbour.zip](https://ambuj.se/neighbour.zip) in the contiki-ng/examples directory
+1. Compile the  program using command “make TARGET=cc26x0-cc13x0 BOARD=sensortag/cc2650” in the directory “contiki-ng/examples/nbr”.
 1. Use uniflash program to burn the binary file to the SensorTag.
 1. Observe the output of the program through the USB serial port.
 
@@ -125,7 +124,7 @@ Finally, after the node has been successfully detected, also print the light sen
 
 ## PROGRAM
 
-We provide implementation of basic neighbour discovery program here: [nbr.c](https://ambuj.se/nbr.c)
+We provide implementation of basic neighbour discovery program here: [neighbour.zip](https://ambuj.se/neighbour.zip)
 
 ## Hardware
 

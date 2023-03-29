@@ -152,6 +152,7 @@ Involved in the organizational role of the following events:
 
 Part of the technical program committee (TPC) of the following scientific conferences:  
 
+* ACM SENSYS: 2023
 * IEEE INFOCOM: 2020 (e), 2021, 2022, 2023  
 * IEEE DCOSS: 2021, 2022 (Main conference), 2022 (Posters and Demonstrations), 2023 (Main conference) 
 * IEEE ICDCS: 2019, 2021  

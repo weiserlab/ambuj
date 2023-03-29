@@ -161,6 +161,7 @@ Part of the technical program committee (TPC) of the following scientific confer
 
 Involved in reviewing of articles for the following journals:  
 
+* ACM Communication of the ACM: 2023
 * IEEE Wireless Communication Letters: 2019  
 * IEEE Transactions on Vehicular Networking: 2018, 2019, 2020  
 * IEEE Transactions of Mobile computing: 2014, 2015, 2018 , 2019  

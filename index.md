@@ -83,7 +83,7 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 
 **Visiting Students**
 
-1. [Muhammad Sarmad](https://networks.imdea.org/team/imdea-networks-team/people/muhammad-sarmad-shahab-mir/)(From: UC3M/IMDEA Networks)(Visiting doctoral student - 12/09/2022 - 03/10/2022)
+1. [Muhammad Sarmad](https://networks.imdea.org/team/imdea-networks-team/people/muhammad-sarmad-shahab-mir/)(From: UC3M/IMDEA Networks, Spain)(Visiting doctoral student - 12/09/2022 - 03/10/2022)
 1. [Wenqing Yan]()(From: Uppsala University, Sweden)(Visiting doctoral student - 01/04/2023 - 30/04/2023)
 
 

@@ -71,6 +71,9 @@ Next, please modify the program (nbr.c) so that two-way discovery (A hears from 
 
 You must include the following in the report (details instruction below in the document): a) the algorithm you have implemented b) the parameters chosen c) the maximum two-way latency observed
 
+**Important: Please note that the two way latency is the time that it takes for node A to hear from node B, and for the node B to hear from A**
+
+
 ## Delay-tolerant Sensing and Communication
 
 Delay-tolerant networks (DTNs) can handle long or variable delays, limited or intermittent connectivity, and often have limited bandwidth. They are useful in situations where there is no direct end-to-end communication path, such as in remote sensor networks or disaster scenarios. Apple's AirTag and Find-my network is an example of a DTN, where nearby Apple devices act as relays to track the AirTag's location using Bluetooth and ultra-wideband technology. This allows AirTag to be located even when out of range of its paired device. 

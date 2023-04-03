@@ -71,7 +71,7 @@ Next, please modify the program (nbr.c) so that two-way discovery (A hears from 
 
 You must include the following in the report (details instruction below in the document): a) the algorithm you have implemented b) the parameters chosen c) the maximum two-way latency observed
 
-**Important: Please note that the two way latency is the time that it takes for node A to hear from node B, and for the node B to hear from A**
+**Important: Please note that the two way latency is the time that it takes for node A to hear from node B, and then for the node B to hear from A. Said another way, it is the time it takes for performing two-way neighbour discovery.**
 
 
 ## Delay-tolerant Sensing and Communication

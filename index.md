@@ -89,21 +89,21 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 
 **Undergraduates**
 
-1. [Leow Kai Jie (2023 - )]() **(Ongoing)** [Undergraduate researcher, National University of Singapore]
+1. [Leow Kai Jie (2023 - )]() [Undergraduate researcher, National University of Singapore]
 * Project/Thesis Title: Non-Intrusive Monitoring of Robots and IoT Devices (Jointly with NCS-NUS Lab)
-1. [Li Kunjun (2023 -)]() **(Ongoing)** [Undergraduate researcher, National University of Singapore]
+1. [Li Kunjun (2023 -)]() [Undergraduate researcher, National University of Singapore]
 * Project/Thesis Title: Non-Intrusive Monitoring of Robots and IoT Devices (Jointly with NCS-NUS Lab)
-1. [Steven Antya Orvala Waskito (2023 -)]() **(Ongoing)** [Undergraduate researcher, National University of Singapore]
+1. [Steven Antya Orvala Waskito (2023 -)]()  [Undergraduate researcher, National University of Singapore]
 * Project/Thesis Title: Non-Intrusive Monitoring of Robots and IoT Devices (Jointly with NCS-NUS Lab)
 
 **Masters**
-1. [Yusril Izza (2023 -)]() **(Ongoing)** [Masters program, National University of Singapore]
+1. [Yusril Izza (2023 -)]() [Masters program, National University of Singapore]
   * Project/Thesis Title: Data Storage on IoT Devices 
-1. [Goh Sheen An (2023 -)]() **(Ongoing)** [Masters program, National University of Singapore]
+1. [Goh Sheen An (2023 -)]() [Masters program, National University of Singapore]
   * Project/Thesis Title: Integration of Embedded Wireless Microphones with Open AI Whisper System  
-1. [Lim Soon Lee (2023 -)]() **(Ongoing)** [Masters program, National University of Singapore]  
+1. [Lim Soon Lee (2023 -)]()  [Masters program, National University of Singapore]  
   * Project/Thesis Title: Fabricating Sticker Form-Factor Sensors
-1. [Qiao Yukai (2022 -)]() **(Ongoing)** [Masters program, National University of Singapore]  
+1. [Qiao Yukai (2022 -)]()  [Masters program, National University of Singapore]  
   * Project/Thesis Title: Collecting and Analyzing Data from Battery-free Internet of Things
 
 **Previous Students**
@@ -126,7 +126,7 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 Collaborated with the following students:
 
 * [Lorenzo Corneo (Uppsala University)](https://lorenzocorneo.github.io/) → Aalto University → Ericsson Research, Helsinki, Finland
-* [Wenqing Yan (Uppsala University)](https://wenqingyan.github.io/)**(Ongoing)**
+* [Wenqing Yan (Uppsala University)](https://wenqingyan.github.io/)
 * [Ander Galisteo (UC3M/IMDEA Networks)](https://andergalisteo.com/) → DoJo Five, Madrid, Spain
 * [Revathy Narayanan (Postdoc scholar, KTH, Sweden)](https://sites.google.com/view/revathy-narayanan/home)  → Ericsson Research, Stockholm, Sweden
 

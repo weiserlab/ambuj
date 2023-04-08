@@ -72,6 +72,8 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 
 ## Teaching and Mentorship
 
+I strongly believe in diversity and providing equal opportunity to all. As an academic, I have been fortunate to mentor a diverse set of students from over **10 different nationalities**, including students who now identify as transfeminine non-binary.
+
 **Postdoctoral Scholars**
 
 1. [Manoj Gulati](https://lab-14.github.io/) 

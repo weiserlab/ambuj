@@ -39,7 +39,7 @@ is 127 bytes. The device performs channel sensing every 100 milliseconds.
 
 [2] **Question 2:**  You are given an IoT network deployment that has topology similar to shown. The edge of the graph indicates the link quality for the link in form of average received signal strength, and packet reception ratio. Based on this graph, please answer the following questions.
 
-![Image](practice2.jpeg)
+![Question](practice2.jpeg)
 
 * What is the best route if you only have to maximize and select the best quality link?
 * What is ETX of various links in the topology?

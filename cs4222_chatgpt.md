@@ -159,6 +159,70 @@ TBA
 * What is glossy protocol?
 * What is RPL protocol
 
+## Lecture 9
+
+
+## Lecture 10
+
+* What is Bluetooth standard? What is history and timeline of this standard?
+* What are different layers of the bluetooth standard? What is significance of these layers?
+* What is frequency allocation for bluetooth like? Are there any bluetooth channels that dont interfere with WiFi?
+* How does a typical BLE network topology look like?
+* Can bluetooth devices take on multiple roles at the same time?
+* What are the advertising channels for BLE? What are their frequency?
+* What is difference between FSK and GFSK? Can you describe these modulation schemes?
+* What is typical transmit signal strength and receive signal strength for BLE standard?
+* How does packet structure of BLE look like? Please describe various fields?
+* What is data whitening process in BLE? Why is it required?
+* What is the significance of bluetooth advertising process? What are applications of this mode?
+* Can you describe BLE advertising packet structure and various types of messages?
+* What is the frequency at which the advertisement packets are sent? What is the typical process of sending these packets?
+* How does a scanner device listen for bluetooth advertisements? Please describe it step-wise in great detail?
+* Would a scanner device receive all the sent advertisements? if not, why?
+* What is connection mode in BLE? What are the applications where you may want to use this mode?
+* Can you describe step-by-step BLE connection mode for two different devices?
+* Can you describe the timeline for BLE connection establishment?
+* How does the medium access control mechanism look like in BLE connection mode?
+* How many devices can be connected to a BLE central device in the connection mode? 
+* What is GATT in BLE connection mode? How does application dictate GATT?
+* What is characteristics, service and profile in GATT?
+* What are UUIDs? How are they discovered in BLE connection mode?
+* What are the major changes in BLE 5?
+* How does coding and spreading techniques improve BLE5? Please describe them as well?
+* What is extended advertising mode in BLE 5? What are the major improvements over BLE 4.2 advertising mode? What new applications it enable?
+* How does a scanner device receive BLE extended advertising transmissions?
+* How are 802.15.4 networks different from BLE? What are the main applications of 802.15.4?
+* What is the frequency allocation of 802.15.4?
+* Compare frequency allocation of 802.15.4 with BLE?
+* What is thread protocol? How is it different when compared to 802.15.4?
+* What are the PHY layer changes proposed by thread protocol to IEEE 802.15.4 standard?
+* How does thread network topology look like?
+* What is difference between end-device, router, thread leader and border router in a thread network?
+* What is the significance of a border router device?
+* What are the benefits of using IPv6 in thread network?
+* Please describe the address format for IPv6
+* Describe different transmission mode for IPv6 and Thread?
+* Please describe different special addresses in Thread/IPv6?
+* Please describe IPv6 datagram format? What is the header overhead when compared to IPv4?
+* What is 6LowPAN?
+* Please describe 6LowPAN header compression? why is it important for Thread?
+* Please describe 6LowPAN fragmentation process?
+* Describe role and topology based addresses in thread?
+* How do you discover thread networks?
+* What is CoAP protocol?
+* Would you use UDP or TCP over 6lowpan based IoT network?
+* What is MATTER protocol? and what is its relationship to Thread?
+
+## Lecture 11
+
+* What is ZigBee protocol?
+* What is relationship between ZigBee protocol and IEEE 802.15.4?
+* What are the different layers of the zigbee networking stack?
+* What is the frequency allocation for Zigbee protocol?
+* What are different medium access control mechanisms in the zigbee stack?
+* What are different kind of devices that are available in zigbee networks?
+
+
 ## POLICY REGARDING USING AI TOOLS
 
 We are experiencing a major shift in the computing landscape with the emergence of advanced tools such as Language Language Models (LLMs) such as [OpenAI ChatGPT](https://chat.openai.com/chat). These tools are poised to have a significant impact on the field, and we are embracing this change by incorporating them into our course curriculum. The CS4222/5222 course will be one of the first (if not the first) course in the world at a major univeristy to actively use OpenAI's ChatGPT in teaching wireless technology. Students will be provided with "prompts" to work with the model and we may also propose projects for more ambitious students to utilize ChatGPT. However, we will not be using ChatGPT for tutorials in this iteration of the course. It is important for students who utilize ChatGPT to clearly indicate that they have employed the tool.

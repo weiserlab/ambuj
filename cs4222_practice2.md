@@ -29,18 +29,21 @@ is_contact: true
 | Channel Sensing| 0.1|
 
 The device employes radio transceiever with PHY supporting 250 kilobits/second bitrate. The size of a data packet (with all fields included)
-is 127 bytes. The device performs channel sensing every 100 milliseconds. 
+is 127 bytes. The device performs channel sensing every 100 milliseconds.
 
-Please note: We define one-cycle as period between two channel sensing events.
+**Please note:** We define one radio cycle as period between two channel sensing events, i.e., one radio cycle is 100 milliseconds long.
 
 * What is the transmission time for data packet? (1 point)
-* 
+* What is the maximum number of data packets would the transmitter need to send? (1 point)
+* What is average power consumption of one radio cycle when no transmission is occurring? and when there is a data transmission? (3 point)
 
 [2] **Question 2:**  You are given an IoT network deployment that has topology similar to shown. The edge of the graph indicates the link quality for the link in form of average received signal strength, and packet reception ratio. Based on this graph, please answer the following questions.
 
-* What is the best route if you only have to maximize and select the best quality link?
-* What is ETX of various links in the topology?
+![Question](practice2.jpeg)
+
+* What is the best route if at every node you only have to select a node that selects the best signal quality link?
 * What are the ETX for various links in the graph?
+* What is best path considering ETX?
 * What is the best path considering minimum hops to the destination?
 
 

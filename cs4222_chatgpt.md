@@ -221,7 +221,28 @@ TBA
 * What is the frequency allocation for Zigbee protocol?
 * What are different medium access control mechanisms in the zigbee stack?
 * What are different kind of devices that are available in zigbee networks?
-
+* What are different zigbee profiles?
+* Describe typical zigbee network topology?
+* What are various analogies between Zigbee and BLE network?
+* Describe history and timeline of WiFi protocol?
+* Describe the operating frequency, physical layer modulation scheme, data rate and range of various WiFi standards?
+* Describe the physical layer of original WiFi specification (1997)?
+* What is the modulation scheme used in 802.11b?
+* What is direct sequence spread spectrum? How does it improve wireless link quality and reliability?
+* Describe channel allocation for 802.11b?
+* What is OFDM? How does it enable hoigher throughput?
+* What is tradeoffs in implementing ofdm? is it suitable for IoT devices?
+* Describe the physical layer characteristics of IEEE 802.11a?
+* Why did 802.11a not become very popular?
+* Describe MIMO wireless as an analogy to pipes and wires?
+* Describe the 802.11n wireless standard? what is modulation scheme, bandwidth and channel allocation?
+* what is modulation and coding scheme in 802.11n?
+* What is MU-MIMO? How is it different from MIMO? How does it increase throughput?
+* What is 802.11ac standard? What are major changes?
+* What is the modulation scheme, operating frequency, and other parameters of 802.11ac standard?
+* Describe the channel allocation of 802.11ac?
+* What is OFDMA and how is it different from OFDM?
+* 
 
 ## POLICY REGARDING USING AI TOOLS
 

@@ -41,7 +41,7 @@ is 127 bytes. The device performs channel sensing every 100 milliseconds.
 
 ![Question](practice2.jpeg)
 
-* What is the best route if at every node you only have to select a node that selects the best signal quality link?
+* What is the optimal path when, at each node, you must choose the connection with the highest signal quality (RSSI) ?
 * What are the ETX for various links in the graph?
 * What is best path considering ETX?
 * What is the best path considering minimum hops to the destination?

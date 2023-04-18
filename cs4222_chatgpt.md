@@ -6,7 +6,7 @@ is_contact: true
 ![Banner Immage for Course](cs4222_banner.png)  
 
 # Wireless Networking aka "Wireless for IoT Class"
-## Course code: CS4222/CS5222  
+## Course code: CS4222/CS5422  
 ### Instructor: Professor Ambuj Varshney
 ### Contact: [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg), COM3: #02-25     
 
@@ -122,7 +122,38 @@ Below, you will find a list of sample prompts. **If you have suggestions for goo
 
 ## Lecture 6
 
-
+* What are different layers in OSI model for communication? Please describe their significance?
+* What is Data link layer? What is the significance of this layer?
+* What is framing task in data link layer?
+* Why is error detection and recovery important in wireless communication? Why is it performed in data link layer?
+* Wireless communication is a shared medium? How does it make communication challenging when compared to wired communication?
+* Why is it important to support multiple access in wirleess communication? How is it different from wired communication?
+* What are random access medium access control protocol?
+* What is ALOHA protocol? what is the history of this protocol?
+* What is difference between ALOHA and Slotted aloha protocol?
+* Why does slotted ALOHA protocol has better channel utilisation?
+* What is carrier sense multiple access?
+* What is carrier sense multiple access with collision detection? why is it difficult to perfom in wireless connection?
+* What is carrier sense multiple access with collission avoidance? How is it different from CSMA/CD?
+* What are tradeoffs made in selecting window size for CSMA/CA?
+* Describe hidden terminal problem? How is it mitigated in wireless networks? what is impact of this problem?
+* If two wireless transmissions occurs together, is it possible to receive stronger signal?
+* What is capture effect? Why is it important for wireless communication?
+* Describe polling based medium access control mechanism?
+* For what kind of applications would you want to employ polling based medium access control mechanism?
+* What is token passing based medium access control mechanism? for which application it makes sense?
+* What is FDMA?
+* What is TDMA?
+* What is pros and cons of static allocation using scheme such as FDMA and TDMA?
+* Give example of wireless systems that use/used TDMA/FDMA?
+* Describe history of TDMA and FDMA protocol
+* What is OFDM? How is it related to FDM?
+* How is OFDM better than FDM?
+* What are modern wireless systems that use OFDM mechanism?
+* What is CDMA? what are various CDMA codes?
+* What is spread spectrum technique? What are its advantage?
+* What is history of spread spectrum techniques?
+* What is DSSS? Where is it used in wireless systems?
 
 ## Lecture 7
 
@@ -242,9 +273,6 @@ TBA
 * What is the modulation scheme, operating frequency, and other parameters of 802.11ac standard?
 * Describe the channel allocation of 802.11ac?
 * What is OFDMA and how is it different from OFDM?
-<<<<<<< HEAD
-* 
-=======
 
 ## Lecture 12
 
@@ -253,7 +281,6 @@ TBA
 * What were other notable developments that happened before introduction of cellular phone?
 * What is spatial division for sharing spectrum? why is it significant for cellular phone networks?
 
->>>>>>> 23c165098233ac5e7fbd15ef9a9cabbc05f1223c
 
 ## POLICY REGARDING USING AI TOOLS
 

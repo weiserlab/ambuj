@@ -122,7 +122,7 @@ Below, you will find a list of sample prompts. **If you have suggestions for goo
 
 ## Lecture 6
 
- TBA
+
 
 ## Lecture 7
 
@@ -242,7 +242,18 @@ TBA
 * What is the modulation scheme, operating frequency, and other parameters of 802.11ac standard?
 * Describe the channel allocation of 802.11ac?
 * What is OFDMA and how is it different from OFDM?
+<<<<<<< HEAD
 * 
+=======
+
+## Lecture 12
+
+* What was the first commercial mobile phone? What is the history of this phone?
+* Describe the network architecture of the first mobile phone?
+* What were other notable developments that happened before introduction of cellular phone?
+* What is spatial division for sharing spectrum? why is it significant for cellular phone networks?
+
+>>>>>>> 23c165098233ac5e7fbd15ef9a9cabbc05f1223c
 
 ## POLICY REGARDING USING AI TOOLS
 

@@ -18,7 +18,7 @@ is_contact: true
 
 ## Assignment 2 (Due: 3rd March 2023)
 
-**Total Marks: 70 (7% weightage for CS4222/CS5422)**
+**Total Marks: 50 (9% weightage for CS4222/CS5422)**
  
 This is an **INDIVIDUAL** assignment.   
 **Important: We will check for code similarity and potential cases of plagiarism**  

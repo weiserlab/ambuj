@@ -106,8 +106,8 @@ I **STRONGLY** believe in diversity and providing equal opportunity to all. As a
 
 1. [Muhammad Sarmad](https://networks.imdea.org/team/imdea-networks-team/people/muhammad-sarmad-shahab-mir/)(From: UC3M/IMDEA Networks, Spain)(Visiting doctoral student - 12/09/2022 - 03/10/2022)
 1. [Wenqing Yan]()(From: Uppsala University, Sweden)(Visiting doctoral student - 01/04/2023 - 30/04/2023)
-1. [Pouya Shamshiri](From: Sharif University of Technology, Iran)(Visiting undergraduate student - 24/04/2023 - 30/06/2023)
-1. [Erfan baghaei](From: Sharif University of Technology, Iran)(Visiting undergraduate student - 24/04/2023 - 30/06/2023)
+1. [Pouya Shamshiri]()(From: Sharif University of Technology, Iran)(Visiting undergraduate student - 24/04/2023 - 30/06/2023)
+1. [Erfan baghaei]()(From: Sharif University of Technology, Iran)(Visiting undergraduate student - 24/04/2023 - 30/06/2023)
 
 **Previous Students**
 

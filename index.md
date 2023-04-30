@@ -99,20 +99,22 @@ I **STRONGLY** believe in diversity and providing equal opportunity to all. As a
   * Project/Thesis Title: Integration of Embedded Wireless Microphones with Open AI Whisper System  
 1. [Lim Soon Lee (2023 -)]()  [Masters program, National University of Singapore]  
   * Project/Thesis Title: Fabricating Sticker Form-Factor Sensors
-1. [Qiao Yukai (2022 -)]()  [Masters program, National University of Singapore]  
-  * Project/Thesis Title: Collecting and Analyzing Data from Battery-free Internet of Things
 
 **Visiting Students**
 
-1. [Muhammad Sarmad](https://networks.imdea.org/team/imdea-networks-team/people/muhammad-sarmad-shahab-mir/)(From: UC3M/IMDEA Networks, Spain)(Visiting doctoral student - 12/09/2022 - 03/10/2022)
-1. [Wenqing Yan]()(From: Uppsala University, Sweden)(Visiting doctoral student - 01/04/2023 - 30/04/2023)
 1. [Pouya Shamshiri]()(From: Sharif University of Technology, Iran)(Visiting undergraduate student - 24/04/2023 - 30/06/2023)
 1. [Erfan baghaei]()(From: Sharif University of Technology, Iran)(Visiting undergraduate student - 24/04/2023 - 30/06/2023)
 
 **Previous Students**
 
+1. [Qiao Yukai (2022 - 2023)]()  [Masters program, National University of Singapore]  →  State Grid Corporation of China
+  * Project/Thesis Title: Collecting, Analyzing and Visualising Data from Battery-free Internet of Things
+1. [Wenqing Yan]()(From: Uppsala University, Sweden)(Visiting doctoral student - 01/04/2023 - 30/04/2023)
+  * Project/Thesis Title: Tunnel Diodes for Sensing and Communication
 1. [David Håkansson]() (2022, Bachelors program, Uppsala University) 
   * Project/Thesis Title: [Controlling Latency for Batteryless Sensors through Environment Control](https://uu.diva-portal.org/smash/get/diva2:1705040/FULLTEXT01.pdf)  
+1. [Muhammad Sarmad](https://networks.imdea.org/team/imdea-networks-team/people/muhammad-sarmad-shahab-mir/)(From: UC3M/IMDEA Networks, Spain)(Visiting doctoral student - 12/09/2022 - 03/10/2022)
+  * Project/Thesis Title: TunnelLiFi: Hybrid Light and Radio Systems using Tunnel Diodes
 1. [Andreas Soleiman (2016-2019)](http://ansol.se) [Research Assistant and Bachelors+Masters Program] → MIT EECS PhD (withdrew to stay in industry) → Senior Data Scientist, H&M Group, Stockholm, Sweden
   * Project/Thesis Title: [Battery-free Visible Light Sensing](http://uu.diva-portal.org/smash/get/diva2:1303148/FULLTEXT01.pdf)
 1. [Gustav Eriksson/Fredholm (2018)]()[Masters program]  → Teamleader Intertek Semko, Stockholm

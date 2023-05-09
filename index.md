@@ -103,7 +103,8 @@ I **STRONGLY** believe in diversity and providing equal opportunity to all. As a
 **Visiting Students**
 
 1. [Pouya Shamshiri]()(From: Sharif University of Technology, Iran)(Visiting undergraduate student - 24/04/2023 - 30/06/2023)
-1. [Erfan baghaei]()(From: Sharif University of Technology, Iran)(Visiting undergraduate student - 24/04/2023 - 30/06/2023)
+1. [Erfan Baghaei]()(From: Sharif University of Technology, Iran)(Visiting undergraduate student - 24/04/2023 - 30/06/2023)
+1. [Tejas Gupta]()(From: Indian Institute of Technology, Kanpur)(Visiting undergraduate student - 7/05/2023 - 07/07/2023)
 
 **Previous Students**
 

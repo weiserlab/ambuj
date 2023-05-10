@@ -126,7 +126,7 @@ I take pride in working with students from various backgrounds, promoting an inc
   * Project/Thesis Title: [Towards Battery-free Radio Tomographic Imaging](http://www.diva-portal.org/smash/get/diva2:1247160/FULLTEXT02.pdf)
 1. [Elena di Lascio (2015-2016)](https://www.inf.usi.ch/phd/dilascio/) [Masters program] → USI PhD (completed) → Novartis Institutes for BioMedical Research (NIBR), Switzerland
   * Project/Thesis Title: [A Battery-free Indoor Localization System]()
-1. [Simon Olofsson (2015)](https://www.doc.ic.ac.uk/~so2015/)[Research assistant] → Imperial College London PhD → Facebook/Meta, London, UK
+1.  [Simon Olofsson (2015)](https://www.doc.ic.ac.uk/~so2015/)[Research assistant] → Imperial College London PhD → Facebook/Meta, London, UK
   * Project title: [Convergecast using Electronically Steerable Directional Antennas](https://dl.acm.org/doi/10.1145/3465219)
 
 Collaborated with the following students:

@@ -192,7 +192,7 @@ Authors: Sheen An Goh, *Ambuj Varshney*
 The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2023)      
 
 1. [Rethinking Embedded Sensor Data Processing and Analysis with Large Language Models: Poster Abstract]()  
-Authors: Pramuka Medaranga, Steven Waskito, Li Kunjun, Leow Kai Jie, Shantanu Chakrabarty (NCS Group), *Ambuj Varshney*  
+Authors: Pramuka Medaranga, Steven Waskito, Li Kunjun, Leow Kai Jie, Shantanu Chakrabarty, *Ambuj Varshney*  
 The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2023)      
 
 

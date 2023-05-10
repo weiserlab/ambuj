@@ -187,8 +187,8 @@ Involved in reviewing of articles for the following journals:
 Authors: Muhammad Sarmad Mir, Wenqing Yan, Prabal Dutta, Domenico Giustiniano, and *Ambuj Varshney*  
 The Twenty-fourth International Workshop on Mobile Computing Systems and Applications (ACM HotMobile 2023)  
 
-1. [VoCopilot: Enabling Voice-Activated Tracking for Everyday Interactions: Poster Abstract]()
-Authors: Sheen An, *Ambuj Varshney*  
+1. [VoCopilot: Enabling Voice-Activated Tracking for Everyday Interactions: Poster Abstract]()  
+Authors: Sheen An Goh, *Ambuj Varshney*  
 The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2023)      
 
 1. [Rethinking Embedded Sensor Data Processing and Analysis with Large Language Models: Poster Abstract]()

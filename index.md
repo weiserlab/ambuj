@@ -72,7 +72,7 @@ Our vision is to seamlessly integrate digital and physical worlds, thus providin
 
 ## Teaching and Mentorship
 
-I **STRONGLY** believe in diversity and providing equal opportunity to all. As an academic, I have mentored diverse students representing **10+ nationalities**, including students who now identify as transfeminine non-binary.
+I take pride in working with students from various backgrounds, promoting an inclusive environment that values diversity and guarantees equal opportunities for everyone. In my academic experience, I have had the pleasure of mentoring a diverse group of students from more than 11 nationalities, including those identifying as transfeminine non-binary.
 
 **Postdoctoral Scholars**
 

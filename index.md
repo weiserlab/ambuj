@@ -131,10 +131,10 @@ I **STRONGLY** believe in diversity and providing equal opportunity to all. As a
 
 Collaborated with the following students:
 
-* [Lorenzo Corneo (Uppsala University)](https://lorenzocorneo.github.io/) → Aalto University → Ericsson Research, Helsinki, Finland
-* [Wenqing Yan (Uppsala University)](https://wenqingyan.github.io/)
-* [Ander Galisteo (UC3M/IMDEA Networks)](https://andergalisteo.com/) → DoJo Five, Madrid, Spain
-* [Revathy Narayanan (Postdoc scholar, KTH, Sweden)](https://sites.google.com/view/revathy-narayanan/home)  → Ericsson Research, Stockholm, Sweden
+1. [Lorenzo Corneo (Uppsala University)](https://lorenzocorneo.github.io/) → Aalto University → Ericsson Research, Helsinki, Finland
+1. [Wenqing Yan (Uppsala University)](https://wenqingyan.github.io/)
+1. [Ander Galisteo (UC3M/IMDEA Networks)](https://andergalisteo.com/) → DoJo Five, Madrid, Spain
+1. [Revathy Narayanan (Postdoc scholar, KTH, Sweden)](https://sites.google.com/view/revathy-narayanan/home)  → Ericsson Research, Stockholm, Sweden
 
 ## Academic Service
 
@@ -194,6 +194,10 @@ The Twenty First ACM International Conference on Mobile Systems, Applications, a
 1. [Rethinking Embedded Sensor Data Processing and Analysis with Large Language Models: Poster Abstract]()  
 Authors: Pramuka Medaranga, Steven Waskito, Li Kunjun, Leow Kai Jie, Shantanu Chakrabarty, *Ambuj Varshney*  
 The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2023)      
+
+1. [An Educational Platform to Learn Radio Frequency Wireless Communication: Demo Abstract]()    
+Authors: Tobias Mages, Wenqing Yan, Ambuj Varshney, Christian Rohner    
+The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2023)       
 
 
 ### Year 2022

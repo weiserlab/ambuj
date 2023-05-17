@@ -91,6 +91,9 @@ I take pride in working with students from diverse backgrounds, creating an incl
 * Project/Thesis Title: Non-Intrusive Monitoring of Robots and IoT Devices (Jointly with NCS-NUS Lab)
 1. [Steven Antya Orvala Waskito (2023 -)]()  [Undergraduate researcher, National University of Singapore]
 * Project/Thesis Title: Non-Intrusive Monitoring of Robots and IoT Devices (Jointly with NCS-NUS Lab)
+1. [Gujar Parth Shailesh (2023 -)]() [Undergraduate researcher (UROP), National University of Singapore]
+* Project/Thesis Title: Machine Learning on Embedded Systems and Wireless 
+
 
 **Masters**
 1. [Yusril Izza (2023 -)]() [Masters program, National University of Singapore]

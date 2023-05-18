@@ -105,9 +105,12 @@ I take pride in working with students from diverse backgrounds, creating an incl
 
 **Visiting Students**
 
-1. [Pouya Shamshiri]()(From: Sharif University of Technology, Iran)(Visiting undergraduate student)
-1. [Erfan Baghaei]()(From: Sharif University of Technology, Iran)(Visiting undergraduate student)
-1. [Tejas Gupta]()(From: Indian Institute of Technology, Kanpur)(Visiting undergraduate student)
+1. [Pouya Shamshiri]()(From: EE UG@Sharif University of Technology, Iran)(Visiting undergraduate student)
+* Project Title: Complex Computation on Embedded Devices
+1. [Erfan Baghaei]()(From: EE UG@Sharif University of Technology, Iran)(Visiting undergraduate student)
+* Project Title: Complex Computation on Embedded Devices
+1. [Tejas Gupta]()(From: EE UG@Indian Institute of Technology, Kanpur)(Visiting undergraduate student)
+* Project Title: LLM, Image Processing Support at Edge Devices
 
 **Previous Students**
 

@@ -113,7 +113,8 @@ I take pride in working with students from diverse backgrounds, creating an incl
 * Project Title: LLM, Image Processing Support at Edge Devices
 1. [Adithya Bijoy]()(From: CSE UG@Indian Institute of Technology, Delhi)(Visiting undergraduate student)
 * Project Title: Oppurtunistic Network support for Backscatter Sensors
-1.
+1. [Madhav Manish Gulati]()(From: EE UG@Indian Institute of Technology, Delhi)(Visiting undergraduate student)
+* Project Title: Oppurtunistic Network support for Backscatter Sensors
 
 **Previous Students**
 

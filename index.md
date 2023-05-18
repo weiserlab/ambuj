@@ -116,6 +116,8 @@ I take pride in working with students from diverse backgrounds, creating an incl
 * Project Title: Oppurtunistic Network support for Backscatter Sensors
 1. [Madhav Manish Gulati]()(From: EE UG@Indian Institute of Technology, Delhi)(Visiting undergraduate student)
 * Project Title: Oppurtunistic Network support for Backscatter Sensors
+1. [Moteen Shah]()(From: EE UG@VJTI, Mumbai)(Visiting undergraduate student)
+* Project Title: Software Defined Backscattering
 
 **Previous Students**
 

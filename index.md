@@ -121,7 +121,7 @@ I take pride in working with students from diverse backgrounds, creating an incl
 
 **Previous Students**
 
-You can find a list of my previously mentored students [here](), and there last known location.
+You can find a list of my previously mentored students [here](https://weiserlab.github.io/ambuj/previoustudent), and their last known location.
 
 
 ## Academic Service

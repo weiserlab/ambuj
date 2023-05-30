@@ -16,6 +16,14 @@ Ambuj Varshney’s interests have centered around embedded systems, wireless, an
 
 You can also read more about me here: (ABB Featured artice)[(English)](https://new.abb.com/hvg-award/winner-announcement-2019/the-awardee)[(Swedish)](https://new.abb.com/news/sv/detail/46349/jag-alskar-att-designa-system-som-gor-verklig-skillnad), and (NUS Featured Article)[(English)](https://www.comp.nus.edu.sg/news/features/2023-making-iot-devices-ambujvarshney/)
 
+
+### Get to know about some of my research (2019 ABB Research Award Video): 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hRp3xAtnIuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 # Timeline 
 
 ## 2022 - Onwards
@@ -34,7 +42,7 @@ After finishing high school, I created and maintained a popular Linux blog that 
 
 ## Before 2000's
 
-I was born and grew up in Rourkela, a city in the eastern part of India, Orissa. In 1992, I got my first computer, an IBM PC XT that ran at 4.77 MHz. I spent my early years playing games but also learned programming languages like C/Basic and Pascal as a teenager. Since 1998, I have been an active supporter of the free and open-source software movement, with a particular interest in GNU/Linux.
+I was born and grew up in Rourkela, a city in the eastern part of India, Orissa. In 1992, I got my first computer, an IBM PC XT that ran at 4.77 MHz. We were one of the first family in the city to have a personal computer! I spent my early years playing games but also learned programming languages like C/Basic and Pascal as a teenager. Since 1998, I have been an active supporter of the free and open-source software movement, with a particular interest in GNU/Linux.
 
 
 

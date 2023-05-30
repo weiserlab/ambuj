@@ -15,9 +15,11 @@ I am bootstrapping the WEISER group, which consists of curious students, enginee
 
 I am located at [Computing 3(COM3)](https://com3.comp.nus.edu.sg/).  My address is: #02-25, Computing 3, School of Computing, 11 Research Link, Singapore 119391. Email: [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg),  Phone: +65 - 86706948
 
-### My Cackground and Interests
+### My Background and Interests
 
-You can read more about me in the [background](https://weiserlab.github.io/ambuj/background) section. ABB and the National University of Singapore have also featured me, potentially providing insights into my background and interests: (ABB Featured artice)[(English)](https://new.abb.com/hvg-award/winner-announcement-2019/the-awardee)[(Swedish)](https://new.abb.com/news/sv/detail/46349/jag-alskar-att-designa-system-som-gor-verklig-skillnad), and (NUS Featured Article)[(English)](https://www.comp.nus.edu.sg/news/features/2023-making-iot-devices-ambujvarshney/)
+You can read more about me in the [background](https://weiserlab.github.io/ambuj/background) section. 
+
+ABB and the National University of Singapore have also featured me, potentially providing insights into my background and interests: (ABB Featured artice)[(English)](https://new.abb.com/hvg-award/winner-announcement-2019/the-awardee)[(Swedish)](https://new.abb.com/news/sv/detail/46349/jag-alskar-att-designa-system-som-gor-verklig-skillnad), and (NUS Featured Article)[(English)](https://www.comp.nus.edu.sg/news/features/2023-making-iot-devices-ambujvarshney/)
 
 
 ## Research Interest

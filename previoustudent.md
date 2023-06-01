@@ -50,11 +50,15 @@ supervisor. Further, through my many interactions with Ambuj, I have developed
 the confidence to believe that I can achieve success in everything I decide to do with
 pure dedication and hard work, and by having a high fault tolerance. For that,
 I am deeply thankful. I am certain that this mentality will benefit me greatly
-in all my future endeavors." -- [Andreas Soleiman (Masters Program, and RA) (Uppsala University, Sweden)](https://uu.diva-portal.org/smash/get/diva2:1303148/FULLTEXT01.pdf)
+in all my future endeavors."
+
+[Andreas Soleiman (Masters Program, and RA) (Uppsala University)](https://uu.diva-portal.org/smash/get/diva2:1303148/FULLTEXT01.pdf)
 
 
 * "I would like to thank Ambuj
 Varshney. Ambuj gave me the first idea to work with LoRa and LPWAN
 but beside this, just talking with him put my perspective about research in
-whole different level." -- [Haris Orfanidis (PhD Student) (KTH Stockholm, Sweden)](https://www.diva-portal.org/smash/get/diva2:1463949/FULLTEXT01.pdf)
+whole different level."
+
+[Haris Orfanidis (PhD Student) (KTH Stockholm, Sweden)](https://www.diva-portal.org/smash/get/diva2:1463949/FULLTEXT01.pdf)
 

@@ -35,3 +35,20 @@ Collaborated with the following students:
 1. [Wenqing Yan (Uppsala University)](https://wenqingyan.github.io/)
 1. [Ander Galisteo (UC3M/IMDEA Networks)](https://andergalisteo.com/) → DoJo Five, Madrid, Spain
 1. [Revathy Narayanan (Postdoc scholar, KTH, Sweden)](https://sites.google.com/view/revathy-narayanan/home)  → Ericsson Research, Stockholm, Sweden
+
+
+## Comments from Students and Collaborators
+
+
+* "I would like to send a very special and warm thanks to my supervisor Dr.
+Ambuj Varshney, who have spent countless hours working closely with me, and
+teaching me the ways of systems research. He has through his effort helped wire me
+to think analytically and critically about groundbreaking research problems. But
+more importantly, he has always maintained faith in my progress, while motivating
+me during my most difficult times. This is more than I could ever ask from a
+supervisor. Further, through my many interactions with Ambuj, I have developed
+the confidence to believe that I can achieve success in everything I decide to do with
+pure dedication and hard work, and by having a high fault tolerance. For that,
+I am deeply thankful. I am certain that this mentality will benefit me greatly
+in all my future endeavors." -- [Andreas Soleiman (Masters Program, and RA) (Uppsala University, Sweden)](https://uu.diva-portal.org/smash/get/diva2:1303148/FULLTEXT01.pdf)
+

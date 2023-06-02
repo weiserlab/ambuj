@@ -62,3 +62,15 @@ but beside this, just talking with him put my perspective about research in
 whole different level."
 
 
+From mentored student: [Gustav Eriksson (Masters Program) (Uppsala University, Sweden)](https://www.diva-portal.org/smash/get/diva2:1223106/FULLTEXT01.pdf)
+
+* "I would like to thank Ambuj Varshney for all the encouragement, time and belief that he has given
+during the whole thesis. anks to him I have had the opportunity to both improve my project and
+engineering skills in the most interesting and fun way. "
+
+From mentored student: [Sam Hylamia (Masters Program) (KTH Royal Institute of Technology, Sweden)](https://www.diva-portal.org/smash/get/diva2:1247160/FULLTEXT02.pdf)
+
+* "I would first like to thank my thesis advisor Dr. Ambuj Varshney at Uppsala University for his help and support throughout this project. Dr. Varsheny has always
+provided me with guidance whenever I ran into a trouble or had a question about
+my research or writing. He steered me in the right direction with his bright and
+innovative ideas."

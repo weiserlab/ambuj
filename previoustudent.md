@@ -6,7 +6,7 @@ is_contact: true
 
 I take pride in working with students from diverse backgrounds, creating an inclusive environment that values diversity and equal opportunities for everyone. In my academic experience, I have had the pleasure of mentoring a diverse group of students from more than 11 nationalities, including those identifying as transfeminine non-binary.
 
-![Previous students](student.png)  
+![Previous students](students.png)  
 
 Previous students:
 

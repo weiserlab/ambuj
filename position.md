@@ -9,11 +9,14 @@ is_contact: true
 
 # WEISER Group at National University of Singapore
 
-We are a group of curious students, engineers, and researchers interested in wireless, embedded systems, intelligence, sensing, and emerging technologies in real world(WEISER). We build **REAL** systems and often work at the intersection of electronics, communication, and computer science. Therefore, we welcome students with backgrounds in computer science, electronics, communication, and related fields. Our scientific results are published at leading venues in our area, such as ACM MobiSys, ACM MobiCom, ACM SenSys, ACM HotNets, ACM HotMobile and ACM/IEEE IPSN. In addition, we are well-funded, connected to other leading groups at top universities and companies worldwide, and have received several awards and grants from the industry and extensive media coverage from publications across the world.
+We are a group of curious students, engineers, and researchers interested in wireless, embedded systems, intelligence, sensing, and emerging technologies in real world(WEISER). 
+
+We build **REAL** systems and frequently operate at the intersection of electronics, communication, and computer science. Hence, engineering systems is an important part of our groups activity and focus. We welcome students who have backgrounds in computer science, electronics, communication, and related fields. Our  group's scientific findings are consistently published at leading venues in our field, such as ACM MobiSys, ACM MobiCom, ACM SenSys, ACM HotNets, ACM HotMobile, and ACM/IEEE IPSN. Additionally, we are well-funded, connected to other prestigious groups at top universities (like UC Berkeley via Lab 11), and corporations worldwide (such as NCS, Huawei through ARTIC, and previously with ABB). We have received  awards and grants from the industry, complemented by extensive media coverage across the globe.
 
 We are establishing a world-leading group in the areas of embedded systems, wireless communications, and mobile computing. We are seeking ambitious students and researchers for the following positions:
 
 **Skills required:** We are looking for students and scholars with a strong engineering background, ideally with experience in one or more of the following areas:  
+
 * Embedded systems (such as programming microcontrollers and FPGAs)
 * Previous experience with interfacing sensors and actuators
 * Wireless communication (such as WiFi, Bluetooth, ZigBee)
@@ -24,29 +27,37 @@ We are establishing a world-leading group in the areas of embedded systems, wire
 * IC Design, fabrication of chips
 * Wireless tesbeds, software defined radios
 
-**Please note:** While having experience in one or more of the aforementioned areas is desirable, it is not necessary. We value curiosity, creativity, hard work,  and a desire to conduct experiments and learn above all else. We are willing to train individuals who are eager to learn and contribute to our research efforts.
+**Please note:** While having experience in one or more of the aforementioned areas is beneficial, it is not a prerequisite. Above all, we value curiosity, creativity, diligence, and a passion for conducting experiments and learning. We stand ready to guide individuals who demonstrate an eagerness to learn and contribute to our research endeavors.
 
 We are located at the Systems and Networking lab in the new [computer science building Computing 3(COM3)](https://com3.comp.nus.edu.sg/).
 
-**We are also open to students currently enrolled in bachelor's, master's, and other programs for internships!**
+**We also are egaer to host students currently enrolled in bachelor's, master's, and other programs for internships!**
 
-## Open Positions (6 NOS)  
+## Open Positions (6+ NOS)  
 
-## P1: Non-Intrusive Monitoring of Internet of Things Devices and Robots   
+## P1: Internet of Things and Large Language Models (LLMs)  
 ([Jointly with NUS-NCS Research Lab](https://nus-ncs.nus.edu.sg/))
 
-We have millions of internet of things (IoT) devices, and their numbers are expected to reach a trillion within our lifetime. The deployment of robots is also increasing rapidly. These devices are equipped with sensors, actuators, and wireless communication capabilities, and are now ubiquitous in the environment, collecting private and sensitive information without external supervision. Because of their ability to move and act on their surroundings, the threat they pose is heightened.
+Large Language Models (LLMs) such as ChatGPT and Google Bard have garnered substantial interest and seen significant advancements in their capabilities. We are keenly interested in constructing "Eyes and Ears" for LLMs by interfacing sensors and actuators with these models. Additionally, we aim to explore other facets of integrating LLMs with Internet of Things devices. We have already achieved some very promising results in this regard.
 
-Our multi-year project aims to design a framework that combines sensors, edge devices, and cloud processing algorithms to mitigate some of these risks. Using this system, users would be able to monitor IoT devices and robots in a very non-intrusive way and be notified of potential threats and deviant behavior. Specifically, we focus on two use cases: robots in elderly care and healthcare settings, and wireless security cameras.
+This initiative is a component of a larger project where we are developing a comprehensive framework that melds sensors, edge devices, and LLMs for non-intrusive monitoring of the robots and IoT devices.
 
-**Available positions:** 1X Research Assistant (2X Years), and 1X Research Scientist (2X Years)
+**Available positions:** 1X Research Assistant (1X Year), 2X Visiting Student Positions (Either thesis work, or as interns), 1X Research Scinetist (1X Year)
 
-## P2: Low-Power Wireless Sensing using Tunnel Diodes
-We interact with wireless signals every day. WiFi, for example, allows us to connect our electronic devices to the internet. In addition to communication, wireless signals can also be used for other purposes. Signals can be reflected or refracted by macroscopic objects in the environment. Reflected signals from our body result in reflections that provide us with additional information about our bodies. For example, we may be able to learn information about our heartbeat and respiration rate when it reflects through our chest. 
+### Early work
 
-Our breakthroughs made over the past few years have enabled us to generate wireless signals while consuming 1000X less power than smartphones or WiFI routers. Our early and very promising results show that this may enable novel method for sensing. For example, we demonstrated that it could be used to detect gestures via hand movements [(MOBICOM 2022, Poster)](https://dl.acm.org/doi/abs/10.1145/3495243.3558281). As part of this project, we would like to build on our promising results, and design a very low complexity, low power, breath and heart rate monitoring system. When compared to existing systems, this system would consume considerably less power at singificantly lower complexity.
+1. [Rethinking Embedded Sensor Data Processing and Analysis with Large Language Models: Poster Abstract]()  
+Authors: Pramuka Medaranga, Steven Waskito, Li Kunjun, Leow Kai Jie, Shantanu Chakrabarty, *Ambuj Varshney*  
+The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2023)  
 
-**Available positions:** 1X Research Assistant (1X Years), and 1X Research Scientist (1X Years)
+## P2: Low-Power Wireless Sensing of Vital Signs using Tunnel Diodes
+[Funded through ARTIC@CDE, NUS]()
+
+Every day, we engage with wireless signals. WiFi, as an example, connects our electronic devices to the internet. However, the use of wireless signals extends beyond communication. These signals, reflected or refracted by large objects in the environment, can provide additional information. For instance, signals bounced off our bodies may reveal details about our heart rate and respiratory patterns.
+
+Our recent advancements have allowed us to generate wireless signals with a power consumption that is 1000 times less than that of smartphones or WiFi routers. Our preliminary and quite promising results suggest that this could pave the way for innovative sensing methods. For instance, we've demonstrated its potential use in detecting gestures via hand movements (MOBICOM 2022, Poster). As part of this project, our aim is to expand upon these promising results, designing a highly efficient, low-power system for monitoring heart and respiration rates. When juxtaposed with existing systems, our solution promises to be significantly less complex and considerably more power-efficient.
+
+**Available positions:** 1X Research Assistant (1X Years)
 
 You may find our following publication useful to learn about this research direction:
 
@@ -63,15 +74,9 @@ Authors: *Ambuj Varshney*, Andreas Soleiman, Thiemo Voigt
 The Twenty Fifth Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2019) 
 
 
-## Doctoral Disseration (PhD Studies) (Positions open in this round: 3 NOS)
+## Doctoral Disseration (PhD Studies) (Positions open in this round: 2 NOS)
 
-Our research group is pursuing two major directions; STICORS and Beyond RF.
-
-[**STICORS:**](https://weiserlab.github.io/ambuj/stico): This project aims to develop a framework for general purpose, flexible form factor, and long-lasting computers. Unlike traditional sensor platforms, these computers will not just sense and transmit information. They will be able to sense the physical world, actuate the environment, interact with users, process, store, and infer information, and transmit wirelessly. Based on our previous systems, such as LoRea (ACM SENSYS 2017) and Judo (ACM MOBISYS 2022), these computers will be able to communicate over long distances.
-
-[**BEYOND RF:**](https://weiserlab.github.io/ambuj/brf) As part of this research direction, we are developing alternative wireless communication methods for Internet of Things (IoT) devices. The increasing number of IoT devices has led to challenges with energy and spectrum usage. To address these challenges, our projects focus on using; 1) visible light (LiFi) for communication to avoid using the RF spectrum altogether. 2) Tunnel diode and backscatter transmitters that use orders of magnitude less energy than commercial transmitters. 3) Electronically steerable directional antennas in IoT devices to maximize spectrum efficiency.
-
-**Available positions:**  6X students fully supported for four years (3X in this admission round) (4X Years)
+**Available positions:**  2X students fully supported for four years (2X in this admission round) (4X Years)
 
 Following are examples of projects that can be pursued for doctoral studies:
 
@@ -178,7 +183,9 @@ The National University of Singapore is consistently ranked among the top univer
 
 ----
 ## Singapore 
-Singapore is a financial and cultural hub in Southeast Asia, offering a unique blend of East and West. It is known for its high per capita income, excellent quality of life, and progressive immigration policies. It is also a multicultural, merit-based society with excellent access to major world centres via direct flights. Salaries in Singapore, including in academia, are among the highest in the world, and the tax rate is low. With a thriving startup ecosystem and many major corporations based in the city, Singapore offers rich career prospects for graduating students and prepares them for opportunities worldwide.
 
+As a pivotal financial and cultural nexus in Southeast Asia, Singapore presents a unique fusion of Eastern and Western influences. Renowned for its high per capita income, superior quality of life, and progressive immigration policies, it stands as a beacon of multicultural, merit-based society. Furthermore, Singapore's excellent connectivity via direct flights facilitates easy access to major global centers.
+
+With salaries, including those in academia, ranking among the world's highest and a low tax rate, Singapore provides an economically attractive locale. The city-state's thriving startup ecosystem and the presence of numerous major corporations offer abundant career opportunities for graduating students, equipping them for professional pursuits on a global scale.
 
 ----

@@ -72,7 +72,9 @@ engineering skills in the most interesting and fun way. "
 
 From mentored student: [Sam Hylamia (Masters Program) (KTH Royal Institute of Technology, Sweden)](https://www.diva-portal.org/smash/get/diva2:1247160/FULLTEXT02.pdf)
 
-* "I would first like to thank my thesis advisor Dr. Ambuj Varshney at Uppsala University for his help and support throughout this project. Dr. Varsheny has always
-provided me with guidance whenever I ran into a trouble or had a question about
-my research or writing. He steered me in the right direction with his bright and
+* "I would like to thank my thesis advisor Dr. Ambuj Varshney at Uppsala University for his help and support throughout this project. Dr. Varsheny has always provided me with guidance whenever I ran into a trouble or had a question about my research or writing. He steered me in the right direction with his bright and
 innovative ideas."
+
+From collaborator: [Anders Galisteo (PhD Student) (UC3M/IMDEA Networks Spain)]()
+
+* "The second one is Dr. Ambuj Varshney. He inspired me to do what I consider one of the most fantastic works of these years,your support has been immeasurable,and your desire to do excellent quality work will remain with me for years to come."

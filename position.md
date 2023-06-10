@@ -71,7 +71,6 @@ The Twenty Sixth Annual International Conference On Mobile Computing And Network
 Authors: *Ambuj Varshney*, Andreas Soleiman, Thiemo Voigt  
 The Twenty Fifth Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2019) 
 
-
 ## Doctoral Disseration (PhD Studies) (Positions open in this round: 2 NOS)
 
 **Available positions:**  2X students fully supported for four years (2X in this admission round) (4X Years)
@@ -144,9 +143,9 @@ The Twenty Seventh Annual International Conference On Mobile Computing And Netwo
 (Due to the pandemic, conference was held in 2022)  
 
 
-### P6: System support for networks of backscatter platfomrs
+### Rethinking Wireless Embedded Systems for Computing
 
-In this research direction, we are looking at go beyond our previous effort and tackle relevant issues to enable a large scale deployment of low-power internet of things platforms that may use backscatter based wireless transmitters.
+
 
 ----
 ## How to apply?
@@ -158,14 +157,14 @@ You should send an email indicating which project you are interested in, your CV
 
 **Please note:** Even though GRE is part of the admission requirement. We may consider some applications despite not having a GRE score. Hence, please consider applying to the program even if you don't have a GRE score.
 
-### Please note the deadline for PhD application: 15th December 2022
+### Please note the deadline for PhD application: 15th June 2023
 
 ----
 ## Regarding Positions
 
-**Research Assistant:** Scholars without a PhD degree may apply for these positions. Typically, this means having bachelor's/master's degrees. This position enables scholars to conduct quality research, and decide if they would want to pursue PhD studies. This research experience allows scholars to be more competitive for applications for PhD studies at leading universities. Typical salary: 5000 to 6000 SGD/month
+**Research Assistant:** Scholars without a PhD degree may apply for these positions. Typically, this means having bachelor's/master's degrees. This position enables scholars to conduct quality research, and decide if they would want to pursue PhD studies. This research experience allows scholars to be more competitive for applications for PhD studies at leading universities. Typical salary: 5500 SGD/month
 
-**Research Scientist:** These positions are for scholars who have recently graduated with a PhD degree in areas such as electronics, communication and computer science. They are fully funded position that are equivalent to being a postdoctoral scholar. Typical salary: above 7000 SGD/month based on qualification and merit.
+**Research Scientist:** These positions are for scholars who have recently graduated with a PhD degree in areas such as electronics, communication and computer science. They are fully funded position that are equivalent to being a postdoctoral scholar. Typical salary: above 8000 SGD/month based on qualification and merit.
 
 ----
 ## National University of Singapore 

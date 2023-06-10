@@ -181,8 +181,8 @@ The National University of Singapore is consistently ranked among the top univer
 ----
 ## Singapore 
 
-As a pivotal financial and cultural nexus in Southeast Asia, Singapore presents a unique fusion of Eastern and Western influences. Renowned for its high per capita income, superior quality of life, and progressive immigration policies, it stands as a beacon of multicultural, merit-based society. Furthermore, Singapore's excellent connectivity via direct flights facilitates easy access to major global centers.
+Singapore, a crucial financial and cultural center in Southeast Asia, offers a unique mix of Eastern and Western influences. Known for its high per capita income, quality of life, and progressive immigration policies, it is a multicultural society that values merit. Its strong connections to major global hubs via direct flights make it accessible.
 
-With salaries, including those in academia, ranking among the world's highest and a low tax rate, Singapore provides an economically attractive locale. The city-state's thriving startup ecosystem and the presence of numerous major corporations offer abundant career opportunities for graduating students, equipping them for professional pursuits on a global scale.
+Salaries in Singapore, including those in academia, are among the highest globally, and the tax rate is low. The city is also home to a thriving startup scene and several major corporations, providing plenty of career opportunities for graduating students and preparing them for global opportunities.
 
 ----

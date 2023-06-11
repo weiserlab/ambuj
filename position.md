@@ -38,7 +38,7 @@ We are located at the Systems and Networking lab in the new [computer science bu
 
 Large Language Models (LLMs) such as ChatGPT and Google Bard have garnered substantial interest and seen significant advancements in their capabilities. We are keenly interested in constructing "Eyes and Ears" for LLMs by interfacing sensors and actuators with these models. Additionally, we aim to explore other facets of integrating LLMs with Internet of Things devices. We have already achieved some very promising results in this regard.
 
-This initiative is a component of a larger project where we are developing a comprehensive framework that melds sensors, edge devices, and LLMs for non-intrusive monitoring of the robots and IoT devices.
+This subproject is a component of a larger project where we are developing a comprehensive framework that melds sensors, edge devices, and LLMs for non-intrusive monitoring of the robots and IoT devices.
 
 **Available positions:** 1X Research Assistant (1X Year), 2X Visiting Student Positions (Either thesis work, or as interns), 1X Research Scinetist (1X Year)
 
@@ -79,9 +79,11 @@ Following are examples of projects that can be pursued for doctoral studies:
 
 ### P3: Enabling Low-power communication for Internet of Things 
 
-One of the important challenge to  rapid growth in IoT device numbers is their energy consumption. Batteries are an important part of the IoT devices. Most IoT devices today require battery replacement several times during their lifetime. This can be challenging due to IoT devices being deployed at enormous scale, and they are often located in hard-to-reach places. Among the different tasks performed by IoT device, communication is the most power consuming task. Thus, energy-intensive wireless transceivers are one of the primary reason for the high power consumption of IoT devices.
+A key challenge to the rapid proliferation of IoT devices is their substantial energy consumption. As most IoT devices necessitate frequent battery replacements throughout their lifespan, it becomes problematic due to their large-scale deployment and often inaccessible locations. Among various tasks, communication proves to be the most energy-intensive, with wireless transceivers accounting for most power consumption.
 
-Using tunnel diode oscillators and backscatter mechanisms, we have developed very low-power transmitters for tackling the  challenge of energy expensive wireless transmission. In this project, we go beyond our previous efforts. To enhance the reliability of transmissions and receptions, we would look to use various spreading and coding mechanisms. Another pertinent issue we aim to address is the reception challenge. Low-power receivers today have limited capabilities, and they must catch up with the capabilities of low-power transmitters. In this project, we aim to go beyond current low-power receivers (envelope detectors).  Eventually, our goal is to design transceivers that can transmit and receive hundreds of meters at a few hundred kilobits while consuming less than 100 microwatts. Comparing this to commercial transceivers, this would be atleast an order of magnitude improvement. With this project, IoT devices would be capable of lasting their entire lives without replacing batteries, or even operating without batteries from energy harvested from the environment. 
+Addressing this, we've developed low-power transmitters utilizing tunnel diode oscillators and backscatter mechanisms, significantly reducing energy consumption. Now, our focus extends to bolstering transmission reliability with various spreading and coding mechanisms, and tackling the limitations of low-power receivers to match low-power transmitter capabilities.
+
+The ultimate goal is to design transceivers capable of transmitting and receiving data across hundreds of meters at a few hundred kilobits, consuming under 100 microwatts - a significant improvement compared to commercial transceivers. This advancement could enable IoT devices to operate throughout their lifespan without battery replacements, or even run on energy harvested from the environment.
 
 You may find the following of our previous work relevant:
 
@@ -105,11 +107,14 @@ Authors: *Ambuj Varshney*, Oliver Harms, Carlos Penichet, Christian Rohner , Fre
 Fifteenth ACM Conference on Embedded Networked Sensor Systems (ACM SENSYS 2017)  
 **2019 ABB Research Award Winner**  
 
-### P4: Hyperscale sensing via low-power, computation-less Internet of Things platforms 
+### P4: Computation-less Internet of Things platforms 
 
-Historically, communication has been considered the most power-consuming operation in IoT devices. Recently, some advances in designing low-power transmitters based on backscatter mechanisms (including some of our own) have overturned this notion. Computing becomes a more power-intensive task on IoT devices.
+Historically, communication has been the most energy-intensive operation in IoT devices. However, recent innovations, including our own in low-power transmitter design using backscatter mechanisms, have shifted this power burden to computing.
 
-As part of our earlier research, we have explored alternative IoT device architectures that eliminate computational units to tackle the energy challenge of IoT devices. In this architecture, sensors are directly coupled to a low-power backscatter radio or tunnel diode transmitter (bypassing microcontrollers), thus enabling sensing and communication at microwatts of power. In this project, we build on these promising early results and aim to design sensors that perform very little or no computation. Instead, most of the processing tasks are delegated to edge devices. As part of this project, we will design a generic sensor platform. The next step is to explore how these sensors interact with edge devices and design associated infrastructure on edge devices. Finally, we would investigate scaling and supporting large numbers of these sensors and edge devices. These sensors could last a decade on a coin cell battery or only operate on harvested energy from the environment. 
+Our previous research sought to address this by proposing IoT device architectures that eliminate computational units, thereby reducing energy consumption. In these models, sensors bypass microcontrollers to directly connect with low-power backscatter radios or tunnel diode transmitters, enabling energy-efficient sensing and communication.
+
+Building on this, our current project aims to design sensors requiring minimal to no computation, delegating most processing tasks to edge devices. We plan to develop a versatile sensor platform, examine the interaction between sensors and edge devices, and design the necessary infrastructure. Ultimately, we aim to explore scalability and support for extensive sensor and edge device networks. This could allow sensors to operate for a decade on a single coin cell battery, or solely on harvested environmental energy.
+
 
 You may find the following of our previous work relevant:
 
@@ -128,9 +133,7 @@ The Eleventh ACM Conference on Security and Privacy in Wireless and Mobile Netwo
 
 ### P5: Designing Hybrid LiFi and Radio Frequency Systems 
 
-This research direction explores hybrid communication medium comprised of LiFi (visible light communication) and radio frequency transceievers. Some of our research effort demonstrate that these mediums are complimentary to each other. In particular, we have demonstrated that LiFi may overcome the reception challenge of backscatter tags.
-
-You may find the following of our previous work relevant:
+This research direction investigates a hybrid communication medium combining LiFi (visible light communication) and radio frequency transceivers. Our findings suggest these mediums complement each other, with LiFi demonstrating particular potential to address the reception issues associated with backscatter tags. You may find the following of our previous work relevant:
 
 1. [Two to Tango: Hybrid Light and Backscatter Networks for Next Billion Devices](https://dl.acm.org/doi/10.1145/3386901.3388918)   
 Authors: Ambuj Varshney, [Ander Galiesto](https://andergalisteo.com/), Domenico Giustiniano    
@@ -181,8 +184,6 @@ The National University of Singapore is consistently ranked among the top univer
 ----
 ## Singapore 
 
-Singapore, a crucial financial and cultural center in Southeast Asia, offers a unique mix of Eastern and Western influences. Known for its high per capita income, quality of life, and progressive immigration policies, it is a multicultural society that values merit. Its strong connections to major global hubs via direct flights make it accessible.
-
-Salaries in Singapore, including those in academia, are among the highest globally, and the tax rate is low. The city is also home to a thriving startup scene and several major corporations, providing plenty of career opportunities for graduating students and preparing them for global opportunities.
+Singapore, an important financial and cultural center in Southeast Asia, offers a unique mix of Eastern and Western influences. Known for its high per capita income, quality of life, and progressive immigration policies, it is a multicultural society that values merit. Its strong connections to major global hubs via direct flights make it accessible. Salaries in Singapore, including those in academia, are among the highest globally, and the tax rate is low. The city is also home to a thriving startup scene and several major corporations, providing plenty of career opportunities for graduating students and preparing them for global opportunities.
 
 ----

@@ -146,7 +146,7 @@ The Twenty Seventh Annual International Conference On Mobile Computing And Netwo
 (Due to the pandemic, conference was held in 2022)  
 
 
-### Rethinking Wireless Embedded Systems for Computing
+### P6: Rethinking Wireless Embedded Systems for Computing
 
 Over the past decades, we've witnessed a two-fold improvement in the energy efficiency of microcontrollers, the core of embedded systems. Modern microcontrollers, like the Ambiq Apollo4, can generate hundreds of megahertz clock rate while consuming only a few milliwatts of power - an amount a small coin cell can handle!
 

@@ -115,6 +115,8 @@ I take pride in working with students from diverse backgrounds, creating an incl
 * Project Title: Oppurtunistic Network support for Backscatter Sensors
 1. [Moteen Shah]()(From: EE UG@VJTI, Mumbai)(Visiting undergraduate student)
 * Project Title: Software Defined Backscattering
+1. [Yuvraj Singh Bhanduria]()(From: BITS Pilani (Goa))(Visiting undergraduate student)
+* Project Title: Vital Health Monitoring using Tunnel Diodes
 
 **Previous Students**
 

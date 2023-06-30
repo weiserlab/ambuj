@@ -181,7 +181,7 @@ The Twenty First ACM International Conference on Mobile Systems, Applications, a
 1. [An Educational Platform to Learn Radio Frequency Wireless Communication: Demo Abstract]()    
 Authors: Tobias Mages, Wenqing Yan, Ambuj Varshney, Christian Rohner    
 The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2023)       
-**Best demonstration award**
+<span style="color:red"> **Best Demonstration Award**</span>
 
 
 ### Year 2022
@@ -247,7 +247,7 @@ The Eighteenth ACM Workshop on Hot Topics in Networks (ACM HotNets 2019)
 2. [Demonstration: Towards Battery-free Radio Tomographic Imaging](https://dl.acm.org/doi/10.1145/3212480.3226107)  
 Authors: Abdullah Hylamia, *Ambuj Varshney*, Andreas Soleiman, et al.    
 The Eleventh ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec-2018)  
-**Best demonstration award**
+<span style="color:red">**Best Demonstration Award**</span>
 
 3. [Battery-free 802.15.4 Receiver](https://dl.acm.org/doi/10.1109/IPSN.2018.00045)  
 Authors: Carlos Perez Penichet, Claro Noda, *Ambuj Varshney*, Thiemo Voigt  
@@ -266,13 +266,13 @@ The Seventeenth ACM/IEEE Conference on Information Processing in Sensor Networks
 1. [LoRea: A Backscatter Architecture that Achieves a Long Communication Range](https://dl.acm.org/doi/10.1145/3131672.3131691)  
 Authors: *Ambuj Varshney*, Oliver Harms, Carlos Penichet, Christian Rohner , Frederik Hermans, Thiemo Voigt  
 Fifteenth ACM Conference on Embedded Networked Sensor Systems (ACM SENSYS 2017)  
-**2019 ABB Research Award Winner**  
+<span style="color:red">**2019 ABB Research Award Winner**</span>
 
 2. [Battery-free Visible Light Sensing](https://dl.acm.org/doi/abs/10.1145/3129881.3129890)  
 Authors: *Ambuj Varshney*, Andreas Soleiman, Luca Mottola, Thiemo Voigt  
 ACM VLCS (Co-located with ACM MobiCom) 2017  
-**Best Paper Award**  
-**ACM Student Research Competition Winner (Graduate, MobiCom) (Mentored student)**  
+<span style="color:red">**Best Paper Award**</span>
+<span style="color:red">**ACM Student Research Competition Winner (Graduate, MobiCom) (Mentored student)**</span>
 
 3. [Towards wide-area backscatter networks](https://dl.acm.org/doi/10.1145/3127882.3127888)  
 Authors: *Ambuj Varshney*, Carlos Perez Penichet, Christian Rohner, Thiemo Voigt  

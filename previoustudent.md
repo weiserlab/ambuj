@@ -10,9 +10,9 @@ I take pride in working with students from diverse backgrounds, creating an incl
 
 Previous students:
 
-1. [Pouya Shamshiri]()(From: EE UG@Sharif University of Technology, Iran)(Visiting undergraduate student)
+1. [Pouya Shamshiri]()(From: EE UG@Sharif University of Technology, Iran)(Visiting undergraduate student - 27/04/2023 - 30/06/2023)
 * Project Title: Complex Computation on Embedded Devices
-1. [Erfan Baghaei]()(From: EE UG@Sharif University of Technology, Iran)(Visiting undergraduate student)
+1. [Erfan Baghaei]()(From: EE UG@Sharif University of Technology, Iran)(Visiting undergraduate student - 27/04/2023 - 30/06/2023)
 * Project Title: Complex Computation on Embedded Devices
 1. [Qiao Yukai (2022 - 2023)]()  [Masters program, National University of Singapore]  →  State Grid Corporation of China
   * Project/Thesis Title: Collecting, Analyzing and Visualising Data from Battery-free Internet of Things

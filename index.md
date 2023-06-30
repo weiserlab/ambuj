@@ -103,10 +103,6 @@ I take pride in working with students from diverse backgrounds, creating an incl
 
 **Visiting Students**
 
-1. [Pouya Shamshiri]()(From: EE UG@Sharif University of Technology, Iran)(Visiting undergraduate student)
-* Project Title: Complex Computation on Embedded Devices
-1. [Erfan Baghaei]()(From: EE UG@Sharif University of Technology, Iran)(Visiting undergraduate student)
-* Project Title: Complex Computation on Embedded Devices
 1. [Tejas Gupta]()(From: EE UG@Indian Institute of Technology, Kanpur)(Visiting undergraduate student)
 * Project Title: LLM, Image Processing Support at Edge Devices
 1. [Adithya Bijoy]()(From: CSE UG@Indian Institute of Technology, Delhi)(Visiting undergraduate student)
@@ -185,6 +181,7 @@ The Twenty First ACM International Conference on Mobile Systems, Applications, a
 1. [An Educational Platform to Learn Radio Frequency Wireless Communication: Demo Abstract]()    
 Authors: Tobias Mages, Wenqing Yan, Ambuj Varshney, Christian Rohner    
 The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2023)       
+**Best demonstration award**
 
 
 ### Year 2022

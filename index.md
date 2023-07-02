@@ -271,8 +271,8 @@ Fifteenth ACM Conference on Embedded Networked Sensor Systems (ACM SENSYS 2017)
 2. [Battery-free Visible Light Sensing](https://dl.acm.org/doi/abs/10.1145/3129881.3129890)  
 Authors: *Ambuj Varshney*, Andreas Soleiman, Luca Mottola, Thiemo Voigt  
 ACM VLCS (Co-located with ACM MobiCom) 2017  
-<span style="color:red">**Best Paper Award**</span>
-<span style="color:red">**ACM Student Research Competition Winner (Graduate, MobiCom) (Mentored student)**</span>
+<span style="color:red">**Best Paper Award**</span>  
+<span style="color:red">**ACM Student Research Competition Winner (Graduate, MobiCom) (Mentored student)**</span>  
 
 3. [Towards wide-area backscatter networks](https://dl.acm.org/doi/10.1145/3127882.3127888)  
 Authors: *Ambuj Varshney*, Carlos Perez Penichet, Christian Rohner, Thiemo Voigt  

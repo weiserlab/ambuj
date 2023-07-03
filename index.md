@@ -179,9 +179,14 @@ Authors: Pramuka Medaranga, Steven Waskito, Li Kunjun, Leow Kai Jie, Shantanu Ch
 The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2023)      
 
 1. [An Educational Platform to Learn Radio Frequency Wireless Communication: Demo Abstract]()    
-Authors: Tobias Mages, Wenqing Yan, Ambuj Varshney, Christian Rohner    
+Authors: Tobias Mages, Wenqing Yan, *Ambuj Varshney* , Christian Rohner    
 The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2023)       
 <span style="color:red"> **Best Demonstration Award**</span>
+
+1. [TunnelTx: Demonstrating Low-Power Wireless Transmissions using Tunnel Diode based Wireless Transmitters (Circuit Design Contest Entry)]()  
+Authors: Wenqing Yan, Manoj Gulati, Prabal Dutta, *Ambuj Varshney* 
+ACM/IEEE International Symposium on Low Power Electronics and Design (ISPLED) 2023
+
 
 
 ### Year 2022

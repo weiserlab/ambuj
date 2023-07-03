@@ -183,7 +183,7 @@ Authors: Tobias Mages, Wenqing Yan, *Ambuj Varshney* , Christian Rohner
 The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2023)       
 <span style="color:red"> **Best Demonstration Award**</span>
 
-1. [TunnelTx: Demonstrating Low-Power Wireless Transmissions using Tunnel Diode based Wireless Transmitters (Circuit Design Contest Entry)]()  
+1. [TunnelTx: Demonstrating Low-Power Wireless Transmissions using Tunnel Diode based Wireless Transmitters (Circuit Design Contest)]()  
 Authors: Wenqing Yan, Manoj Gulati, Prabal Dutta, *Ambuj Varshney*  
 ACM/IEEE International Symposium on Low Power Electronics and Design (ISPLED) 2023  
 

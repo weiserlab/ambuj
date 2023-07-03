@@ -184,8 +184,8 @@ The Twenty First ACM International Conference on Mobile Systems, Applications, a
 <span style="color:red"> **Best Demonstration Award**</span>
 
 1. [TunnelTx: Demonstrating Low-Power Wireless Transmissions using Tunnel Diode based Wireless Transmitters (Circuit Design Contest Entry)]()  
-Authors: Wenqing Yan, Manoj Gulati, Prabal Dutta, *Ambuj Varshney* 
-ACM/IEEE International Symposium on Low Power Electronics and Design (ISPLED) 2023
+Authors: Wenqing Yan, Manoj Gulati, Prabal Dutta, *Ambuj Varshney*  
+ACM/IEEE International Symposium on Low Power Electronics and Design (ISPLED) 2023  
 
 
 

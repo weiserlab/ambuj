@@ -103,11 +103,7 @@ I take pride in working with students from diverse backgrounds, creating an incl
 
 **Visiting Students**
 
-1. [Tejas Gupta]()(From: EE UG@Indian Institute of Technology, Kanpur)(Visiting undergraduate student)
-* Project Title: LLM, Image Processing Support at Edge Devices
 1. [Adithya Bijoy]()(From: CSE UG@Indian Institute of Technology, Delhi)(Visiting undergraduate student)
-* Project Title: Oppurtunistic Network support for Backscatter Sensors
-1. [Madhav Manish Gulati]()(From: EE UG@Indian Institute of Technology, Delhi)(Visiting undergraduate student)
 * Project Title: Oppurtunistic Network support for Backscatter Sensors
 1. [Moteen Shah]()(From: EE UG@VJTI, Mumbai)(Visiting undergraduate student)
 * Project Title: Software Defined Backscattering

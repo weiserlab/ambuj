@@ -30,6 +30,8 @@ Previous students:
 
 Visiting Students:
 
+1. [Madhav Manish Gulati]()(From: EE UG@Indian Institute of Technology, Delhi)(Visiting undergraduate student)
+* Project Title: Oppurtunistic Network support for Backscatter Sensors
 1. [Tejas Gupta]()(From: EE UG@Indian Institute of Technology, Kanpur)(Visiting undergraduate student)
 * Project Title: LLM, Image Processing Support at Edge Devices
 1. [Pouya Shamshiri]()(From: EE UG@Sharif University of Technology, Iran)(Visiting undergraduate student - 27/04/2023 - 30/06/2023)

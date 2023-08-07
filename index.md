@@ -75,9 +75,10 @@ I take pride in working with students from diverse backgrounds, creating an incl
 
 1. [Manoj Gulati](https://lab-14.github.io/) 
 
-**Predoctoral Students**
+**Doctoral Students**
 
 1. Pramuka Sooriyapatabandige 
+1. Rajashekar Reddy
 
 
 **Masters**
@@ -97,8 +98,6 @@ I take pride in working with students from diverse backgrounds, creating an incl
 * Project/Thesis Title: Non-Intrusive Monitoring of Robots and IoT Devices (Jointly with NCS-NUS Lab)
 1. [Steven Antya Orvala Waskito (2023 -)]()  [Undergraduate researcher, National University of Singapore]
 * Project/Thesis Title: Non-Intrusive Monitoring of Robots and IoT Devices (Jointly with NCS-NUS Lab)
-1. [Gujar Parth Shailesh (2023 -)]() [Undergraduate researcher (UROP), National University of Singapore]
-* Project/Thesis Title: Machine Learning on Embedded Systems and Wireless 
 
 
 **Visiting Students**
@@ -109,6 +108,7 @@ I take pride in working with students from diverse backgrounds, creating an incl
 * Project Title: Software Defined Backscattering
 1. [Yuvraj Singh Bhanduria]()(From: BITS Pilani (Goa))(Visiting undergraduate student)
 * Project Title: Vital Health Monitoring using Tunnel Diodes
+
 
 **Previous Students**
 

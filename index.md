@@ -80,6 +80,9 @@ I take pride in working with students from diverse backgrounds, creating an incl
 1. Pramuka Sooriyapatabandige 
 1. Rajashekar Reddy
 
+**Predoctoral students/Research Assistants**
+
+1. Daryl Lee [co-supervised with primary supervisor Shantanu from NCS]
 
 **Masters**
 1. [Yusril Izza (2023 -)]() [Masters program, National University of Singapore]

@@ -168,26 +168,26 @@ Involved in reviewing of articles for the following journals:
 
 1. [TunnelLiFi: Bringing LiFi to Commodity Internet of Things Devices](https://ambuj.se/hotmobile2023.pdf)  
 Authors: Muhammad Sarmad Mir, Wenqing Yan, Prabal Dutta, Domenico Giustiniano, and *Ambuj Varshney*  
-The Twenty-fourth International Workshop on Mobile Computing Systems and Applications (ACM HotMobile 2023)  
+The Twenty-fourth International Workshop on Mobile Computing Systems and Applications (ACM HotMobile)  2023
 
 1. [VoCopilot: Enabling Voice-Activated Tracking for Everyday Interactions: Poster Abstract]()  
 Authors: Sheen An Goh, *Ambuj Varshney*  
-The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2023)      
+The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys)  2023    
 
 1. [Rethinking Embedded Sensor Data Processing and Analysis with Large Language Models: Poster Abstract]()  
 Authors: Pramuka Medaranga, Steven Waskito, Li Kunjun, Leow Kai Jie, Shantanu Chakrabarty, *Ambuj Varshney*  
-The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2023)      
+The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys) 2023  
 
 1. [An Educational Platform to Learn Radio Frequency Wireless Communication: Demo Abstract]()    
 Authors: Tobias Mages, Wenqing Yan, *Ambuj Varshney* , Christian Rohner    
-The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2023)       
+The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys) 2023  
 <span style="color:red"> **Best Demonstration Award**</span>
 
 1. [TunnelTx: Demonstrating Low-Power Wireless Transmissions using Tunnel Diode based Wireless Transmitters (Circuit Design Contest)]()  
 Authors: Wenqing Yan, Manoj Gulati, Prabal Dutta, *Ambuj Varshney*  
 The Twenty Third ACM/IEEE International Symposium on Low Power Electronics and Design (ISPLED) 2023  
 
-1. [PassiveLiFi Demonstration: Rethinking LiFi for Low-Power and Long Range RF Backscatter: Demonstration]()    
+1. [PassiveLiFi: Rethinking LiFi for Low-Power and Long Range RF Backscatter: Demonstration]()    
 Authors:Dayrene Frometa Fonseca, Muhammad Sarmad Mir,Borja Genoves Guzman, *Ambuj Varshney*, Domenico Giustiniano  
 The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023
 

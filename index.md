@@ -187,6 +187,10 @@ The Twenty First ACM International Conference on Mobile Systems, Applications, a
 Authors: Wenqing Yan, Manoj Gulati, Prabal Dutta, *Ambuj Varshney*  
 The Twenty Third ACM/IEEE International Symposium on Low Power Electronics and Design (ISPLED) 2023  
 
+1. [PassiveLiFi Demonstration: Rethinking LiFi for Low-Power and Long Range RF Backscatter: Demonstration]  
+Authors:Dayrene Frometa Fonseca, Muhammad Sarmad Mir,Borja Genoves Guzman, **Ambuj Varshney**, Domenico Giustiniano  
+The 29th Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023
+
 
 ### Year 2022
 1. [POSTER: Enabling L3: Low Cost, Low Complexity and Low Power Radio Frequency Sensing using Tunnel Diodes]()  

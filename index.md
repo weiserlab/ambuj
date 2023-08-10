@@ -189,7 +189,7 @@ The Twenty Third ACM/IEEE International Symposium on Low Power Electronics and D
 
 1. [PassiveLiFi Demonstration: Rethinking LiFi for Low-Power and Long Range RF Backscatter: Demonstration]  
 Authors:Dayrene Frometa Fonseca, Muhammad Sarmad Mir,Borja Genoves Guzman, **Ambuj Varshney**, Domenico Giustiniano  
-The 29th Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023
+The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023
 
 
 ### Year 2022

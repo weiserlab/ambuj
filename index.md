@@ -101,6 +101,8 @@ I take pride in working with students from diverse backgrounds, creating an incl
 * Project/Thesis Title: Non-Intrusive Monitoring of Robots and IoT Devices (Jointly with NCS-NUS Lab)
 1. [Steven Antya Orvala Waskito (2023 -)]()  [Undergraduate researcher, National University of Singapore]
 * Project/Thesis Title: Non-Intrusive Monitoring of Robots and IoT Devices (Jointly with NCS-NUS Lab)
+1. [Juliet Teoh Qian Ying (2023 - 2024)]() (Final year project, National University of Singapore)
+* Project/Thesis Title: Complex computation on embedded devices
 
 
 **Visiting Students**
@@ -164,7 +166,6 @@ Involved in reviewing of articles for the following journals:
 
 ### Year 2023
 
-
 1. [TunnelLiFi: Bringing LiFi to Commodity Internet of Things Devices](https://ambuj.se/hotmobile2023.pdf)  
 Authors: Muhammad Sarmad Mir, Wenqing Yan, Prabal Dutta, Domenico Giustiniano, and *Ambuj Varshney*  
 The Twenty-fourth International Workshop on Mobile Computing Systems and Applications (ACM HotMobile 2023)  
@@ -185,7 +186,6 @@ The Twenty First ACM International Conference on Mobile Systems, Applications, a
 1. [TunnelTx: Demonstrating Low-Power Wireless Transmissions using Tunnel Diode based Wireless Transmitters (Circuit Design Contest)]()  
 Authors: Wenqing Yan, Manoj Gulati, Prabal Dutta, *Ambuj Varshney*  
 The Twenty Third ACM/IEEE International Symposium on Low Power Electronics and Design (ISPLED) 2023  
-
 
 
 ### Year 2022

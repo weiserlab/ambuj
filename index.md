@@ -191,6 +191,15 @@ The Twenty Third ACM/IEEE International Symposium on Low Power Electronics and D
 Authors:Dayrene Frometa Fonseca, Muhammad Sarmad Mir,Borja Genoves Guzman, *Ambuj Varshney*, Domenico Giustiniano  
 The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023
 
+1. [Going Beyond Backscatter: Rethinking Low-Power Wireless Transmitters using Tunnel Diodes: Poster]()
+Authors: Moteen Shah, Adithya Bijoy, Manoj Gulati, Wenqing Yan, *Ambuj Varshney*
+The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023
+
+1. [Otter: Simplifying Embedded Sensor Data Collection and Analysis using Large Language Models]()
+Authors: Steven Waskito, Kai Jie Leow, Pramuka Medaranga, Tejas Gupta, Shantanu Chakrabarty, Manoj Gulati, *Ambuj Varshney*
+The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023
+
+
 
 ### Year 2022
 1. [POSTER: Enabling L3: Low Cost, Low Complexity and Low Power Radio Frequency Sensing using Tunnel Diodes]()  

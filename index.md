@@ -195,8 +195,8 @@ The Twenty Ninth Annual International Conference On Mobile Computing And Network
 Authors: Moteen Shah, Adithya Bijoy, Manoj Gulati, Wenqing Yan, *Ambuj Varshney*  
 The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023  
 
-1. [Otter: Simplifying Embedded Sensor Data Collection and Analysis using Large Language Models]()  
-Steven Waskito, Kai Jie Leow, Pramuka Medaranga, Tejas Gupta, Shantanu Chakrabarty, Manoj Gulati, *Ambuj Varshney*  
+1. [Otter: Simplifying Embedded Sensor Data Collection and Analysis using Large Language Models: {pster}]()  
+Steven Waskito, Kai Jie Leow, Pramuka, Tejas Gupta, Shantanu Chakrabarty, Manoj Gulati, *Ambuj Varshney*  
 The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023  
 
 

@@ -192,12 +192,12 @@ Authors:Dayrene Frometa Fonseca, Muhammad Sarmad Mir,Borja Genoves Guzman, *Ambu
 The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023
 
 1. [Going Beyond Backscatter: Rethinking Low-Power Wireless Transmitters using Tunnel Diodes: Poster]()  
-Authors: Moteen Shah, Adithya Bijoy, Manoj Gulati, Wenqing Yan, *Ambuj Varshney*
-The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023
+Authors: Moteen Shah, Adithya Bijoy, Manoj Gulati, Wenqing Yan, *Ambuj Varshney*  
+The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023  
 
 1. [Otter: Simplifying Embedded Sensor Data Collection and Analysis using Large Language Models]()  
-Authors: Steven Waskito, Kai Jie Leow, Pramuka Medaranga, Tejas Gupta, Shantanu Chakrabarty, Manoj Gulati, *Ambuj Varshney*
-The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023
+Steven Waskito, Kai Jie Leow, Pramuka Medaranga, Tejas Gupta, Shantanu Chakrabarty, Manoj Gulati, *Ambuj Varshney*  
+The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023  
 
 
 

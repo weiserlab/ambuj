@@ -103,6 +103,8 @@ I take pride in working with students from diverse backgrounds, creating an incl
 * Project/Thesis Title: Non-Intrusive Monitoring of Robots and IoT Devices (Jointly with NCS-NUS Lab)
 1. [Juliet Teoh Qian Ying (2023 - 2024)]() (Final year project, National University of Singapore)
 * Project/Thesis Title: Complex computation on embedded devices
+1. [Nobel Ang (2023 - 2024)]() (Final year project, National University of Singapore)
+* Project/Thesis Title: IoT devices, Opportunistic Networks and Edge Devices
 
 
 **Visiting Students**

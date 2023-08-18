@@ -30,8 +30,12 @@ Previous students:
 
 Visiting Students:
 
-**Undergrudates:**
+**Undegraduate:**
 
+1. [Adithya Bijoy]()(From: CSE UG@Indian Institute of Technology, Delhi)(Visiting undergraduate student)
+* Project Title: Oppurtunistic Network support for Backscatter Sensors
+1. [Moteen Shah]()(From: EE UG@VJTI, Mumbai)(Visiting undergraduate student)
+* Project Title: Software Defined Backscattering
 1. [Madhav Manish Gulati]()(From: EE UG@Indian Institute of Technology, Delhi)(Visiting undergraduate student)
 * Project Title: Oppurtunistic Network support for Backscatter Sensors
 1. [Tejas Gupta]()(From: EE UG@Indian Institute of Technology, Kanpur)(Visiting undergraduate student)
@@ -41,7 +45,7 @@ Visiting Students:
 1. [Erfan Baghaei]()(From: EE UG@Sharif University of Technology, Iran)(Visiting undergraduate student - 27/04/2023 - 30/06/2023)
 * Project Title: Complex Computation on Embedded Devices
 
-**Graduates:**
+**Graduate:**
 
 1. [Muhammad Sarmad](https://networks.imdea.org/team/imdea-networks-team/people/muhammad-sarmad-shahab-mir/)(From: UC3M/IMDEA Networks, Spain)(Visiting doctoral student - 12/09/2022 - 03/10/2022)
   * Project/Thesis Title: TunnelLiFi: Hybrid Light and Radio Systems using Tunnel Diodes

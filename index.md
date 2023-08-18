@@ -107,10 +107,8 @@ I take pride in working with students from diverse backgrounds, creating an incl
 
 **Visiting Students**
 
-1. [Adithya Bijoy]()(From: CSE UG@Indian Institute of Technology, Delhi)(Visiting undergraduate student)
-* Project Title: Oppurtunistic Network support for Backscatter Sensors
-1. [Moteen Shah]()(From: EE UG@VJTI, Mumbai)(Visiting undergraduate student)
-* Project Title: Software Defined Backscattering
+1. [Raghav Khandelwal]()(From: BITS Pilani)(Visiting undergraduate student)
+* Project Title: LLM and IoT Devices
 1. [Yuvraj Singh Bhanduria]()(From: BITS Pilani (Goa))(Visiting undergraduate student)
 * Project Title: Vital Health Monitoring using Tunnel Diodes
 
@@ -195,7 +193,7 @@ The Twenty Ninth Annual International Conference On Mobile Computing And Network
 Authors: Moteen Shah, Adithya Bijoy, Manoj Gulati, Wenqing Yan, *Ambuj Varshney*  
 The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023  
 
-1. [Otter: Simplifying Embedded Sensor Data Collection and Analysis using Large Language Models: Poster}]()  
+1. [Otter: Simplifying Embedded Sensor Data Collection and Analysis using Large Language Models: Poster]()  
 Steven Waskito, Kai Jie Leow, Pramuka, Tejas Gupta, Shantanu Chakrabarty, Manoj Gulati, *Ambuj Varshney*  
 The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023  
 

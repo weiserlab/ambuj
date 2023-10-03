@@ -50,9 +50,9 @@ TBA
 1. [Lim Soon Lee (2023 -)]()  [Masters program, National University of Singapore]  
   * Project/Thesis Title: Fabricating Sticker Form-Factor Sensors
 
-**Undergraduates, Visiting students and Previous members**
+**Undergraduates, Visiting students**
 
-We work with amazing cohort of undergraduates and visiting students. You can find them listed [here]((https://weiserlab.github.io/ambuj/weiserstudent).  
+We work with amazing cohort of undergraduates and visiting students. You can find them listed [here](https://weiserlab.github.io/ambuj/weiserstudent).  
 
 ## Service
 

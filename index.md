@@ -48,33 +48,9 @@ TBA
 1. [Lim Soon Lee (2023 -)]()  [Masters program, National University of Singapore]  
   * Project/Thesis Title: Fabricating Sticker Form-Factor Sensors
 
+**Undergraduates, Visiting students and Previous members**
 
-**Undergraduates**
-
-1. [Leow Kai Jie (2023 - )]() [Undergraduate researcher, National University of Singapore]
-* Project/Thesis Title: Non-Intrusive Monitoring of Robots and IoT Devices (Jointly with NCS-NUS Lab)
-1. [Li Kunjun (2023 -)]() [Undergraduate researcher, National University of Singapore]
-* Project/Thesis Title: Non-Intrusive Monitoring of Robots and IoT Devices (Jointly with NCS-NUS Lab)
-1. [Steven Antya Orvala Waskito (2023 -)]()  [Undergraduate researcher, National University of Singapore]
-* Project/Thesis Title: Non-Intrusive Monitoring of Robots and IoT Devices (Jointly with NCS-NUS Lab)
-1. [Juliet Teoh Qian Ying (2023 - 2024)]() (Final year project, National University of Singapore)
-* Project/Thesis Title: Complex computation on embedded devices
-1. [Nobel Ang (2023 - 2024)]() (Final year project, National University of Singapore)
-* Project/Thesis Title: IoT devices, Opportunistic Networks and Edge Devices
-
-
-**Visiting students**
-
-1. [Raghav Khandelwal]()(From: BITS Pilani)(Visiting undergraduate student)
-* Project Title: LLM and IoT Devices
-1. [Yuvraj Singh Bhanduria]()(From: BITS Pilani (Goa))(Visiting undergraduate student)
-* Project Title: Vital Health Monitoring using Tunnel Diodes
-
-
-**Previous students**
-
-You can find a list of my previously mentored students [here](https://weiserlab.github.io/ambuj/previoustudent), and their last known location.
-
+We work with amazing cohort of undergraduates and visiting students. You can find them listed [here]((https://weiserlab.github.io/ambuj/weiserstudent)).  You can also find a list of my previously mentored students [here](https://weiserlab.github.io/ambuj/previoustudent). 
 
 ## Service
 

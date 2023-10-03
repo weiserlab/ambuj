@@ -52,7 +52,7 @@ TBA
 
 **Undergraduates, Visiting students**
 
-We work with amazing cohort of undergraduates and visiting students. You can find them listed [here](https://weiserlab.github.io/ambuj/weiserstudent).  
+We work with amazing cohort of undergraduates and visiting students. You can find more about them [here](https://weiserlab.github.io/ambuj/weiserstudent).  
 
 ## Service
 

@@ -27,6 +27,8 @@ I am fortunate to work alongside an incredible group of students from varied bac
 
 ## Mentorship
 
+You can also find a list of my previously mentored students [here](https://weiserlab.github.io/ambuj/previoustudent). 
+
 **Postdoctoral scholars**
 
 1. [Manoj Gulati](https://lab-14.github.io/) 
@@ -50,7 +52,7 @@ TBA
 
 **Undergraduates, Visiting students and Previous members**
 
-We work with amazing cohort of undergraduates and visiting students. You can find them listed [here]((https://weiserlab.github.io/ambuj/weiserstudent)).  You can also find a list of my previously mentored students [here](https://weiserlab.github.io/ambuj/previoustudent). 
+We work with amazing cohort of undergraduates and visiting students. You can find them listed [here]((https://weiserlab.github.io/ambuj/weiserstudent).  
 
 ## Service
 

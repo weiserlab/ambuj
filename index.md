@@ -27,16 +27,16 @@ I am fortunate to work alongside an incredible group of students from varied bac
 
 ## Mentorship
 
-**Postdoctoral Scholars**
+**Postdoctoral scholars**
 
 1. [Manoj Gulati](https://lab-14.github.io/) 
 
-**Doctoral Students**
+**Doctoral students**
 
 1. Pramuka Sooriyapatabandige 
 1. Rajashekar Reddy
 
-**Predoctoral students/Research Assistants**
+**Predoctoral scholars**
 
 TBA
 
@@ -63,7 +63,7 @@ TBA
 * Project/Thesis Title: IoT devices, Opportunistic Networks and Edge Devices
 
 
-**Visiting Students**
+**Visiting students**
 
 1. [Raghav Khandelwal]()(From: BITS Pilani)(Visiting undergraduate student)
 * Project Title: LLM and IoT Devices
@@ -71,12 +71,12 @@ TBA
 * Project Title: Vital Health Monitoring using Tunnel Diodes
 
 
-**Previous Students**
+**Previous students**
 
 You can find a list of my previously mentored students [here](https://weiserlab.github.io/ambuj/previoustudent), and their last known location.
 
 
-## Academic Service
+## Service
 
 Served as a member of jury or other significant roles in the following events:
 

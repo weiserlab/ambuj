@@ -181,11 +181,7 @@ The Twenty Ninth Annual International Conference On Mobile Computing And Network
 <span style="color:red"> **(Selected for Student Research Competition)**</span>
 
 
-
-### Year 2022
-1. [POSTER: Enabling L3: Low Cost, Low Complexity and Low Power Radio Frequency Sensing using Tunnel Diodes]()  
-Authors: Wenqing Yan,  *Ambuj Varshney*  
-The Twenty Eight Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2022)  
+### Year 2022 
 
 1. [Making Low-power and Long-range Wireless Backscatter Transmitters](https://dl.acm.org/doi/abs/10.1145/3551670.3551672)  
 Author: *Ambuj Varshney*  

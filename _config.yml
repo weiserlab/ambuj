@@ -25,5 +25,7 @@ nav:
    link: "stico"
  - name: "Beyond RF"
    link: "brf"
+ - name: "ExaHAL"
+   link: "exahal"
  - name: "Articles"
    link: "articles"

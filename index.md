@@ -21,12 +21,11 @@ ABB and the National University of Singapore have also featured me, potentially 
 
 
 ## Research Interest
-Our vision is to seamlessly integrate digital and physical worlds, thus providing tools for exploring and better understanding our world and reality. 
+Our vision is to seamlessly integrate digital and physical worlds, thus providing tools for exploring and better understanding our world and reality. We are pursuing three broad research directions; [ExaHal], [STICORS] and [Beyond RF]. 
 
+I am fortunate to work alongside an incredible group of students from varied backgrounds. We thrive in a diverse, inclusive environment that cherishes diversity of perspectives and ensures equal opportunity for everyone. Throughout my academic career, I have mentored students from over 11 nationalities, including transfeminine non-binary individuals.
 
 ## Teaching and Mentorship
-
-I take pride in working with students from diverse backgrounds, creating an inclusive environment that values diversity and equal opportunities for everyone. In my academic experience, I have had the pleasure of mentoring a diverse group of students from more than 11 nationalities, including those identifying as transfeminine non-binary.
 
 **Postdoctoral Scholars**
 

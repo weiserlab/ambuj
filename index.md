@@ -155,8 +155,6 @@ Involved in reviewing of articles for the following journals:
 
 ## Publications  
 
-> Publication numbers are for reference only and not for the purpose of bean counting.  
-
 ### Year 2023
 
 1. [TunnelLiFi: Bringing LiFi to Commodity Internet of Things Devices](https://ambuj.se/hotmobile2023.pdf)  

@@ -9,8 +9,6 @@ layout: default
 I am an Assistant Professor at the [National University of Singapore](http://nus.edu.sg). 
 
 
-I am bootstrapping the WEISER group, which consists of curious students, engineers and researchers who are interested in **W**ireless, **E**mbedded systems, **I**ntelligence, **S**ensing and **E**me**r**ging Technologies in **R**eal World **(WEISER)**. We are systems researchers who work at the intersection of electronics, communication and computer science. We tackle problems that have a strong engineering component and a potential for real-world impact. 
-
 ### Contact Details
 
 I am located at [Computing 3(COM3)](https://com3.comp.nus.edu.sg/).  My address is: #02-25, Computing 3, School of Computing, 11 Research Link, Singapore 119391. Email: [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg),  Phone: +65 - 86706948
@@ -23,12 +21,7 @@ ABB and the National University of Singapore have also featured me, potentially 
 
 
 ## Research Interest
-Our vision is to seamlessly integrate digital and physical worlds, thus providing tools for exploring and better understanding our world and reality. In pursuit of our vision, we are focused on two directions: STICORS and BeyondRF.
-
-[**STICORS:**](https://weiserlab.github.io/ambuj/stico) This research directions aims to develop a framework for general purpose, flexible form factor, and long-lasting computers. Unlike traditional sensor platforms, these computers will not just sense and transmit information. They will be able to sense the physical world, actuate the environment, interact with users, process, store, and infer information, and transmit wirelessly. Based on our previous systems, such as LoRea [(ACM SENSYS 2017)]() and Judo [(ACM MOBISYS 2022)](), these computers will be able to communicate over long distances.
-
-[**BEYOND RF:**](https://weiserlab.github.io/ambuj/brf) We are developing alternative wireless communication methods for Internet of Things (IoT) devices. The increasing number of IoT devices has led to challenges with energy and spectrum usage. To address these challenges, our projects focus on using; 1) visible light (LiFi) for communication to avoid using the RF spectrum altogether [(VLCS 2016)](https://dl.acm.org/doi/10.1145/2981548.2981559) [(VLCS 2017)](https://dl.acm.org/doi/abs/10.1145/3129881.3129890) [(MOBICOM 2019)](https://dl.acm.org/doi/10.1145/3300061.3345451) [(MOBISYS 2020)](https://dl.acm.org/doi/10.1145/3386901.3388918) 2) Tunnel diode and backscatter transmitters that use orders of magnitude less energy than commercial transmitters [(MOBICOM 2019)]() [(MOBICOM 2020)]() [(MOBISYS 2022)](); Previously, we have also investigated, 3) Electronically steerable directional atennas in IoT devices for spectrum efficient communication and sensing [(IPSN 2015)]() [(SENSYS 2015)]()  
-
+Our vision is to seamlessly integrate digital and physical worlds, thus providing tools for exploring and better understanding our world and reality. 
 
 ## Recent News
 * [Q1 2023] Was great to give invited talk for [NUS Hackers (Student community)](https://www.nushackers.org/) at Friday Hacks about designing everlasting IoT devices. You can watch [talk here](https://youtu.be/PuDEhHPyTuM?t=2541)
@@ -82,7 +75,7 @@ I take pride in working with students from diverse backgrounds, creating an incl
 
 **Predoctoral students/Research Assistants**
 
-1. Daryl Lee [co-supervised with primary supervisor Shantanu from NCS]
+TBA
 
 **Masters**
 1. [Yusril Izza (2023 -)]() [Masters program, National University of Singapore]
@@ -168,11 +161,7 @@ Involved in reviewing of articles for the following journals:
 
 1. [TunnelLiFi: Bringing LiFi to Commodity Internet of Things Devices](https://ambuj.se/hotmobile2023.pdf)  
 Authors: Muhammad Sarmad Mir, Wenqing Yan, Prabal Dutta, Domenico Giustiniano, and *Ambuj Varshney*  
-The Twenty-fourth International Workshop on Mobile Computing Systems and Applications (ACM HotMobile)  2023
-
-1. [VoCopilot: Enabling Voice-Activated Tracking for Everyday Interactions: Poster Abstract]()  
-Authors: Sheen An Goh, *Ambuj Varshney*  
-The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys)  2023    
+The Twenty-fourth International Workshop on Mobile Computing Systems and Applications (ACM HotMobile)  2023   
 
 1. [Rethinking Embedded Sensor Data Processing and Analysis with Large Language Models: Poster Abstract]()  
 Authors: Pramuka Medaranga, Steven Waskito, Li Kunjun, Leow Kai Jie, Shantanu Chakrabarty, *Ambuj Varshney*  
@@ -183,21 +172,15 @@ Authors: Tobias Mages, Wenqing Yan, *Ambuj Varshney* , Christian Rohner
 The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys) 2023  
 <span style="color:red"> **Best Demonstration Award**</span>
 
-1. [TunnelTx: Demonstrating Low-Power Wireless Transmissions using Tunnel Diode based Wireless Transmitters (Circuit Design Contest)]()  
-Authors: Wenqing Yan, Manoj Gulati, Prabal Dutta, *Ambuj Varshney*  
-The Twenty Third ACM/IEEE International Symposium on Low Power Electronics and Design (ISPLED) 2023  
-
-1. [PassiveLiFi: Rethinking LiFi for Low-Power and Long Range RF Backscatter: Demonstration]()    
-Authors:Dayrene Frometa Fonseca, Muhammad Sarmad Mir,Borja Genoves Guzman, *Ambuj Varshney*, Domenico Giustiniano  
-The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023
-
 1. [Going Beyond Backscatter: Rethinking Low-Power Wireless Transmitters using Tunnel Diodes: Poster]()  
 Authors: Moteen Shah, Adithya Bijoy, Manoj Gulati, Wenqing Yan, *Ambuj Varshney*  
 The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023  
+<span style="color:red"> **(Selected for Student Research Competition)**</span>
 
 1. [Otter: Simplifying Embedded Sensor Data Collection and Analysis using Large Language Models: Poster]()  
 Steven Waskito, Kai Jie Leow, Pramuka, Tejas Gupta, Shantanu Chakrabarty, Manoj Gulati, *Ambuj Varshney*  
 The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023  
+<span style="color:red"> **(Selected for Student Research Competition)**</span>
 
 
 

@@ -5,15 +5,6 @@ is_contact: true
 ## WEISER Group Members
 
 
-**Masters**
-1. [Yusril Izza (2023 -)]() [Masters program, National University of Singapore]
-  * Project/Thesis Title: Data Storage on IoT Devices 
-1. [Goh Sheen An (2023 -)]() [Masters program, National University of Singapore]
-  * Project/Thesis Title: Integration of Embedded Wireless Microphones with Open AI Whisper System  
-1. [Lim Soon Lee (2023 -)]()  [Masters program, National University of Singapore]  
-  * Project/Thesis Title: Fabricating Sticker Form-Factor Sensors
-
-
 **Undergraduates**
 
 1. [Leow Kai Jie (2023 - )]() [Undergraduate researcher, National University of Singapore]

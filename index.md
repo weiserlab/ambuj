@@ -140,8 +140,7 @@ The Twentieth ACM International Conference on Mobile Systems, Applications, and 
 3. [PassiveLiFi: Rethinking LiFi for Low-Power and Long Range RF Backscatter](https://dl.acm.org/doi/10.1145/3447993.3483262)  
 Authors: Muhammad Sarmad, Borja Genoves, *Ambuj Varshney*, [Domenico Giustiniano](https://networks.imdea.org/team/imdea-networks-team/people/domenico-giustiniano/)  
 The Twenty Seventh Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2021/2022)  
-(Due to the pandemic, conference was held in 2022)  
-<span style="color:red"> **Covered extensively in  media:** [Hackster](https://www.hackster.io/news/iot-devices-will-no-longer-need-to-rely-on-batteries-to-operate-ef02b6ed3b08), [El Mundo (Largest newspaper in Spain)](https://www.elmundo.es/madrid/2022/01/19/61e460d1fdddfff07b8b45a5.html), [Stacey on IoT](https://staceyoniot.com/can-passivelifi-make-batteries-for-iot-obsolete/), [TechXplore](), [AzoSensors](https://www.azosensors.com/news.aspx?newsID=14796), [ElectronicsForu]()  and others </span>
+<span style="color:red"> **Covered extensively in  media:** [Hackster](https://www.hackster.io/news/iot-devices-will-no-longer-need-to-rely-on-batteries-to-operate-ef02b6ed3b08), [El Mundo (Largest newspaper in Spain)](https://www.elmundo.es/madrid/2022/01/19/61e460d1fdddfff07b8b45a5.html), [Stacey on IoT](https://staceyoniot.com/can-passivelifi-make-batteries-for-iot-obsolete/), [TechXplore](), [AzoSensors](https://www.azosensors.com/news.aspx?newsID=14796), [ElectronicsForu]() **....** </span>
 * <span style="color:blue"> Teaser video: [Youtube](https://www.youtube.com/watch?v=rraZKUzcOMU) </span>
 
 ### Year 2021

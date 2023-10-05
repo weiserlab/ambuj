@@ -21,9 +21,9 @@ ABB and the National University of Singapore have also featured me, potentially 
 
 
 ## Interests
-Our vision is to seamlessly integrate digital and physical worlds, thus providing tools for exploring and better understanding our reality. We are pursuing three broad research directions; [ExaHal], [STICORS] and [Beyond RF]. 
+We are interested in making sense of physical world through wireless embedded systems. Our interests are to engineer large-scale systems, and in-pursuit of our vision, we are involved in three broad directions;  [ExaHal], [STICORS] and [Beyond RF]. 
 
-I am fortunate to work alongside an incredible group of students from varied backgrounds. We thrive in a diverse, inclusive environment that cherishes diversity of perspectives and ensures equal opportunity. Throughout my academic career, I have mentored students from over 11 nationalities, including transfeminine non-binary individuals.
+We arefortunate to work alongside an incredible group of students. We thrive in a diverse, inclusive environment that cherishes diversity of perspectives and ensures equal opportunity. Previous and current group members represent **eleven** nationalities, including transfeminine non-binary individuals.
 
 ## Mentorship
 

@@ -21,7 +21,7 @@ ABB and the National University of Singapore have also featured me, potentially 
 
 
 ## Interests
-We are interested in wireless embedded systems. We like to engineer large-scale systems, and in-pursuit of our vision, we are involved in three directions;  [ExaHal], [STICORS] and [Beyond RF]. 
+We are interested in wireless embedded systems. We like to engineer large-scale systems, at the intersection of electronics, communication and computer science. We are involved in three directions;  [ExaHal], [STICORS] and [Beyond RF]. 
 
 We arefortunate to work alongside an incredible group of students. We thrive in a diverse, inclusive environment that cherishes diversity of perspectives and ensures equal opportunity. Previous and current group members represent **eleven** nationalities, including transfeminine non-binary individuals.
 

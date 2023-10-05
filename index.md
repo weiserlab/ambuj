@@ -213,7 +213,7 @@ ACM VLCS (Co-located with ACM MobiCom) 2017
 3. [Battery-free Visible Light Sensing: Poster]()  
 Authors: Andreas Soleiman, *Ambuj Varshney*, Luca Mottola, Thiemo Voigt  
 The Twenty Third Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2017)  
-<span style="color:red">**ACM Student Research Competition Winner (Graduate)(Mentored student)**</span>  
+<span style="color:red">**WINNER (Graduate) ACM Student Research Competition**</span>  
 
 4. [Towards wide-area backscatter networks](https://dl.acm.org/doi/10.1145/3127882.3127888)  
 Authors: *Ambuj Varshney*, Carlos Perez Penichet, Christian Rohner, Thiemo Voigt  

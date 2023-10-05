@@ -115,6 +115,8 @@ The Twenty First ACM International Conference on Mobile Systems, Applications, a
 Authors: Moteen Shah, Adithya Bijoy, Manoj Gulati, Wenqing Yan, *Ambuj Varshney*  
 The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023  
 <span style="color:red"> **Selected as an entry for the Student Research Competition**</span>
+<span style="color:red"> **WINNER (Undergraduate) ACM Student Research Competition**</span>
+
 
 1. [Otter: Simplifying Embedded Sensor Data Collection and Analysis using Large Language Models: Poster]()  
 Steven Waskito, Kai Jie Leow, Pramuka, Tejas Gupta, Shantanu Chakrabarty, Manoj Gulati, *Ambuj Varshney*  
@@ -207,9 +209,13 @@ Fifteenth ACM Conference on Embedded Networked Sensor Systems (ACM SENSYS 2017)
 Authors: *Ambuj Varshney*, Andreas Soleiman, Luca Mottola, Thiemo Voigt  
 ACM VLCS (Co-located with ACM MobiCom) 2017  
 <span style="color:red">**Best Paper Award**</span>  
-<span style="color:red">**ACM Student Research Competition Winner (Graduate, MobiCom) (Mentored student)**</span>  
 
-3. [Towards wide-area backscatter networks](https://dl.acm.org/doi/10.1145/3127882.3127888)  
+3. [Battery-free Visible Light Sensing: Poster]()  
+Authors: Andreas Soleiman, *Ambuj Varshney*, Luca Mottola, Thiemo Voigt  
+The Twenty Third Annual International Conference On Mobile Computing And Networking (ACM MobiCom 2017)  
+<span style="color:red">**ACM Student Research Competition Winner (Graduate)(Mentored student)**</span>  
+
+4. [Towards wide-area backscatter networks](https://dl.acm.org/doi/10.1145/3127882.3127888)  
 Authors: *Ambuj Varshney*, Carlos Perez Penichet, Christian Rohner, Thiemo Voigt  
 ACM HotWireless (Co-located with ACM MobiCom) 2017  
 

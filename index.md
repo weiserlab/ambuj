@@ -20,14 +20,14 @@ You can read more about me in the [background](https://weiserlab.github.io/ambuj
 ABB and the National University of Singapore have also featured me, potentially providing insights into my background and interests: (ABB Featured artice)[(English)](https://new.abb.com/hvg-award/winner-announcement-2019/the-awardee)[(Swedish)](https://new.abb.com/news/sv/detail/46349/jag-alskar-att-designa-system-som-gor-verklig-skillnad), and (NUS Featured Article)[(English)](https://www.comp.nus.edu.sg/news/features/2023-making-iot-devices-ambujvarshney/)
 
 
-## Interests
+### Interests
 We are interested in wireless embedded systems. We like to engineer systems at the intersection of electronics, communication and computer science. We are involved in three directions;  [ExaHal], [STICORS] and [Beyond RF]. 
 
 We work alongside an incredible group of talented students. We thrive in a diverse, inclusive environment that cherishes diversity of perspectives and ensures equal opportunity. 
 
 Previous and current group members represent **eleven** nationalities, including transfeminine non-binary individuals. 
 
-## Mentorship
+### Mentorship
 
 You can also find a list of my previously mentored students [here](https://weiserlab.github.io/ambuj/previoustudent). 
 
@@ -56,7 +56,7 @@ TBA
 
 We work with amazing cohort of undergraduates and visiting students. You can find more about them [here](https://weiserlab.github.io/ambuj/weiserstudents).  
 
-## Service
+### Service
 
 Served as a member of jury or other significant roles in the following events:
 

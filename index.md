@@ -114,8 +114,8 @@ The Twenty First ACM International Conference on Mobile Systems, Applications, a
 1. [Going Beyond Backscatter: Rethinking Low-Power Wireless Transmitters using Tunnel Diodes: Poster]()  
 Authors: Moteen Shah, Adithya Bijoy, Manoj Gulati, Wenqing Yan, *Ambuj Varshney*  
 The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023  
-<span style="color:red"> **Selected as an entry for the Student Research Competition**</span>
-<span style="color:red"> **WINNER (Undergraduate) ACM Student Research Competition**</span>
+<span style="color:red"> **Selected as an entry for the Student Research Competition**</span>  
+<span style="color:red"> **WINNER (Undergraduate) ACM Student Research Competition**</span>  
 
 
 1. [Otter: Simplifying Embedded Sensor Data Collection and Analysis using Large Language Models: Poster]()  

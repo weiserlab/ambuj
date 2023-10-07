@@ -96,6 +96,8 @@ Involved in reviewing of articles for the following journals:
 
 ## Publications  
 
+These are only a selected list of publications. A detailed enumeration of my published work can be found here.
+
 ### Year 2023
 
 1. [TunnelLiFi: Bringing LiFi to Commodity Internet of Things Devices](https://ambuj.se/hotmobile2023.pdf)  

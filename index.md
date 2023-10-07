@@ -21,7 +21,7 @@ ABB and the National University of Singapore have also featured me, potentially 
 
 
 ### Interests
-We are interested in wireless embedded systems. We like to engineer systems, often at the intersection of electronics, communication and computer science. We are involved in two major directions;  [ExaHal] and [STICORS], supported by [Beyond RF]. 
+We are interested in wireless embedded systems. We like to engineer systems, often at the intersection of electronics, communication and computer science. We are involved in two directions;  [ExaHal] and [STICORS], supported by [Beyond RF]. 
 
 ### Mentorship
 

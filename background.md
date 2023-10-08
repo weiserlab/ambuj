@@ -8,7 +8,7 @@ is_contact: true
 ****
 
 
-# Brief Biography
+# Biography
 
 Ambuj Varshney, a Swedish citizen, is an Assistant Professor at the  National University of Singapore. Previously, he was a postdoctoral scholar at the [Department of EECS](https://eecs.berkeley.edu/) of the [University of California, Berkeley](https://www.berkeley.edu/). He was also a visiting researcher (three months) at the [Royal Institute of Technology (KTH)](https://kth.se). He completed his doctoral studies at [Uppsala University, Sweden](https://www.uu.se/en). As a PhD student, he was also closely associated with Swedish Institute of Computer Sciences (SICS) (Now called [RISE](http://ri.se)). And even before, he was a software engineer (firmware) at [NXP Semiconductors](https://www.nxp.com/). 
 

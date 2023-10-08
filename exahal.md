@@ -1,4 +1,4 @@
-# ExaHAL: Towards HAL-9000!
+# ExaHAL 
 
 ![ExaHAL in various scenarios](exahalbanner.png)  
 

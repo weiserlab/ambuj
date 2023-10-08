@@ -1,7 +1,6 @@
 # ExaHAL: Towards HAL-9000!
 
 ![ExaHAL in various scenarios](exahalbanner.png)  
-TBA
 
 ## Vision
 
@@ -19,8 +18,7 @@ TBA
 
 ## Application Scenarios
 
-![flexible form factor sensor](singaporeexahalroof.png)  
-
+TBA
 
 ## Students
 

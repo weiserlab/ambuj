@@ -21,7 +21,7 @@ TBA
 
 ## Application Scenarios
 
-![flexible form factor sensor](singaporeexahalroof)  
+![flexible form factor sensor](singaporeexahalroof.png)  
 
 
 ## Students

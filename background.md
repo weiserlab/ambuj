@@ -24,26 +24,5 @@ You can also read more about me here: (ABB Featured artice)[(English)](https://n
 </div>
 
 
-# Timeline 
-
-## 2022 - Onwards
-
-## 2020 - 2022
-
-## 2012-2020
-
-## 2010-2012s
-
-## 2000-2010s
-
-In 2000-2001, I contributed to the IndLinux project and translated many applications to Hindi. 
-
-After finishing high school, I created and maintained a popular Linux blog that was ranked in the top 10 in its genre. I used the revenue from advertisements (Google Adsense)  to partially fund my undergraduate education.  
-
-## Before 2000's
-
-I was born and grew up in Rourkela, a city in the eastern part of India, Orissa. In 1992, I got my first computer, an IBM PC XT that ran at 4.77 MHz. We were one of the first family in the city to have a personal computer! I spent my early years playing games but also learned programming languages like C/Basic and Pascal as a teenager. Since 1998, I have been an active supporter of the free and open-source software movement, with a particular interest in GNU/Linux.
-
-
 
 

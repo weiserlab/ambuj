@@ -4,11 +4,9 @@ is_contact: true
 ---
 ## Previous students
 
-I take pride in working with students from diverse backgrounds, creating an inclusive environment that values diversity and equal opportunities for everyone. In my academic experience, I have had the pleasure of mentoring a diverse group of students from more than 11 nationalities, including those identifying as transfeminine non-binary.
-
 ![Previous students](students.png)  
 
-Previous students:
+Previous Students:
 
 1. [Qiao Yukai (2022 - 2023)]()  [Masters program, National University of Singapore]  →  State Grid Corporation of China
   * Project/Thesis Title: Collecting, Analyzing and Visualising Data from Battery-free Internet of Things
@@ -27,10 +25,9 @@ Previous students:
 1.  [Simon Olofsson (2015)](https://www.doc.ic.ac.uk/~so2015/)[Research assistant] → Imperial College London PhD → Facebook/Meta, London, UK
   * Project title: [Convergecast using Electronically Steerable Directional Antennas](https://dl.acm.org/doi/10.1145/3465219)
 
-
 Visiting Students:
 
-**Undegraduate:**
+**Undergraduates:**
 
 1. [Adithya Bijoy]()(From: CSE UG@Indian Institute of Technology, Delhi)(Visiting undergraduate student)
 * Project Title: Oppurtunistic Network support for Backscatter Sensors
@@ -55,7 +52,7 @@ Visiting Students:
 
 Collaborated with the following students:
 
-1. [Lorenzo Corneo (Uppsala University)](https://lorenzocorneo.github.io/) → Aalto University → Ericsson Research, Helsinki, Finland
+1. [Lorenzo Corneo (Uppsala University)](https://lorenzocorneo.github.io/) 
 1. [Wenqing Yan (Uppsala University)](https://wenqingyan.github.io/)
-1. [Ander Galisteo (UC3M/IMDEA Networks)](https://andergalisteo.com/) → DoJo Five, Madrid, Spain
-1. [Revathy Narayanan (Postdoc scholar, KTH, Sweden)](https://sites.google.com/view/revathy-narayanan/home)  → Ericsson Research, Stockholm, Sweden
+1. [Ander Galisteo (UC3M/IMDEA Networks)](https://andergalisteo.com/) 
+1. [Revathy Narayanan (Postdoc scholar, KTH, Sweden)](https://sites.google.com/view/revathy-narayanan/home)  

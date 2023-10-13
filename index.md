@@ -106,7 +106,7 @@ The Twenty-fourth International Workshop on Mobile Computing Systems and Applica
 
 1. [Beyond Broadcasting: Revisiting FM Frequency-band for Providing Connectivity to Next Billion Devices]()  
 Authors: Rajashekar Reddy Chinthalapani, Manoj Gulati, *Ambuj Varshney*  
-The 11th International Workshop on Energy Harvesting and Energy-Neutral Sensing Systems (ACM ENSsys 2023) (Co-located with ACM SenSys)  
+The Eleventh International Workshop on Energy Harvesting and Energy-Neutral Sensing Systems (ACM ENSsys 2023) (Co-located with ACM SenSys)  
 
 1. [Rethinking Embedded Sensor Data Processing and Analysis with Large Language Models: Poster Abstract]()  
 Authors: Pramuka Medaranga, Steven Waskito, Li Kunjun, Leow Kai Jie, Shantanu Chakrabarty, *Ambuj Varshney*  

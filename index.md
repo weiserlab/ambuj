@@ -104,6 +104,10 @@ These are only a selected list of publications. A detailed enumeration of my pub
 Authors: Muhammad Sarmad Mir, Wenqing Yan, Prabal Dutta, Domenico Giustiniano, and *Ambuj Varshney*  
 The Twenty-fourth International Workshop on Mobile Computing Systems and Applications (ACM HotMobile)  2023   
 
+1. [Beyond Broadcasting: Revisiting FM Frequency-band for Providing Connectivity to Next Billion Devices]()
+Authors: Rajashekar Reddy Chinthalapani, Manoj Gulati, **Ambuj Varshney**
+The 11th International Workshop on Energy Harvesting and Energy-Neutral Sensing Systems (ENSsys 2023) (Co-located with ACM SenSys)
+
 1. [Rethinking Embedded Sensor Data Processing and Analysis with Large Language Models: Poster Abstract]()  
 Authors: Pramuka Medaranga, Steven Waskito, Li Kunjun, Leow Kai Jie, Shantanu Chakrabarty, *Ambuj Varshney*  
 The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys) 2023  

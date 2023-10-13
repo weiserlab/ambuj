@@ -105,8 +105,8 @@ Authors: Muhammad Sarmad Mir, Wenqing Yan, Prabal Dutta, Domenico Giustiniano, a
 The Twenty-fourth International Workshop on Mobile Computing Systems and Applications (ACM HotMobile)  2023   
 
 1. [Beyond Broadcasting: Revisiting FM Frequency-band for Providing Connectivity to Next Billion Devices]()
-Authors: Rajashekar Reddy Chinthalapani, Manoj Gulati, **Ambuj Varshney**
-The 11th International Workshop on Energy Harvesting and Energy-Neutral Sensing Systems (ENSsys 2023) (Co-located with ACM SenSys)
+Authors: Rajashekar Reddy Chinthalapani, Manoj Gulati, Ambuj Varshney*  
+The 11th International Workshop on Energy Harvesting and Energy-Neutral Sensing Systems (ENSsys 2023) (Co-located with ACM SenSys)  
 
 1. [Rethinking Embedded Sensor Data Processing and Analysis with Large Language Models: Poster Abstract]()  
 Authors: Pramuka Medaranga, Steven Waskito, Li Kunjun, Leow Kai Jie, Shantanu Chakrabarty, *Ambuj Varshney*  
@@ -122,7 +122,6 @@ Authors: Moteen Shah, Adithya Bijoy, Manoj Gulati, Wenqing Yan, *Ambuj Varshney*
 The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023  
 <span style="color:red"> **Selected as an entry for the Student Research Competition**</span>  
 <span style="color:red"> **WINNER (Undergraduate) at the ACM Student Research Competition**</span>  
-
 
 1. [Otter: Simplifying Embedded Sensor Data Collection and Analysis using Large Language Models: Poster]()  
 Steven Waskito, Kai Jie Leow, Pramuka, Tejas Gupta, Shantanu Chakrabarty, Manoj Gulati, *Ambuj Varshney*  

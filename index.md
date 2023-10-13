@@ -104,9 +104,9 @@ These are only a selected list of publications. A detailed enumeration of my pub
 Authors: Muhammad Sarmad Mir, Wenqing Yan, Prabal Dutta, Domenico Giustiniano, and *Ambuj Varshney*  
 The Twenty-fourth International Workshop on Mobile Computing Systems and Applications (ACM HotMobile)  2023   
 
-1. [Beyond Broadcasting: Revisiting FM Frequency-band for Providing Connectivity to Next Billion Devices]()
-Authors: Rajashekar Reddy Chinthalapani, Manoj Gulati, Ambuj Varshney*  
-The 11th International Workshop on Energy Harvesting and Energy-Neutral Sensing Systems (ENSsys 2023) (Co-located with ACM SenSys)  
+1. [Beyond Broadcasting: Revisiting FM Frequency-band for Providing Connectivity to Next Billion Devices]()  
+Authors: Rajashekar Reddy Chinthalapani, Manoj Gulati, *Ambuj Varshney*  
+The 11th International Workshop on Energy Harvesting and Energy-Neutral Sensing Systems (ACM ENSsys 2023) (Co-located with ACM SenSys)  
 
 1. [Rethinking Embedded Sensor Data Processing and Analysis with Large Language Models: Poster Abstract]()  
 Authors: Pramuka Medaranga, Steven Waskito, Li Kunjun, Leow Kai Jie, Shantanu Chakrabarty, *Ambuj Varshney*  
@@ -124,7 +124,7 @@ The Twenty Ninth Annual International Conference On Mobile Computing And Network
 <span style="color:red"> **WINNER (Undergraduate) at the ACM Student Research Competition**</span>  
 
 1. [Otter: Simplifying Embedded Sensor Data Collection and Analysis using Large Language Models: Poster]()  
-Steven Waskito, Kai Jie Leow, Pramuka, Tejas Gupta, Shantanu Chakrabarty, Manoj Gulati, *Ambuj Varshney*  
+Authors: Steven Waskito, Kai Jie Leow, Pramuka, Tejas Gupta, Shantanu Chakrabarty, Manoj Gulati, *Ambuj Varshney*  
 The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023  
 <span style="color:red"> **Selected as an entry for the Student Research Competition**</span>
 

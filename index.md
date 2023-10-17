@@ -40,7 +40,8 @@ You can also find a list of my previously mentored students [here](https://weise
 
 **Predoctoral scholars**
 
-TBA
+1. Dhairya Jigar Shah
+
 
 **Masters**
 1. [Yusril Izza (2023 -)]() [Masters program, National University of Singapore]

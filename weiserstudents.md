@@ -4,7 +4,7 @@ is_contact: true
 ---
 ## WEISER Group Members (Undergraduates and Visting students)
 
-These are the current group members. For a list of former members of the group, please check this link.
+These are the current group members. For a list of former members of the group, please check [here](https://weiserlab.github.io/ambuj/previoustudent).
 
 ### Undergraduates
 

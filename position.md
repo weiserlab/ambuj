@@ -56,6 +56,7 @@ You should send an email indicating which project you are interested in, your CV
 
 ----
 ## National University of Singapore 
+
 The National University of Singapore is consistently ranked among the top universities in the world, with its computer science department being particularly well-regarded. However, it is important to approach rankings with a high degree of skepticism and to make a reasoned assessment of the best choice for your career. It is important to consider factors beyond just rankings when making decisions about your education and career.
 
 | Ranking  | SoC/NUS Position Globally (2022) |

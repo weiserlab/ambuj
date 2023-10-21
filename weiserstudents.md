@@ -2,9 +2,19 @@
 layout: default
 is_contact: true
 ---
-## WEISER Group Members (Undergraduates and Visting students)
+## WEISER Group Members (Masters, undergraduates and visiting students)
 
 These are the current group members. For a list of former members of the group, please check [here](https://weiserlab.github.io/ambuj/previoustudent).
+
+### Master's student
+
+1. [Yusril Izza (2023 -)]() [Masters program, National University of Singapore]
+  * Project/Thesis Title: Data Storage on IoT Devices 
+1. [Goh Sheen An (2023 -)]() [Masters program, National University of Singapore]
+  * Project/Thesis Title: Integration of Embedded Wireless Microphones with Open AI Whisper System  
+1. [Lim Soon Lee (2023 -)]()  [Masters program, National University of Singapore]  
+  * Project/Thesis Title: Fabricating Sticker Form-Factor Sensors
+
 
 ### Undergraduates
 

@@ -42,15 +42,6 @@ You can also find a list of my previously mentored students [here](https://weise
 
 1. Dhairya Jigar Shah
 
-
-**Masters**
-1. [Yusril Izza (2023 -)]() [Masters program, National University of Singapore]
-  * Project/Thesis Title: Data Storage on IoT Devices 
-1. [Goh Sheen An (2023 -)]() [Masters program, National University of Singapore]
-  * Project/Thesis Title: Integration of Embedded Wireless Microphones with Open AI Whisper System  
-1. [Lim Soon Lee (2023 -)]()  [Masters program, National University of Singapore]  
-  * Project/Thesis Title: Fabricating Sticker Form-Factor Sensors
-
 **Undergraduates, Visiting students**
 
 We work with amazing cohort of undergraduates and visiting students. You can find more about them [here](https://weiserlab.github.io/ambuj/weiserstudents).  

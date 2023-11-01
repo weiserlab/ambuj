@@ -198,7 +198,7 @@ The Seventeenth ACM/IEEE Conference on Information Processing in Sensor Networks
 1. [LoRea: A Backscatter Architecture that Achieves a Long Communication Range](https://dl.acm.org/doi/10.1145/3131672.3131691)  
 Authors: *Ambuj Varshney*, Oliver Harms, Carlos Penichet, Christian Rohner , Frederik Hermans, Thiemo Voigt  
 Fifteenth ACM Conference on Embedded Networked Sensor Systems (ACM SENSYS 2017)  
-<span style="color:red">**2019 ABB Research Award Winner**</span>
+<span style="color:red">**Fundamental part of Winning contribution to 2019 ABB Research Award in Honour of HvG**</span>
 
 2. [Battery-free Visible Light Sensing](https://dl.acm.org/doi/abs/10.1145/3129881.3129890)  
 Authors: *Ambuj Varshney*, Andreas Soleiman, Luca Mottola, Thiemo Voigt  

@@ -11,7 +11,7 @@ We are a group of students, engineers, and researchers who build **REAL** system
 
 We are a wold-leading group with numerous awards, and group's scientific findings are consistently published at leading venues, such as ACM MobiSys, MobiCom, SenSys, HotNets, HotMobile, and IPSN. We are well-funded, connected to other groups (like UC Berkeley via Lab 11), and corporations (such as NCS and previously with ABB). 
 
-We would like to work with students and scholars with a strong engineering background with experience in one or more of the following areas:  
+We would like to work with scholars with a strong engineering background with interests roughly in following areas:  
 
 * Embedded systems (such as programming microcontrollers and FPGAs)
 * Previous experience with interfacing sensors and actuators
@@ -24,7 +24,7 @@ We would like to work with students and scholars with a strong engineering backg
 * Wireless tesbeds, software defined radios
 * Language models, and other such buzzwords!
 
-We value curiosity, creativity, diligence, and a passion for engineering real-world systems, conducting experiments and motivation for learning. 
+We value curiosity, creativity, diligence, and a passion for engineering real-world systems. 
 
 ## Open Positions 
 

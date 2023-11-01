@@ -7,11 +7,11 @@ is_contact: true
 
 # WEISER Group at National University of Singapore
 
-We are a group of students, engineers, and researchers interested in wireless, embedded systems, intelligence, sensing, and emerging technologies in real world (WEISER).  We build **REAL** systems and  operate at the intersection of electronics, communication, and computer science. Hence, engineering systems is an important part of our activity. 
+We are a group of students, engineers, and researchers interested in wireless, embedded systems, intelligence, sensing, and emerging technologies (WEISER).  We build **REAL** systems and  commonly operate at the intersection of electronics, communication, and computer science. Hence, engineering systems is an important part of our activity. 
 
-We are a wold-leading group with numerous awards, with group's scientific findings consistently published at leading venues, such as ACM MobiSys, ACM MobiCom, ACM SenSys, ACM HotNets, ACM HotMobile, and ACM/IEEE IPSN. We are well-funded, connected to other groups (like UC Berkeley via Lab 11), and corporations (such as NCS and previously with ABB). 
+We are a wold-leading group with numerous awards, and group's scientific findings are consistently published at leading venues, such as ACM MobiSys, MobiCom, SenSys, HotNets, HotMobile, and IPSN. We are well-funded, connected to other groups (like UC Berkeley via Lab 11), and corporations (such as NCS and previously with ABB). 
 
-We are looking for students and scholars with a strong engineering background, ideally with experience in one or more of the following areas:  
+We would like to work with students and scholars with a strong engineering background with experience in one or more of the following areas:  
 
 * Embedded systems (such as programming microcontrollers and FPGAs)
 * Previous experience with interfacing sensors and actuators
@@ -22,8 +22,9 @@ We are looking for students and scholars with a strong engineering background, i
 * 3D Printing, PCB Design and assembly
 * IC Design, fabrication of chips
 * Wireless tesbeds, software defined radios
+* Language models, and other such buzzwords!
 
-**NOTE:** An experience in one or more of the aforementioned areas is beneficial, it is not a prerequisite. We value curiosity, creativity, diligence, and a passion for conducting experiments and learning. 
+We value curiosity, creativity, diligence, and a passion for engineering real-world systems, conducting experiments and motivation for learning. 
 
 ## Open Positions 
 
@@ -39,16 +40,16 @@ You should send an email indicating which project you are interested in, your CV
 
 **Please note:** Even though GRE is part of the admission requirement. We may consider some applications despite not having a GRE score. Hence, please consider applying to the program even if you don't have a GRE score.
 
-### Please note the deadline for PhD application: 15th June 2023
+### Please note the deadline for PhD application: 15th December 2023
 
 ----
 ## Regarding Positions
 
-**Research Assistant:** Scholars without a PhD degree may apply for these positions. Typically, this means having bachelor's/master's degrees. This position enables scholars to conduct quality research, and decide if they would want to pursue PhD studies. This research experience allows scholars to be more competitive for applications for PhD studies at leading universities. Typical salary: 5500 SGD/month
+**Research Assistant:** Individuals without a PhD degree are welcome to apply for these positions, typically holding a bachelor's or master's degree. These positions allow scholars to engage in quality research and ascertain whether they wish to pursue PhD studies with us. Primarily, these positions assess a student's suitability for a doctoral position. Consequently, we are exceedingly selective about these positions and prioritize candidates who demonstrate a strong interest in pursuing doctoral studies within our group.  Typical salary: 5500 SGD/month 
 
-**Research Scientist:** These positions are for scholars who have recently graduated with a PhD degree in areas such as electronics, communication and computer science. They are fully funded position that are equivalent to being a postdoctoral scholar. Typical salary: above 8000 SGD/month based on qualification and merit.
+**Research Fellow:** These positions are for scholars who have recently graduated with a PhD degree in areas such as electronics, communication and computer science. Typical salary: above 8000 SGD/month 
 
-**Visiting students:** These positions are for scholars who are enrolled in an university to visit us for internships. Typical stipend ranges from 1800 SGD to 2200 SGD. 
+**Visiting Interns:** These positions cater to scholars from other universities looking to join us for internship. We prioritize students keen on conducting high-quality research and harbouring aspirations for higher studies. The typical stipend ranges from 1800 SGD to 2200 SGD.
 
 ----
 
@@ -56,6 +57,8 @@ You should send an email indicating which project you are interested in, your CV
 ## Where are we located 
 
 We are located at the Systems and Networking lab in the new [computer science building Computing 3(COM3)](https://com3.comp.nus.edu.sg/).
+
+----
 
 ## National University of Singapore 
 
@@ -72,6 +75,5 @@ The National University of Singapore is consistently ranked among the top univer
 ----
 ## Singapore 
 
-Singapore, an important financial and cultural center in Southeast Asia, offers a unique mix of Eastern and Western influences. Known for its high per capita income, quality of life, and progressive immigration policies, it is a multicultural society that values merit. Its strong connections to major global hubs via direct flights make it accessible. Salaries in Singapore, including those in academia, are among the highest globally, and the tax rate is low. The city is also home to a thriving startup scene and several major corporations, providing plenty of career opportunities for graduating students and preparing them for global opportunities.
-
+Singapore, a significant financial and cultural hub in Southeast Asia, presents a distinctive blend of Eastern and Western influences. Known for its high per capita income, superior quality of life, and progressive immigration policies, it is home to a multicultural population. Singapore's salaries, including those in the academic sector, are among the highest in the world. The city also hosts a flourishing startup ecosystem and numerous major corporations, offering abundant career prospects for graduating students.
 ----

@@ -127,7 +127,7 @@ Author: *Ambuj Varshney*
 ACM GetMobile: Mobile Computing and Communications (Maker Edition) 2022  
 <span style="color:red"> **Featured in editorial written by Landon Cox (Microsoft Research)**: [Editorial](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3551670)</span>
 
-2. [Judo: Addressing the Energy Asymmetry of Wireless Embedded Systems through Tunnel Diode based Wireless Transmitters](https://dl.acm.org/doi/abs/10.1145/3498361.3538923)  
+2. [Judo: Addressing the Energy Asymmetry of WES through Tunnel Diode based Wireless Transmitters](https://dl.acm.org/doi/abs/10.1145/3498361.3538923)  
 Authors: *Ambuj Varshney*, [Wenqing Yan](https://wenqingyan.github.io/), [Prabal Dutta](https://web.eecs.umich.edu/~prabal/)   
 The Twentieth ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2022)      
 * <span style="color:blue"> Teaser video: [Youtube](https://www.youtube.com/watch?v=X1H6UIdfKWQ)</span>

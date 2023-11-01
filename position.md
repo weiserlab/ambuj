@@ -9,10 +9,9 @@ is_contact: true
 
 We are a group of students, engineers, and researchers interested in wireless, embedded systems, intelligence, sensing, and emerging technologies in real world (WEISER).  We build **REAL** systems and  operate at the intersection of electronics, communication, and computer science. Hence, engineering systems is an important part of our groups activity. 
 
-We are a wold-leading group with numerous awards, and  group's scientific findings consistently published at leading venues in our field, such as ACM MobiSys, ACM MobiCom, ACM SenSys, ACM HotNets, ACM HotMobile, and ACM/IEEE IPSN. We are well-funded, connected to other groups (like UC Berkeley via Lab 11), and corporations (such as NCS and previously with ABB). 
+We are a wold-leading group with numerous awards, with group's scientific findings consistently published at leading venues in our field, such as ACM MobiSys, ACM MobiCom, ACM SenSys, ACM HotNets, ACM HotMobile, and ACM/IEEE IPSN. We are well-funded, connected to other groups (like UC Berkeley via Lab 11), and corporations (such as NCS and previously with ABB). 
 
-
-**Skills required:** We are looking for students and scholars with a strong engineering background, ideally with experience in one or more of the following areas:  
+We are looking for students and scholars with a strong engineering background, ideally with experience in one or more of the following areas:  
 
 * Embedded systems (such as programming microcontrollers and FPGAs)
 * Previous experience with interfacing sensors and actuators
@@ -24,9 +23,7 @@ We are a wold-leading group with numerous awards, and  group's scientific findin
 * IC Design, fabrication of chips
 * Wireless tesbeds, software defined radios
 
-**Please note:** While having experience in one or more of the aforementioned areas is beneficial, it is not a prerequisite. We value curiosity, creativity, diligence, and a passion for conducting experiments and learning. 
-
-We are located at the Systems and Networking lab in the new [computer science building Computing 3(COM3)](https://com3.comp.nus.edu.sg/).
+**NOTE:** An experience in one or more of the aforementioned areas is beneficial, it is not a prerequisite. We value curiosity, creativity, diligence, and a passion for conducting experiments and learning. 
 
 ## Open Positions 
 
@@ -54,6 +51,12 @@ You should send an email indicating which project you are interested in, your CV
 **Visiting students:** These positions are for scholars who are enrolled in an university to visit us for internships. Typical stipend ranges from 1800 SGD to 2200 SGD. 
 
 ----
+
+
+## Where are we located 
+
+We are located at the Systems and Networking lab in the new [computer science building Computing 3(COM3)](https://com3.comp.nus.edu.sg/).
+
 ## National University of Singapore 
 
 The National University of Singapore is consistently ranked among the top universities in the world, with its computer science department being particularly well-regarded. However, it is important to approach rankings with a high degree of skepticism and to make a reasoned assessment of the best choice for your career. It is important to consider factors beyond just rankings when making decisions about your education and career.

@@ -118,7 +118,7 @@ The Twenty Ninth Annual International Conference On Mobile Computing And Network
 1. [Otter: Simplifying Embedded Sensor Data Collection and Analysis using Large Language Models: Poster]()  
 Authors: Steven Waskito, Kai Jie Leow, Pramuka, Tejas Gupta, Shantanu Chakrabarty, Manoj Gulati, *Ambuj Varshney*  
 The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023  
-<span style="color:red"> **Selected as an entry for the Student Research Competition**</span>
+<span style="color:red"> **Third standing winner at the Student Research Competition**</span>
 
 
 ### Year 2022 

@@ -76,4 +76,5 @@ The National University of Singapore is consistently ranked among the top univer
 ## Singapore 
 
 Singapore, a significant financial and cultural hub in Southeast Asia, presents a distinctive blend of Eastern and Western influences. Known for its high per capita income, superior quality of life, and progressive immigration policies, it is home to a multicultural population. Singapore's salaries, including those in the academic sector, are among the highest in the world. The city also hosts a flourishing startup ecosystem and numerous major corporations, offering abundant career prospects for graduating students.
+
 ----

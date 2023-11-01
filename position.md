@@ -7,9 +7,10 @@ is_contact: true
 
 # WEISER Group at National University of Singapore
 
-We are a group of curious students, engineers, and researchers interested in wireless, embedded systems, intelligence, sensing, and emerging technologies in real world(WEISER).  We build **REAL** systems and frequently operate at the intersection of electronics, communication, and computer science. Hence, engineering systems is an important part of our groups activity and focus. We welcome students who have backgrounds in computer science, electronics, communication, and related fields. Our  group's scientific findings are consistently published at leading venues in our field, such as ACM MobiSys, ACM MobiCom, ACM SenSys, ACM HotNets, ACM HotMobile, and ACM/IEEE IPSN. Additionally, we are well-funded, connected to other prestigious groups at top universities (like UC Berkeley via Lab 11), and corporations worldwide (such as NCS, Huawei through ARTIC, and previously with ABB). We have received  awards and grants from the industry, complemented by extensive media coverage across the globe.
+We are a group of students, engineers, and researchers interested in wireless, embedded systems, intelligence, sensing, and emerging technologies in real world (WEISER).  We build **REAL** systems and  operate at the intersection of electronics, communication, and computer science. Hence, engineering systems is an important part of our groups activity. 
 
-We are establishing a world-leading group in the areas of embedded systems, wireless communications, and mobile computing. We are seeking ambitious students and researchers for the following positions:
+We are a wold-leading group with numerous awards, and  group's scientific findings consistently published at leading venues in our field, such as ACM MobiSys, ACM MobiCom, ACM SenSys, ACM HotNets, ACM HotMobile, and ACM/IEEE IPSN. We are well-funded, connected to other groups (like UC Berkeley via Lab 11), and corporations (such as NCS and previously with ABB). 
+
 
 **Skills required:** We are looking for students and scholars with a strong engineering background, ideally with experience in one or more of the following areas:  
 
@@ -23,11 +24,9 @@ We are establishing a world-leading group in the areas of embedded systems, wire
 * IC Design, fabrication of chips
 * Wireless tesbeds, software defined radios
 
-**Please note:** While having experience in one or more of the aforementioned areas is beneficial, it is not a prerequisite. Above all, we value curiosity, creativity, diligence, and a passion for conducting experiments and learning. We stand ready to guide individuals who demonstrate an eagerness to learn and contribute to our research endeavors.
+**Please note:** While having experience in one or more of the aforementioned areas is beneficial, it is not a prerequisite. We value curiosity, creativity, diligence, and a passion for conducting experiments and learning. 
 
 We are located at the Systems and Networking lab in the new [computer science building Computing 3(COM3)](https://com3.comp.nus.edu.sg/).
-
-**We also are egaer to host students currently enrolled in bachelor's, master's, and other programs for internships!**
 
 ## Open Positions 
 

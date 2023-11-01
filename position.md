@@ -5,9 +5,9 @@ is_contact: true
 ----
 ****
 
-# WEISER Group at National University of Singapore
+# Wireless, Embedded systems, Intelligence, Sensing, and Emerging technologies (WEISER) Group
 
-We are a group of students, engineers, and researchers interested in wireless, embedded systems, intelligence, sensing, and emerging technologies (WEISER).  We build **REAL** systems and  commonly operate at the intersection of electronics, communication, and computer science. Hence, engineering systems is an important part of our activity. 
+We are a group of students, engineers, and researchers who build **REAL** systems and  commonly operate at the intersection of electronics, communication, and computer science. Engineering systems is an important part of our group's activity. 
 
 We are a wold-leading group with numerous awards, and group's scientific findings are consistently published at leading venues, such as ACM MobiSys, MobiCom, SenSys, HotNets, HotMobile, and IPSN. We are well-funded, connected to other groups (like UC Berkeley via Lab 11), and corporations (such as NCS and previously with ABB). 
 

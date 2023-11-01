@@ -56,7 +56,7 @@ You should send an email indicating which project you are interested in, your CV
 
 ## Where are we located 
 
-We are located at the Systems and Networking lab in the new [computer science building Computing 3(COM3)](https://com3.comp.nus.edu.sg/).
+We are located at the Systems and Networking lab in the  computer science building Computing 3(COM3).
 
 ----
 

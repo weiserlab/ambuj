@@ -51,5 +51,3 @@ These are the current group members. For a list of former members of the group, 
 
 1. [Raghav Khandelwal]()(From: BITS Pilani)(Visiting undergraduate student)
 * Project Title: Detecting sensor anamoly onboard using large language models
-1. [Yuvraj Singh Bhanduria]()(From: BITS Pilani (Goa))(Visiting undergraduate student)
-* Project Title: Sensing using tunnel diodes

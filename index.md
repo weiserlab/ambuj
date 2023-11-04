@@ -33,12 +33,12 @@ You can also find a list of my previously mentored students [here](https://weise
 
 1. [Manoj Gulati](https://lab-14.github.io/) 
 
-**Doctoral students**
+**Doctoral scholars**
 
 1. Pramuka Sooriyapatabandige 
 1. Rajashekar Reddy
 
-**Longterm predoctoral scholars**
+**Longterm scholars**
 
 1. Dhairya Jigar Shah
 1. [Yuvraj Singh Bhanduria](https://uvrajsb.github.io/YuvrajSBhadauria.github.io/)
@@ -113,12 +113,12 @@ The Twenty First ACM International Conference on Mobile Systems, Applications, a
 1. [Going Beyond Backscatter: Rethinking Low-Power Wireless Transmitters using Tunnel Diodes: Poster]()  
 Authors: Moteen Shah, Adithya Bijoy, Manoj Gulati, Wenqing Yan, *Ambuj Varshney*  
 The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023  
-<span style="color:red"> **WINNER (First place, Undergraduate) at the ACM Student Research Competition**</span>  
+<span style="color:red"> **[WINNER (First place, Undergraduate) at the ACM Student Research Competition](https://src.acm.org/winners/2024)**</span>  
 
 1. [Otter: Simplifying Embedded Sensor Data Collection and Analysis using Large Language Models: Poster]()  
 Authors: Steven Waskito, Kai Jie Leow, Pramuka, Tejas Gupta, Shantanu Chakrabarty, Manoj Gulati, *Ambuj Varshney*  
 The Twenty Ninth Annual International Conference On Mobile Computing And Networking (ACM MobiCom) 2023  
-<span style="color:red"> **WINNER (Third place, Undergraduate) at the ACM Student Research Competition**</span>
+<span style="color:red"> **[WINNER (Third place, Undergraduate) at the ACM Student Research Competition](https://src.acm.org/winners/2024)**</span>
 
 
 ### Year 2022 

@@ -108,7 +108,7 @@ The Twenty First ACM International Conference on Mobile Systems, Applications, a
 1. [An Educational Platform to Learn Radio Frequency Wireless Communication: Demo Abstract]()    
 Authors: Tobias Mages, Wenqing Yan, *Ambuj Varshney* , Christian Rohner    
 The Twenty First ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys) 2023  
-<span style="color:red"> **Best Demonstration Award**</span>
+<span style="color:red"> **Best Demonstration Award**</span> [(Featured on National University of Singapore website)](https://www.comp.nus.edu.sg/news/index-6.html?start=0#:~:text=18%20Jun%202023%20%E2%80%94%20Congratulations%20to,on%20Mobile%20Systems%2C%20Applications%2C%20and)
 
 1. [Going Beyond Backscatter: Rethinking Low-Power Wireless Transmitters using Tunnel Diodes: Poster]()  
 Authors: Moteen Shah, Adithya Bijoy, Manoj Gulati, Wenqing Yan, *Ambuj Varshney*  

@@ -7,11 +7,11 @@ is_contact: true
 
 # Wireless, Embedded systems, Intelligence, Sensing, and Emerging technologies (WEISER) Group
 
-We are a group of students, engineers, and researchers who build **REAL** systems and  commonly operate at the intersection of electronics, communication, and computer science. Engineering systems is an important part of our group's activity. 
+We are a group of ambitious students, engineers, and researchers focused on building real-world systems at the intersection of electronics, communication, and computer science. Engineering systems is a key part of our work.
 
-We are a wold-leading group with numerous awards, and group's scientific findings are consistently published at leading venues, such as ACM MobiSys, MobiCom, SenSys, HotNets, HotMobile, and IPSN. We are well-funded, connected to other groups (like UC Berkeley via Lab 11), and corporations (such as NCS and previously with ABB). 
+Our research group is a leader in the field of mobile computing and embedded systems, recognized with several awards. We consistently publish our scientific findings in top conferences like ACM MobiSys, MobiCom, SenSys, HotNets, HotMobile, and IPSN. We have strong funding and connections with other research groups, including UC Berkeley’s Lab 11, and with companies like NCS in Singapore and previously with ABB through 2019 ABB Research Award. 
 
-We would like to work with scholars with a strong engineering background with interests roughly in following areas:  
+We would like to work with scholars with a strong engineering background with interests in following areas:  
 
 * Embedded systems (such as programming microcontrollers and FPGAs)
 * Previous experience with interfacing sensors and actuators
@@ -24,26 +24,41 @@ We would like to work with scholars with a strong engineering background with in
 * Wireless tesbeds, software defined radios
 * Language models, and other such buzzwords!
 
-We value curiosity, creativity, diligence, and a passion for engineering real-world systems. 
+We value curiosity, creativity, diligence, and a passion for engineering real-world systems. We enjoy working with highly ambitious students. 
 
 ## Open Positions 
 
-TBA
+1. Research Fellow (1X)
+
+We are seeking scholars who are approaching the end of their PhD studies or are in the initial phase of a postdoctoral fellowship at another institution. We welcome ambitious individuals willing to commit to a 12-18 month tenure with us, aiming for a future in academia or research labs. Ideal candidates will have demonstrated excellence through peer-reviewed publications and recognitions at leading research venues in our area of expertise (SIGCOMM, MobiCom, NSDI, IMWUT, SenSys, IPSN, HotMobile).
+
+
+1. Research Assistant (1X)
+
+We are seeking research assistants who are enthusiastic about working on low-power sensing problems using embedded platforms. Additionally, we are interested in hiring students who are keen on working with robots and language models. Our priority is scholars who aim to pursue PhD studies and view a Research Assistantship as an opportunity for exposure to high-quality research.
+
+
+1. PhD Students (2X)
+
+We are seeking two doctoral students with a general interest in designing sustainable wireless embedded systems. This involves the development of low-power systems for sensing, processing, and communication.  Our interests span from designing tiny computers that can operate on energy harvested from the environment to large language models. The PhD positions are fully funded for four years, providing students with the discretion to determine the direction of their study.
+
+1. Visiting Interns (5X)
+
+We welcome ambitious students who would like to visit our group. We offer competetive stipend. We prioritize students looking to spend at least six months working with us and who are inclined towards pursuing research as one of their career paths.
 
 ----
-## How to apply?
+## Applying
 
-You should send an email indicating which project you are interested in, your CV, and any other document that you think will make your profile stand out. Please send these documents to: [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg)
+Send an email with your CV, and any other document that you think will make your profile stand out. Please also send these documents to: [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg)
 
 **PhD admission:** PhD admission process at SoC@NUS is centralised. Thus, please apply for PhD position by following the instructions at the folowing page: [NUS PhD Admission Process](https://www.comp.nus.edu.sg/programmes/pg/phdcs/), [Application page](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/)  
 
-
 **Please note:** Even though GRE is part of the admission requirement. We may consider some applications despite not having a GRE score. Hence, please consider applying to the program even if you don't have a GRE score.
 
-### Please note the deadline for PhD application: 15th December 2023
+### Deadline for PhD application: 15th December 2023
 
 ----
-## Regarding Positions
+## Information
 
 **Research Assistant:** Individuals without a PhD degree are welcome to apply for these positions, typically holding a bachelor's or master's degree. These positions allow scholars to engage in quality research and ascertain whether they wish to pursue PhD studies with us. Primarily, these positions assess a student's suitability for a doctoral position. Consequently, we are exceedingly selective about these positions and prioritize candidates who demonstrate a strong interest in pursuing doctoral studies within our group.  Typical salary: 5500 SGD/month 
 
@@ -53,8 +68,7 @@ You should send an email indicating which project you are interested in, your CV
 
 ----
 
-
-## Where are we located 
+## Location 
 
 We are located at the Systems and Networking lab in the  computer science building Computing 3(COM3).
 
@@ -62,7 +76,7 @@ We are located at the Systems and Networking lab in the  computer science buildi
 
 ## National University of Singapore 
 
-The National University of Singapore is consistently ranked among the top universities in the world, with its computer science department being particularly well-regarded. However, it is important to approach rankings with a high degree of skepticism and to make a reasoned assessment of the best choice for your career. It is important to consider factors beyond just rankings when making decisions about your education and career.
+The National University of Singapore is consistently ranked among the top universities in the world, with its computer science department being particularly well-regarded. 
 
 | Ranking  | SoC/NUS Position Globally (2022) |
 |-------|--------|---------|
@@ -75,6 +89,6 @@ The National University of Singapore is consistently ranked among the top univer
 ----
 ## Singapore 
 
-Singapore, a significant financial and cultural hub in Southeast Asia, presents a distinctive blend of Eastern and Western influences. Known for its high per capita income, superior quality of life, and progressive immigration policies, it is home to a multicultural population. Singapore's salaries, including those in the academic sector, are among the highest in the world. The city also hosts a flourishing startup ecosystem and numerous major corporations, offering abundant career prospects for graduating students.
+Singapore, a  financial and cultural hub in Southeast Asia, presents a distinctive blend of Eastern and Western influences. The city  hosts a flourishing startup ecosystem, world-class universities, institutions and numerous corporations, offering abundant career prospects for scholars. 
 
 ----

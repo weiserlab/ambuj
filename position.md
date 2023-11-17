@@ -28,21 +28,21 @@ We value curiosity, creativity, diligence, and a passion for engineering real-wo
 
 ## Open Positions 
 
-1. Research Fellow (1X)
+### Research Fellow (1X)
 
 We are seeking scholars who are approaching the end of their PhD studies or are in the initial phase of a postdoctoral fellowship at another institution. We welcome ambitious individuals willing to commit to a 12-18 month tenure with us, aiming for a future in academia or research labs. Ideal candidates will have demonstrated excellence through peer-reviewed publications and recognitions at leading research venues in our area of expertise (SIGCOMM, MobiCom, NSDI, IMWUT, SenSys, IPSN, HotMobile).
 
 
-1. Research Assistant (1X)
+### Research Assistant (1X)
 
 We are seeking research assistants who are enthusiastic about working on low-power sensing problems using embedded platforms. Additionally, we are interested in hiring students who are keen on working with robots and language models. Our priority is scholars who aim to pursue PhD studies and view a Research Assistantship as an opportunity for exposure to high-quality research.
 
 
-1. PhD Students (2X)
+### PhD Students (2X)
 
 We are seeking two doctoral students with a general interest in designing sustainable wireless embedded systems. This involves the development of low-power systems for sensing, processing, and communication.  Our interests span from designing tiny computers that can operate on energy harvested from the environment to large language models. The PhD positions are fully funded for four years, providing students with the discretion to determine the direction of their study.
 
-1. Visiting Interns (5X)
+### Visiting Interns (5X)
 
 We welcome ambitious students who would like to visit our group. We offer competetive stipend. We prioritize students looking to spend at least six months working with us and who are inclined towards pursuing research as one of their career paths.
 

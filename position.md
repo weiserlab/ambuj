@@ -9,9 +9,9 @@ is_contact: true
 
 We are a group of ambitious students, engineers, and researchers focused on building real-world systems at the intersection of electronics, communication, and computer science. Engineering systems is a key part of our work.
 
-Our research group is a leader in the field of mobile computing and embedded systems, recognized with several awards. We consistently publish our scientific findings in top conferences like ACM MobiSys, MobiCom, SenSys, HotNets, HotMobile, and IPSN. We have strong funding and connections with other research groups, including UC Berkeley’s Lab 11, and with companies like NCS in Singapore and previously with ABB through 2019 ABB Research Award. 
+Our research group is a leader in the field of mobile computing and embedded systems, recognized with several awards. We consistently publish our scientific findings in flagship venues of the area, like ACM MobiSys, MobiCom, SenSys, HotNets, HotMobile, and IPSN. We are well-funded and connected with other  groups, including UC Berkeley’s Lab 11, and with companies like NCS in Singapore and previously with ABB through 2019 ABB Research Award. 
 
-We would like to work with scholars with a strong engineering background with interests in following areas:  
+We would like to work with scholars with interests in following areas:  
 
 * Embedded systems (such as programming microcontrollers and FPGAs)
 * Previous experience with interfacing sensors and actuators

@@ -80,6 +80,7 @@ Part of the technical program committee (TPC) of the following scientific confer
 * ACM/IEEE IoTDI: 2019, 2021 (Posters and demonstration), 2023 (Main conference)
 * ACM LP-IoT (MobiCom workshop): 2021, 2022  
 * IEEE PerFail: 2023, 2024
+* [FAILSAFE](http://wp.doc.ic.ac.uk/failsafe/): 2020
 
 Involved in reviewing of articles for the following journals:  
 

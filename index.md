@@ -42,6 +42,7 @@ You can also find a list of my previously mentored students [here](https://weise
 
 1. Dhairya Jigar Shah
 1. [Yuvraj Singh Bhanduria](https://uvrajsb.github.io/YuvrajSBhadauria.github.io/)
+1. [Wenqing Yan](PhD Student co-mentored at Uppsala University, Sweden)
 
 **Undergraduates, Visiting students**
 
@@ -77,6 +78,7 @@ Part of the technical program committee (TPC) of the following scientific confer
 * IEEE ICDCS: 2019, 2021  
 * ACM/IEEE IoTDI: 2019, 2021 (Posters and demonstration), 2023 (Main conference)
 * ACM LP-IoT (MobiCom workshop): 2021, 2022  
+* IEEE PerFail: 2023, 2024
 
 Involved in reviewing of articles for the following journals:  
 

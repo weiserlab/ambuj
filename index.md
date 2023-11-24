@@ -38,7 +38,7 @@ You can also find a list of my previously mentored students [here](https://weise
 1. Pramuka Sooriyapatabandige 
 1. Rajashekar Reddy
 
-**Longterm scholars**
+**Longterm mentored students**
 
 1. Dhairya Jigar Shah
 1. [Yuvraj Singh Bhanduria](https://uvrajsb.github.io/YuvrajSBhadauria.github.io/)

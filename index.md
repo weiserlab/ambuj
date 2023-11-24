@@ -37,7 +37,7 @@ You can also find a list of my previously mentored students [here](https://weise
 
 1. Pramuka Sooriyapatabandige 
 1. Rajashekar Reddy
-1. [Wenqing Yan](https://wenqingyan.github.io/)[PhD Student co-mentored at Uppsala University, Sweden]
+1. [Wenqing Yan](https://wenqingyan.github.io/)[PhD Student co-mentored at Uppsala University, Sweden][Visiting student at NUS]
 
 
 **Longterm mentored students**

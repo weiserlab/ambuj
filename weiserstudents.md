@@ -50,4 +50,4 @@ These are the current group members. For a list of former members of the group, 
 ### Visiting Students
 
 1. [Raghav Khandelwal]()(From: BITS Pilani)(Visiting undergraduate student)
-* Project Title: Detecting sensor anamoly onboard using large language models
+1. 1. [Yuvraj Singh Bhanduria](https://uvrajsb.github.io/YuvrajSBhadauria.github.io/)

@@ -37,13 +37,12 @@ You can also find a list of my previously mentored students [here](https://weise
 
 1. Pramuka Sooriyapatabandige 
 1. Rajashekar Reddy
-1. [Wenqing Yan](https://wenqingyan.github.io/) [Mentored and Visiting Doctoral Student from Uppsala University, Sweden]
+1. [Wenqing Yan](https://wenqingyan.github.io/)[Uppsala University, Sweden][Co-mentored and Visiting Doctoral Student]
 
 
 **Other scholars**
 
 1. Dhairya Jigar Shah
-1. [Yuvraj Singh Bhanduria](https://uvrajsb.github.io/YuvrajSBhadauria.github.io/)
 
 **Undergraduates, Visiting students**
 

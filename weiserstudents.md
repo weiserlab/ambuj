@@ -6,16 +6,6 @@ is_contact: true
 
 These are the current group members. For a list of former members of the group, please check [here](https://weiserlab.github.io/ambuj/previoustudent).
 
-### Master's student
-
-1. [Yusril Izza (2023 -)]() [Masters program, National University of Singapore]
-  * Project/Thesis Title: Data Storage on IoT Devices 
-1. [Goh Sheen An (2023 -)]() [Masters program, National University of Singapore]
-  * Project/Thesis Title: Integration of Embedded Wireless Microphones with Open AI Whisper System  
-1. [Lim Soon Lee (2023 -)]()  [Masters program, National University of Singapore]  
-  * Project/Thesis Title: Fabricating Sticker Form-Factor Sensors
-
-
 ### Undergraduates
 
 **(Under NSWS Scheme)**
@@ -50,4 +40,4 @@ These are the current group members. For a list of former members of the group, 
 ### Visiting Students
 
 1. [Raghav Khandelwal]()(From: BITS Pilani)(Visiting undergraduate student)
-1. 1. [Yuvraj Singh Bhanduria](https://uvrajsb.github.io/YuvrajSBhadauria.github.io/)
+1. [Yuvraj Singh Bhanduria](https://uvrajsb.github.io/YuvrajSBhadauria.github.io/)

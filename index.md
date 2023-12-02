@@ -74,6 +74,7 @@ Part of the technical program committee (TPC) of the following scientific confer
 
 * ACM SENSYS: 2023
 * IEEE INFOCOM: 2020 (e), 2021, 2022, 2023, 2024 
+* EWSN: 2024
 * IEEE DCOSS: 2021, 2022, 2023, 2024 
 * IEEE ICDCS: 2019, 2021  
 * ACM/IEEE IoTDI: 2019, 2021 (Posters and demonstration), 2023 (Main conference)

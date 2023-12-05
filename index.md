@@ -31,7 +31,7 @@ You can also find a list of my previously mentored students [here](https://weise
 
 **Postdoctoral scholars**
 
-1. [Manoj Gulati](https://lab-14.github.io/) 
+1. [Manoj Gulati](https://lab-14.github.io/)
 
 **Doctoral scholars**
 

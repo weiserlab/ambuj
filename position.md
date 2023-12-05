@@ -5,7 +5,7 @@ is_contact: true
 ----
 ****
 
-# Wireless, Embedded systems, Intelligence, Sensing, and Emerging technologies (WEISER) Group
+# Wireless, Embedded Systems, Intelligence, Sensing, and Emerging Technologies (WEISER) Group
 
 We are a group of ambitious students, engineers, and researchers focused on building real-world systems at the intersection of electronics, communication, and computer science. Engineering systems is a key part of our work.
 

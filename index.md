@@ -97,9 +97,9 @@ These are only a selected list of publications. A detailed enumeration of my pub
 
 ### Year 2024
 
-1. [LiFi for Low-Power and Long-Range RF Backscatter](). 
-Authors: Muhammad Sarmad, Borja Genoves, *Ambuj Varshney*, [Domenico Giustiniano](https://networks.imdea.org/team/imdea-networks-team/people/domenico-giustiniano/)  
-IEEE Transactions on Networking
+1. [LiFi for Low-Power and Long-Range RF Backscatter]()  
+Authors: Muhammad Sarmad, Borja Genoves, *Ambuj Varshney*, [Domenico Giustiniano](https://networks.imdea.org/team/imdea-networks-team/people/domenico-giustiniano/)    
+IEEE Transactions on Networking 2024 
 
 
 ### Year 2023

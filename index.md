@@ -95,6 +95,13 @@ Involved in reviewing of articles for the following journals:
 
 These are only a selected list of publications. A detailed enumeration of my published work can be found [here](https://weiserlab.github.io/ambuj/publications).
 
+### Year 2024
+
+1. [LiFi for Low-Power and Long-Range RF Backscatter](). 
+Authors: Muhammad Sarmad, Borja Genoves, *Ambuj Varshney*, [Domenico Giustiniano](https://networks.imdea.org/team/imdea-networks-team/people/domenico-giustiniano/)  
+IEEE Transactions on Networking
+
+
 ### Year 2023
 
 1. [TunnelLiFi: Bringing LiFi to Commodity Internet of Things Devices](https://ambuj.se/hotmobile2023.pdf)  

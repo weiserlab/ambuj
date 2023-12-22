@@ -33,8 +33,15 @@ Previous Students:
 
 Visiting Students:
 
+**NSWS:**
+
+1. [Steven Antya Orvala Waskito (2023 -)]()  [Undergraduate researcher, National University of Singapore]
+* Project Title: Language models, robots and wireless emebdded systems
+
 **Undergraduates:**
 
+1. [Raghav Khandelwal]()(From: BITS Pilani)(Visiting undergraduate student)
+* Project Title: Connecting Commodity IoT Devices to LLMs
 1. [Adithya Bijoy]()(From: CSE UG@Indian Institute of Technology, Delhi)(Visiting undergraduate student)
 * Project Title: Oppurtunistic Network support for Backscatter Sensors
 1. [Moteen Shah]()(From: EE UG@VJTI, Mumbai)(Visiting undergraduate student)

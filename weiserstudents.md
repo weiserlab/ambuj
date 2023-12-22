@@ -14,8 +14,6 @@ These are the current group members. For a list of former members of the group, 
 * Project Title: Language models, robots and wireless emebdded systems
 1. [Li Kunjun (2023 -)]() [Undergraduate researcher, National University of Singapore]
 * Project Title: Image models and wireless emebdded systems
-1. [Steven Antya Orvala Waskito (2023 -)]()  [Undergraduate researcher, National University of Singapore]
-* Project Title: Language models, robots and wireless emebdded systems
 1. [Charlyn Kwan Ting Yu (2023 -)]()[Undergraduate researcher, National University of Singapore]
 * Project Title: Exploring LIDARs
 
@@ -39,5 +37,4 @@ These are the current group members. For a list of former members of the group, 
 
 ### Visiting Students
 
-1. [Raghav Khandelwal]()(From: BITS Pilani)(Visiting undergraduate student)
 1. [Yuvraj Singh Bhanduria](https://uvrajsb.github.io/YuvrajSBhadauria.github.io/)

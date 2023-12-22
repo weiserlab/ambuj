@@ -38,7 +38,7 @@ Our group is involved in two major directions;  [ExaHal](https://weiserlab.githu
 1. [Wenqing Yan](https://wenqingyan.github.io/)[Uppsala University, Sweden][Co-supervised student]
 
 
-**Other scholars**
+**Research Assistant/Predoctoral scholar**
 
 1. Dhairya Jigar Shah
 

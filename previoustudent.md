@@ -8,6 +8,8 @@ is_contact: true
 
 Previous Students:
 
+1. [Steven Antya Orvala Waskito (2023 - 2023)]()  [Undergraduate researcher, National University of Singapore]
+* Project Title: Language models, robots and wireless emebdded systems
 1. [Yusril Izza (2023)]() [Masters program, National University of Singapore]
   * Project/Thesis Title: Data Storage on IoT Devices 
 1. [Goh Sheen An (2023)]() [Masters program, National University of Singapore]
@@ -32,11 +34,6 @@ Previous Students:
   * Project title: [Convergecast using Electronically Steerable Directional Antennas](https://dl.acm.org/doi/10.1145/3465219)
 
 Visiting Students:
-
-**NSWS:**
-
-1. [Steven Antya Orvala Waskito (2023 -)]()  [Undergraduate researcher, National University of Singapore]
-* Project Title: Language models, robots and wireless emebdded systems
 
 **Undergraduates:**
 
@@ -66,6 +63,5 @@ Visiting Students:
 Collaborated with the following students:
 
 1. [Lorenzo Corneo (Uppsala University)](https://lorenzocorneo.github.io/) 
-1. [Wenqing Yan (Uppsala University)](https://wenqingyan.github.io/)
 1. [Ander Galisteo (UC3M/IMDEA Networks)](https://andergalisteo.com/) 
 1. [Revathy Narayanan (Postdoc scholar, KTH, Sweden)](https://sites.google.com/view/revathy-narayanan/home)  

@@ -27,8 +27,6 @@ Our group is involved in two major directions;  [ExaHal](https://weiserlab.githu
 
 ### Mentorship
 
-You can also find a list of my previously mentored students [here](https://weiserlab.github.io/ambuj/previoustudent). 
-
 **Postdoctoral scholars**
 
 1. [Manoj Gulati](https://lab-14.github.io/)[PhD from IIIT Delhi and Researcher@University of Washington, Seattle]
@@ -44,7 +42,7 @@ You can also find a list of my previously mentored students [here](https://weise
 
 1. Dhairya Jigar Shah
 
-**Undergraduates, Visiting students**
+**Undergraduates, Visiting Students and Alumni**
 
 You can find more about them [here](https://weiserlab.github.io/ambuj/weiserstudents).  
 

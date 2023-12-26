@@ -36,14 +36,14 @@ We are seeking scholars who are approaching the end of their PhD studies or are 
 We are seeking research assistants who are enthusiastic about working on low-power sensing problems using embedded platforms. Additionally, we are interested in hiring students who are keen on working with robots and language models. Our priority is scholars who aim to pursue PhD studies and view a Research Assistantship as an opportunity for exposure to high-quality research.
 
 
-### Visiting Interns (10 X)
+### Visiting Interns (10X)
 
 We welcome ambitious students who would like to visit our group. We offer competetive stipend. We prioritize students looking to spend at least six months working with us and who are inclined towards pursuing research as one of their career paths.
 
 ----
 ## Applying
 
-Send an email with your CV, and any other document that you think will make your profile stand out. Please also send these documents to: [ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg)
+Send an email ([ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg)) with your CV, and any other document that you think will help your profile stand out. 
 
 ----
 ## Information

@@ -7,7 +7,7 @@ is_contact: true
 
 # Wireless, Embedded Systems, Intelligence, Sensing, and Emerging Technologies (WEISER) Group
 
-We are a group of ambitious students, engineers, and researchers focused on building real-world systems at the intersection of electronics, communication, and computer science.  Our group is a leader in the field of mobile computing and embedded systems, recognized with several awards. We consistently publish our scientific findings in flagship venues of the area, like ACM MobiSys, MobiCom, SenSys, HotNets, HotMobile, and IPSN. We are well-funded and connected with other  groups, including UC Berkeley’s Lab 11, and with companies like NCS in Singapore and previously with ABB through 2019 ABB Research Award. 
+We are a group of ambitious students, engineers, and researchers focused on building real-world systems at the intersection of electronics, communication, and computer science.  Our group is a leader in the field of mobile computing and embedded systems, recognized with several awards. We consistently publish our scientific findings in flagship venues of the area, like ACM MobiSys, MobiCom, SenSys, HotNets, HotMobile, and IPSN. We are well-funded and connected with other  groups, including UC Berkeley’s Lab 11, and with companies like NCS in Singapore and previously with ABB through 2019 ABB Research Award in Honor of Hubertus von Grünberg. 
 
 We would like to work with scholars with interests in following areas:  
 
@@ -22,9 +22,8 @@ We would like to work with scholars with interests in following areas:
 * Wireless tesbeds, software defined radios
 * Language models, and other such buzzwords!
 
-We value curiosity, creativity, diligence, and a passion for engineering real-world systems. We enjoy working with highly ambitious students. 
+We value curiosity, creativity, diligence, and a passion for engineering real-world systems. 
 
-## Open Positions 
 
 ### Research Fellow (1X)
 
@@ -33,17 +32,17 @@ We are seeking scholars who are approaching the end of their PhD studies or are 
 
 ### Research Assistant (1X)
 
-We are seeking research assistants who are enthusiastic about working on low-power sensing problems using embedded platforms. Additionally, we are interested in hiring students who are keen on working with robots and language models. Our priority is scholars who aim to pursue PhD studies and view a Research Assistantship as an opportunity for exposure to high-quality research.
+We are seeking research assistants who are enthusiastic about working on low-power sensing problems using embedded platforms. Additionally, we are interested in hiring students who are keen on working with robots and language models. 
 
 
 ### Visiting Interns (10X)
 
-We welcome ambitious students who would like to visit our group. We offer competetive stipend. We prioritize students looking to spend at least six months working with us and who are inclined towards pursuing research as one of their career paths.
+We welcome  students who would like to visit us. We prioritize students who would like to intern for at least six months and  are serious about   pursuing research as one of their career paths.
 
 ----
 ## Applying
 
-Send an email ([ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg)) with your CV, and any other document that you think will help your profile stand out. 
+Send an email ([ambujv@nus.edu.sg](mailto:ambujv@nus.edu.sg)) with your CV and transcript. 
 
 ----
 ## Information

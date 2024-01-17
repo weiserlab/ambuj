@@ -41,7 +41,7 @@ Some of my mentored students have defended their doctoral dissertation:
 [Wenqing Yan](https://wenqingyan.github.io/)[Uppsala University, Sweden][Co-supervised with Thiemo and Christian]
 * Dissertation title: [Design and Identification of Wireless Transmitters for a Low-power and Secure IoT](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1813461&dswid=7672)
 * Dissertation opponent: [Prof. Haitham Hassanieh (EPFL)](https://people.epfl.ch/haitham.alhassanieh/?lang=en)
-* Dissertation committee: [Prof. Niki Trigoni (Oxford University)](https://www.cs.ox.ac.uk/people/niki.trigoni/), [Prof. Danny Hughes (KU Leuven)](https://distrinet.cs.kuleuven.be/people/DannyHughes), [Prof. Mikael Stenard (Uppsala University)](http://www.signal.uu.se/Staff/ms/ms.html)
+* Committee: [Niki Trigoni (Oxford University)](https://www.cs.ox.ac.uk/people/niki.trigoni/), [Danny Hughes (KU Leuven)](https://distrinet.cs.kuleuven.be/people/DannyHughes), [Mikael Stenard (Uppsala University)](http://www.signal.uu.se/Staff/ms/ms.html)
 
 **Research Assistant/Predoctoral scholar**
 

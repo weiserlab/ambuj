@@ -75,7 +75,7 @@ Involved in the organizational role of the following events:
 
 Part of the technical program committee (TPC) of the following scientific conferences:  
 
-* ACM SENSYS: 2023
+* ACM SENSYS: 2023, 2024
 * ACM IMC: 2024
 * IEEE INFOCOM: 2020 (e), 2021, 2022, 2023, 2024 
 * EWSN: 2024
